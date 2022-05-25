@@ -1,0 +1,103 @@
+2020-09-02 19:54:17 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 19:54:20 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 19:54:22 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 19:54:29 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599093839
+    [ponencia] => 1JFO
+    [id_documento] => 3612
+    [tipo_documento] => pdf
+)
+2020-09-02 19:54:37 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599093839
+    [id_juicio] => 1578508855890
+    [codigo_organo] => 1JFO
+)
+2020-09-02 19:54:42 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599093839
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1JFO
+    [modal_ultima_version] => 3612
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578508855890
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpkfdDoR
+            [fileName:SplFileInfo:private] => phpkfdDoR
+        )
+
+)
+2020-09-02 19:59:27 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:04:32 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:08:02 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:08:08 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [estatus] => firmar
+)
+2020-09-02 20:08:08 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:15:20 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:20:26 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:23:56 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:24:02 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# As User: www-data HOME=/var/www 
+
+touch -d '7 days ago' /dev/shm/to_pdfold
+find /files/porfirmar /files/firmados -type f ! -newer /dev/shm/to_pdfold -name '*.pdf' -delete -print
+rm  /dev/shm/to_pdfold

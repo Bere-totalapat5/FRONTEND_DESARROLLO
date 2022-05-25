@@ -1,0 +1,711 @@
+2020-09-07 22:40:07 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 22:40:12 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 22:40:16 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 22:40:24 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599536387
+    [id_juicio] => 1599536232
+    [codigo_organo] => 200PIC
+)
+2020-09-07 22:40:32 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599536387
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3707
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1599536232
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpE4sgAX
+            [fileName:SplFileInfo:private] => phpE4sgAX
+        )
+
+)
+2020-09-07 22:48:04 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 22:48:06 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 22:48:08 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 22:48:15 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599536869
+    [id_juicio] => 1599536232
+    [codigo_organo] => 200PIC
+)
+2020-09-07 22:48:19 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599536869
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3712
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1599536232
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpB8M1Ac
+            [fileName:SplFileInfo:private] => phpB8M1Ac
+        )
+
+)
+2020-09-07 22:58:50 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 22:58:52 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 22:58:54 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 22:59:01 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599537516
+    [id_juicio] => 1599536232
+    [codigo_organo] => 200PIC
+)
+2020-09-07 22:59:07 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599537516
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3717
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1599536232
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpwFv43w
+            [fileName:SplFileInfo:private] => phpwFv43w
+        )
+
+)
+2020-09-07 23:13:47 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 23:13:48 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 23:13:55 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599538407
+    [id_juicio] => 1599536232
+    [codigo_organo] => 200PIC
+)
+2020-09-07 23:14:01 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599538407
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3722
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1599536232
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpRkjG9L
+            [fileName:SplFileInfo:private] => phpRkjG9L
+        )
+
+)
+2020-09-07 23:25:41 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 23:25:48 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-07 23:25:54 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey/cargarMinisterioLey	
+Array
+(
+    [id_ministerio] => 0
+)
+2020-09-07 23:26:02 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey/guardarMinisterioLey	
+Array
+(
+    [id_ministerio] => 0
+    [por_id] => 1598756046
+    [fecha_inicial] => 2020-09-07
+    [fecha_hasta] => 2020-09-07
+    [activo] => 1
+)
+2020-09-07 23:35:41 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 23:35:45 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 23:35:49 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-07 23:35:57 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey/cargarMinisterioLey	
+Array
+(
+    [id_ministerio] => 15
+)
+2020-09-07 23:36:02 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey/guardarMinisterioLey	
+Array
+(
+    [id_ministerio] => 15
+    [por_id] => 1598756046
+    [fecha_inicial] => 2020-09-07
+    [fecha_hasta] => 2020-09-07
+)
+2020-09-07 23:36:05 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-07 23:36:15 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-07 23:36:24 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1598756573
+)
+2020-09-07 23:36:30 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272378
+    [activo] => 0
+)
+2020-09-07 23:36:33 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272389
+    [activo] => 0
+)
+2020-09-07 23:36:33 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272399
+    [activo] => 0
+)
+2020-09-07 23:36:34 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272379
+    [activo] => 0
+)
+2020-09-07 23:36:34 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272397
+    [activo] => 0
+)
+2020-09-07 23:36:36 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272388
+    [activo] => 0
+)
+2020-09-07 23:36:37 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272380
+    [activo] => 0
+)
+2020-09-07 23:36:38 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272381
+    [activo] => 0
+)
+2020-09-07 23:36:39 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272382
+    [activo] => 0
+)
+2020-09-07 23:36:39 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5273470
+    [activo] => 0
+)
+2020-09-07 23:36:40 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5273473
+    [activo] => 0
+)
+2020-09-07 23:36:41 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5273472
+    [activo] => 0
+)
+2020-09-07 23:36:42 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5273471
+    [activo] => 0
+)
+2020-09-07 23:36:42 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5273474
+    [activo] => 0
+)
+2020-09-07 23:36:44 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272490
+    [activo] => 0
+)
+2020-09-07 23:36:45 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272491
+    [activo] => 0
+)
+2020-09-07 23:36:50 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272505
+    [activo] => 0
+)
+2020-09-07 23:36:50 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5273475
+    [activo] => 0
+)
+2020-09-07 23:36:56 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272490
+    [activo] => 1
+)
+2020-09-07 23:36:56 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272491
+    [activo] => 1
+)
+2020-09-07 23:36:57 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272505
+    [activo] => 1
+)
+2020-09-07 23:36:59 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272390
+    [activo] => 0
+)
+2020-09-07 23:37:00 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272383
+    [activo] => 0
+)
+2020-09-07 23:37:01 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272517
+    [activo] => 0
+)
+2020-09-07 23:37:01 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272392
+    [activo] => 0
+)
+2020-09-07 23:37:02 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272384
+    [activo] => 0
+)
+2020-09-07 23:37:02 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272391
+    [activo] => 0
+)
+2020-09-07 23:37:03 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272393
+    [activo] => 0
+)
+2020-09-07 23:37:04 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272386
+    [activo] => 0
+)
+2020-09-07 23:37:05 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272394
+    [activo] => 0
+)
+2020-09-07 23:37:06 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272417
+    [activo] => 0
+)
+2020-09-07 23:37:07 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272518
+    [activo] => 0
+)
+2020-09-07 23:37:08 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272366
+    [activo] => 0
+)
+2020-09-07 23:37:10 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272338
+    [activo] => 0
+)
+2020-09-07 23:37:11 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272374
+    [activo] => 0
+)
+2020-09-07 23:37:11 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272339
+    [activo] => 0
+)
+2020-09-07 23:37:12 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272341
+    [activo] => 0
+)
+2020-09-07 23:37:12 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272343
+    [activo] => 0
+)
+2020-09-07 23:37:13 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272343
+    [activo] => 1
+)
+2020-09-07 23:37:13 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272372
+    [activo] => 0
+)
+2020-09-07 23:37:14 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272343
+    [activo] => 0
+)
+2020-09-07 23:37:14 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272376
+    [activo] => 0
+)
+2020-09-07 23:37:15 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272342
+    [activo] => 0
+)
+2020-09-07 23:37:15 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272416
+    [activo] => 0
+)
+2020-09-07 23:37:15 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272335
+    [activo] => 0
+)
+2020-09-07 23:37:16 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272345
+    [activo] => 0
+)
+2020-09-07 23:37:16 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272415
+    [activo] => 0
+)
+2020-09-07 23:37:16 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272371
+    [activo] => 0
+)
+2020-09-07 23:37:16 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272367
+    [activo] => 0
+)
+2020-09-07 23:37:18 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272344
+    [activo] => 0
+)
+2020-09-07 23:37:18 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272369
+    [activo] => 0
+)
+2020-09-07 23:37:19 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272366
+    [activo] => 1
+)
+2020-09-07 23:37:22 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272366
+    [activo] => 0
+)
+2020-09-07 23:37:24 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272370
+    [activo] => 0
+)
+2020-09-07 23:37:24 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272375
+    [activo] => 0
+)
+2020-09-07 23:37:25 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272347
+    [activo] => 0
+)
+2020-09-07 23:37:25 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272373
+    [activo] => 0
+)
+2020-09-07 23:37:26 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272346
+    [activo] => 0
+)
+2020-09-07 23:37:29 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1598756573
+    [menu_id] => 5272368
+    [activo] => 0
+)
+2020-09-07 23:42:31 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-07 23:42:39 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599540133
+    [id_juicio] => 1599536232
+    [codigo_organo] => 200PIC
+)
+2020-09-07 23:42:45 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599540133
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3732
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1599536232
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php9UTu3I
+            [fileName:SplFileInfo:private] => php9UTu3I
+        )
+
+)

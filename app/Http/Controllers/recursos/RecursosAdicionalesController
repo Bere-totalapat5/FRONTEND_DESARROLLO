@@ -1,0 +1,32 @@
+<?php
+
+namespace App\Http\Controllers\recursos;
+
+use App\Http\Controllers\Controller;
+use App\Http\Controllers\clases\catalogos;
+use App\Http\Controllers\clases\export;
+use Illuminate\Http\Request;
+use Illuminate\Support\Arr;
+use Session;
+
+
+
+class RecursosAdicionalesController extends Controller{
+
+  public function recursos_adicionales(Request $request){
+
+
+
+    $elementos=["entorno"=>$request->entorno,
+                  "request"=>$request,
+                  "sesion"=>Session::all(),
+                  "menu_general"=>$request->menu_general,
+//"unidades"=>$unidades,
+                 /*  "solicitudes"=>$solicitudes */
+
+                  ];
+      return view('recursos.recursos_adicionales', $elementos);
+
+
+}
+}

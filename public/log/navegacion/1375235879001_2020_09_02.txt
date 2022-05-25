@@ -1,0 +1,4923 @@
+2020-09-02 10:31:36 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 10:31:40 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 10:32:02 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 10:32:10 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:32:11 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:32:12 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 10:32:12 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 10:33:55 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:33:56 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:33:57 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 10:33:57 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 10:34:59 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:34:59 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:35:00 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 10:35:00 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 10:35:25 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:35:25 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:35:26 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 10:35:26 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 10:35:48 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 10:35:54 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:35:54 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:35:56 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 10:35:56 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 10:36:34 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 10:36:40 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:36:40 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:36:41 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 10:36:42 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 10:38:46 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 10:38:53 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:38:53 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:38:54 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 10:38:54 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 10:39:19 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 10:39:24 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:39:25 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 10:39:26 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 10:39:26 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:26:33 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:26:37 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:26:48 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:26:48 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:26:49 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:26:49 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:27:17 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:27:23 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:27:24 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:27:25 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:27:25 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:28:56 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:28:56 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:28:56 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:29:02 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:29:02 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:29:03 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:29:03 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:30:18 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:30:24 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:30:25 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:30:26 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:30:26 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:33:28 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:33:34 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:33:35 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:33:36 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:33:36 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:33:51 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:33:57 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:33:57 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:33:58 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:33:58 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:35:16 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:35:22 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:35:22 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:35:24 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:35:24 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:40:37 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:41:20 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:41:26 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:41:26 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:41:28 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:41:28 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:42:18 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:42:25 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:42:26 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:42:27 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:42:27 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:43:15 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:43:32 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:43:38 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:43:38 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:43:39 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:43:39 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:44:54 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:45:00 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:45:00 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:45:01 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:45:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:45:22 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:45:29 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:45:29 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:45:30 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:45:30 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:46:31 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:46:37 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:46:37 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:46:39 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:46:39 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:47:44 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:47:44 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:47:46 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:47:46 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:49:25 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:49:30 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:49:30 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:49:32 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:49:32 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:50:31 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:50:39 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:50:39 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:50:40 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:50:40 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:51:17 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:53:56 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:54:02 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:54:02 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:54:04 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:54:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:54:28 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:54:35 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:54:35 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:54:36 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:54:36 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 12:56:37 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 12:56:44 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:56:44 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 12:56:46 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 12:56:46 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:00:04 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:00:11 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:00:11 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:00:13 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:00:13 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:01:33 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:01:39 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:01:39 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:01:40 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:01:41 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:03:29 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:03:35 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:03:35 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:03:37 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:03:37 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:04:03 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:04:03 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:06:55 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:06:55 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:07:05 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:07:05 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:07:39 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:07:39 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:07:40 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:07:40 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:09:06 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:09:12 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:09:12 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:09:13 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:09:13 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:10:26 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:10:26 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:10:28 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:10:28 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:11:17 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:11:23 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:11:24 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:11:25 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:11:25 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:11:51 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:11:58 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:11:58 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:11:59 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:11:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:12:51 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:12:52 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:18:49 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:18:56 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:18:57 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:18:58 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:18:58 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:19:05 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => ESTE ES NUEVO&nbsp;<br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 
+    [edicto_costo] => 
+    [edicto_num_intervalo] => 3
+)
+2020-09-02 13:19:52 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:19:59 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:19:59 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:20:01 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:20:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:20:05 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => <br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 
+    [edicto_costo] => 
+    [edicto_num_intervalo] => 3
+)
+2020-09-02 13:20:22 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => ESTE ES OTRO NUEVO<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 
+    [edicto_costo] => 
+    [edicto_num_intervalo] => 3
+)
+2020-09-02 13:20:31 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:20:39 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:21:09 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:21:10 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:21:11 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:21:11 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:21:47 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:21:47 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:21:49 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:21:49 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:21:52 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => ESTE ES OTRO NUEVO<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 
+    [edicto_costo] => 
+    [edicto_num_intervalo] => 3
+)
+2020-09-02 13:22:01 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:22:24 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:22:24 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:22:25 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:22:25 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:22:47 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:22:55 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:22:55 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:22:56 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:22:56 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:22:59 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => ESTE ES OTRO NUEVO<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 
+    [edicto_costo] => 
+    [edicto_num_intervalo] => 3
+)
+2020-09-02 13:24:04 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => ESTE ES OTRO NUEVO<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 
+    [edicto_costo] => 
+    [edicto_num_intervalo] => 3
+)
+2020-09-02 13:24:30 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:25:38 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:25:51 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:25:51 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:25:52 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:25:52 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:25:55 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => ESTE ES OTRO NUEVO<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 
+    [edicto_costo] => 
+    [edicto_num_intervalo] => 3
+)
+2020-09-02 13:28:07 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:28:18 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:28:18 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:28:20 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:28:20 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:28:25 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => ESTE ES OTRO NUEVO<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 273
+    [edicto_costo] => 1092
+    [edicto_num_intervalo] => 3
+    [num_publicaciones] => 2
+)
+2020-09-02 13:29:51 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:30:07 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:30:08 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 13:30:09 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 13:30:09 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 13:30:12 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [documento_html] => ESTE ES OTRO NUEVO<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 273
+    [edicto_costo] => 2184
+    [edicto_num_intervalo] => 3
+    [num_publicaciones] => 4
+)
+2020-09-02 13:32:02 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 13:32:26 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:02:56 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:03:00 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:06:02 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:14:19 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:14:26 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 14:14:27 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 4
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598996500
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 14:14:28 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 14:14:28 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 14:14:42 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:15:09 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:15:25 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => por revisar
+)
+2020-09-02 14:16:02 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:16:08 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 4
+    [estatus] => por revisar
+)
+2020-09-02 14:17:20 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:17:26 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => por revisar
+)
+2020-09-02 14:17:42 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:20:50 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:21:00 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 14:21:00 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 14:21:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 14:22:37 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 14:22:42 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 14:22:46 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 14:22:46 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 14:22:50 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 14:23:13 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:23:28 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598996500
+    [ponencia] => 1JFO
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-09-02 14:23:31 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 14:33:04 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:33:16 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:34:11 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:34:24 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:34:33 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => firmar
+)
+2020-09-02 14:35:07 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:35:13 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => firmar
+)
+2020-09-02 14:35:14 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:35:30 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:35:37 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 2
+    [id_acuerdo] => 1598994435
+    [estatus] => firmar
+)
+2020-09-02 14:35:37 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:35:54 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:36:00 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => firmar
+)
+2020-09-02 14:36:00 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:36:35 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:36:41 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => firmar
+)
+2020-09-02 14:36:42 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:36:49 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 14:36:49 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 14:36:53 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 14:37:56 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 14:37:56 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 14:38:00 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:39:50 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:39:58 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598996500
+    [ponencia] => 1JFO
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-09-02 14:40:02 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 4
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 14:40:11 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => firmar
+)
+2020-09-02 14:40:31 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:40:58 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => firmar
+)
+2020-09-02 14:44:09 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:44:18 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => firmar
+)
+2020-09-02 14:44:23 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:44:56 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:47:33 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:48:35 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:50:24 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:52:30 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:56:10 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:57:35 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 14:57:41 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 14:58:05 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 15:01:48 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 15:01:54 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 15:02:24 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 15:03:39 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 15:03:45 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 15:04:52 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 15:04:59 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => por pagar
+)
+2020-09-02 15:05:08 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 15:05:19 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 15:06:03 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 15:06:10 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => publicar
+)
+2020-09-02 15:06:25 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 15:06:44 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => publicar
+)
+2020-09-02 15:07:05 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 15:07:11 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 4
+    [id_acuerdo] => 1598996500
+    [estatus] => publicado
+)
+2020-09-02 15:07:11 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 15:08:26 [0] : DEBUG -  http://216.144.236.27/edictos/publicados	
+Array
+(
+)
+2020-09-02 15:08:41 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 15:08:51 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-02 15:08:58 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 15:09:06 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:09:12 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:09:31 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:09:44 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:09:46 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:18:45 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:28:04 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:28:51 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:29:39 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:30:00 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:31:30 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:32:11 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 15:32:15 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 15:32:18 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 3
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 15:33:03 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578509920289	
+Array
+(
+)
+2020-09-02 15:33:04 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1578509920289	
+Array
+(
+)
+2020-09-02 15:33:08 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-02 15:33:11 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-02 15:33:15 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => FAMILIAR
+    [juicio] => ORAL
+    [tipo_accion] => 
+)
+2020-09-02 15:33:18 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => FAMILIAR
+    [juicio] => ORAL
+    [tipo_accion] => AP
+)
+2020-09-02 15:34:40 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:35:07 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:35:31 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:38:06 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:38:34 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:38:43 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:38:52 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:45:57 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:46:38 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:47:55 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:48:32 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:49:03 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:49:16 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:49:18 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:49:21 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:49:49 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:49:58 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:50:00 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:50:02 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 3
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:50:04 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:51:36 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:51:44 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:51:46 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:52:39 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:52:48 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:52:50 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:53:03 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 4
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:53:09 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 3
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:53:13 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:53:19 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 15:55:48 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:56:19 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 15:57:19 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:08:19 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:08:28 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:08:52 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:13:11 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:13:46 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:15:51 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 16:15:55 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 16:15:57 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 16:16:04 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1596853751
+    [juzgado] => 1JFO
+)
+2020-09-02 16:18:06 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:20:01 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:20:58 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:21:13 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:21:20 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 16:21:33 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 16:21:51 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 16:41:09 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 16:42:41 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 17:15:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 17:15:08 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 17:15:12 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 17:15:19 [0] : DEBUG -  http://216.144.236.27/home/archivoDetalles/1596853751	
+Array
+(
+    [id] => 1596853751
+)
+2020-09-02 17:15:21 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 17:16:37 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 17:16:58 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 17:17:52 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:22:26 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:22:36 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1596853751
+    [juzgado] => 1JFO
+)
+2020-09-02 19:28:33 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:29:04 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:29:28 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:29:38 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:29:40 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:29:51 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:30:57 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:31:35 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:31:48 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:32:45 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:32:57 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:36:26 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:36:52 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:38:17 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 19:40:22 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 19:40:56 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 19:41:32 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 19:41:38 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 19:41:42 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 19:41:50 [0] : DEBUG -  http://216.144.236.27/home/archivoDetalles/1578508855890	
+Array
+(
+    [id] => 1578508855890
+)
+2020-09-02 19:41:53 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:42:24 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1578508855890
+    [juicio] => 2/2020
+    [expediente] => 2
+    [id_catalogo_juicios] => 582
+    [fecha_publicacion_temp] => -
+    [es_edicto] => on
+    [acuerdo] => 19
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-02
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => LISTAS DE ENVIO A ARCHIVO JUDICIAL.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpl0eQWd
+            [fileName:SplFileInfo:private] => phpl0eQWd
+        )
+
+)
+2020-09-02 19:42:27 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890/Error%20con%20publicar_en	
+Array
+(
+)
+2020-09-02 19:43:27 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890/Error%20con%20publicar_en	
+Array
+(
+)
+2020-09-02 19:43:55 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1578508855890
+    [juicio] => 2/2020
+    [expediente] => 2
+    [id_catalogo_juicios] => 582
+    [fecha_publicacion_temp] => -
+    [es_edicto] => on
+    [acuerdo] => 19
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-02
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => LISTAS DE ENVIO A ARCHIVO JUDICIAL.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phphNOX6o
+            [fileName:SplFileInfo:private] => phphNOX6o
+        )
+
+)
+2020-09-02 19:44:01 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:44:19 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 19:46:32 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 19:47:10 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 19:47:27 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 19:47:32 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 19:47:36 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-02 19:47:58 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:50:05 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:50:16 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:51:49 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:52:23 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 19:54:56 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 19:55:03 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599093839
+    [id_juicio] => 1578508855890
+    [codigo_organo] => 1JFO
+)
+2020-09-02 19:55:12 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599093839
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1JFO
+    [modal_ultima_version] => 3613
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578508855890
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpR3slUW
+            [fileName:SplFileInfo:private] => phpR3slUW
+        )
+
+)
+2020-09-02 19:55:51 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 19:55:59 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 19:56:10 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599093839
+    [ponencia] => 1JFO
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-09-02 19:56:25 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 19:56:26 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 7
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 19:56:49 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [documento_html] => <strong>ESTE ES EL TITULO FINAL<br></strong><br>LISTAS DE ENVIO A ARCHIVO JUDICIAL <br>
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. <br>
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.<br>
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.<br>
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.<br>
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.<br>
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.<br>
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.<br>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+    [edicto_num_palabras] => 372
+    [edicto_costo] => 744
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-02 19:56:54 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 19:59:09 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 19:59:25 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:01:18 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:04:48 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:04:56 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:04:56 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 7
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:04:57 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 20:04:57 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:05:03 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:05:03 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 7
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:05:04 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 20:05:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:05:07 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [documento_html] => <strong>ESTE ES EL TITULO FINAL<br></strong><br>LISTAS DE ENVIO A ARCHIVO JUDICIAL <br>
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. <br>
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.<br>
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.<br>
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.<br>
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.<br>
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.<br>
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.<br>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+    [edicto_num_palabras] => 372
+    [edicto_costo] => 744
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-02 20:05:12 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:05:29 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:05:37 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:05:38 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 7
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:05:39 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 20:05:39 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:05:41 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [documento_html] => <strong>ESTE ES EL TITULO FINAL<br></strong><br>LISTAS DE ENVIO A ARCHIVO JUDICIAL <br>
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. <br>
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.<br>
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.<br>
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.<br>
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.<br>
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.<br>
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.<br>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+    [edicto_num_palabras] => 372
+    [edicto_costo] => 744
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-02 20:05:47 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:06:06 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:06:11 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:06:12 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 7
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:06:13 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 20:06:13 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:06:15 [0] : DEBUG -  http://216.144.236.27/edictos/editar	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [documento_html] => <strong>ESTE ES EL TITULO FINAL<br></strong><br>LISTAS DE ENVIO A ARCHIVO JUDICIAL <br>
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. <br>
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.<br>
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.<br>
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.<br>
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.<br>
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.<br>
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.<br>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+    [edicto_num_palabras] => 372
+    [edicto_costo] => 744
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-02 20:06:20 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:06:27 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:06:27 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 7
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599093839
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:06:29 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 20:06:29 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:06:44 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [estatus] => por revisar
+)
+2020-09-02 20:06:44 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:06:51 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:06:57 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:07:19 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 1
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598994407
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:07:23 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:07:24 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:07:47 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 7
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:07:51 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599093839
+    [ponencia] => 1JFO
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-09-02 20:08:31 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:08:44 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:09:07 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:11:15 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-09-02 20:11:23 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:12:52 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:13:25 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:14:35 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:14:56 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:15:02 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 20:15:08 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:16:30 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:17:02 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:18:08 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:18:35 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:18:41 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:19:02 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:20:23 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:21:11 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:21:16 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [estatus] => firmar
+)
+2020-09-02 20:21:17 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:21:31 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:22:27 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:22:36 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 1
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598994407
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:22:40 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:23:00 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 20:23:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:23:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 20:23:09 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853966	
+Array
+(
+)
+2020-09-02 20:23:33 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1596853966
+    [juicio] => 3/2020
+    [expediente] => 3
+    [id_catalogo_juicios] => 14
+    [fecha_publicacion_temp] => -
+    [es_edicto] => on
+    [acuerdo] => 4
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-02
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => prueba.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpTTI1Zs
+            [fileName:SplFileInfo:private] => phpTTI1Zs
+        )
+
+)
+2020-09-02 20:23:38 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853966	
+Array
+(
+)
+2020-09-02 20:23:48 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:23:51 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:24:08 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599096216
+    [id_juicio] => 1596853966
+    [codigo_organo] => 1JFO
+)
+2020-09-02 20:24:15 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599096216
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1JFO
+    [modal_ultima_version] => 3617
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1596853966
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php7XtCrZ
+            [fileName:SplFileInfo:private] => php7XtCrZ
+        )
+
+)
+2020-09-02 20:25:06 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:25:17 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 1
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1598994407
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:25:20 [0] : DEBUG -  http://216.144.236.27/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 8
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599096216
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:25:21 [0] : DEBUG -  http://216.144.236.27/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 8
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599096216
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-02 20:25:22 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-02 20:25:22 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:27:13 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 20:31:58 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:32:05 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:32:11 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:32:50 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:33:00 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:33:07 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:33:36 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 20:33:39 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:34:16 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:34:41 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:35:18 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:35:51 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:36:37 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:36:46 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:36:52 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 1
+    [id_acuerdo] => 1598994407
+    [estatus] => cancelar
+)
+2020-09-02 20:37:17 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:37:23 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 1
+    [id_acuerdo] => 1598994407
+    [estatus] => cancelado
+)
+2020-09-02 20:37:24 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:37:41 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 20:37:45 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:38:17 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:38:51 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:39:01 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:39:15 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:40:15 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:41:27 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:42:08 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:42:14 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:42:22 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:42:44 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:43:02 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:43:08 [0] : DEBUG -  http://216.144.236.27/edictos/autorizar	
+Array
+(
+)
+2020-09-02 20:43:13 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 20:43:19 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 20:45:22 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:48:23 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:49:36 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:49:42 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-02 20:50:02 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:50:50 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-02 20:51:02 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:51:06 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 20:51:56 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-02 20:52:12 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-02 20:52:30 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEvento	
+Array
+(
+    [fecha_evento] => 2020-09-02
+    [id_juicio_promocion] => 1598996500
+    [juicio_promocion] => 2/2020-32
+    [ponencia_evento] => A
+    [id_acuerdo] => 1598996500
+    [toca] => 2
+    [asunto_toca] => 
+    [nombre_evento] => 1
+    [descripcion_evento] => 1
+    [hora_inicio] => 17:00
+    [hora_final] => 18:00
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-09-02 20:52:31 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:54:17 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:57:14 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:57:19 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:58:21 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 20:59:38 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:00:22 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:00:46 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:03:32 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:04:07 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:05:05 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:05:50 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:07:50 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:08:30 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:09:02 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:09:13 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:09:38 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:10:05 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:10:15 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-02 21:10:42 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEvento	
+Array
+(
+    [fecha_evento] => 2020-09-02
+    [id_juicio_promocion] => 1598996500
+    [juicio_promocion] => 2/2020-32
+    [ponencia_evento] => A
+    [id_acuerdo] => 1598996500
+    [toca] => 2
+    [asunto_toca] => 
+    [nombre_evento] => 12
+    [descripcion_evento] => 2
+    [hora_inicio] => 22:00
+    [hora_final] => 22:30
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-09-02 21:10:42 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:11:00 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:12:00 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 193
+)
+2020-09-02 21:12:06 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:12:13 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:12:20 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEventoEditado	
+Array
+(
+    [fecha_evento] => 2020-09-02
+    [id_evento] => 192
+    [estatus_eliminacion] => 0
+    [nombre_evento] => 5456
+    [descripcion_evento] => 1
+    [ponencia_evento] => A
+    [hora_inicio] => 17:00
+    [hora_final] => 18:00
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-09-02 21:12:20 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:13:24 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:13:33 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:13:41 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:13:43 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEventoEditado	
+Array
+(
+    [fecha_evento] => 2020-09-02
+    [id_evento] => 192
+    [estatus_eliminacion] => 0
+    [nombre_evento] => 5456
+    [descripcion_evento] => 1
+    [ponencia_evento] => A
+    [hora_inicio] => 17:00
+    [hora_final] => 18:00
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-09-02 21:13:44 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:14:46 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:14:52 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:15:17 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:15:58 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:16:04 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:16:10 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:16:14 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEventoEditado	
+Array
+(
+    [fecha_evento] => 2020-09-02
+    [id_evento] => 192
+    [id_acuerdo] => 1598996500
+    [estatus_eliminacion] => 0
+    [nombre_evento] => 5456
+    [descripcion_evento] => 1
+    [ponencia_evento] => A
+    [hora_inicio] => 17:00
+    [hora_final] => 18:00
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-09-02 21:16:14 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:16:22 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:17:18 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:17:24 [0] : DEBUG -  http://216.144.236.27/agendas/consultaEventoAjax	
+Array
+(
+    [agenda_id] => 192
+)
+2020-09-02 21:17:28 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEventoEditado	
+Array
+(
+    [fecha_evento] => 2020-09-02
+    [id_evento] => 192
+    [id_acuerdo] => 1598996500
+    [estatus_eliminacion] => 0
+    [nombre_evento] => 5456dd
+    [descripcion_evento] => 1
+    [ponencia_evento] => A
+    [hora_inicio] => 17:00
+    [hora_final] => 18:00
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-09-02 21:17:29 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-02 21:28:15 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-02 21:28:21 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:29:50 [0] : DEBUG -  http://216.144.236.27/edictos/publicados	
+Array
+(
+)
+2020-09-02 21:30:12 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 21:30:52 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)
+2020-09-02 21:30:59 [0] : DEBUG -  http://216.144.236.27/edictos/publicados	
+Array
+(
+)
+2020-09-02 21:31:08 [0] : DEBUG -  http://216.144.236.27/edictos/publicados	
+Array
+(
+)
+2020-09-02 21:31:56 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 21:32:42 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 21:32:54 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [estatus] => por pagar
+)
+2020-09-02 21:32:54 [0] : DEBUG -  http://216.144.236.27/edictos/aprobados	
+Array
+(
+)
+2020-09-02 21:33:03 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 21:34:06 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 21:34:39 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 21:35:10 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 21:35:23 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599093839
+    [ponencia] => 1JFO
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-09-02 21:35:37 [0] : DEBUG -  http://216.144.236.27/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 7
+    [id_acuerdo] => 1599093839
+    [estatus] => publicado
+)
+2020-09-02 21:35:37 [0] : DEBUG -  http://216.144.236.27/edictos/porpagar	
+Array
+(
+)
+2020-09-02 21:35:45 [0] : DEBUG -  http://216.144.236.27/edictos/publicados	
+Array
+(
+)
+2020-09-02 21:36:26 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-02 21:36:29 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:37:17 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:37:37 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:37:59 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:40:20 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:40:34 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:41:32 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 6
+    [registros_por_pagina] => 10
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:42:12 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:43:08 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:45:21 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:45:29 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => 
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:45:34 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPV
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:45:38 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:55:57 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:56:10 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:56:20 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:56:29 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => SIGJ WEB
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:56:40 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => SIGJ SCANER
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:57:08 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => SIGJ SCANER
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-02 21:57:37 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-02 21:59:23 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-02 22:01:15 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 22:01:18 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 22:01:20 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 22:01:32 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+)
+2020-09-02 22:01:33 [0] : DEBUG -  http://216.144.236.27/bandejas/mostrarEditorHTML	
+Array
+(
+    [tipo] => acuerdo
+    [bandeja] => firma
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+    [flujo_id] => 1160
+    [bandera_firmante] => 0
+)
+2020-09-02 22:06:30 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 22:11:45 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 22:16:54 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-02 22:18:09 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+)
+2020-09-02 22:18:10 [0] : DEBUG -  http://216.144.236.27/bandejas/mostrarEditorHTML	
+Array
+(
+    [tipo] => acuerdo
+    [bandeja] => firma
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+    [flujo_id] => 1160
+    [bandera_firmante] => 0
+)
+2020-09-02 22:18:18 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598996411
+    [ponencia] => 1JFO
+    [id_documento] => 3579
+    [tipo_documento] => pdf
+)
+2020-09-02 22:18:24 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => pdf
+)
+2020-09-02 22:18:38 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+)
+2020-09-02 22:18:39 [0] : DEBUG -  http://216.144.236.27/bandejas/mostrarEditorHTML	
+Array
+(
+    [tipo] => acuerdo
+    [bandeja] => firma
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+    [flujo_id] => 1160
+    [bandera_firmante] => 0
+)
+2020-09-02 22:18:47 [0] : DEBUG -  http://216.144.236.27/bandejas/guardarEditorHTML	
+Array
+(
+    [tipo] => acuerdo
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+    [flujo_id] => 1160
+    [documento_html] => <div><p>ESTE ES NUEVO</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend, sapien in sodales imperdiet, leo neque aliquam erat, eu mollis diam tortor nec eros. Sed nec sagittis eros, nec tincidunt sem. Vestibulum ipsum lectus, pulvinar id ex ac, dapibus dignissim diam. Ut nibh ligula, tristique non blandit a, blandit sit amet erat. Aenean et egestas dui, in posuere lorem. Suspendisse potenti. Curabitur non velit nisl. Nulla aliquam ornare libero nec porttitor. Donec vel sagittis turpis. Nulla quis finibus orci.</p>
+<p>Mauris vel viverra metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi quis lacus faucibus, porta elit in, luctus metus. Pellentesque eget vehicula magna, quis rhoncus eros. Vivamus at pellentesque nulla. Donec ac cursus neque, a pretium urna. Duis massa lorem, consequat tristique mi non, hendrerit semper libero.</p>
+<p>Donec ut ornare risus. Maecenas cursus dapibus felis nec vehicula. Fusce vestibulum ex convallis maximus feugiat. Donec at libero pretium, tristique nulla ut, tincidunt libero. Ut vel leo quis dolor viverra venenatis sed at nibh. Nam in blandit massa. Maecenas at urna vitae justo egestas dictum sed ut tellus. Maecenas finibus vel erat eget mattis. Phasellus accumsan bibendum ipsum, accumsan accumsan justo placerat et.</p>
+<p>In pellentesque sed ipsum ultrices aliquam. Vestibulum sed volutpat dolor. Praesent laoreet at leo viverra sodales. Etiam vel iaculis nisi, eget egestas diam. Sed commodo venenatis sollicitudin. Duis neque metus, convallis et dignissim quis, maximus vel dolor. Integer eu felis felis. Sed ut vulputate nibh. In ut sollicitudin est, eget lobortis ex. Nulla scelerisque mi justo, at pretium enim aliquet eget. Cras condimentum nibh vel odio vehicula, vestibulum interdum turpis tempor. Maecenas dignissim a mauris a imperdiet.</p>
+<p>Phasellus feugiat sem eu justo ultricies, in porttitor nibh facilisis. Ut lectus justo, accumsan vel iaculis in, feugiat eu enim. Suspendisse eu eros ut purus mollis bibendum id pretium tortor. Suspendisse vel magna sed massa ullamcorper suscipit vel non orci. Aliquam sapien quam, tempor sed fringilla porttitor, finibus a ex. Aenean varius mollis purus at luctus. Morbi rhoncus lobortis accumsan. Suspendisse vulputate, sapien vel interdum aliquam, libero tortor consequat augue, nec viverra augue turpis accumsan risus. Mauris nec dolor sed ante egestas sodales vitae id leo.</p>
+<p></p><p>&nbsp;</p>
+<p></p>
+</div>
+)
+2020-09-02 22:18:58 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => pdf
+)
+2020-09-02 22:19:10 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => pdf
+)
+2020-09-02 22:19:14 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+)
+2020-09-02 22:19:15 [0] : DEBUG -  http://216.144.236.27/bandejas/mostrarEditorHTML	
+Array
+(
+    [tipo] => acuerdo
+    [bandeja] => firma
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+    [flujo_id] => 1160
+    [bandera_firmante] => 0
+)
+2020-09-02 22:19:31 [0] : DEBUG -  http://216.144.236.27/bandejas/guardarEditorHTML	
+Array
+(
+    [tipo] => acuerdo
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => html
+    [flujo_id] => 1160
+    [documento_html] => <div><p>ESTE ES NUEVO</p><p><br></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend, sapien in sodales imperdiet, leo neque aliquam erat, eu mollis diam tortor nec eros. Sed nec sagittis eros, nec tincidunt sem. Vestibulum ipsum lectus, pulvinar id ex ac, dapibus dignissim diam. Ut nibh ligula, tristique non blandit a, blandit sit amet erat. Aenean et egestas dui, in posuere lorem. Suspendisse potenti. Curabitur non velit nisl. Nulla aliquam ornare libero nec porttitor. Donec vel sagittis turpis. Nulla quis finibus orci.</p>
+<p>Mauris vel viverra metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi quis lacus faucibus, porta elit in, luctus metus. Pellentesque eget vehicula magna, quis rhoncus eros. Vivamus at pellentesque nulla. Donec ac cursus neque, a pretium urna. Duis massa lorem, consequat tristique mi non, hendrerit semper libero.</p>
+<p>Donec ut ornare risus. Maecenas cursus dapibus felis nec vehicula. Fusce vestibulum ex convallis maximus feugiat. Donec at libero pretium, tristique nulla ut, tincidunt libero. Ut vel leo quis dolor viverra venenatis sed at nibh. Nam in blandit massa. Maecenas at urna vitae justo egestas dictum sed ut tellus. Maecenas finibus vel erat eget mattis. Phasellus accumsan bibendum ipsum, accumsan accumsan justo placerat et.</p>
+<p>In pellentesque sed ipsum ultrices aliquam. Vestibulum sed volutpat dolor. Praesent laoreet at leo viverra sodales. Etiam vel iaculis nisi, eget egestas diam. Sed commodo venenatis sollicitudin. Duis neque metus, convallis et dignissim quis, maximus vel dolor. Integer eu felis felis. Sed ut vulputate nibh. In ut sollicitudin est, eget lobortis ex. Nulla scelerisque mi justo, at pretium enim aliquet eget. Cras condimentum nibh vel odio vehicula, vestibulum interdum turpis tempor. Maecenas dignissim a mauris a imperdiet.</p>
+<p>Phasellus feugiat sem eu justo ultricies, in porttitor nibh facilisis. Ut lectus justo, accumsan vel iaculis in, feugiat eu enim. Suspendisse eu eros ut purus mollis bibendum id pretium tortor. Suspendisse vel magna sed massa ullamcorper suscipit vel non orci. Aliquam sapien quam, tempor sed fringilla porttitor, finibus a ex. Aenean varius mollis purus at luctus. Morbi rhoncus lobortis accumsan. Suspendisse vulputate, sapien vel interdum aliquam, libero tortor consequat augue, nec viverra augue turpis accumsan risus. Mauris nec dolor sed ante egestas sodales vitae id leo.</p>
+<p></p><p>&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>ESTE ES NUEVO</p>
+<p></p>
+</div>
+)
+2020-09-02 22:19:37 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598989710
+    [ponencia] => 1JFO
+    [id_documento] => 3567
+    [tipo_documento] => pdf
+)
+2020-09-02 22:19:49 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:19:57 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598371682
+    [ponencia] => 1JFO
+    [id_documento] => 3365
+    [tipo_documento] => pdf
+)
+2020-09-02 22:22:55 [0] : DEBUG -  http://216.144.236.27/bandejas/formularioAcuerdoActualizarDocumentoAjax	
+Array
+(
+    [acuerdo_id] => 1598371682
+    [codigo_organo] => 1JFO
+    [id_flujo_participante] => 1046
+)
+2020-09-02 22:24:56 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:26:12 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598371682
+    [ponencia] => 1JFO
+    [id_documento] => 3365
+    [tipo_documento] => word
+)
+2020-09-02 22:26:56 [0] : DEBUG -  http://216.144.236.27/bandejas/formularioAcuerdoActualizarDocumentoAjax	
+Array
+(
+    [acuerdo_id] => 1598371682
+    [codigo_organo] => 1JFO
+    [id_flujo_participante] => 1046
+)
+2020-09-02 22:27:06 [0] : DEBUG -  http://216.144.236.27/bandejas/guardarAcuerdoDocumento	
+Array
+(
+    [acuerdo_id] => 1598371682
+    [codigo_organo] => 1JFO
+    [id_flujo_participante] => 1046
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpgphlTs
+            [fileName:SplFileInfo:private] => phpgphlTs
+        )
+
+)
+2020-09-02 22:27:09 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:27:16 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598371682
+    [ponencia] => 1JFO
+    [id_documento] => 3629
+    [tipo_documento] => pdf
+)
+2020-09-02 22:32:22 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:37:28 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:42:42 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:47:54 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:53:02 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:58:13 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-02 22:59:57 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

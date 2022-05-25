@@ -1,0 +1,40 @@
+2020-08-24 23:23:02 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-24 23:23:12 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-08-24 23:23:18 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey/cargarMinisterioLey	
+Array
+(
+    [id_ministerio] => 0
+)
+2020-08-24 23:23:21 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey/guardarMinisterioLey	
+Array
+(
+    [id_ministerio] => 0
+    [por_id] => 1406657922004
+    [fecha_inicial] => 2020-08-24
+    [fecha_hasta] => 2020-08-24
+    [activo] => 1
+)
+2020-08-24 23:23:29 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey/guardarMinisterioLey	
+Array
+(
+    [id_ministerio] => 0
+    [por_id] => 1406657922004
+    [fecha_inicial] => 2020-08-24
+    [fecha_hasta] => 2020-08-24
+    [activo] => 1
+)
+2020-08-24 23:23:39 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-08-24 23:23:45 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey/cargarMinisterioLey	
+Array
+(
+    [id_ministerio] => 14
+)

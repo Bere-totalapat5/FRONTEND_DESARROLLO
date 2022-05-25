@@ -1,0 +1,15 @@
+<?php
+    $ruta_base="/var/www/html/front_penal_desarrollo";
+    // se limpian las carptes cada 5 minutos
+    array_map('unlink', glob($ruta_base."/storage/pdf_solicitudes/*.pdf"));
+    array_map('unlink', glob($ruta_base."/storage/app/porfirmar/*.pdf"));
+    // array_map('unlink', glob($ruta_base."/storage/app/porfirmar/*.doc"));
+    // array_map('unlink', glob($ruta_base."/storage/app/porfirmar/*.docx"));
+    // array_map('unlink', glob($ruta_base."/storage/app/porfirmar/*.html"));
+    array_map('unlink', glob($ruta_base."/storage/app/porfirmar/*.mht"));
+    array_map('unlink', glob($ruta_base."/storage/app/docs_penal/*.docx"));
+    array_map('unlink', glob($ruta_base."/storage/app/docs_penal/*.doc"));
+    array_map('unlink', glob($ruta_base."/public/temporales/*.docx"));
+    array_map('unlink', glob($ruta_base."/public/temporales/*.doc"));
+    array_map('unlink', glob($ruta_base."/public/temporales/*".date('d')-1.".pdf"));
+?>

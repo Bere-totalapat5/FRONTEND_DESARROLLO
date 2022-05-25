@@ -1,0 +1,16 @@
+2020-09-02 22:55:07 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-02 22:57:51 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 22:58:47 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => EXPEDIENTILLO
+    [expediente] => 1212
+    [anio] => 2020
+    [bis] => 
+)

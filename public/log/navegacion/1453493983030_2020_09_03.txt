@@ -1,0 +1,55 @@
+2020-09-03 00:26:59 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-03 00:27:05 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-03 00:27:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 36
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-03 00:36:37 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/31	
+Array
+(
+)
+2020-09-03 00:36:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 6
+    [tabla] => libros_registro_notarios_juzgado_
+    [materia] => PIC
+)
+2020-09-03 00:36:59 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 6
+    [tabla] => libros_registro_notarios_juzgado_
+    [materia] => PIC
+)
+2020-09-03 00:41:36 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/31	
+Array
+(
+)
+2020-09-03 00:41:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 7
+    [tabla] => libros_registro_notarios_juzgado_
+    [materia] => PIC
+)
+2020-09-03 00:41:53 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 7
+    [tabla] => libros_registro_notarios_juzgado_
+    [materia] => PIC
+)
+2020-09-03 00:42:23 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/31	
+Array
+(
+)

@@ -1,0 +1,80 @@
+2020-11-05 10:40:49 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 10:40:51 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 10:40:53 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 10:40:59 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1603911377957
+    [expediente] => 6034/2020
+    [tipo_juicio_id] => 340
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-10-28
+    [origen] => OPC
+)
+2020-11-05 10:41:03 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1603896910163
+    [expediente] => 6033/2020
+    [tipo_juicio_id] => 340
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-10-28
+    [origen] => OPC
+)
+2020-11-05 10:41:07 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1603856407970
+    [expediente] => 6032/2020
+    [tipo_juicio_id] => 340
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-10-26
+    [origen] => OPC
+)
+2020-11-05 10:41:11 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597075023329
+    [expediente] => 267/2020
+    [tipo_juicio_id] => 360
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPC
+)
+2020-11-05 10:41:15 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597082154993
+    [expediente] => 268/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPC
+)
+2020-11-05 10:56:14 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 11:34:42 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

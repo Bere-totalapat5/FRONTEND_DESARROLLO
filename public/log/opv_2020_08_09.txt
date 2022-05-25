@@ -1,0 +1,2260 @@
+2020-08-09 13:31:43 Array
+(
+    [idDocumento] => 3257031
+    [juzgado] => C30
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 01:30:38
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4632537
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598876,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSCALI"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 13:39:48 Array
+(
+    [idDocumento] => 3257032
+    [juzgado] => C2
+    [idMateria] => C
+    [noExpediente] => 6021
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 01:38:48
+    [tipoJuicio] => 102
+    [reg_date] => 
+    [idExpediente] => 4632538
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598877,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUJICA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 14:21:44 Array
+(
+    [idDocumento] => 3257033
+    [juzgado] => C38
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 02:21:09
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632539
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598878,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GUTIRE"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 14:31:03 Array
+(
+    [idDocumento] => 3257034
+    [juzgado] => C18
+    [idMateria] => C
+    [noExpediente] => 6025
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 02:30:40
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632540
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598879,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CANTARITOS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 14:34:16 Array
+(
+    [idDocumento] => 3257035
+    [juzgado] => C42
+    [idMateria] => C
+    [noExpediente] => 6011
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 02:33:50
+    [tipoJuicio] => 103
+    [reg_date] => 
+    [idExpediente] => 4632541
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598880,"participacion":1,"tipoPersona":"F","apPaterno":"ORTIX","apMaterno":"","nombre":"LUIS","razonSocial":""}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 14:41:42 Array
+(
+    [idDocumento] => 3257036
+    [juzgado] => C4
+    [idMateria] => C
+    [noExpediente] => 6022
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 02:41:20
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632542
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598881,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CILICONA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 14:48:28 Array
+(
+    [idDocumento] => 3257037
+    [juzgado] => C9
+    [idMateria] => C
+    [noExpediente] => 6025
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 02:48:06
+    [tipoJuicio] => 102
+    [reg_date] => 
+    [idExpediente] => 4632543
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598882,"participacion":1,"tipoPersona":"F","apPaterno":"MANJATAN","apMaterno":"","nombre":"JORGY","razonSocial":""}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 14:56:14 Array
+(
+    [idDocumento] => 3257038
+    [juzgado] => V39
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 02:55:52
+    [tipoJuicio] => 270
+    [reg_date] => 
+    [idExpediente] => 4632544
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598883,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MIKOSTA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 15:26:28 Array
+(
+    [idDocumento] => 3257039
+    [juzgado] => C29
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 03:26:06
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632545
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598884,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SONY ERICSON"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 18:24:20 Array
+(
+    [idDocumento] => 3257040
+    [juzgado] => V38
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 06:23:58
+    [tipoJuicio] => 262
+    [reg_date] => 
+    [idExpediente] => 4632546
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598885,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"OBAO VAP"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 18:25:39 Array
+(
+    [idDocumento] => 3257041
+    [juzgado] => V16
+    [idMateria] => V
+    [noExpediente] => 6020
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 06:25:22
+    [tipoJuicio] => 262
+    [reg_date] => 
+    [idExpediente] => 4632547
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598886,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DFGSDFDSFSDF"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 18:30:20 Array
+(
+    [idDocumento] => 3257042
+    [juzgado] => V31
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 06:30:02
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632548
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598887,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HOLA MUNDO"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 18:32:16 Array
+(
+    [idDocumento] => 3257043
+    [juzgado] => V41
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 06:31:58
+    [tipoJuicio] => 163
+    [reg_date] => 
+    [idExpediente] => 4632549
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598888,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ABVON"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 18:33:42 Array
+(
+    [idDocumento] => 3257044
+    [juzgado] => V32
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 06:33:25
+    [tipoJuicio] => 163
+    [reg_date] => 
+    [idExpediente] => 4632550
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598889,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ABVON"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 18:34:42 Array
+(
+    [idDocumento] => 3257045
+    [juzgado] => V29
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 06:34:25
+    [tipoJuicio] => 163
+    [reg_date] => 
+    [idExpediente] => 4632551
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598890,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ABVON"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 18:36:37 Array
+(
+    [idDocumento] => 3257046
+    [juzgado] => V42
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 06:36:19
+    [tipoJuicio] => 163
+    [reg_date] => 
+    [idExpediente] => 4632552
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598891,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ABVON"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 18:37:19 Array
+(
+    [idDocumento] => 3257047
+    [juzgado] => V33
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 06:37:02
+    [tipoJuicio] => 163
+    [reg_date] => 
+    [idExpediente] => 4632553
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598892,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MINACES"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 19:54:56 Array
+(
+    [idDocumento] => 3257048
+    [juzgado] => V34
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 07:54:35
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632559
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598898,"participacion":1,"tipoPersona":"F","apPaterno":"MONSI","apMaterno":"","nombre":"JANA","razonSocial":""}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 19:58:30 Array
+(
+    [idDocumento] => 3257049
+    [juzgado] => V44
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 07:58:13
+    [tipoJuicio] => 262
+    [reg_date] => 
+    [idExpediente] => 4632560
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598899,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MASTA SDS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 20:05:39 Array
+(
+    [idDocumento] => 3257050
+    [juzgado] => V27
+    [idMateria] => V
+    [noExpediente] => 6006
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 08:05:22
+    [tipoJuicio] => 163
+    [reg_date] => 
+    [idExpediente] => 4632562
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598901,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SANTANA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 20:11:40 Array
+(
+    [idDocumento] => 3257051
+    [juzgado] => V21
+    [idMateria] => V
+    [noExpediente] => 6021
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 08:11:18
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 4632563
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598902,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"NISAN"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 20:16:47 Array
+(
+    [idDocumento] => 3257052
+    [juzgado] => V5
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 08:16:30
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632564
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598903,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"UTARACATA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 20:18:27 Array
+(
+    [idDocumento] => 3257053
+    [juzgado] => V2
+    [idMateria] => V
+    [noExpediente] => 6019
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 08:18:10
+    [tipoJuicio] => 270
+    [reg_date] => 
+    [idExpediente] => 4632565
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598904,"participacion":1,"tipoPersona":"F","apPaterno":"GOZO","apMaterno":"MAM","nombre":"LUISA","razonSocial":""}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 20:19:35 Array
+(
+    [idDocumento] => 3257054
+    [juzgado] => V1
+    [idMateria] => V
+    [noExpediente] => 6019
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 08:19:18
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 4632566
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598905,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MIFALSO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598906,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FAMSA"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 21:48:13 Array
+(
+    [idDocumento] => 3257055
+    [juzgado] => V30
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 09:47:44
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632567
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598909,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PRUEBA NUMERO UNO"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:11:46 Array
+(
+    [idDocumento] => 3257057
+    [juzgado] => V27
+    [idMateria] => V
+    [noExpediente] => 6008
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:11:19
+    [tipoJuicio] => 151
+    [reg_date] => 
+    [idExpediente] => 4632570
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598914,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GOBIERNO DE LA CIUDAD"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598915,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PREDIO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:12:38 Array
+(
+    [idDocumento] => 3257058
+    [juzgado] => V28
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:12:13
+    [tipoJuicio] => 151
+    [reg_date] => 
+    [idExpediente] => 4632571
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598916,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GOBIERNO DE LA CIUDAD"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598917,"participacion":1,"tipoPersona":"F","apPaterno":"LOPEZ","apMaterno":"","nombre":"LUCIA","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:15:52 Array
+(
+    [idDocumento] => 3257059
+    [juzgado] => V27
+    [idMateria] => V
+    [noExpediente] => 6009
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:15:27
+    [tipoJuicio] => 151
+    [reg_date] => 
+    [idExpediente] => 4632572
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598918,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GOBIERNO DE LA CIUDAD"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598919,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"EXTINCION"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:15:57 Array
+(
+    [idDocumento] => 3257060
+    [juzgado] => V32
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:15:31
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 4632573
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598920,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ALCATRACES"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:16:00 Array
+(
+    [idDocumento] => 3257061
+    [juzgado] => V42
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:15:35
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632574
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598921,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:16:05 Array
+(
+    [idDocumento] => 3257062
+    [juzgado] => V43
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:15:40
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632575
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598922,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:16:09 Array
+(
+    [idDocumento] => 3257063
+    [juzgado] => V41
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:15:44
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632576
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598923,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:16:29 Array
+(
+    [idDocumento] => 3257064
+    [juzgado] => V38
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:16:05
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632577
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598924,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:16:34 Array
+(
+    [idDocumento] => 3257065
+    [juzgado] => V34
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:16:09
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632578
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598925,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:17:38 Array
+(
+    [idDocumento] => 3257066
+    [juzgado] => V28
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:17:12
+    [tipoJuicio] => 151
+    [reg_date] => 
+    [idExpediente] => 4632579
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598926,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GOBIERNO DE LA CIUDAD"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598927,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GABINETE"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:17:59 Array
+(
+    [idDocumento] => 3257067
+    [juzgado] => V35
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:17:34
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 4632580
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598928,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HIDALG"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:18:25 Array
+(
+    [idDocumento] => 3257068
+    [juzgado] => V33
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:18:00
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632581
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598929,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598930,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"JURIDICO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:18:41 Array
+(
+    [idDocumento] => 3257069
+    [juzgado] => V31
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:18:15
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632582
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598931,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598932,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"KILOMETRO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:19:11 Array
+(
+    [idDocumento] => 3257070
+    [juzgado] => V36
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:18:46
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632583
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598933,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598934,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUNICIPIO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:19:22 Array
+(
+    [idDocumento] => 3257071
+    [juzgado] => V37
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:18:57
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632584
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598935,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598936,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"NOGALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:19:45 Array
+(
+    [idDocumento] => 3257072
+    [juzgado] => V29
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:19:20
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632585
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598937,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598938,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LEGALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:21:29 Array
+(
+    [idDocumento] => 3257073
+    [juzgado] => V44
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:21:02
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632586
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598939,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LOGISTICA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:21:43 Array
+(
+    [idDocumento] => 3257074
+    [juzgado] => V27
+    [idMateria] => V
+    [noExpediente] => 6010
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:21:18
+    [tipoJuicio] => 151
+    [reg_date] => 
+    [idExpediente] => 4632587
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598940,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GOBIERNO DE LA CIUDAD"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598941,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"OLIVOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:21:55 Array
+(
+    [idDocumento] => 3257075
+    [juzgado] => V40
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:21:30
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 4632588
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598942,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HIDALG"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598943,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PAISES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:22:08 Array
+(
+    [idDocumento] => 3257076
+    [juzgado] => V39
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:21:42
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632589
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598944,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598945,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"QUINTA LOCAL"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:22:28 Array
+(
+    [idDocumento] => 3257077
+    [juzgado] => V39
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:22:03
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632590
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598946,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598947,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"RADICALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:22:53 Array
+(
+    [idDocumento] => 3257078
+    [juzgado] => V44
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:22:28
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632591
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598948,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598949,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SECTORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:23:02 Array
+(
+    [idDocumento] => 3257079
+    [juzgado] => V32
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:22:38
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632592
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598950,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598951,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TRABAJADORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:26:45 Array
+(
+    [idDocumento] => 3257080
+    [juzgado] => V23
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:26:20
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632593
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598952,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598953,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TRIBUNAL"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:27:20 Array
+(
+    [idDocumento] => 3257081
+    [juzgado] => V37
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:26:55
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632594
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598954,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598955,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MAQUINARIA RODRIGUEZ"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:27:37 Array
+(
+    [idDocumento] => 3257082
+    [juzgado] => V26
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:27:12
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632595
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598956,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598957,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"URBAN"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:32:26 Array
+(
+    [idDocumento] => 3257083
+    [juzgado] => V43
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:32:01
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632596
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598958,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598959,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"VIVIENDAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:32:50 Array
+(
+    [idDocumento] => 3257084
+    [juzgado] => V36
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:32:26
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632597
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598960,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598961,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"WASHINGTON"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:32:59 Array
+(
+    [idDocumento] => 3257085
+    [juzgado] => V34
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:32:34
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632598
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598962,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598963,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"XOCHICALCO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:33:21 Array
+(
+    [idDocumento] => 3257086
+    [juzgado] => V30
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:32:56
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632599
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598964,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598965,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"YACATAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:33:33 Array
+(
+    [idDocumento] => 3257087
+    [juzgado] => V35
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:33:08
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632600
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598966,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598967,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ZAPATA"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:33:45 Array
+(
+    [idDocumento] => 3257088
+    [juzgado] => V22
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:33:20
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632601
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598968,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598969,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ALCALDIAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:34:41 Array
+(
+    [idDocumento] => 3257089
+    [juzgado] => V41
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:34:16
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632602
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598970,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598971,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTENARIOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:36:06 Array
+(
+    [idDocumento] => 3257090
+    [juzgado] => V33
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:35:41
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632603
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598972,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598973,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GABINETES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:36:17 Array
+(
+    [idDocumento] => 3257091
+    [juzgado] => V24
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:35:52
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632604
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598974,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598975,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HORTALIZAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:36:32 Array
+(
+    [idDocumento] => 3257092
+    [juzgado] => V40
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:36:07
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632605
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598976,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598977,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ILEGALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:36:43 Array
+(
+    [idDocumento] => 3257093
+    [juzgado] => V38
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:36:18
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632606
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598978,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598979,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"JUAREZ"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:36:57 Array
+(
+    [idDocumento] => 3257094
+    [juzgado] => V29
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:36:32
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632607
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598980,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598981,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LIQUIDACIONES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:37:12 Array
+(
+    [idDocumento] => 3257095
+    [juzgado] => V21
+    [idMateria] => V
+    [noExpediente] => 6022
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:36:47
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632608
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598982,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598983,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MATERIALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:37:26 Array
+(
+    [idDocumento] => 3257096
+    [juzgado] => V25
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:37:01
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632609
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598984,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598985,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"NOGALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:37:58 Array
+(
+    [idDocumento] => 3257097
+    [juzgado] => V42
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:37:33
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632610
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598986,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598987,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"OPRESORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:38:06 Array
+(
+    [idDocumento] => 3257098
+    [juzgado] => V31
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:37:42
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632611
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598988,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598989,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PRODUCCIONES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:38:23 Array
+(
+    [idDocumento] => 3257099
+    [juzgado] => V7
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:37:58
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632612
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598990,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598991,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"QUERETANOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:38:38 Array
+(
+    [idDocumento] => 3257100
+    [juzgado] => V5
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:38:13
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632613
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598992,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598993,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ULTRAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:39:05 Array
+(
+    [idDocumento] => 3257101
+    [juzgado] => V8
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:38:40
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632614
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598994,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598995,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"VICTORIANO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:39:19 Array
+(
+    [idDocumento] => 3257102
+    [juzgado] => V44
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:38:54
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632615
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598996,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598997,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"WENCESLAO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:39:46 Array
+(
+    [idDocumento] => 3257103
+    [juzgado] => V37
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:39:21
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632616
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598998,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598999,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ANTECESORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:40:44 Array
+(
+    [idDocumento] => 3257104
+    [juzgado] => V15
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:40:19
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632617
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599000,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599001,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BIBLIOTECA"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:41:14 Array
+(
+    [idDocumento] => 3257105
+    [juzgado] => V18
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:40:49
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632618
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599002,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599003,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COLEGIOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:41:24 Array
+(
+    [idDocumento] => 3257106
+    [juzgado] => V20
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:40:59
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632619
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599004,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599005,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DIPUTADOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:41:38 Array
+(
+    [idDocumento] => 3257107
+    [juzgado] => V29
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:41:13
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632620
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599006,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599007,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESCOLARES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:42:02 Array
+(
+    [idDocumento] => 3257108
+    [juzgado] => V24
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:41:38
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632621
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599008,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599009,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FIDEICOMISOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:42:43 Array
+(
+    [idDocumento] => 3257109
+    [juzgado] => V3
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:42:18
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632622
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599010,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599011,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LEGALIZDOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:42:57 Array
+(
+    [idDocumento] => 3257110
+    [juzgado] => V34
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:42:32
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632623
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599012,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599013,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MISTERIOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:43:12 Array
+(
+    [idDocumento] => 3257111
+    [juzgado] => V12
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:42:47
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632624
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599014,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599015,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MINISTERIOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:43:34 Array
+(
+    [idDocumento] => 3257112
+    [juzgado] => V4
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:43:10
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632625
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599016,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599017,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"NUPCIALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:43:49 Array
+(
+    [idDocumento] => 3257113
+    [juzgado] => V32
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:43:24
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632626
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599018,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599019,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ORGANIZACIONES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:44:05 Array
+(
+    [idDocumento] => 3257114
+    [juzgado] => V31
+    [idMateria] => V
+    [noExpediente] => 6005
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:43:40
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632627
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599020,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599021,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PRINCIPALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:44:19 Array
+(
+    [idDocumento] => 3257115
+    [juzgado] => V30
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:43:54
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632628
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599022,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599023,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"RECEPCIONES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:44:32 Array
+(
+    [idDocumento] => 3257116
+    [juzgado] => V42
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:44:08
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632629
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599024,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599025,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SINDICATOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:44:47 Array
+(
+    [idDocumento] => 3257117
+    [juzgado] => V22
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:44:22
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632630
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599026,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599027,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TITULARES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:45:25 Array
+(
+    [idDocumento] => 3257118
+    [juzgado] => V16
+    [idMateria] => V
+    [noExpediente] => 6021
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:45:00
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632631
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599028,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599029,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ANTIGUEDADES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:45:36 Array
+(
+    [idDocumento] => 3257119
+    [juzgado] => V23
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:45:12
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632632
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599030,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599031,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ALUMBRADOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:45:50 Array
+(
+    [idDocumento] => 3257120
+    [juzgado] => V33
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:45:25
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632633
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599032,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599033,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ANAQUELES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:46:10 Array
+(
+    [idDocumento] => 3257121
+    [juzgado] => V21
+    [idMateria] => V
+    [noExpediente] => 6023
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:45:45
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632634
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599034,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599035,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANDIDOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:46:20 Array
+(
+    [idDocumento] => 3257122
+    [juzgado] => V2
+    [idMateria] => V
+    [noExpediente] => 6020
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:45:55
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632635
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599036,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599037,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COBRADORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:46:35 Array
+(
+    [idDocumento] => 3257123
+    [juzgado] => V14
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:46:10
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632636
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599038,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599039,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CERTIFICADOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:46:47 Array
+(
+    [idDocumento] => 3257124
+    [juzgado] => V43
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:46:23
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632637
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599040,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599041,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CALIBRADORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:47:37 Array
+(
+    [idDocumento] => 3257125
+    [juzgado] => V25
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:47:12
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632638
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599042,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599043,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LICEOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:48:19 Array
+(
+    [idDocumento] => 3257126
+    [juzgado] => V26
+    [idMateria] => V
+    [noExpediente] => 6002
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:47:55
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632639
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599044,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599045,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LAGUNAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:48:40 Array
+(
+    [idDocumento] => 3257127
+    [juzgado] => V9
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:48:15
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632640
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599046,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599047,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MORALES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:49:05 Array
+(
+    [idDocumento] => 3257128
+    [juzgado] => V35
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:48:40
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632641
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599048,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599049,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PATRIOTAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:49:14 Array
+(
+    [idDocumento] => 3257129
+    [juzgado] => V41
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:48:50
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632642
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599050,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599051,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PODEROSOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:49:29 Array
+(
+    [idDocumento] => 3257130
+    [juzgado] => V39
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:49:04
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632643
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599052,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599053,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PARTICULARES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:49:54 Array
+(
+    [idDocumento] => 3257131
+    [juzgado] => V40
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:49:29
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632644
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599054,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599055,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"POSTERGADOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:50:31 Array
+(
+    [idDocumento] => 3257132
+    [juzgado] => V10
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:50:06
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632645
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599056,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599057,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BLANQUEADORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:50:43 Array
+(
+    [idDocumento] => 3257133
+    [juzgado] => V28
+    [idMateria] => V
+    [noExpediente] => 6005
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:50:17
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632646
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599058,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599059,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BRIGADISTAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:50:56 Array
+(
+    [idDocumento] => 3257134
+    [juzgado] => V11
+    [idMateria] => V
+    [noExpediente] => 6032
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:50:30
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632647
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599060,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599061,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BOMBEROS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:51:20 Array
+(
+    [idDocumento] => 3257135
+    [juzgado] => V1
+    [idMateria] => V
+    [noExpediente] => 6020
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:50:55
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632648
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599062,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CODIGOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599063,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CALIFICADORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:51:29 Array
+(
+    [idDocumento] => 3257136
+    [juzgado] => V38
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:51:04
+    [tipoJuicio] => 261
+    [reg_date] => 
+    [idExpediente] => 4632649
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599064,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DISTRITOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599065,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COLUMNISTAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:51:52 Array
+(
+    [idDocumento] => 3257137
+    [juzgado] => V17
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:51:28
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632650
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599066,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599067,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CALUMNIADORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:52:01 Array
+(
+    [idDocumento] => 3257138
+    [juzgado] => V6
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:51:36
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632651
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599068,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599069,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COMITES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:52:42 Array
+(
+    [idDocumento] => 3257139
+    [juzgado] => V13
+    [idMateria] => V
+    [noExpediente] => 6001
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:52:17
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632652
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599070,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599071,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERIODICOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:52:53 Array
+(
+    [idDocumento] => 3257140
+    [juzgado] => V36
+    [idMateria] => V
+    [noExpediente] => 6003
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:52:28
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632653
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599072,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599073,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"JORNALISTAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:54:42 Array
+(
+    [idDocumento] => 3257141
+    [juzgado] => V36
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:54:16
+    [tipoJuicio] => 263
+    [reg_date] => 
+    [idExpediente] => 4632654
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599074,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FEDERACION"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599075,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"JORNALISTAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:54:53 Array
+(
+    [idDocumento] => 3257142
+    [juzgado] => V31
+    [idMateria] => V
+    [noExpediente] => 6006
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:54:28
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632655
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599076,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INDUSTRIA TABACALERA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599077,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"AGROPECUARIOS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:55:09 Array
+(
+    [idDocumento] => 3257143
+    [juzgado] => V41
+    [idMateria] => V
+    [noExpediente] => 6005
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:54:44
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632656
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599078,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CENTRAL DE AUTOBUSES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599079,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TURISTAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-09 22:55:22 Array
+(
+    [idDocumento] => 3257144
+    [juzgado] => V34
+    [idMateria] => V
+    [noExpediente] => 6005
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-09 10:54:57
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632657
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599080,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BUFFET"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599081,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ECONOMISTAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	

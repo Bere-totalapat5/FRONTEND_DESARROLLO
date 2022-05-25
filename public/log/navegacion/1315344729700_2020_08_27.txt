@@ -1,0 +1,96 @@
+2020-08-27 00:26:34 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 00:26:41 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/33	
+Array
+(
+)
+2020-08-27 00:26:53 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/40	
+Array
+(
+)
+2020-08-27 00:27:04 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/48	
+Array
+(
+)
+2020-08-27 00:27:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 00:27:43 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fojas
+                    [value] => 1
+                )
+
+            [2] => Array
+                (
+                    [name] => no_descripcion_documento
+                    [value] => qwerty
+                )
+
+            [3] => Array
+                (
+                    [name] => no_caja
+                    [value] => 1
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_recepcion_judicial
+                    [value] => 2020-08-27
+                )
+
+            [5] => Array
+                (
+                    [name] => fecha_devolucion
+                    [value] => 2020-08-28
+                )
+
+            [6] => Array
+                (
+                    [name] => observaciones
+                    [value] => qwerty
+                )
+
+        )
+
+    [tabla] => libros_remision_documento_juzgado_
+    [materia] => PC
+    [id_juicio] => 1598458473
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Vía ejecutiva
+)
+2020-08-27 00:27:47 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/48	
+Array
+(
+)
+2020-08-27 00:28:00 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 09:54:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 09:54:54 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

@@ -1,0 +1,182 @@
+2020-08-28 07:56:47 [128] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 60250/2020-4 id_juicio: 1595986737 id_acuerdo: 1598619309	
+2020-08-28 07:56:47 [128] : DEBUG -  Se consulta el flujo	
+2020-08-28 07:56:48 [128] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 07:56:48 [128] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3426	
+2020-08-28 07:56:48 [128] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3426	
+2020-08-28 07:56:48 [128] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 07:57:02 [128] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 07:57:02 [128] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 07:57:02 [128] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 07:57:02 [128] : DEBUG -  Finalización de la firma.	
+2020-08-28 07:57:02 [128] : FIN   -  	
+2020-08-28 08:11:24 [910] : INIC  -  Juzgado: 1JFO Usuario: JFO1SB Acuerdo: 60250/2020-4 id_juicio: 1595986737 id_acuerdo: 1598619309	
+2020-08-28 08:11:24 [910] : DEBUG -  Se consulta el flujo	
+2020-08-28 08:11:24 [910] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 08:11:24 [910] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3427	
+2020-08-28 08:11:25 [910] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3427	
+2020-08-28 08:11:25 [910] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 08:11:37 [910] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 08:11:38 [910] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 08:11:38 [910] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3428	
+2020-08-28 08:11:39 [910] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Familiar de Proceso Oral | 60250/2020-4 |  JFO1SB | 2020-08-28 08:11:38 |  JFO1J | 2020-08-28 07:57:02 | FP: 2020-08-31 | NAS: 5100-0109-3295-7454-251 -- SIGJ / TSJCDMX --	
+2020-08-28 08:11:40 [910] : DEBUG -  Finaliza sello sigj	
+2020-08-28 08:11:40 [910] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-28 08:11:41 [910] : DEBUG -  DIV.EXPRES - Se decta el servicio de divorcio expres Catalogo: 623 - Tipo: autos	
+2020-08-28 08:11:42 [910] : DEBUG -  DIV.EXPRES - Descarga ultimo documento firmado ultima_version: 3429	
+2020-08-28 08:11:42 [910] : DEBUG -  DIV.EXPRES - configuración correos partes para envios	
+2020-08-28 08:11:42 [910] : DEBUG -  DIV.EXPRES - se mandan los correos al cron	
+2020-08-28 08:11:43 [910] : DEBUG -  DIV.EXPRES - finalizacion	
+2020-08-28 08:11:43 [910] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 08:11:43 [910] : DEBUG -  Finalización de la firma.	
+2020-08-28 08:11:43 [910] : FIN   -  	
+2020-08-28 10:34:12 [816] : INIC  -  Juzgado: 42PIC Usuario: JC42J Acuerdo: 327/2020-1 id_juicio: 1598628455 id_acuerdo: 1598628776	
+2020-08-28 10:34:12 [816] : DEBUG -  Se consulta el flujo	
+2020-08-28 10:34:12 [816] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 10:34:13 [816] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3431	
+2020-08-28 10:34:13 [816] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3431	
+2020-08-28 10:34:13 [816] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 10:34:26 [816] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 10:34:26 [816] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 10:34:26 [816] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 10:34:26 [816] : DEBUG -  Finalización de la firma.	
+2020-08-28 10:34:26 [816] : FIN   -  	
+2020-08-28 10:35:24 [581] : INIC  -  Juzgado: 42PIC Usuario: JC42SA Acuerdo: 327/2020-1 id_juicio: 1598628455 id_acuerdo: 1598628776	
+2020-08-28 10:35:24 [581] : DEBUG -  Se consulta el flujo	
+2020-08-28 10:35:25 [581] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 10:35:25 [581] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3432	
+2020-08-28 10:35:25 [581] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3432	
+2020-08-28 10:35:25 [581] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 10:35:38 [581] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 10:35:39 [581] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 10:35:39 [581] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3433	
+2020-08-28 10:35:39 [650] : INIC  -  Juzgado: 42PIC Usuario: JC42SA Acuerdo: 327/2020-1 id_juicio: 1598628455 id_acuerdo: 1598628776	
+2020-08-28 10:35:39 [650] : DEBUG -  Se consulta el flujo	
+2020-08-28 10:35:40 [581] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Cuadragésimo Segundo de lo Civil | 327/2020-1 |  JC42SA | 2020-08-28 10:35:38 |  JC42J | 2020-08-28 10:34:26 | FP: 2020-08-31 | NAS: 5100-0109-3302-2199-064 -- SIGJ / TSJCDMX --	
+2020-08-28 10:35:40 [650] : ERROR -  El acuerdo tiene candado de proceso de firmado.	
+2020-08-28 10:35:40 [650] : FIN   -  	
+2020-08-28 10:35:41 [581] : DEBUG -  Finaliza sello sigj	
+2020-08-28 10:35:41 [581] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-28 10:35:42 [581] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 10:35:42 [581] : DEBUG -  Finalización de la firma.	
+2020-08-28 10:35:42 [581] : FIN   -  	
+2020-08-28 10:36:56 [151] : INIC  -  Juzgado: 42PIC Usuario: JC42SA Acuerdo: 327/2020-1 id_juicio: 1598628455 id_acuerdo: 1598628776	
+2020-08-28 10:36:56 [151] : DEBUG -  Se consulta el flujo	
+2020-08-28 10:36:56 [151] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 10:36:57 [151] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3434	
+2020-08-28 10:36:57 [151] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3434	
+2020-08-28 10:36:57 [151] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 10:37:11 [148] : INIC  -  Juzgado: 42PIC Usuario: JC42SA Acuerdo: 327/2020-1 id_juicio: 1598628455 id_acuerdo: 1598628776	
+2020-08-28 10:37:11 [148] : DEBUG -  Se consulta el flujo	
+2020-08-28 10:37:11 [151] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 10:37:12 [148] : ERROR -  El acuerdo tiene candado de proceso de firmado.	
+2020-08-28 10:37:12 [148] : FIN   -  	
+2020-08-28 10:38:03 [182] : INIC  -  Juzgado: 42PIC Usuario: JC42SA Acuerdo: 327/2020-1 id_juicio: 1598628455 id_acuerdo: 1598628776	
+2020-08-28 10:38:03 [182] : DEBUG -  Se consulta el flujo	
+2020-08-28 10:38:04 [182] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 10:38:04 [182] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3434	
+2020-08-28 10:38:04 [182] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3434	
+2020-08-28 10:38:04 [182] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 10:38:17 [182] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 11:23:17 [941] : INIC  -  Juzgado: 42PIC Usuario: JC42J Acuerdo: 326/2020-3 id_juicio: 1598547982 id_acuerdo: 1598631747	
+2020-08-28 11:23:17 [941] : DEBUG -  Se consulta el flujo	
+2020-08-28 11:23:18 [941] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 11:23:18 [941] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3436	
+2020-08-28 11:23:18 [941] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3436	
+2020-08-28 11:23:18 [941] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 11:23:31 [941] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 11:23:31 [941] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 11:23:31 [941] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 11:23:32 [941] : DEBUG -  Finalización de la firma.	
+2020-08-28 11:23:32 [941] : FIN   -  	
+2020-08-28 11:24:13 [742] : INIC  -  Juzgado: 42PIC Usuario: JC42SB Acuerdo: 326/2020-3 id_juicio: 1598547982 id_acuerdo: 1598631747	
+2020-08-28 11:24:13 [742] : DEBUG -  Se consulta el flujo	
+2020-08-28 11:24:13 [742] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 11:24:14 [742] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3437	
+2020-08-28 11:24:14 [742] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3437	
+2020-08-28 11:24:14 [742] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 11:24:27 [742] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 11:24:28 [742] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 11:24:28 [742] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3438	
+2020-08-28 11:24:28 [809] : INIC  -  Juzgado: 42PIC Usuario: JC42SB Acuerdo: 326/2020-3 id_juicio: 1598547982 id_acuerdo: 1598631747	
+2020-08-28 11:24:28 [809] : DEBUG -  Se consulta el flujo	
+2020-08-28 11:24:29 [742] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Cuadragésimo Segundo de lo Civil | 326/2020-3 |  JC42SB | 2020-08-28 11:24:27 |  JC42J | 2020-08-28 11:23:31 | FP: 2020-08-31 | NAS: 5100-0109-3304-2517-733 -- SIGJ / TSJCDMX --	
+2020-08-28 11:24:29 [809] : ERROR -  El acuerdo tiene candado de proceso de firmado.	
+2020-08-28 11:24:29 [809] : FIN   -  	
+2020-08-28 11:24:30 [742] : DEBUG -  Finaliza sello sigj	
+2020-08-28 11:24:30 [742] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-28 11:24:31 [742] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 11:24:31 [742] : DEBUG -  Finalización de la firma.	
+2020-08-28 11:24:31 [742] : FIN   -  	
+2020-08-28 11:26:12 [675] : INIC  -  Juzgado: 42PIC Usuario: JC42SB Acuerdo: 326/2020-3 id_juicio: 1598547982 id_acuerdo: 1598631747	
+2020-08-28 11:26:12 [675] : DEBUG -  Se consulta el flujo	
+2020-08-28 11:26:12 [675] : DEBUG -  Se pone el candado de firmado.	
+2020-08-28 11:26:12 [675] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3439	
+2020-08-28 11:26:12 [675] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3439	
+2020-08-28 11:26:13 [675] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 11:26:26 [675] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 12:25:40 [607] : INIC  -  Juzgado: 1PIF Usuario: JF1SA Acuerdo: 1/2020-11 id_juicio: 1578499490429 id_acuerdo: 1598635495	
+2020-08-28 12:25:40 [607] : DEBUG -  Se consulta el flujo	
+2020-08-28 12:25:40 [607] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3441	
+2020-08-28 12:25:41 [607] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3441	
+2020-08-28 12:25:41 [607] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 12:25:54 [607] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 12:25:55 [607] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 12:25:55 [607] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 12:25:55 [607] : DEBUG -  Finalización de la firma.	
+2020-08-28 12:25:55 [607] : FIN   -  	
+2020-08-28 12:25:55 [165] : INIC  -  Juzgado: 1PIF Usuario: JF1SA Acuerdo: 1/2020-11 id_juicio: 1578499490429 id_acuerdo: 1598635495	
+2020-08-28 12:25:55 [165] : DEBUG -  Se consulta el flujo	
+2020-08-28 12:25:56 [165] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3442	
+2020-08-28 12:25:56 [165] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3442	
+2020-08-28 12:25:56 [165] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 12:26:09 [165] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 12:35:34 [151] : INIC  -  Juzgado: 14PIC Usuario: JC14SA Acuerdo: 103/2020-6 id_juicio: 1594668331 id_acuerdo: 1598636101	
+2020-08-28 12:35:34 [151] : DEBUG -  Se consulta el flujo	
+2020-08-28 12:35:35 [151] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3444	
+2020-08-28 12:35:35 [151] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3444	
+2020-08-28 12:35:35 [151] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 12:35:49 [968] : INIC  -  Juzgado: 14PIC Usuario: JC14SA Acuerdo: 103/2020-6 id_juicio: 1594668331 id_acuerdo: 1598636101	
+2020-08-28 12:35:49 [968] : DEBUG -  Se consulta el flujo	
+2020-08-28 12:35:50 [968] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3444	
+2020-08-28 12:35:50 [968] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3444	
+2020-08-28 12:35:50 [968] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 12:35:51 [151] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 12:35:52 [151] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 12:35:52 [151] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 12:35:52 [151] : DEBUG -  Finalización de la firma.	
+2020-08-28 12:35:52 [151] : FIN   -  	
+2020-08-28 12:36:03 [968] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 12:38:40 [946] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-11 id_juicio: 1578503871569 id_acuerdo: 1598636290	
+2020-08-28 12:38:40 [946] : DEBUG -  Se consulta el flujo	
+2020-08-28 12:38:40 [946] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3447	
+2020-08-28 12:38:41 [946] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3447	
+2020-08-28 12:38:41 [946] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 12:38:54 [946] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 12:38:54 [946] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 12:38:54 [946] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 12:38:54 [946] : DEBUG -  Finalización de la firma.	
+2020-08-28 12:38:54 [946] : FIN   -  	
+2020-08-28 12:39:47 [746] : INIC  -  Juzgado: 1PIC Usuario: JC1SA Acuerdo: 1/2020-11 id_juicio: 1578503871569 id_acuerdo: 1598636290	
+2020-08-28 12:39:47 [746] : DEBUG -  Se consulta el flujo	
+2020-08-28 12:39:48 [746] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3448	
+2020-08-28 12:39:48 [746] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3448	
+2020-08-28 12:39:48 [746] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 12:40:02 [746] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 12:40:03 [746] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 12:40:03 [746] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3449	
+2020-08-28 12:40:04 [746] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Civil | 1/2020-11 |  JC1SA | 2020-08-28 12:40:02 |  JC1J | 2020-08-28 12:38:54 | FP: 2020-08-31 | NAS: 5100-0109-3307-3587-310 -- SIGJ / TSJCDMX --	
+2020-08-28 12:40:05 [746] : DEBUG -  Finaliza sello sigj	
+2020-08-28 12:40:05 [746] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-28 12:40:06 [746] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 12:40:06 [746] : DEBUG -  Finalización de la firma.	
+2020-08-28 12:40:06 [746] : FIN   -  	
+2020-08-28 12:42:17 [159] : INIC  -  Juzgado: 14PIC Usuario: JC14SA Acuerdo: 103/2020-7 id_juicio: 1594668331 id_acuerdo: 1598636516	
+2020-08-28 12:42:17 [159] : DEBUG -  Se consulta el flujo	
+2020-08-28 12:42:17 [159] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3452	
+2020-08-28 12:42:17 [159] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3452	
+2020-08-28 12:42:18 [159] : DEBUG -  Intenta firmar FIREL	
+2020-08-28 12:42:31 [159] : DEBUG -  Finaliza firmar FIREL	
+2020-08-28 12:42:31 [159] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-28 12:42:31 [159] : DEBUG -  Se quita el candado de firmado.	
+2020-08-28 12:42:31 [159] : DEBUG -  Finalización de la firma.	
+2020-08-28 12:42:31 [159] : FIN   -  	

@@ -1,0 +1,690 @@
+2020-09-24 22:14:07 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-24 22:14:10 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 22:14:20 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+)
+2020-09-24 22:14:30 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+    [usuario_id] => 1595549907738
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 2296150
+            [1] => 2296161
+            [2] => 2296151
+            [3] => 2296160
+            [4] => 2296171
+            [5] => 2296169
+            [6] => 2296152
+            [7] => 2296153
+            [8] => 2296154
+            [9] => 5274433
+            [10] => 5274434
+            [11] => 5274435
+            [12] => 5274436
+            [13] => 5274437
+            [14] => 5274438
+            [15] => 2296103
+            [16] => 2296212
+            [17] => 2296213
+            [18] => 5264081
+            [19] => 5264082
+            [20] => 5264083
+            [21] => 5264070
+            [22] => 5264071
+            [23] => 2296155
+            [24] => 2296162
+            [25] => 5264095
+            [26] => 2296156
+            [27] => 2296163
+            [28] => 2296164
+            [29] => 2296165
+            [30] => 2296158
+            [31] => 2296166
+            [32] => 2296189
+            [33] => 5264096
+            [34] => 5274439
+            [35] => 5274440
+            [36] => 2296138
+            [37] => 2296110
+            [38] => 2296139
+            [39] => 2296116
+            [40] => 2296146
+            [41] => 2296143
+            [42] => 2296141
+            [43] => 2296111
+            [44] => 2296187
+            [45] => 2296142
+            [46] => 2296113
+            [47] => 2296117
+            [48] => 2296147
+            [49] => 2296148
+            [50] => 2296107
+            [51] => 2296119
+            [52] => 2296115
+            [53] => 2296188
+            [54] => 2296145
+            [55] => 2296144
+            [56] => 2296114
+            [57] => 2296118
+            [58] => 2296140
+        )
+
+    [permisos_menu] => Array
+        (
+            [2296150] => 1
+            [2296161] => 1
+            [2296151] => 1
+            [2296160] => 1
+            [2296152] => 1
+            [5264081] => 1
+            [5264082] => 1
+            [5264083] => 1
+            [5264070] => 1
+            [5264071] => 1
+            [5264095] => 1
+            [5264096] => 1
+            [2296138] => 1
+            [2296110] => 1
+        )
+
+)
+2020-09-24 22:14:31 [0] : DEBUG -  http://155.94.139.2/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-09-24 22:14:39 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-24 22:56:29 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-24 23:00:25 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-24 23:01:00 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => hora_entrada
+                    [value] => 00:00
+                )
+
+            [3] => Array
+                (
+                    [name] => cuantia
+                    [value] => Indeterminada
+                )
+
+            [4] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => MXN
+                )
+
+            [5] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 1,111.00
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_resolucion
+                    [value] => Definitiva
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_resolucion
+                    [value] => 2020-09-24
+                )
+
+            [8] => Array
+                (
+                    [name] => sentido_resolucion
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => fecha_resolucion_sala
+                    [value] => 2020-09-24
+                )
+
+            [10] => Array
+                (
+                    [name] => sentido_resolucion_sala
+                    [value] => 
+                )
+
+            [11] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-09-24 23:01:09 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 2020-10-01
+                )
+
+            [2] => Array
+                (
+                    [name] => hora_entrada
+                    [value] => 00:00
+                )
+
+            [3] => Array
+                (
+                    [name] => cuantia
+                    [value] => Indeterminada
+                )
+
+            [4] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => MXN
+                )
+
+            [5] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 1,111.00
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_resolucion
+                    [value] => Definitiva
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_resolucion
+                    [value] => 2020-09-24
+                )
+
+            [8] => Array
+                (
+                    [name] => sentido_resolucion
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => fecha_resolucion_sala
+                    [value] => 2020-09-24
+                )
+
+            [10] => Array
+                (
+                    [name] => sentido_resolucion_sala
+                    [value] => 
+                )
+
+            [11] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-09-24 23:01:11 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-24 23:02:24 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-24 23:02:34 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-24 23:04:19 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 1
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-24 23:05:00 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar_edicion/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => consecutivo
+                    [value] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2014
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 2013-11-22
+                )
+
+            [3] => Array
+                (
+                    [name] => hora_entrada
+                    [value] => 11:27:00
+                )
+
+            [4] => Array
+                (
+                    [name] => cuantia
+                    [value] => Indeterminada
+                )
+
+            [5] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => MXN
+                )
+
+            [6] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0.00
+                )
+
+            [7] => Array
+                (
+                    [name] => tipo_resolucion
+                    [value] => Definitiva
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_resolucion
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => sentido_resolucion
+                    [value] => 
+                )
+
+            [10] => Array
+                (
+                    [name] => fecha_resolucion_sala
+                    [value] => 
+                )
+
+            [11] => Array
+                (
+                    [name] => sentido_resolucion_sala
+                    [value] => 
+                )
+
+            [12] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [id_valor] => 1
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-24 23:05:02 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-24 23:36:24 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-09-24 23:36:24 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-24 23:36:27 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 23:36:30 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-24 23:36:46 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+)
+2020-09-24 23:36:57 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+    [usuario_id] => 1595549907738
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 2296150
+            [1] => 2296161
+            [2] => 2296151
+            [3] => 2296160
+            [4] => 2296171
+            [5] => 2296169
+            [6] => 2296152
+            [7] => 2296153
+            [8] => 2296154
+            [9] => 5274433
+            [10] => 5274434
+            [11] => 5274435
+            [12] => 5274436
+            [13] => 5274437
+            [14] => 5274438
+            [15] => 2296103
+            [16] => 2296212
+            [17] => 2296213
+            [18] => 5264081
+            [19] => 5264082
+            [20] => 5264083
+            [21] => 5264070
+            [22] => 5264071
+            [23] => 2296155
+            [24] => 2296162
+            [25] => 5264095
+            [26] => 2296156
+            [27] => 2296163
+            [28] => 2296164
+            [29] => 2296165
+            [30] => 2296158
+            [31] => 2296166
+            [32] => 2296189
+            [33] => 5264096
+            [34] => 5274439
+            [35] => 5274440
+            [36] => 2296138
+            [37] => 2296110
+            [38] => 2296139
+            [39] => 2296116
+            [40] => 2296146
+            [41] => 2296143
+            [42] => 2296141
+            [43] => 2296111
+            [44] => 2296187
+            [45] => 2296142
+            [46] => 2296113
+            [47] => 2296117
+            [48] => 2296147
+            [49] => 2296148
+            [50] => 2296107
+            [51] => 2296119
+            [52] => 2296115
+            [53] => 2296188
+            [54] => 2296145
+            [55] => 2296144
+            [56] => 2296114
+            [57] => 2296118
+            [58] => 2296140
+        )
+
+    [permisos_menu] => Array
+        (
+            [2296150] => 1
+            [2296161] => 1
+            [2296151] => 1
+            [2296160] => 1
+            [2296152] => 1
+            [5264081] => 1
+            [5264082] => 1
+            [5264083] => 1
+            [5264070] => 1
+            [5264071] => 1
+            [5264095] => 1
+            [5264096] => 1
+            [2296138] => 1
+            [2296110] => 1
+            [2296139] => 1
+        )
+
+)
+2020-09-24 23:36:57 [0] : DEBUG -  http://155.94.139.2/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-09-24 23:37:06 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-09-24 23:37:15 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-24 23:55:48 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-09-24 23:56:04 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-09-24 23:56:10 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-09-24 23:56:18 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-09-24 23:56:27 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-24 23:56:37 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-09-24 23:56:44 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-24 23:57:53 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_recibe_documento
+                    [value] => 2020-09-24
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_expide_documento
+                    [value] => 2020-09-24
+                )
+
+            [3] => Array
+                (
+                    [name] => no_documento
+                    [value] => 4
+                )
+
+            [4] => Array
+                (
+                    [name] => referencia
+                    [value] => 
+                )
+
+            [5] => Array
+                (
+                    [name] => monto_documento
+                    [value] => 10,000.10
+                )
+
+            [6] => Array
+                (
+                    [name] => expide
+                    [value] => no sé
+                )
+
+            [7] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => seccion_actor_o_demandado
+                    [value] => []
+                )
+
+            [9] => Array
+                (
+                    [name] => seccion_beneficiario
+                    [value] => [{"id_seccion":"seccion_beneficiario","tipo_persona":"Física","nombre_p":"beneficiario","paterno_p":"de ","materno_p":"prueba","no_lista":"2"}]
+                )
+
+        )
+
+    [tabla] => libros_ingresos_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [partes_extra] => Array
+        (
+            [0] => Array
+                (
+                    [id_seccion] => seccion_beneficiario
+                    [tipo_persona] => Física
+                    [nombre_p] => beneficiario
+                    [paterno_p] => de
+                    [materno_p] => prueba
+                    [no_lista] => 2
+                )
+
+        )
+
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-09-24 23:57:55 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-09-24 23:58:04 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libros_ingresos_juzgado_
+    [materia] => PIC
+)
+2020-09-24 23:59:15 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libros_ingresos_juzgado_
+    [materia] => PIC
+)
+2020-09-24 23:59:26 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 1
+    [tabla] => libros_ingresos_juzgado_
+    [materia] => PIC
+)

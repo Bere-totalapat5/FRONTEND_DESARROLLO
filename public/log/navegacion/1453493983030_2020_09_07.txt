@@ -1,0 +1,777 @@
+2020-09-07 10:50:11 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-07 10:50:27 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 10:50:32 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 10:50:57 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-09-07 10:51:08 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-07 11:07:48 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 11:07:53 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 11:07:55 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-07 11:10:42 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-07 12:07:07 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-07 12:33:45 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 12:34:22 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 14:03:05 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-07 20:58:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 20:58:05 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 20:58:08 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-07 20:58:34 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-07 21:06:47 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 21:06:52 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 21:07:06 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-07 21:08:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-07 21:08:26 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => hora_entrada
+                    [value] => 00:00
+                )
+
+            [3] => Array
+                (
+                    [name] => cuantia
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_resolucion
+                    [value] => 0
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_resolucion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => sentido_resolucion
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => fecha_resolucion_sala
+                    [value] => 
+                )
+
+            [10] => Array
+                (
+                    [name] => sentido_resolucion_sala
+                    [value] => 
+                )
+
+            [11] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1595825526
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Ordinario
+)
+2020-09-07 21:08:56 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 2020-09-08
+                )
+
+            [2] => Array
+                (
+                    [name] => hora_entrada
+                    [value] => 00:00
+                )
+
+            [3] => Array
+                (
+                    [name] => cuantia
+                    [value] => Indeterminada
+                )
+
+            [4] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => DLLS
+                )
+
+            [5] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 200,100
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_resolucion
+                    [value] => Interlocutoria
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_resolucion
+                    [value] => 2020-09-29
+                )
+
+            [8] => Array
+                (
+                    [name] => sentido_resolucion
+                    [value] => gfmfghmfghm
+                )
+
+            [9] => Array
+                (
+                    [name] => fecha_resolucion_sala
+                    [value] => 2020-09-17
+                )
+
+            [10] => Array
+                (
+                    [name] => sentido_resolucion_sala
+                    [value] => fgnjfgnjm
+                )
+
+            [11] => Array
+                (
+                    [name] => observaciones
+                    [value] => gfnmfgmfgmfg
+                )
+
+        )
+
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1595825526
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Ordinario
+)
+2020-09-07 21:09:00 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-07 21:09:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 9
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-07 21:09:33 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 9
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-07 21:09:57 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-07 21:10:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-07 21:14:01 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-07 21:14:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 36
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-07 21:15:21 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/19	
+Array
+(
+)
+2020-09-07 21:16:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-07 21:17:33 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/13	
+Array
+(
+)
+2020-09-07 21:18:09 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-07 21:18:21 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-07 21:18:39 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-07 21:19:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 21:19:08 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 21:19:22 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-07 21:19:35 [0] : DEBUG -  http://216.144.236.27/juicio/buscar_opc	
+Array
+(
+    [expediente] => 2
+    [anio] => 2020
+)
+2020-09-07 21:19:54 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => exhorto
+    [expediente] => 2
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-07 21:20:19 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-07 21:20:35 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-07 21:20:40 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-07 21:20:45 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-09-07 21:21:14 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 2
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => C50
+            [tipo_archivo] => exhorto
+            [fecha_ingreso] => 2020-09-07
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => moral 1
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => moral 2
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => demandado
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-09-07 21:21:19 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-07 21:21:27 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-09-07 21:21:39 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-07 21:21:56 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 10
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-07 21:23:25 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-07 21:24:05 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-07 21:24:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 10
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-07 21:24:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 10
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-07 21:25:17 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar_edicion/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => consecutivo
+                    [value] => 10
+                )
+
+            [1] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 2020-09-07
+                )
+
+            [3] => Array
+                (
+                    [name] => hora_entrada
+                    [value] => 21:21:18
+                )
+
+            [4] => Array
+                (
+                    [name] => cuantia
+                    [value] => Determinada
+                )
+
+            [5] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => EUROS
+                )
+
+            [6] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 8,000
+                )
+
+            [7] => Array
+                (
+                    [name] => tipo_resolucion
+                    [value] => Interlocutoria
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_resolucion
+                    [value] => 2020-09-28
+                )
+
+            [9] => Array
+                (
+                    [name] => sentido_resolucion
+                    [value] => qwerty
+                )
+
+            [10] => Array
+                (
+                    [name] => fecha_resolucion_sala
+                    [value] => 2020-09-10
+                )
+
+            [11] => Array
+                (
+                    [name] => sentido_resolucion_sala
+                    [value] => resolucion
+                )
+
+            [12] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [id_valor] => 10
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-07 21:25:21 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-07 21:25:33 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 10
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => PIC
+)
+2020-09-07 22:03:15 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-07 22:08:04 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-07 22:08:12 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 22:08:16 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 22:08:20 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-07 22:08:36 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => exhorto
+    [expediente] => 3
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-07 22:08:46 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-07 22:08:52 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-07 22:08:57 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-07 22:09:03 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-09-07 22:09:24 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 3
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => exhorto
+            [fecha_ingreso] => 2020-09-07
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => moral
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-09-07 22:09:29 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-07 22:09:38 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-09-07 22:09:52 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 2
+    [tabla] => libros_exhortos_juzgado_
+    [materia] => PIC
+)
+2020-09-07 22:10:21 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-07 22:10:35 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

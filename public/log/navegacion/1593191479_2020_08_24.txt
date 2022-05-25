@@ -1,0 +1,288 @@
+2020-08-24 20:20:54 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-24 20:21:12 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-24 20:21:21 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+    [usuario_id] => 1593191479
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 5263490
+            [1] => 5263481
+            [2] => 5263489
+            [3] => 5263500
+            [4] => 5263498
+            [5] => 5263482
+            [6] => 5263483
+            [7] => 5263484
+            [8] => 5263591
+            [9] => 5263592
+            [10] => 5263604
+            [11] => 5263605
+            [12] => 5263606
+            [13] => 5263593
+            [14] => 5263594
+            [15] => 5263491
+            [16] => 5258561
+            [17] => 5263492
+            [18] => 5263493
+            [19] => 5263494
+            [20] => 5263495
+            [21] => 5263518
+            [22] => 5263557
+            [23] => 5263558
+            [24] => 5263559
+            [25] => 5263560
+            [26] => 5263561
+            [27] => 5263601
+            [28] => 5263562
+            [29] => 5263563
+            [30] => 5263564
+            [31] => 5263565
+            [32] => 5263566
+            [33] => 5263602
+            [34] => 5263567
+            [35] => 5263568
+            [36] => 5263569
+            [37] => 5263570
+            [38] => 5263571
+            [39] => 5263603
+            [40] => 5263572
+            [41] => 5263573
+            [42] => 5263574
+            [43] => 5263575
+            [44] => 5263576
+            [45] => 5263577
+        )
+
+    [permisos_menu] => Array
+        (
+            [5263490] => 1
+            [5263481] => 1
+            [5263489] => 1
+            [5263500] => 1
+            [5263498] => 1
+            [5263482] => 1
+            [5263483] => 1
+            [5263484] => 1
+            [5263591] => 1
+            [5263592] => 1
+            [5263604] => 1
+            [5263605] => 1
+            [5263606] => 1
+            [5263593] => 1
+            [5263594] => 1
+            [5263491] => 1
+            [5258561] => 1
+            [5263492] => 1
+            [5263493] => 1
+            [5263494] => 1
+            [5263495] => 1
+            [5263518] => 1
+            [5263557] => 1
+            [5263558] => 1
+            [5263559] => 1
+            [5263560] => 1
+            [5263561] => 1
+            [5263601] => 1
+            [5263562] => 1
+            [5263563] => 1
+            [5263564] => 1
+            [5263565] => 1
+            [5263566] => 1
+            [5263602] => 1
+            [5263567] => 1
+            [5263568] => 1
+            [5263569] => 1
+            [5263570] => 1
+            [5263571] => 1
+            [5263603] => 1
+            [5263572] => 1
+            [5263573] => 1
+            [5263574] => 1
+            [5263575] => 1
+            [5263576] => 1
+            [5263577] => 1
+        )
+
+)
+2020-08-24 20:21:22 [0] : DEBUG -  http://216.144.236.27/menu_permisos/No%20hubo%20cambios%20por%20realizar	
+Array
+(
+)
+2020-08-24 20:21:47 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-24 20:37:30 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-24 20:37:36 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-24 20:37:41 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1598319408
+    [id_juicio] => 130
+    [codigo_organo] => 11PIF
+)
+2020-08-24 20:37:51 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1598319408
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 11PIF
+    [modal_ultima_version] => 3352
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 130
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php4gNGyZ
+            [fileName:SplFileInfo:private] => php4gNGyZ
+        )
+
+)
+2020-08-24 20:39:31 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-24 20:40:56 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-24 20:41:01 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1598319621
+    [id_juicio] => 130
+    [codigo_organo] => 11PIF
+)
+2020-08-24 20:41:07 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1598319621
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 11PIF
+    [modal_ultima_version] => 3357
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 130
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpOG0Joi
+            [fileName:SplFileInfo:private] => phpOG0Joi
+        )
+
+)
+2020-08-24 20:41:29 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-08-24 20:41:30 [0] : DEBUG -  http://216.144.236.27/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-08-24 20:41:37 [0] : DEBUG -  http://216.144.236.27/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-08-24 20:41:46 [0] : DEBUG -  http://216.144.236.27/bandejas/proximaPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-08-26
+    [fecha_hasta] => 2020-08-26
+)
+2020-08-24 20:41:51 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598319621
+    [ponencia] => 11PIF
+    [id_documento] => 3359
+    [tipo_documento] => pdf
+)
+2020-08-24 20:43:27 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones	
+Array
+(
+)
+2020-08-24 20:43:54 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones/2021/10/12	
+Array
+(
+)
+2020-08-24 20:44:01 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones/2021/10/13	
+Array
+(
+)
+2020-08-24 20:44:25 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones/2018/10/18	
+Array
+(
+)
+2020-08-24 20:44:33 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones/2018/10/17	
+Array
+(
+)
+2020-08-24 20:45:05 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones/2018/10/26	
+Array
+(
+)
+2020-08-24 21:09:10 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-24 21:09:25 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2011
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-24 21:09:46 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/8419	
+Array
+(
+)
+2020-08-24 21:10:12 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-24 21:40:53 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)

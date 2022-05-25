@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="215.9mm" height="330.2mm" viewBox="0 0 21590 33020" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="21590" height="33020"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="ITC Franklin Gothic Std Book embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1402" descent="661"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="T" horiz-adv-x="1006" d="M 600,1251 L 999,1251 999,1405 25,1405 25,1251 424,1251 424,-1 600,-1 600,1251 Z"/>
+   <glyph unicode="S" horiz-adv-x="1113" d="M 88,379 C 182,107 371,-20 657,-20 784,-20 922,5 1024,82 1126,160 1182,275 1182,402 1182,513 1139,609 1051,680 979,742 887,769 795,789 L 584,840 C 453,871 330,906 330,1063 330,1217 498,1287 631,1287 780,1287 944,1193 975,1039 L 1135,1082 C 1059,1309 870,1426 635,1426 391,1426 158,1309 158,1039 158,941 199,844 272,779 346,711 432,689 526,666 L 760,609 C 883,578 999,521 999,379 999,312 967,240 913,199 848,148 745,130 662,130 465,130 303,220 246,414 L 88,379 Z"/>
+   <glyph unicode="J" horiz-adv-x="636" d="M 662,1406 L 485,1406 485,459 C 485,375 494,283 440,211 391,144 295,132 215,132 154,132 94,140 35,152 L 35,9 C 100,-10 170,-20 240,-20 367,-20 498,15 580,121 655,216 662,343 662,459 L 662,1406 Z"/>
+   <glyph unicode="F" horiz-adv-x="874" d="M 344,1 L 344,666 911,666 911,807 344,807 344,1254 1028,1254 1028,1406 168,1406 168,1 344,1 Z"/>
+   <glyph unicode="D" horiz-adv-x="1112" d="M 174,0 L 676,0 C 868,0 1014,66 1126,223 1227,365 1272,535 1272,707 1272,889 1223,1065 1102,1206 969,1364 819,1405 619,1405 L 174,1405 174,0 Z M 350,150 L 350,1258 608,1258 C 756,1258 868,1235 965,1114 1057,999 1094,850 1094,707 1094,580 1061,434 991,328 899,186 770,150 608,150 L 350,150 Z"/>
+  </font>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects"/>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+    <g class="Page">
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id3">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 5216,12520 L 1675,12520 1675,10152 8756,10152 8756,12520 5216,12520 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ITC Franklin Gothic Std Book, sans-serif" font-size="2117px" font-weight="400"><tspan class="TextPosition" x="1925" y="11729"><tspan fill="rgb(204,204,204)" stroke="none">TSJDF</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id4">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 14836,12520 L 11295,12520 11295,10152 18376,10152 18376,12520 14836,12520 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ITC Franklin Gothic Std Book, sans-serif" font-size="2117px" font-weight="400"><tspan class="TextPosition" x="11545" y="11729"><tspan fill="rgb(204,204,204)" stroke="none">TSJDF</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id5">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 5216,17600 L 1675,17600 1675,15232 8756,15232 8756,17600 5216,17600 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ITC Franklin Gothic Std Book, sans-serif" font-size="2117px" font-weight="400"><tspan class="TextPosition" x="1925" y="16809"><tspan fill="rgb(204,204,204)" stroke="none">TSJDF</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id6">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 14836,17600 L 11295,17600 11295,15232 18376,15232 18376,17600 14836,17600 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ITC Franklin Gothic Std Book, sans-serif" font-size="2117px" font-weight="400"><tspan class="TextPosition" x="11545" y="16809"><tspan fill="rgb(204,204,204)" stroke="none">TSJDF</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id7">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 5216,22680 L 1675,22680 1675,20312 8756,20312 8756,22680 5216,22680 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ITC Franklin Gothic Std Book, sans-serif" font-size="2117px" font-weight="400"><tspan class="TextPosition" x="1925" y="21889"><tspan fill="rgb(204,204,204)" stroke="none">TSJDF</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id8">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 14836,22680 L 11295,22680 11295,20312 18376,20312 18376,22680 14836,22680 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ITC Franklin Gothic Std Book, sans-serif" font-size="2117px" font-weight="400"><tspan class="TextPosition" x="11545" y="21889"><tspan fill="rgb(204,204,204)" stroke="none">TSJDF</tspan></tspan></tspan></text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

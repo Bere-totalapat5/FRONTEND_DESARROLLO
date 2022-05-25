@@ -1,0 +1,14 @@
+<?php
+//Comando de impresion en PDF
+$python_ooo  = "/usr/bin/python3";
+$script_dir = "/var/www/scripts";
+$files = " /files/firmados/2015/08/13/19/1439512521017.htm ";
+$comando = "$python_ooo \"$script_dir/firmas/doc_para_coser.py3\" $files ";
+
+echo "comando exec:" . $comando ;
+exec( $comando , $output, $retorno);
+
+echo "retorno " . $retono ;
+echo "output " . $output ;
+echo "output[0]" . $output[0];
+?>

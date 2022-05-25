@@ -1,0 +1,48 @@
+2020-10-06 17:20:17 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 17:20:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 17:20:26 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-10-06 17:20:53 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes?anio=&expediente=&fecha_desde=&fecha_hasta=&folio=%200000267694	
+Array
+(
+    [folio] => 0000267694
+    [expediente] => 
+    [anio] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-06 17:21:04 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes?anio=&expediente=&fecha_desde=&fecha_hasta=&folio=267694	
+Array
+(
+    [folio] => 267694
+    [expediente] => 
+    [anio] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-06 17:21:30 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-10-06 17:22:50 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

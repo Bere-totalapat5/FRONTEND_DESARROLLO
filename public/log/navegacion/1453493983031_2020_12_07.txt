@@ -1,0 +1,121 @@
+2020-12-07 09:45:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 09:46:02 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+)
+2020-12-07 10:03:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 10:03:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+)
+2020-12-07 10:03:25 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-07 10:36:28 [0] : DEBUG -  http://155.94.139.2:8082	
+Array
+(
+)
+2020-12-07 10:36:28 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 10:36:40 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 10:36:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+)
+2020-12-07 15:22:41 [0] : DEBUG -  http://155.94.139.2:8082	
+Array
+(
+)
+2020-12-07 15:22:41 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:22:53 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:22:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+)
+2020-12-07 15:24:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:24:19 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:24:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:24:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:25:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 16:00:03 [0] : DEBUG -  http://155.94.139.2:8082/billetes_ajax_R/generar_formato	
+Array
+(
+    [escrito_inicial] => 
+    [codigo_organo] => -
+    [materia] => -
+    [concepto] => 
+    [concepto_otro] => 
+    [tipo_moneda] => peso
+    [monto] => 
+    [fecha_remate] => -
+    [hora_remate] => -
+    [involucrado_tipo_persona] => fisica
+    [involucrado_nombres] => 
+    [involucrado_apellido_paterno] => 
+    [involucrado_apellido_materno] => 
+    [involucrado_rfc] => 
+)
+2020-12-07 16:06:08 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 16:06:16 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+)
+2020-12-07 17:39:35 [0] : DEBUG -  http://155.94.139.2:8082	
+Array
+(
+)
+2020-12-07 17:39:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)

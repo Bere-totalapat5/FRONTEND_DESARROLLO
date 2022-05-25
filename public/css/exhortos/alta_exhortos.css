@@ -1,0 +1,241 @@
+#divCoincidencias {
+  right: -21rem; 
+  background: rgb(132,143,51,0.7); 
+  color: #FFF; 
+  position: fixed; 
+  width: 23em; 
+  padding: 5px 10px 10px 10px; 
+  border: 1px solid #848F33;
+  border-radius: 16px;  
+  z-index: 1032; 
+  top: 11rem; 
+  transition: 0.8s;
+}
+
+#divCoincidencias h6 {
+  margin-bottom: 0;
+  margin-right: auto;
+}
+
+#divCoincidencias a.btn_cerrar {
+  display: inline-block;
+  text-align: end;
+  font-size: 1.5em;
+  left: 5.7em;
+  position: relative;
+  top: -0.2em;
+}
+
+#bodyTableCoincidencias a.accion{
+  padding: 3px 5px;
+  background: #848F33;
+  border-radius: 4px;
+  color: #fff;
+}
+
+#divCoincidencias.div_visible {
+  right: 3rem !important;
+}
+
+#modalCoincidencias .modal-dialog{
+  min-width: 900px;
+}
+
+#modalExhortoCoincidencia .modal-dialog{
+  min-width: 900px;
+}
+
+#modalCoincidencias .modal-dialog table{
+  display: block;
+}
+
+.folio_carpeta{
+  min-width: 10em;
+}
+
+.fecha_recepcion {
+  min-width: 12em;
+}
+
+.entidad_federativa {
+  min-width: 12em;
+}
+
+.expediente_origen {
+  min-width: 7em;
+}
+
+.numero_oficio {
+  min-width: 5em;
+}
+
+.juzgado_exhortante {
+  min-width: 10em;
+}
+
+.participantes {
+  min-width: 18em;
+}
+
+.label_td {
+  display: none;
+  color: #000;
+}
+
+.tx-danger {
+  color: #dc3545 !important;
+}
+
+.div-alias span {
+  display: inline-block;
+}
+
+.div-alias input {
+  display: none;
+}
+
+.div-alias.active input {
+  display: inline-block;
+}
+
+.div-alias.active span {
+  display: none;
+}
+
+input.input-alias {
+  width: 100%;
+}
+
+table.table thead td{
+  padding: 6px 12px;
+}
+
+table.table tr {
+  border: 1px solid #EEE;
+}
+
+table.tableDatosSujeto tbody.table-datos-sujeto tr td:nth-child(2n-1){
+  background-color: #FDFFF4;
+}
+
+table.tableDatosSujeto  td, table.tableDatosSujeto th{
+  border-bottom: 1px solid #dee2e6;
+  vertical-align: text-top;
+  padding: 2px 12px;
+}
+
+table.tableDatosSujeto tr:nth-child(3n) {
+  border-left: 1px solid #EEE;
+}
+
+.a_acciones {
+  min-width: 20em;
+}
+
+.a_alias{
+  min-width: 40em;
+}
+
+.btn-eliminar-alias {
+  font-size: 1.4em;
+  border: 1px solid #dc3545;
+  padding: 2px 5px;
+  border-radius: 5px;
+  display: inline-grid;
+}
+
+.btn-eliminar-alias:hover {
+  background-color: #dc3545;
+  color: #fff !important;
+}
+
+.btn-editar-alias {
+  font-size: 1.4em;
+  border: 1px solid #154f89;
+  padding: 2px 4px;
+  border-radius: 5px;
+  display: inline-grid;
+}
+
+.btn-editar-alias:hover {
+  background-color: #154f89;
+  color: #fff !important;
+}
+
+#a_guardar:hover{
+  background-color: #848F33;
+  color: #FFF !important;
+}
+
+#theadAlias th, #theadAlias td {
+  padding: 5px 12px !important;
+}
+
+::-webkit-scrollbar {
+  height: 8px;  
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #D7DCE1; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8acaf; 
+}
+::-webkit-scrollbar-track {
+  background: #fff 
+}
+
+@media only screen and ( max-width: 992px ) {
+
+  #modalCoincidencias table.dataTable.row-border tbody th, #modalCoincidencias table.dataTable.row-border tbody td, #modalCoincidencias table.dataTable.display tbody th, #modalCoincidencias table.dataTable.display tbody td {
+    border-top: none;
+  }
+
+  #modalCoincidencias table.dataTable {
+    border: none;
+  }
+
+  .label_td {
+    display: inline-block;
+  }
+
+  #modalCoincidencias table thead{
+    display: none;
+  }
+
+  #modalCoincidencias table tbody {
+    display: block;
+  }
+
+  #modalCoincidencias table tbody tr{
+    display: grid;
+    margin-bottom: 5px;
+    /* border-top: 2px solid #EEE; */
+    border: 1px solid #EEE;
+  }
+
+  #modalCoincidencias table tbody td{
+    padding: 8px 12px !important;    
+  }
+
+  
+
+  #divCoincidencias {
+    top: 5rem;
+  }
+
+  #divCoincidencias.div_visible {
+    right: 1rem !important;
+  }
+
+  #modalCoincidencias .modal-dialog{
+    min-width: 0;
+    width: calc( 100% - 16px ) !important;
+  }
+
+  #modalExhortoCoincidencia .modal-dialog{
+    min-width: 0;
+    width: calc( 100% - 16px ) !important;
+  }
+
+}

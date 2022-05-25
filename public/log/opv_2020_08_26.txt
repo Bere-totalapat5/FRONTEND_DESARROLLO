@@ -1,0 +1,327 @@
+2020-08-26 11:40:51 Array
+(
+    [idDocumento] => 3257410
+    [juzgado] => C4
+    [idMateria] => C
+    [noExpediente] => 7
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 11:40:47
+    [tipoJuicio] => 199
+    [reg_date] => 
+    [idExpediente] => 4937740
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599475,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/850/851/25263/25264/1.pdf","idDocument":7297}]
+    [origen] => OPV
+    [nombreCapturista] => asd ASD
+    [emailCapturista] => asd@sad.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-26 11:42:52 Array
+(
+    [idDocumento] => 3257411
+    [juzgado] => F3
+    [idMateria] => F
+    [noExpediente] => 15
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 11:42:56
+    [tipoJuicio] => 399
+    [reg_date] => 
+    [idExpediente] => 4937741
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599477,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/2494/2495/25270/25271/2.pdf","idDocument":7298}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-26 12:25:59 Array
+(
+    [idDocumento] => 3257416
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 12:25:54
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4937742
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599483,"participacion":1,"tipoPersona":"F","apPaterno":"ROBLES","apMaterno":"SALGADO","nombre":"ANTONIO","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/15/56/208/209/1_14.pdf","idDocument":7299}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asdas.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-26 12:49:51 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => F100
+    [idMateria] => F
+    [noExpediente] => 605
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-26 12:57:49 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => R100
+    [idMateria] => R
+    [noExpediente] => 605
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-26 13:11:58 Array
+(
+    [idDocumento] => 3257424
+    [juzgado] => F3
+    [idMateria] => F
+    [noExpediente] => 15
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 01:11:59
+    [tipoJuicio] => 399
+    [reg_date] => 
+    [idExpediente] => 4937743
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599494,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/2494/2495/25270/25271/1.pdf","idDocument":7300}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-26 13:13:50 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => R100
+    [idMateria] => R
+    [noExpediente] => 605
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-26 13:50:17 Array
+(
+    [idDocumento] => 3257429
+    [juzgado] => F3
+    [idMateria] => F
+    [noExpediente] => 15
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 01:50:16
+    [tipoJuicio] => 399
+    [reg_date] => 
+    [idExpediente] => 4937744
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599500,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/2494/2495/25270/25271/1_0.pdf","idDocument":7303}]
+    [origen] => OPV
+    [nombreCapturista] => ASD DAS
+    [emailCapturista] => as@d2sad.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-26 14:01:00 Array
+(
+    [idDocumento] => 3257432
+    [juzgado] => F3
+    [idMateria] => F
+    [noExpediente] => 15
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 02:00:59
+    [tipoJuicio] => 399
+    [reg_date] => 
+    [idExpediente] => 4937745
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599504,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/2494/2495/25270/25271/1_1.pdf","idDocument":7304}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@sad.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-26 14:19:40 Array
+(
+    [idDocumento] => 3257433
+    [juzgado] => F3
+    [idMateria] => F
+    [noExpediente] => 15
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 02:19:39
+    [tipoJuicio] => 399
+    [reg_date] => 
+    [idExpediente] => 4937746
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599506,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/2494/2495/25270/25271/1_2.pdf","idDocument":7307}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-26 15:33:57 Array
+(
+    [idDocumento] => 3257434
+    [juzgado] => C62
+    [idMateria] => C
+    [noExpediente] => 6029
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 03:33:33
+    [tipoJuicio] => 102
+    [reg_date] => 
+    [idExpediente] => 4632856
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599508,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUJICAL","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/292/293/25286/25287/1.pdf","idDocument":7308}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-26 15:42:36 Array
+(
+    [idDocumento] => 3257435
+    [juzgado] => R1
+    [idMateria] => R
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 03:42:41
+    [tipoJuicio] => 357
+    [reg_date] => 
+    [idExpediente] => 4632857
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599511,"participacion":1,"tipoPersona":"F","apPaterno":"ORTIZ","apMaterno":"DOMINCGUES","nombre":"JUANA","razonSocial":"","email":"ASD@ASD.ASD"},{"idPersona":20599512,"participacion":1,"tipoPersona":"F","apPaterno":"LEUMECIA","apMaterno":"SALAZAR","nombre":"CLAUDIO","razonSocial":"","email":"ASD@ASD.ASD"}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/1783/1784/25293/25294/1.pdf","idDocument":7309},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/1783/1784/25293/25294/Acuse_renovacion.pdf","idDocument":7310}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.ds
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 2
+)
+	
+2020-08-26 15:44:49 Array
+(
+    [idDocumento] => 3257436
+    [juzgado] => R6
+    [idMateria] => R
+    [noExpediente] => 6076
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 03:44:54
+    [tipoJuicio] => 360
+    [reg_date] => 
+    [idExpediente] => 4632858
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599514,"participacion":1,"tipoPersona":"F","apPaterno":"SAD","apMaterno":"","nombre":"ADS","razonSocial":"","email":"ASD@SAD.ASD"}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/600/601/25300/25301/1.pdf","idDocument":7311}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@sad.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 1
+)
+	
+2020-08-26 16:56:07 Array
+(
+    [idDocumento] => 3257438
+    [juzgado] => C2
+    [idMateria] => C
+    [noExpediente] => 6024
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-26 04:55:39
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632860
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599522,"participacion":1,"tipoPersona":"F","apPaterno":"ARROYO","apMaterno":"MOSQUEDA","nombre":"MARIA DEL CARMEN","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599523,"participacion":1,"tipoPersona":"F","apPaterno":"LAGUNA ","apMaterno":"NAVARRETE SU SUCESION","nombre":"VICTOR","razonSocial":""},{"idPersona":20599524,"participacion":1,"tipoPersona":"F","apPaterno":"VELASCO","apMaterno":"VAZQUEZ SU SUCESION","nombre":"HERMELINDA","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/24/575/25307/25308/PROMOCION DE EJEMPLO.pdf","idDocument":7312}]
+    [origen] => OPV
+    [nombreCapturista] => FEDCFS GHYFG
+    [emailCapturista] => bdhru@gmail.com
+    [telefonoCapturista] => 5581213467
+    [tipoTramiteDivorcio] => 0
+)
+	

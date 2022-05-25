@@ -1,0 +1,110 @@
+2020-10-02 08:29:05 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-10-02 08:29:09 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-02 08:29:15 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-10-02 08:32:20 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1601645257
+    [ponencia] => 1JFO
+    [id_documento] => 4208
+    [tipo_documento] => pdf
+)
+2020-10-02 08:32:26 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1601645257
+    [id_juicio] => 1578510248961
+    [codigo_organo] => 1JFO
+)
+2020-10-02 08:32:29 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601645257
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1JFO
+    [modal_ultima_version] => 4208
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578510248961
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-10-02 08:32:41 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-10-02 08:34:21 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-10-02 08:34:29 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1601405170
+    [id_juicio] => 1578508855890
+    [codigo_organo] => 1JFO
+)
+2020-10-02 08:34:32 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601405170
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1JFO
+    [modal_ultima_version] => 4199
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578508855890
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-10-02 08:38:40 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-10-02 08:38:45 [0] : DEBUG -  http://172.16.159.181/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-10-02 08:38:52 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1601405170
+    [id_juicio] => 1578508855890
+    [codigo_organo] => 1JFO
+)
+2020-10-02 08:38:58 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1601645257
+    [id_juicio] => 1578510248961
+    [codigo_organo] => 1JFO
+)
+2020-10-02 08:39:05 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

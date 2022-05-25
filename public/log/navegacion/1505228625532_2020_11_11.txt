@@ -1,0 +1,229 @@
+2020-11-11 14:13:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-11 14:14:03 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-11 14:14:10 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-11 14:14:35 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-11 14:14:40 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-11 14:40:00 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-11-11 14:40:00 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-11 14:40:11 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+)
+2020-11-11 14:40:29 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+    [usuario_id] => 1505228625532
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 212
+            [1] => 651
+            [2] => 213
+            [3] => 349
+            [4] => 806
+            [5] => 769
+            [6] => 214
+            [7] => 215
+            [8] => 216
+            [9] => 217
+            [10] => 348
+            [11] => 218
+            [12] => 241
+            [13] => 242
+            [14] => 243
+            [15] => 220
+            [16] => 378
+            [17] => 379
+            [18] => 446
+            [19] => 221
+            [20] => 350
+            [21] => 370
+            [22] => 233
+            [23] => 371
+            [24] => 372
+            [25] => 862
+            [26] => 373
+            [27] => 374
+            [28] => 375
+            [29] => 376
+            [30] => 377
+        )
+
+    [permisos_menu] => Array
+        (
+            [212] => 1
+            [651] => 1
+            [213] => 1
+            [349] => 1
+            [806] => 1
+            [769] => 1
+            [214] => 1
+            [215] => 1
+            [216] => 1
+            [217] => 1
+            [348] => 1
+            [218] => 1
+            [241] => 1
+            [242] => 1
+            [243] => 1
+            [220] => 1
+            [378] => 1
+            [379] => 1
+            [446] => 1
+            [221] => 1
+            [350] => 1
+            [370] => 1
+            [233] => 1
+            [371] => 1
+            [372] => 1
+            [862] => 1
+            [373] => 1
+            [374] => 1
+            [375] => 1
+            [376] => 1
+            [377] => 1
+        )
+
+)
+2020-11-11 14:40:29 [0] : DEBUG -  http://155.94.139.2/menu_permisos/No%20hubo%20cambios%20por%20realizar	
+Array
+(
+)
+2020-11-11 14:40:37 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-11 14:43:05 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-11 14:45:50 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-11 14:47:20 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-11 14:47:34 [0] : DEBUG -  http://155.94.139.2/asignacion_flujo_participantes	
+Array
+(
+    [acuerdo_id] => 1593910667
+    [id_flujo_participante] => 23
+    [posicion] => 1
+    [seccion] => firmas
+)
+2020-11-11 14:48:29 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-11 14:49:49 [0] : DEBUG -  http://155.94.139.2/bandejas/retreceso/ajax	
+Array
+(
+    [id_acuerdo] => 1593910667
+)
+2020-11-11 14:49:58 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-11 14:50:10 [0] : DEBUG -  http://155.94.139.2/bandejas/retreceso/ajax	
+Array
+(
+    [id_acuerdo] => 1593910667
+)
+2020-11-11 14:50:12 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-11 14:50:14 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-11 14:50:19 [0] : DEBUG -  http://155.94.139.2/bandejas/avanzar/ajax	
+Array
+(
+    [id_acuerdo] => 1593910667
+    [codigo_organo] => 5SF
+    [ultima_version] => 0
+    [bandeja] => revision
+    [tipo_firma] => firel
+    [tipo_flujo_nombre] => AUA
+)
+2020-11-11 14:50:24 [0] : DEBUG -  http://155.94.139.2/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-11-11 14:50:33 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1593910667
+    [id_juicio] => 1593633664
+    [codigo_organo] => 5SF
+)
+2020-11-11 14:50:50 [0] : DEBUG -  http://155.94.139.2/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-11-11 14:50:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-11 14:51:06 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-11-11 14:52:10 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-11 14:52:49 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1593633664	
+Array
+(
+)
+2020-11-11 14:53:02 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [_token] => 15243GgZR9kGzToAS34v42DYlIW9kxQd4lfBra7I
+    [id_juicio] => 1593633664
+    [juicio] => 1/2007
+    [tipo_firma] => unitaria
+    [tipo_flujo] => 8
+    [ponencia_origen] => 1
+    [acuerdo] => 103
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha_especial] => 
+    [anotacion] => 
+    [tipo_resolucion_radio] => acuerdo
+    [resuelve] => Admite
+    [publicar_en_slct] => TOCA
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [tipo_noti_elect] => 1
+)
+2020-11-11 14:53:11 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1593633664	
+Array
+(
+)

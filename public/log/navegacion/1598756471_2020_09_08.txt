@@ -1,0 +1,12 @@
+2020-09-08 17:15:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-08 17:15:08 [0] : DEBUG -  http://216.144.236.27/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-08 17:15:44 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

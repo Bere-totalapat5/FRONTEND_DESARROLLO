@@ -1,0 +1,1353 @@
+2020-08-29 10:37:55 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 10:38:08 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 10:38:19 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1598636290,1PIC,3450-
+)
+2020-08-29 10:38:31 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1598636290,1PIC,3450-1598512911,1PIC,3408-1596081539,1PIC,2764-1596081518,1PIC,2763-1595863554,1PIC,2664-
+)
+2020-08-29 10:39:12 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 12
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-29
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpE5BMtz
+            [fileName:SplFileInfo:private] => phpE5BMtz
+        )
+
+)
+2020-08-29 10:39:16 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 11:45:41 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 11:45:46 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 12:14:23 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 12:14:29 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 13:43:28 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 13:43:33 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 13:43:53 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 13
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-29
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpmpPmBv
+            [fileName:SplFileInfo:private] => phpmpPmBv
+        )
+
+)
+2020-08-29 13:43:56 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 13:49:49 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 14
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-29
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpIYPqf8
+            [fileName:SplFileInfo:private] => phpIYPqf8
+        )
+
+)
+2020-08-29 13:49:52 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 13:51:18 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 13:51:38 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 15
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-29
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpBFsL6g
+            [fileName:SplFileInfo:private] => phpBFsL6g
+        )
+
+)
+2020-08-29 13:52:24 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-29 13:52:24 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 13:52:26 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-29 13:52:26 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 14:22:38 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 14:22:42 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 14:23:00 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 14:23:04 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 14:23:29 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:24:31 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:24:40 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:27:16 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:29:51 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:31:22 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:31:59 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 14:32:06 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-29 14:32:38 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:34:17 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:34:22 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-29 14:34:50 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:36:43 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 14:36:50 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-29 14:37:04 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1598636290,1PIC,3450-
+)
+2020-08-29 14:37:49 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:38:12 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:38:22 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:38:31 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:38:40 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:38:53 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:39:03 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:41:01 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:41:53 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:42:28 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:53:44 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 14:53:47 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:27:33 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:28:00 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:28:27 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:29:42 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:30:59 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:32:03 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:32:35 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:32:48 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-29 15:32:48 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 15:32:53 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 15:33:42 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:33:58 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:35:53 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1598636290,1PIC,3450-
+)
+2020-08-29 15:37:52 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1598512911,1PIC,3408-
+)
+2020-08-29 15:38:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 15:38:10 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 15:38:16 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1582151035139	
+Array
+(
+)
+2020-08-29 15:38:27 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1597536543,1PIC,3022-1597250960,1PIC,3005-
+)
+2020-08-29 15:38:50 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1582151035139
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 55
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 30
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-29
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpYP7sUr
+            [fileName:SplFileInfo:private] => phpYP7sUr
+        )
+
+)
+2020-08-29 15:38:53 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1582151035139	
+Array
+(
+)
+2020-08-29 15:50:11 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:50:16 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1582151035139	
+Array
+(
+)
+2020-08-29 15:52:20 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:52:55 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:53:10 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:53:43 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:54:18 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:54:28 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:54:40 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:55:42 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:56:22 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:56:34 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:56:55 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:57:07 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:57:17 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:57:24 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:57:30 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:57:44 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:57:49 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:58:11 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:58:51 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 15:59:32 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:00:01 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:08:53 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:09:24 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1582151035139	
+Array
+(
+)
+2020-08-29 16:09:33 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-29 16:09:42 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598733532
+    [ponencia] => 1PIC
+    [id_documento] => 3469
+    [tipo_documento] => pdf
+)
+2020-08-29 16:09:51 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598726991
+    [ponencia] => 1PIC
+    [id_documento] => 3467
+    [tipo_documento] => pdf
+)
+2020-08-29 16:12:33 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:12:49 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:14:43 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:15:09 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:15:35 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:15:46 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:16:18 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:16:30 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:17:10 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:17:31 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:17:58 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:18:10 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:18:33 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:18:54 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:19:01 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598726991
+    [ponencia] => 1PIC
+    [id_documento] => 3467
+    [tipo_documento] => pdf
+)
+2020-08-29 16:19:10 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:19:31 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:20:19 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:20:24 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:20:30 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:21:30 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:22:25 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:22:52 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:23:04 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:24:11 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:24:33 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:24:47 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:24:54 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:24:59 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:25:04 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:25:10 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:25:17 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:25:26 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:25:31 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:25:36 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:26:02 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:26:20 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:26:46 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:31:58 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:32:34 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:32:47 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:32:59 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:33:11 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-29 16:33:30 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-29 16:33:30 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 16:33:31 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-29 16:33:31 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 16:33:32 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-29 16:33:33 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 16:36:22 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:37:05 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:37:34 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:37:49 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:37:51 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:38:03 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:38:38 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:39:02 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:39:42 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:40:18 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:40:22 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:41:05 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:41:38 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:42:50 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:43:17 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:43:25 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:43:38 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:43:48 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:43:56 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:44:43 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-29 16:44:49 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:44:59 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:45:18 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:45:46 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:46:29 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:46:53 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:49:20 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:49:37 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:49:53 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:50:01 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:50:23 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:51:08 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:51:29 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:52:22 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:52:43 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:53:10 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:53:37 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:54:02 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:54:24 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:54:43 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:54:48 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:55:12 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:55:29 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:55:51 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:56:10 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:56:36 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:57:15 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:57:23 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:57:35 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:58:42 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:59:10 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 16:59:42 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598733532
+    [ponencia] => 1PIC
+    [id_documento] => 3469
+    [tipo_documento] => pdf
+)
+2020-08-29 16:59:49 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-29 16:59:58 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598726991
+    [ponencia] => 1PIC
+    [id_documento] => 3467
+    [tipo_documento] => pdf
+)
+2020-08-29 17:00:52 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:01:05 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:01:31 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:03:08 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:03:20 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:03:34 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:03:37 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:04:08 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:04:34 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:04:52 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:05:12 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:05:57 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:07:02 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:07:26 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:07:33 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:10:12 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598726991
+    [ponencia] => 1PIC
+    [id_documento] => 3467
+    [tipo_documento] => pdf
+)
+2020-08-29 17:10:32 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1598726991,1PIC,3467-
+)
+2020-08-29 17:11:11 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:12:37 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 17:14:55 [0] : DEBUG -  http://216.144.236.27/probar_pdf	
+Array
+(
+)
+2020-08-29 23:48:36 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-29 23:48:45 [0] : DEBUG -  http://216.144.236.27/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-08-29 23:48:47 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:48:48 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:54:04 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:54:28 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:54:52 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:56:16 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:56:54 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:57:18 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:57:30 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:57:50 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+)
+2020-08-29 23:58:19 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+    [usuario_id] => 1593113397
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 7700
+            [1] => 7710
+            [2] => 7701
+            [3] => 7709
+            [4] => 7719
+            [5] => 7717
+            [6] => 7702
+            [7] => 7703
+            [8] => 7704
+            [9] => 7653
+            [10] => 2305089
+            [11] => 2305090
+            [12] => 5272940
+            [13] => 5272941
+            [14] => 5272942
+            [15] => 2305091
+            [16] => 2305092
+            [17] => 7705
+            [18] => 7711
+            [19] => 5264101
+            [20] => 7706
+            [21] => 7712
+            [22] => 7713
+            [23] => 7714
+            [24] => 7708
+            [25] => 7715
+            [26] => 7737
+            [27] => 7688
+            [28] => 7660
+            [29] => 7689
+            [30] => 7666
+            [31] => 7696
+            [32] => 7693
+            [33] => 7691
+            [34] => 7661
+            [35] => 7735
+            [36] => 7692
+            [37] => 7663
+            [38] => 7667
+            [39] => 7697
+            [40] => 7698
+            [41] => 7657
+            [42] => 7669
+            [43] => 7665
+            [44] => 7736
+            [45] => 7695
+            [46] => 7694
+            [47] => 7664
+            [48] => 7668
+            [49] => 7690
+        )
+
+    [permisos_menu] => Array
+        (
+            [7700] => 1
+            [7710] => 1
+            [7701] => 1
+            [7709] => 1
+            [7719] => 1
+            [7717] => 1
+            [7702] => 1
+            [7703] => 1
+            [7704] => 1
+            [7653] => 1
+            [2305089] => 1
+            [2305090] => 1
+            [5272940] => 1
+            [5272941] => 1
+            [5272942] => 1
+            [2305091] => 1
+            [2305092] => 1
+            [7705] => 1
+            [7711] => 1
+            [5264101] => 1
+            [7706] => 1
+            [7712] => 1
+            [7713] => 1
+            [7714] => 1
+            [7708] => 1
+            [7715] => 1
+            [7737] => 1
+            [7660] => 1
+            [7689] => 1
+            [7666] => 1
+            [7696] => 1
+            [7693] => 1
+            [7691] => 1
+            [7661] => 1
+            [7735] => 1
+            [7692] => 1
+            [7663] => 1
+            [7667] => 1
+            [7697] => 1
+            [7698] => 1
+            [7657] => 1
+            [7669] => 1
+            [7665] => 1
+            [7736] => 1
+            [7695] => 1
+            [7694] => 1
+            [7664] => 1
+            [7668] => 1
+            [7690] => 1
+        )
+
+)
+2020-08-29 23:58:19 [0] : DEBUG -  http://216.144.236.27/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-08-29 23:58:30 [0] : DEBUG -  http://216.144.236.27/menu_permisos	
+Array
+(
+    [usuario_id] => 1593113397
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 7700
+            [1] => 7710
+            [2] => 7701
+            [3] => 7709
+            [4] => 7719
+            [5] => 7717
+            [6] => 7702
+            [7] => 7703
+            [8] => 7704
+            [9] => 7653
+            [10] => 2305089
+            [11] => 2305090
+            [12] => 5272940
+            [13] => 5272941
+            [14] => 5272942
+            [15] => 2305091
+            [16] => 2305092
+            [17] => 7705
+            [18] => 7711
+            [19] => 5264101
+            [20] => 7706
+            [21] => 7712
+            [22] => 7713
+            [23] => 7714
+            [24] => 7708
+            [25] => 7715
+            [26] => 7737
+            [27] => 7688
+            [28] => 7660
+            [29] => 7689
+            [30] => 7666
+            [31] => 7696
+            [32] => 7693
+            [33] => 7691
+            [34] => 7661
+            [35] => 7735
+            [36] => 7692
+            [37] => 7663
+            [38] => 7667
+            [39] => 7697
+            [40] => 7698
+            [41] => 7657
+            [42] => 7669
+            [43] => 7665
+            [44] => 7736
+            [45] => 7695
+            [46] => 7694
+            [47] => 7664
+            [48] => 7668
+            [49] => 7690
+        )
+
+    [permisos_menu] => Array
+        (
+            [7700] => 1
+            [7710] => 1
+            [7701] => 1
+            [7709] => 1
+            [7719] => 1
+            [7717] => 1
+            [7702] => 1
+            [7703] => 1
+            [7704] => 1
+            [7653] => 1
+            [2305089] => 1
+            [2305090] => 1
+            [5272940] => 1
+            [5272941] => 1
+            [5272942] => 1
+            [2305091] => 1
+            [2305092] => 1
+            [7705] => 1
+            [7711] => 1
+            [5264101] => 1
+            [7706] => 1
+            [7712] => 1
+            [7713] => 1
+            [7714] => 1
+            [7708] => 1
+            [7715] => 1
+            [7737] => 1
+            [7688] => 1
+            [7660] => 1
+            [7689] => 1
+            [7666] => 1
+            [7696] => 1
+            [7693] => 1
+            [7691] => 1
+            [7661] => 1
+            [7735] => 1
+            [7692] => 1
+            [7663] => 1
+            [7667] => 1
+            [7697] => 1
+            [7698] => 1
+            [7657] => 1
+            [7669] => 1
+            [7665] => 1
+            [7736] => 1
+            [7695] => 1
+            [7694] => 1
+            [7664] => 1
+            [7668] => 1
+            [7690] => 1
+        )
+
+)
+2020-08-29 23:58:31 [0] : DEBUG -  http://216.144.236.27/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)

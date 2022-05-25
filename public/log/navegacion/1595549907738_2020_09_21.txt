@@ -1,0 +1,411 @@
+2020-09-21 21:36:44 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-21 21:36:47 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+)
+2020-09-21 21:36:52 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-21 21:36:53 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-21 21:36:53 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-21 21:36:57 [0] : DEBUG -  http://172.16.159.181/menu_permisos	
+Array
+(
+)
+2020-09-21 21:37:13 [0] : DEBUG -  http://172.16.159.181/menu_permisos	
+Array
+(
+    [usuario_id] => 1595549907738
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 2296150
+            [1] => 2296161
+            [2] => 2296151
+            [3] => 2296160
+            [4] => 2296171
+            [5] => 2296169
+            [6] => 2296152
+            [7] => 2296153
+            [8] => 2296154
+            [9] => 5274433
+            [10] => 5274434
+            [11] => 5274435
+            [12] => 5274436
+            [13] => 5274437
+            [14] => 5274438
+            [15] => 2296103
+            [16] => 2296212
+            [17] => 2296213
+            [18] => 5264081
+            [19] => 5264082
+            [20] => 5264083
+            [21] => 5264070
+            [22] => 5264071
+            [23] => 2296155
+            [24] => 2296162
+            [25] => 5264095
+            [26] => 2296156
+            [27] => 2296163
+            [28] => 2296164
+            [29] => 2296165
+            [30] => 2296158
+            [31] => 2296166
+            [32] => 2296189
+            [33] => 5264096
+            [34] => 5274439
+            [35] => 5274440
+            [36] => 2296138
+            [37] => 2296110
+            [38] => 2296139
+            [39] => 2296116
+            [40] => 2296146
+            [41] => 2296143
+            [42] => 2296141
+            [43] => 2296111
+            [44] => 2296187
+            [45] => 2296142
+            [46] => 2296113
+            [47] => 2296117
+            [48] => 2296147
+            [49] => 2296148
+            [50] => 2296107
+            [51] => 2296119
+            [52] => 2296115
+            [53] => 2296188
+            [54] => 2296145
+            [55] => 2296144
+            [56] => 2296114
+            [57] => 2296118
+            [58] => 2296140
+        )
+
+    [permisos_menu] => Array
+        (
+            [2296150] => 1
+            [2296151] => 1
+            [2296160] => 1
+            [2296152] => 1
+            [5264081] => 1
+            [5264082] => 1
+            [5264083] => 1
+            [5264070] => 1
+            [5264071] => 1
+            [5264095] => 1
+            [5264096] => 1
+        )
+
+)
+2020-09-21 21:37:13 [0] : DEBUG -  http://172.16.159.181/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-09-21 21:37:20 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-21 21:37:22 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 21:37:30 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2001
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 21:37:33 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2002
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 21:37:39 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/432154	
+Array
+(
+)
+2020-09-21 21:37:51 [0] : DEBUG -  http://172.16.159.181/home/archivoDetalles/432154	
+Array
+(
+    [id] => 432154
+)
+2020-09-21 21:38:24 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2003
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 21:38:29 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2002
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 21:38:34 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2002
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 21:38:44 [0] : DEBUG -  http://172.16.159.181/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-09-21 21:38:47 [0] : DEBUG -  http://172.16.159.181/menu_permisos	
+Array
+(
+)
+2020-09-21 21:38:58 [0] : DEBUG -  http://172.16.159.181/menu_permisos	
+Array
+(
+    [usuario_id] => 1595549907738
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 2296150
+            [1] => 2296161
+            [2] => 2296151
+            [3] => 2296160
+            [4] => 2296171
+            [5] => 2296169
+            [6] => 2296152
+            [7] => 2296153
+            [8] => 2296154
+            [9] => 5274433
+            [10] => 5274434
+            [11] => 5274435
+            [12] => 5274436
+            [13] => 5274437
+            [14] => 5274438
+            [15] => 2296103
+            [16] => 2296212
+            [17] => 2296213
+            [18] => 5264081
+            [19] => 5264082
+            [20] => 5264083
+            [21] => 5264070
+            [22] => 5264071
+            [23] => 2296155
+            [24] => 2296162
+            [25] => 5264095
+            [26] => 2296156
+            [27] => 2296163
+            [28] => 2296164
+            [29] => 2296165
+            [30] => 2296158
+            [31] => 2296166
+            [32] => 2296189
+            [33] => 5264096
+            [34] => 5274439
+            [35] => 5274440
+            [36] => 2296138
+            [37] => 2296110
+            [38] => 2296139
+            [39] => 2296116
+            [40] => 2296146
+            [41] => 2296143
+            [42] => 2296141
+            [43] => 2296111
+            [44] => 2296187
+            [45] => 2296142
+            [46] => 2296113
+            [47] => 2296117
+            [48] => 2296147
+            [49] => 2296148
+            [50] => 2296107
+            [51] => 2296119
+            [52] => 2296115
+            [53] => 2296188
+            [54] => 2296145
+            [55] => 2296144
+            [56] => 2296114
+            [57] => 2296118
+            [58] => 2296140
+        )
+
+    [permisos_menu] => Array
+        (
+            [2296150] => 1
+            [2296161] => 1
+            [2296151] => 1
+            [2296160] => 1
+            [2296152] => 1
+            [5264081] => 1
+            [5264082] => 1
+            [5264083] => 1
+            [5264070] => 1
+            [5264071] => 1
+            [5264095] => 1
+            [5264096] => 1
+        )
+
+)
+2020-09-21 21:38:58 [0] : DEBUG -  http://172.16.159.181/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-09-21 21:39:12 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-21 21:39:14 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 21:39:15 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-21 21:39:20 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-21 21:39:30 [0] : DEBUG -  http://172.16.159.181/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2002
+    [asunto_toca] => 
+)
+2020-09-21 21:39:32 [0] : DEBUG -  http://172.16.159.181/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 432154
+)
+2020-09-21 21:39:36 [0] : DEBUG -  http://172.16.159.181/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 432154
+)
+2020-09-21 21:39:36 [0] : DEBUG -  http://172.16.159.181/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 432154
+    [juicio_promocion] => 1/2002
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-09-21
+    [tp3] => 21:39
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-09-21
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-09-21 21:40:00 [0] : DEBUG -  http://172.16.159.181/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 432154
+    [juicio_promocion] => 1/2002
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-09-21
+    [tp3] => 21:39
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-09-21
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-09-21 21:40:39 [0] : DEBUG -  http://172.16.159.181/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 432154
+    [juicio_promocion] => 1/2002
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-09-21
+    [tp3] => 21:39
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-09-21
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-09-21 21:45:58 [0] : DEBUG -  http://172.16.159.181/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2002
+    [asunto_toca] => 
+)
+2020-09-21 21:46:00 [0] : DEBUG -  http://172.16.159.181/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 432154
+)
+2020-09-21 21:46:04 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

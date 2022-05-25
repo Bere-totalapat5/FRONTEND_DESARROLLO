@@ -1,0 +1,92 @@
+2020-10-15 20:22:23 [0] : DEBUG -  http://172.16.159.181/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-10-15 20:24:17 [0] : DEBUG -  http://172.16.159.181/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-10-15 20:24:24 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-10-15 20:24:24 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-10-15 20:24:27 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-15 20:24:33 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-15 20:24:56 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-15 20:25:42 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-15 20:26:13 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-15 20:26:43 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 26
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-10-15
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [bandera_notificacion] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpSTsHlo
+            [fileName:SplFileInfo:private] => phpSTsHlo
+        )
+
+)
+2020-10-15 20:39:09 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-15 20:39:55 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-15 20:40:16 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)

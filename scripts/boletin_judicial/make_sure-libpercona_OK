@@ -1,0 +1,1 @@
+sudo apt-get install -y libperconaserverclient18-dev  libssl-dev libcrypto++-dev ; sudo pip3 install --upgrade mysqlclient

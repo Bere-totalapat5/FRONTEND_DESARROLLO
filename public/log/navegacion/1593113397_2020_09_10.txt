@@ -1,0 +1,1470 @@
+2020-09-10 06:27:54 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-10 06:27:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-10 06:32:53 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-10 21:23:37 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 21:23:39 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-10 21:23:50 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 21:24:09 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 21:25:01 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1578503871569
+    [guardar] => 1
+)
+2020-09-10 21:25:13 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 21:25:25 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 22
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-10
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => personal
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 1
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpT47S1t
+            [fileName:SplFileInfo:private] => phpT47S1t
+        )
+
+)
+2020-09-10 21:25:49 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569/Problemas%20con%20las%20imporesoras%20DOCX.%20Favor%20de%20consultar%20con%20soporte	
+Array
+(
+)
+2020-09-10 21:27:29 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1578503871569
+    [guardar] => 1
+)
+2020-09-10 21:27:35 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 21:27:51 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 22
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-10
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => personal
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 1
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpQIKnnz
+            [fileName:SplFileInfo:private] => phpQIKnnz
+        )
+
+)
+2020-09-10 21:27:55 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 21:29:03 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 21:29:06 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-10 21:29:10 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-10 21:31:58 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 21:32:00 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-10 21:33:20 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-10 21:33:32 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599791274
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-10 21:33:38 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599791274
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3800
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php45xeGz
+            [fileName:SplFileInfo:private] => php45xeGz
+        )
+
+)
+2020-09-10 21:33:51 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-10 21:42:24 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 21:42:26 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-10 21:42:44 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 21:43:02 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_resumen	
+Array
+(
+    [id] => 70
+)
+2020-09-10 21:43:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [es_edicto] => on
+    [acuerdo] => 23
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-10
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpaF49CG
+            [fileName:SplFileInfo:private] => phpaF49CG
+        )
+
+)
+2020-09-10 21:43:27 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 21:44:36 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-10 21:44:45 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599792206
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-10 21:44:52 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599792206
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3804
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpmku3WG
+            [fileName:SplFileInfo:private] => phpmku3WG
+        )
+
+)
+2020-09-10 21:46:30 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 21:46:40 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 21:57:44 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 21:57:46 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-10 21:57:49 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 21:58:03 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1578503871569
+    [guardar] => 1
+)
+2020-09-10 21:58:05 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 21:58:20 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 24
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-10
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => personal
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 1
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpGxbfp7
+            [fileName:SplFileInfo:private] => phpGxbfp7
+        )
+
+)
+2020-09-10 21:58:23 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 22:00:42 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-10 22:01:04 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599793102
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-10 22:01:06 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599793102
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3809
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+)
+2020-09-10 22:01:09 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599793102
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-10 22:01:15 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599793102
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3809
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpTPbJEu
+            [fileName:SplFileInfo:private] => phpTPbJEu
+        )
+
+)
+2020-09-10 22:05:58 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-10 22:07:53 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 22:07:55 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-10 22:07:59 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 22:08:10 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1578503871569
+    [guardar] => 1
+)
+2020-09-10 22:08:11 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 22:08:34 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 25
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-10
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => personal
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 1
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Registro de audiencias.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpsXemWb
+            [fileName:SplFileInfo:private] => phpsXemWb
+        )
+
+)
+2020-09-10 22:08:38 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 22:08:50 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1578503871569
+    [guardar] => 1
+)
+2020-09-10 22:08:52 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 22:09:04 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 26
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-10
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => personal
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 1
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => LISTAS DE ENVIO A ARCHIVO JUDICIAL.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpQRtRFT
+            [fileName:SplFileInfo:private] => phpQRtRFT
+        )
+
+)
+2020-09-10 22:09:09 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-10 22:09:29 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-10 22:09:38 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599793716
+    [ponencia] => 1PIC
+    [id_documento] => 3814
+    [tipo_documento] => pdf
+)
+2020-09-10 22:10:00 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1599793747,1PIC,3816-1599793716,1PIC,3814-
+)
+2020-09-10 22:10:14 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599793747
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3816
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpizteqf
+            [fileName:SplFileInfo:private] => phpizteqf
+        )
+
+)
+2020-09-10 22:10:14 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599793716
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3814
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpODXIoL
+            [fileName:SplFileInfo:private] => phpODXIoL
+        )
+
+)
+2020-09-10 22:11:13 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:21:40 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:23:39 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-10 22:23:39 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 22:28:44 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-10 22:28:45 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 22:44:37 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:46:28 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:46:28 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 11
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:46:38 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 11
+    [id_acuerdo] => 1599792206
+    [documento_html] => muy bien<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 271
+    [edicto_costo] => 542
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-10 22:46:42 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:46:46 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:47:04 [0] : DEBUG -  http://172.16.159.181/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 11
+    [id_acuerdo] => 1599792206
+    [estatus] => por revisar
+)
+2020-09-10 22:47:04 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:47:08 [0] : DEBUG -  http://172.16.159.181/edictos/autorizar	
+Array
+(
+)
+2020-09-10 22:47:17 [0] : DEBUG -  http://172.16.159.181/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 11
+    [id_acuerdo] => 1599792206
+    [estatus] => nuevo
+)
+2020-09-10 22:47:17 [0] : DEBUG -  http://172.16.159.181/edictos/autorizar	
+Array
+(
+)
+2020-09-10 22:47:21 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:47:26 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:47:27 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 11
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:49:36 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:49:36 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 11
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:49:57 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:49:57 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 11
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:50:19 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 11
+    [id_acuerdo] => 1599792206
+    [documento_html] => muy bien<br>todo bien<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 273
+    [edicto_costo] => 546
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-10 22:50:22 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:50:30 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:50:49 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:50:49 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 11
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:50:55 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 11
+    [id_acuerdo] => 1599792206
+    [documento_html] => muy bien<br>todo bien<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 273
+    [edicto_costo] => 1092
+    [edicto_num_intervalo] => 3
+    [num_publicaciones] => 2
+)
+2020-09-10 22:51:02 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 11
+    [id_acuerdo] => 1599792206
+    [documento_html] => muy bien<br>todo bien<br><br>
+LIBRO DE MULTAS<br>
+Fecha:<br>
+* dd/mm/aaaa<br>
+Actor<br>
+* Debe quedar abierto para escribir.<br>
+Demandado<br>
+* Debe quedar abierto para escribir.<br>
+Juicio: (Debe quedar abierta una parte para escribir cuando se trate de un incidente).<br>
+     *Controversia del Orden Familiar <br>
+a) Controversia del Orden Familiar (nuevamente)<br>
+b) Alimentos<br>
+c) Guarda y Custodia<br>
+d) R&eacute;gimen de visitas y convivencias<br>
+     *Jurisdicci&oacute;n <br>
+a) Interdicci&oacute;n<br>
+b) Voluntaria         <br>
+          <br>
+     *Ordinario Civil<br>
+a) Ordinario Civil (se repite)                          <br>
+b) P&eacute;rdida de Patria Potestad<br>
+c) Incapacidad para heredar<br>
+d) Nulidad de testamento<br>
+e) Petici&oacute;n de Herencia<br>
+f ) Rectificaci&oacute;n de Acta<br>
+g) Nulidad de Matrimonio<br>
+     *Sucesorio<br>
+a) Intestamentario<br>
+b) Testamentario<br>
+     *Divorcio sin causa<br>
+     *Divorcio Necesario<br>
+     * Divorcio Voluntario<br>
+     *Medios Preparatorios<br>
+*Restituci&oacute;n Internacional de Menores<br>
+*Adopci&oacute;n <br>
+*Juicios orales<br>
+N&uacute;mero de Toca<br>
+*  - - -/- - - -<br>
+Cantidad de Multa:<br>
+* $- - - - - - - .00 Moneda Nacional<br>
+Fecha de resoluci&oacute;n:<br>
+* dd/mm/aaaa<br>
+Nombre del Multado<br>
+* Debe quedar abierto para escribir.<br>
+Oficio n&uacute;mero:<br>
+* - - - -    <br>
+Se recibi&oacute; oficio en fecha:<br>
+* dd/mm/aaaa <br>
+Nota:<br>
+*Debe quedar abierto para escribir <br>
+<br>
+    [edicto_num_palabras] => 273
+    [edicto_costo] => 0
+    [edicto_num_intervalo] => 3
+    [num_publicaciones] => 2
+)
+2020-09-10 22:51:05 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:51:24 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:51:25 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 11
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:51:57 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:52:15 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:52:40 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:52:41 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 11
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1599792206
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:53:00 [0] : DEBUG -  http://172.16.159.181/edictos/cambiar_estatus_ajax	
+Array
+(
+    [id_edicto] => 11
+    [id_acuerdo] => 1599792206
+    [estatus] => por revisar
+)
+2020-09-10 22:53:00 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-10 22:53:03 [0] : DEBUG -  http://172.16.159.181/edictos/autorizar	
+Array
+(
+)
+2020-09-10 22:53:09 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 11
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-10 22:53:15 [0] : DEBUG -  http://172.16.159.181/edictos/cambiar_firma_ajax	
+Array
+(
+    [id_edicto] => 11
+    [id_acuerdo] => 1599792206
+    [estatus] => firmar
+)
+2020-09-10 22:53:16 [0] : DEBUG -  http://172.16.159.181/edictos/autorizar	
+Array
+(
+)
+2020-09-10 22:54:27 [0] : DEBUG -  http://172.16.159.181/edictos/aprobados	
+Array
+(
+)
+2020-09-10 22:56:21 [0] : DEBUG -  http://172.16.159.181/edictos/aprobados	
+Array
+(
+)
+2020-09-10 23:04:17 [0] : DEBUG -  http://172.16.159.181/archivoJudicial	
+Array
+(
+)
+2020-09-10 23:04:21 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 23:04:24 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)

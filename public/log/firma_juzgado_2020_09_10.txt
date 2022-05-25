@@ -1,0 +1,163 @@
+2020-09-10 21:31:44 [590] : INIC  -  Juzgado: 1PIC Usuario: JC1SA Acuerdo: 1/2020-22 id_juicio: 1578503871569 id_acuerdo: 1599791274	
+2020-09-10 21:31:44 [590] : DEBUG -  Se consulta el flujo	
+2020-09-10 21:31:45 [590] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 21:31:45 [590] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3799	
+2020-09-10 21:31:45 [590] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3799	
+2020-09-10 21:31:45 [590] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 21:31:49 [590] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 21:31:49 [590] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 21:31:49 [590] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 21:31:49 [590] : DEBUG -  Finalización de la firma.	
+2020-09-10 21:31:49 [590] : FIN   -  	
+2020-09-10 21:33:38 [908] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-22 id_juicio: 1578503871569 id_acuerdo: 1599791274	
+2020-09-10 21:33:38 [908] : DEBUG -  Se consulta el flujo	
+2020-09-10 21:33:39 [908] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 21:33:39 [908] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3800	
+2020-09-10 21:33:39 [908] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3800	
+2020-09-10 21:33:39 [908] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 21:33:44 [908] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 21:33:44 [908] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 21:33:44 [908] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3801	
+2020-09-10 21:33:45 [908] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Civil | 1/2020-22 |  JC1SA | 2020-09-10 09:31:49 |  JC1J | 2020-09-10 09:33:44 | FP: 2020-09-14 | NAS: 5100-0109-4097-2522-886 -- SIGJ / TSJCDMX --	
+2020-09-10 21:33:46 [908] : DEBUG -  Finaliza sello sigj	
+2020-09-10 21:33:46 [908] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:5	
+2020-09-10 21:33:46 [908] : DEBUG -  Se hacen consultas fecha resolucion:2020-09-15 Fecha publicacion: 2020-09-14 número de boletin: 168 Número de firmantes: 2	
+2020-09-10 21:33:46 [908] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599791274.pdf	
+2020-09-10 21:33:46 [908] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997912742.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599791274_%d.pdf	
+2020-09-10 21:33:46 [908] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_1599791274_3.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599791274.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599791274_3.pdf	
+2020-09-10 21:33:46 [908] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599791274_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997912742.pdf	
+2020-09-10 21:33:48 [908] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-09-10 21:33:48 [908] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 21:33:48 [908] : DEBUG -  Finalización de la firma.	
+2020-09-10 21:33:48 [908] : FIN   -  	
+2020-09-10 21:44:52 [707] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-23 id_juicio: 1578503871569 id_acuerdo: 1599792206	
+2020-09-10 21:44:52 [707] : DEBUG -  Se consulta el flujo	
+2020-09-10 21:44:53 [707] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 21:44:53 [707] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3804	
+2020-09-10 21:44:53 [707] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3804	
+2020-09-10 21:44:53 [707] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 21:44:55 [707] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 21:44:56 [707] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 21:44:56 [707] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 21:44:56 [707] : DEBUG -  Finalización de la firma.	
+2020-09-10 21:44:56 [707] : FIN   -  	
+2020-09-10 21:46:04 [102] : INIC  -  Juzgado: 1PIC Usuario: JC1SA Acuerdo: 1/2020-23 id_juicio: 1578503871569 id_acuerdo: 1599792206	
+2020-09-10 21:46:04 [102] : DEBUG -  Se consulta el flujo	
+2020-09-10 21:46:04 [102] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 21:46:04 [102] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3805	
+2020-09-10 21:46:04 [102] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3805	
+2020-09-10 21:46:05 [102] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 21:46:08 [102] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 21:46:08 [102] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 21:46:09 [102] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3806	
+2020-09-10 21:46:09 [102] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Civil | 1/2020-23 |  JC1SA | 2020-09-10 09:46:08 |  JC1J | 2020-09-10 09:44:56 | FP: 2020-09-14 | NAS: 5100-0109-4097-8896-834 -- SIGJ / TSJCDMX --	
+2020-09-10 21:46:10 [102] : DEBUG -  Finaliza sello sigj	
+2020-09-10 21:46:10 [102] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:5	
+2020-09-10 21:46:10 [102] : DEBUG -  Se hacen consultas fecha resolucion:2020-09-15 Fecha publicacion: 2020-09-14 número de boletin: 168 Número de firmantes: 2	
+2020-09-10 21:46:10 [102] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599792206.pdf	
+2020-09-10 21:46:10 [102] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997922062.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599792206_%d.pdf	
+2020-09-10 21:46:10 [102] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_1599792206_3.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599792206.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599792206_3.pdf	
+2020-09-10 21:46:10 [102] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599792206_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997922062.pdf	
+2020-09-10 21:46:10 [102] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-09-10 21:46:11 [102] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 21:46:11 [102] : DEBUG -  Finalización de la firma.	
+2020-09-10 21:46:11 [102] : FIN   -  	
+2020-09-10 22:01:06 [223] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-24 id_juicio: 1578503871569 id_acuerdo: 1599793102	
+2020-09-10 22:01:06 [223] : ERROR -  El archivo PFX es obligatorio.	
+2020-09-10 22:01:06 [223] : FIN   -  	
+2020-09-10 22:01:15 [929] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-24 id_juicio: 1578503871569 id_acuerdo: 1599793102	
+2020-09-10 22:01:15 [929] : DEBUG -  Se consulta el flujo	
+2020-09-10 22:01:16 [929] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 22:01:16 [929] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3809	
+2020-09-10 22:01:16 [929] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3809	
+2020-09-10 22:01:16 [929] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 22:01:19 [929] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 22:01:19 [929] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 22:01:19 [929] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 22:01:19 [929] : DEBUG -  Finalización de la firma.	
+2020-09-10 22:01:19 [929] : FIN   -  	
+2020-09-10 22:01:29 [163] : INIC  -  Juzgado: 1PIC Usuario: JC1SA Acuerdo: 1/2020-24 id_juicio: 1578503871569 id_acuerdo: 1599793102	
+2020-09-10 22:01:29 [163] : DEBUG -  Se consulta el flujo	
+2020-09-10 22:01:30 [163] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 22:01:30 [163] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3810	
+2020-09-10 22:01:30 [163] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3810	
+2020-09-10 22:01:30 [163] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 22:01:34 [163] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 22:01:34 [163] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 22:01:34 [163] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3811	
+2020-09-10 22:01:35 [163] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Civil | 1/2020-24 |  JC1SA | 2020-09-10 10:01:34 |  JC1J | 2020-09-10 10:01:19 | FP: 2020-09-14 | NAS: 5100-0109-4098-5024-578 -- SIGJ / TSJCDMX --	
+2020-09-10 22:01:35 [163] : DEBUG -  Finaliza sello sigj	
+2020-09-10 22:01:35 [163] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:5	
+2020-09-10 22:01:36 [163] : DEBUG -  Se hacen consultas fecha resolucion:2020-09-15 Fecha publicacion: 2020-09-14 número de boletin: 168 Número de firmantes: 2	
+2020-09-10 22:01:36 [163] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599793102.pdf	
+2020-09-10 22:01:36 [163] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997931022.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793102_%d.pdf	
+2020-09-10 22:01:36 [163] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_1599793102_3.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599793102.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793102_3.pdf	
+2020-09-10 22:01:36 [163] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793102_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997931022.pdf	
+2020-09-10 22:01:37 [163] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-09-10 22:01:37 [163] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 22:01:37 [163] : DEBUG -  Finalización de la firma.	
+2020-09-10 22:01:37 [163] : FIN   -  	
+2020-09-10 22:10:14 [792] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-26 id_juicio: 1578503871569 id_acuerdo: 1599793747	
+2020-09-10 22:10:14 [792] : DEBUG -  Se consulta el flujo	
+2020-09-10 22:10:14 [866] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-25 id_juicio: 1578503871569 id_acuerdo: 1599793716	
+2020-09-10 22:10:14 [866] : DEBUG -  Se consulta el flujo	
+2020-09-10 22:10:14 [792] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 22:10:14 [792] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3816	
+2020-09-10 22:10:14 [866] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 22:10:14 [792] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3816	
+2020-09-10 22:10:14 [866] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3814	
+2020-09-10 22:10:14 [792] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 22:10:14 [866] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3814	
+2020-09-10 22:10:14 [866] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 22:10:18 [866] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 22:10:18 [866] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 22:10:18 [866] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 22:10:18 [866] : DEBUG -  Finalización de la firma.	
+2020-09-10 22:10:18 [866] : FIN   -  	
+2020-09-10 22:10:18 [792] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 22:10:18 [792] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 22:10:18 [792] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 22:10:18 [792] : DEBUG -  Finalización de la firma.	
+2020-09-10 22:10:18 [792] : FIN   -  	
+2020-09-10 22:10:43 [509] : INIC  -  Juzgado: 1PIC Usuario: JC1SA Acuerdo: 1/2020-26 id_juicio: 1578503871569 id_acuerdo: 1599793747	
+2020-09-10 22:10:43 [509] : DEBUG -  Se consulta el flujo	
+2020-09-10 22:10:43 [769] : INIC  -  Juzgado: 1PIC Usuario: JC1SA Acuerdo: 1/2020-25 id_juicio: 1578503871569 id_acuerdo: 1599793716	
+2020-09-10 22:10:43 [769] : DEBUG -  Se consulta el flujo	
+2020-09-10 22:10:44 [509] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 22:10:44 [509] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3818	
+2020-09-10 22:10:44 [509] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3818	
+2020-09-10 22:10:44 [769] : DEBUG -  Se pone el candado de firmado.	
+2020-09-10 22:10:44 [769] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3817	
+2020-09-10 22:10:44 [509] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 22:10:44 [769] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3817	
+2020-09-10 22:10:44 [769] : DEBUG -  Intenta firmar FIREL	
+2020-09-10 22:10:47 [509] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 22:10:48 [509] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 22:10:48 [509] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3819	
+2020-09-10 22:10:48 [769] : DEBUG -  Finaliza firmar FIREL	
+2020-09-10 22:10:48 [509] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Civil | 1/2020-26 |  JC1SA | 2020-09-10 10:10:47 |  JC1J | 2020-09-10 10:10:18 | FP: 2020-09-14 | NAS: 5100-0109-4098-9435-733 -- SIGJ / TSJCDMX --	
+2020-09-10 22:10:49 [509] : DEBUG -  Finaliza sello sigj	
+2020-09-10 22:10:49 [509] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:4	
+2020-09-10 22:10:49 [509] : DEBUG -  Se hacen consultas fecha resolucion:2020-09-15 Fecha publicacion: 2020-09-14 número de boletin: 168 Número de firmantes: 2	
+2020-09-10 22:10:49 [509] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599793747.pdf	
+2020-09-10 22:10:49 [509] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997937472.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793747_%d.pdf	
+2020-09-10 22:10:49 [509] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_1599793747_2.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599793747.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793747_2.pdf	
+2020-09-10 22:10:49 [509] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793747_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997937472.pdf	
+2020-09-10 22:10:49 [769] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-10 22:10:50 [769] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3820	
+2020-09-10 22:10:50 [769] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Civil | 1/2020-25 |  JC1SA | 2020-09-10 10:10:48 |  JC1J | 2020-09-10 10:10:18 | FP: 2020-09-14 | NAS: 5100-0109-4098-9223-724 -- SIGJ / TSJCDMX --	
+2020-09-10 22:10:51 [509] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-09-10 22:10:51 [769] : DEBUG -  Finaliza sello sigj	
+2020-09-10 22:10:51 [769] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:10	
+2020-09-10 22:10:51 [509] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 22:10:51 [509] : DEBUG -  Finalización de la firma.	
+2020-09-10 22:10:51 [509] : FIN   -  	
+2020-09-10 22:10:51 [769] : DEBUG -  Se hacen consultas fecha resolucion:2020-09-15 Fecha publicacion: 2020-09-14 número de boletin: 168 Número de firmantes: 2	
+2020-09-10 22:10:51 [769] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599793716.pdf	
+2020-09-10 22:10:51 [769] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997937162.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793716_%d.pdf	
+2020-09-10 22:10:51 [769] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_1599793716_8.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1599793716.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793716_8.pdf	
+2020-09-10 22:10:51 [769] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_1599793716_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_1PIC_15997937162.pdf	
+2020-09-10 22:10:53 [769] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-09-10 22:10:53 [769] : DEBUG -  Se quita el candado de firmado.	
+2020-09-10 22:10:53 [769] : DEBUG -  Finalización de la firma.	
+2020-09-10 22:10:53 [769] : FIN   -  	

@@ -1,0 +1,444 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+DB_port = 3306
+DB_host = "o2u"
+
+
+# ----------------------------------------------------------------------
+# http://www.payne.org/index.php/Reading_Google_Spreadsheets_in_Python
+# http://james-says.blogspot.mx/2007/07/beginners-guide-for-google-spreadsheet.html
+
+debugis         = 0
+username        = 'depjud_sistema@tsjdf.gob.mx'
+passwd          = 'tsjdfdf88'
+doc_name        = 'Maqueta SICOR 2015'
+rootdir         = "/var/www/public_html"
+inc_dir         = "/var/www/php-inc"
+maquetas        = inc_dir + "/reportes/maquetas"
+
+import sys, os.path
+
+doc_name = sys.argv[1]
+ws_name = sys.argv[2]
+if len( sys.argv ) > 2:
+    debugis = sys.argv[3]
+
+import gdata.docs
+import gdata.docs.service
+import gdata.spreadsheet.service
+# import re, os
+from time import time
+import MySQLdb
+db = MySQLdb.connect( host="mydbserv",
+                      db="sibjdf",
+                      user="sicor",
+                      passwd="L3Vzci9zaGFyZS9teXNxbAo",
+                      charset="utf8",
+                      use_unicode=True)
+
+cursor   = db.cursor()
+
+# import MySQLdb.cursors 
+# db = MySQLdb.connect(cursorclass=MySQLdb.cursors.DictCursor) 
+
+def dfnt( value ):
+    if isinstance( value, unicode ):
+        # if debugis: print "UTF8", value.encode("utf-8")
+        value =  value.encode("utf-8")
+    if isinstance(value, basestring ):
+        value = db.escape_string(value.strip())
+    elif value is None:
+        value = ""
+    return value
+
+start_time = time()
+# Connect to Google
+gd_client = gdata.spreadsheet.service.SpreadsheetsService()
+gd_client.email = username
+gd_client.password = passwd
+gd_client.source = 'examplesource'
+gd_client.ProgrammaticLogin()
+
+# Now that we're connected, we query the spreadsheet by name, and
+# extract the unique spreadsheet and worksheet IDs.
+
+q = gdata.spreadsheet.service.DocumentQuery()
+q['title'] = doc_name
+q['title-exact'] = 'true'
+feed = gd_client.GetSpreadsheetsFeed(query=q)
+spreadsheet_id = feed.entry[0].id.text.rsplit('/',1)[1]
+feed = gd_client.GetWorksheetsFeed(spreadsheet_id)
+worksheet_id = None
+print "looking for:",ws_name
+for wse in feed.entry:
+    if wse.content.text == ws_name:
+        worksheet_id = wse.id.text.rsplit('/',1)[1]
+if worksheet_id:
+    rows = gd_client.GetListFeed(spreadsheet_id, worksheet_id).entry
+    lrows = len(rows)
+    if debugis: print "last-row:",rows[-1].content.text
+else:
+    lrows = 0
+if debugis: print "rows=",lrows
+if 0:
+    row1 = rows[1]
+    values = []
+    print "Keys:",
+    for key,value in row1.custom.iteritems():
+        print str(key.encode("utf-8"))+"|",
+        values.append( value.text or "")
+    print
+    print "|".join(values).encode("utf-8")
+    print
+
+
+elapsed = (time() - start_time) or 1e-6
+print "\nGot rows in: %.4f secs.\n" % (elapsed,)
+
+# At this point, you have a row iterator which will yield rows for the
+# spreadsheet. This example will print everything out, keyed by column
+# names:
+
+casos = {
+    "Maqueta_tablas":{
+        "tabla":"maq_tablas",
+        # stitle|bsortable|sclass|swidth|tipo|formato|totales|idtable|direccion|campo|filtro|rango|action|nomreport|xlsname|initcol|initrow|viewstr|querystr|wherestr|orderstr|groupstr
+        "first":"stitle",
+        "repfef":"nomreport",
+        "idrow":"maq_tablas_id",
+        "rowprimary":"stitle",
+        "sthmaster":"""INSERT INTO maq_tablas
+        (nomreport,direccion,initcol,initrow,xlsname,viewstr,querystr,wherestr,orderstr,groupstr)
+        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+        "masterid":"""SELECT maq_tablas_id FROM maq_tablas WHERE nomreport=%s""",
+        "mastervals":("nomreport","direccion","initcol","initrow","xlsname","viewstr","querystr","wherestr","orderstr","groupstr"),
+        "sthparts":"""INSERT INTO maq_tablas_elementos (maq_tablas_id,orden,stitle,tipo,sclass,totales,formato,swidth,campo,filtro,rango,linkaction,filtrodef) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+        "partvals":("stitle","tipo","sclass","totales","formato","swidth","campo","filtro","rango","linkaction","filtrodef"),
+        "rnotnulls":{"tipo":"text","stitle":"","totales":'F',"campo":""},
+        "intvals":("swidth","initcol","initrow"),
+        "mnotnulls":(),
+        "jsondir":"maquetas/tablas",
+        "jsonkeymaster":(),
+        "jsonkeyelements":("sTitle","tipo","sWidth","bVisible")
+        },
+    "Maqueta_formas":{
+        "tabla":"maq_formas",
+        # clave|usuario|menu|label|name|id|tipo|maxlength|rdonly|defaultvalue|tituloformulario|action|required|message
+        "first":"clave",
+        "repfef":"clave",
+        "idrow":"maq_formas_id",
+        "rowprimary":"id",
+        "sthmaster":"""INSERT INTO maq_formas
+        (clave,usuario,menu,tituloformulario,action)
+        VALUES (%s,%s,%s,%s,%s)""",
+        "mastervals":("clave","usuario","menu","tituloformulario","action"),
+        "masterid":"SELECT maq_formas_id FROM maq_formas WHERE clave=%s",
+        "sthparts":"""INSERT INTO maq_formas_elementos
+        (maq_formas_id,orden,label,name,id,tipo,maxlength,defaultvalue,filtro,required,message,rdonly)
+        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+        "partvals":("label","name","id","tipo","maxlength","defaultvalue","filtro","required","message","rdonly"),
+        "intvals":("maxlength"),
+        "rnotnulls":{"tipo":"text","rdonly":"F","required":"F"},
+        "mnotnulls":{},
+        "jsondir":"maquetas/formas"
+    },
+    "Maqueta_menus":{
+        "tabla":"maq_menus",
+        # Antes: clavemenu|nombremenu|ordenmenu|nivelmenu|privilegiomenu|leyendamenu|accionmenu|tooltipmenu|observacionesmenu
+        # leyendamenu|padremenu|nivel1|nivel2|nivel3|accionmenu|tooltipmenu|pragma|observacionesmenu
+        "first":"tipousuario",
+        "repfef":"tipousuario",
+        "idrow":"maq_menus_id",
+        "rowprimary":"leyendamenu",
+        "sthmaster":"""INSERT INTO maq_menus (tipousuario) VALUES (%s)""",
+        "masterid":"SELECT maq_menus_id FROM maq_menus WHERE tipousuario=%s",
+        "mastervals":("tipousuario",),
+        "sthparts":"""INSERT INTO maq_menus_elementos (maq_menus_id,orden,padremenu,nivel1,nivel2,nivel3,leyendamenu,accionmenu,tooltipmenu,pragma,observacionesmenu,deshabilitado) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+        "partvals":("padremenu","nivel1","nivel2","nivel3","leyendamenu","accionmenu","tooltipmenu","pragma","observacionesmenu","deshabilitado"),
+        "intvals":("padremenu","nivel1","nivel2","nivel3"),
+        "rnotnulls":{"padremenu":0,"nivel1":0,"nivel2":0,"nivel3":0,"deshabilitado":"F"},
+        "mnotnulls":{},
+        "jsondir":"maquetas/menus"
+    },
+    "Maqueta_actions":{
+        "tabla":"maq_actions",
+        # action|label|cmd|isPopup|condMensajes|tituloMensajesDeshab|tituloConfirmacion|jsonparam|aurl
+        "first":"action",
+        "repfef":"action",
+        "idrow":"maq_actions_id",
+        "rowprimary":"action",
+        "sthmaster":"""INSERT INTO maq_actions
+        (action,label,cmd,ispopup,condmensajes,
+         titulomensajesdeshab,tituloconfirmacion,
+         jsonparam,aurl)
+        VALUES (%s,%s,%s,%s,%s,
+        %s,%s,
+        %s,%s)""",
+        "masterid":"",
+        "mastervals":("action","label","cmd","ispopup","condmensajes",
+                      "titulomensajesdeshab","tituloconfirmacion",
+                      "jsonparam","aurl"),
+        "sthparts":"",
+        "partvals":(),
+        "intvals":(),
+        "rnotnulls":{},
+        "mnotnulls":{},
+        "jsondir":"maquetas"
+    },
+}
+
+if ws_name in casos:
+    r = casos[ ws_name ]
+    if r["partvals"]:
+        cursor.execute("DELETE FROM " + r["tabla"] + "_elementos")
+    cursor.execute("DELETE FROM " + r["tabla"] )
+    db.commit()
+else:
+    print "Tabla inválida"
+    sys.exit(0)
+
+orden        = 0
+defreport_id = 0
+numrow       = 1
+start_time   = time()
+master_id    = 0
+
+for row in rows:
+    numrow += 1
+    if numrow < 2:
+        master_id = 0
+        continue
+    if row.custom[ r["repfef"] ].text and row.custom[ r["repfef"] ].text.strip().startswith('#'):
+        continue
+    if row.custom[ r["repfef"] ].text and row.custom[ r["repfef"] ].text.find("--") == -1:
+        print numrow, row.custom[ r["repfef"] ].text.encode("utf-8")
+        # recor = [ dfnt(row.custom[x].text) for x in r["mastervals"] ]
+        recor = []
+        for x in r["mastervals"]:
+            z = row.custom[x].text
+            if x in r["intvals"]:
+                if row.custom[x].text:
+                    recor.append( dfnt(row.custom[x].text) )
+                else:
+                    recor.append(0)
+            else:
+                    recor.append( dfnt(row.custom[x].text) )
+        # for f in r["intvals"]:
+        #     if f in recor and not recor[f]:
+        #         recor[f] = 0
+        if debugis: print "master:", recor
+        cursor.execute( r[ "sthmaster"], recor)
+        db.commit()
+        if r["masterid"]:
+            if debugis:
+                print r["masterid"],
+                print dfnt(row.custom[ r["repfef"] ].text)
+                print r["masterid"] %  (dfnt(row.custom[ r["repfef"] ].text),)
+            cursor.execute( r["masterid"], (dfnt(row.custom[ r["repfef"] ].text),))
+            (master_id,) = cursor.fetchone()
+            orden = 0
+    if r["partvals"]:
+        if debugis: print "mater_id=",master_id,"repfef=",dfnt(row.custom[ r["repfef"] ].text)
+        if row.custom[ r["first"] ].text and row.custom[ r["first"] ].text.find("--") >= 0:
+            master_id = 0
+            continue
+        if not master_id or not row.custom[ r["rowprimary"] ].text:
+            continue
+        for k,v in r["rnotnulls"].iteritems():
+            if not row.custom[k].text:
+                row.custom[k].text = v
+            if not row.custom[k].text:
+                continue
+        recor = [master_id,orden]
+        # recor.extend( [ dfnt(row.custom[x].text) for x in r["partvals"] ] )
+        for x in r["partvals"]:
+            if x in r["intvals"]:
+                if row.custom[x].text:
+                    recor.append( dfnt(row.custom[x].text) )
+                else:
+                    recor.append(0)
+            else:
+                recor.append( dfnt(row.custom[x].text) )
+        if debugis:
+            print "parts:", recor
+            # print "query=", r["sthparts"]
+            # print r["sthparts"] % recor
+        cursor.execute( r["sthparts"], recor)
+    orden += 1
+
+elapsed = (time() - start_time) or 1e-6
+print "\nSaved %d rows in: %.4f secs.\n" % (numrow, elapsed,)
+
+start_time = time()
+db.commit()
+elapsed = (time() - start_time) or 1e-6
+
+import MySQLdb.cursors, json
+db = MySQLdb.connect( host="mydbserv",
+                      db="sibjdf",
+                      user="sicor",
+                      passwd="L3Vzci9zaGFyZS9teXNxbAo",
+                      charset="utf8",
+                      use_unicode=True,
+                     cursorclass=MySQLdb.cursors.DictCursor) 
+    
+cursor   = db.cursor()
+all_masters_fields = [r["idrow"]]
+all_masters_fields.extend(r["mastervals"])
+all_masters = "SELECT " + ",".join(all_masters_fields)+ " FROM " + r["tabla"]
+if debugis: print all_masters
+
+if r["partvals"]:
+    all_parts = "SELECT orden, " + ",".join(r["partvals"])+ " FROM " + r["tabla"] + "_elementos WHERE " + r["idrow"] + "=%s  ORDER BY orden"
+else:
+    all_parts = ""
+
+if debugis: print all_parts
+report_names  = []
+cursor.execute(all_masters)
+allm = cursor.fetchall()
+for t in allm:
+    k = t[ r["idrow"] ]
+    del t[ r["idrow"] ]
+    if r["partvals"]:
+        cursor.execute( all_parts,(k,) )
+        elementos = cursor.fetchall()
+        obj = json.dumps( {"forma":t,"elementos":elementos},
+                          indent=2, encoding="utf-8", ensure_ascii=False)
+        if 1 or debugis:
+            print "search cmd=",t[ r["repfef"] ]
+            print obj.encode("utf-8")
+            print
+    else:
+        obj = json.dumps( {"forma":t},
+                          indent=2, encoding="utf-8", ensure_ascii=False)
+    # replace or insert
+    cursor.execute("""SELECT comando FROM formas_reportes WHERE comando=%s""",(t[ r["repfef"] ],))
+    row = cursor.fetchone()
+    if row:
+        cursor.execute("""UPDATE formas_reportes SET jsonstring=%s
+        WHERE comando=%s""", (obj,t[ r["repfef"] ]))
+    else:
+        cursor.execute("""INSERT INTO formas_reportes (comando,jsonstring) VALUES (%s,%s)""",(t[ r["repfef"] ],obj))
+
+    if ws_name != "Maqueta_tablas":
+        continue
+    #
+    # Test new system: Look Ma, Pure json !
+    #
+    arch_filtros = os.path.join(maquetas,t[ r["repfef"] ] + ".json")
+    mtj = open( arch_filtros,"wb")
+    mtj.write(obj.encode("utf-8"))
+    mtj.close()
+
+    wjson = { "div_table":"div_" + t[ r["repfef"] ],
+             "id_tabla":t[ r["repfef"] ],
+             "url":"",
+             "visible_table":"T",
+             "columns":[]
+             }
+    # ("campo","stitle","tipo","rango","linkaction","swidth"):
+            #if e[f]:
+    report_names.append( wjson["id_tabla"] )
+    for e in elementos:
+        o = {
+            "campo":e["campo"],
+            "sTitle":e["stitle"],
+            "tipo":e["tipo"],
+            "linkaction":e["linkaction"],
+            "filtrodef":e["filtrodef"],
+            "rango":e["rango"],
+            "sWidth":e["swidth"],
+            "bVisible": "T" if e["tipo"] not in ("NOSELECT","invisible") else "F"
+            }
+        o["bVisible"] = "T" if e["tipo"] not in ("NOSELECT","invisible") else "F"
+        if o["sWidth"] == 0:
+            del o["sWidth"]
+        for f in ("sTitle","tipo","linkaction","rango"):
+            if o[f] == "":
+                del o[f]
+        wjson["columns"].append(o)
+    obj = json.dumps( wjson, indent=2, encoding="utf-8", ensure_ascii=False)
+    opath = os.path.join( rootdir, r["jsondir"], t[ r["repfef"] ] + ".json" )
+    f = open( opath, "wb")
+    f.write(obj.encode("utf-8"))
+    f.close()
+db.commit()
+
+# actions
+cursor.execute("SELECT * FROM maq_actions")
+wjson = {}
+for e in cursor.fetchall():
+    o = {
+        "label": e["label"],
+        "cmd": e["cmd"],
+        "isPopup": e["ispopup"],
+        "condMensajes": e["condmensajes"],
+        "tituloMensajesDeshab": e["titulomensajesdeshab"],
+        "tituloConfirmacion": e["tituloconfirmacion"],
+        "jsonparam": e["jsonparam"],
+        "aurl": e["aurl"],
+        }
+    wjson[ e["action"] ] = o
+
+obj = json.dumps( wjson, indent=2, encoding="utf-8", ensure_ascii=False)
+opath = os.path.join( rootdir, "maquetas/actions.json" )
+f = open( opath, "wb")
+f.write(obj) # .encode("utf-8")
+f.close()
+
+# maquetas para reportes
+
+defrpts_qry = """SELECT maq_tablas_id, initcol, initrow, xlsname,
+   querystr, viewstr, wherestr, orderstr, groupstr
+FROM maq_tablas
+WHERE nomreport = '%s'"""
+
+coldesc_qry = """SELECT campo, tipo, stitle, totales, filtro
+FROM maq_tablas_elementos
+WHERE maq_tablas_id=%s
+ORDER BY orden"""
+
+db = MySQLdb.connect( host="mydbserv",
+                      db="sibjdf",
+                      user="sicor",
+                      passwd="L3Vzci9zaGFyZS9teXNxbAo",
+                      charset="utf8",
+                      use_unicode=True)
+    
+cursor   = db.cursor()
+
+def get_defrpts( rptname ):
+    # print defrpts_qry % (rptname,)
+    cursor.execute( defrpts_qry % (rptname,))
+    if cursor.rowcount > 0: # Oracle if cursor: #
+        t = cursor.fetchone()
+        # print "cursor.fetchone:", t
+        (tablas_id,init_col,init_row,xlsname, query,view,where,orderby,groupby) = [ dfnt(i) for i in t ]
+        # print "--".join((rptname,tablas_id,init_col,init_row,xlsname,query,view,where,orderby,groupby))
+        
+    else:
+        # print "Error: not found"
+        return (None,None,None,None,None,None,None,None,None)
+
+    coldesc = []
+    # print coldesc_qry % (tablas_id,)
+    cursor.execute( coldesc_qry % (tablas_id,))
+    for t in cursor:
+        coldesc.append([dfnt(i) for i in t])
+    return (init_col,init_row,xlsname,query,view,where,coldesc,orderby,groupby)
+
+# For all reportes
+for reporte in report_names:
+    arch_filtros = os.path.join(inc_dir,"reportes","maquetas",reporte + ".json")
+    if not os.access(arch_filtros, os.W_OK):
+        print "Maqueta inválida:", arch_filtros
+        sys.exit(1)
+    f = open(arch_filtros, "wb")
+    desc_filtros = get_defrpts( reporte )
+    f.write(json.dumps(desc_filtros, indent=2, encoding="utf-8", ensure_ascii=False))
+    f.close()
+
+print "debugis:",debugis
+sys.exit(0)
+

@@ -1,0 +1,82 @@
+2020-11-05 08:56:03 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 08:56:05 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 08:56:10 [0] : DEBUG -  http://155.94.139.2/agendas	
+Array
+(
+)
+2020-11-05 08:56:49 [0] : DEBUG -  http://155.94.139.2/agendas	
+Array
+(
+)
+2020-11-05 09:02:34 [0] : DEBUG -  http://155.94.139.2/agendas	
+Array
+(
+)
+2020-11-05 09:02:55 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 09:03:05 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 09:04:46 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 09:19:49 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 09:34:52 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 09:49:55 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 10:04:58 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 10:20:01 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 10:35:04 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 10:50:07 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 11:05:10 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 11:20:13 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 11:35:16 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)

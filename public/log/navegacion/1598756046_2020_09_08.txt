@@ -1,0 +1,125 @@
+2020-09-08 10:13:23 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-08 10:13:27 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-08 10:14:02 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-08 10:14:26 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-08 10:14:31 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-08 10:14:45 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-08 10:14:49 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-08 10:15:00 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-08 11:25:01 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-08 11:25:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-08 17:19:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-08 17:20:03 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-08 17:20:07 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-09-08 17:20:18 [0] : DEBUG -  http://216.144.236.27/agendas/citas	
+Array
+(
+)
+2020-09-08 17:20:24 [0] : DEBUG -  http://216.144.236.27/agendas/citas_json	
+Array
+(
+    [fecha] => 2020-09-01
+)
+2020-09-08 17:20:37 [0] : DEBUG -  http://216.144.236.27/agendas/citas_json	
+Array
+(
+    [fecha] => 2020-09-01
+)
+2020-09-08 17:20:43 [0] : DEBUG -  http://216.144.236.27/agendas/citas_json	
+Array
+(
+    [fecha] => 2020-09-02
+)
+2020-09-08 17:20:49 [0] : DEBUG -  http://216.144.236.27/agendas/citas_json	
+Array
+(
+    [fecha] => 2020-08-31
+)
+2020-09-08 17:20:53 [0] : DEBUG -  http://216.144.236.27/agendas/citas_json	
+Array
+(
+    [fecha] => 2020-09-01
+)
+2020-09-08 17:21:31 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

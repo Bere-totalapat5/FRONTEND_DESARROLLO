@@ -1,0 +1,3793 @@
+2020-12-03 09:32:58 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 09:34:24 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 09:34:50 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 09:34:59 [0] : DEBUG -  http://155.94.139.2:8082/pagados	
+Array
+(
+)
+2020-12-03 09:55:54 [0] : DEBUG -  http://155.94.139.2:8082/pagados	
+Array
+(
+)
+2020-12-03 09:56:08 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 09:56:17 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 10:34:15 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:35:11 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:35:25 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:35:35 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:35:43 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:36:08 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:36:21 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:36:44 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:36:59 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:37:04 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:37:33 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:42:35 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:42:39 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:42:51 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:43:06 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:43:11 [0] : DEBUG -  http://155.94.139.2:8082/pagados	
+Array
+(
+)
+2020-12-03 10:43:12 [0] : DEBUG -  http://155.94.139.2:8082/pagados	
+Array
+(
+)
+2020-12-03 10:43:24 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:43:33 [0] : DEBUG -  http://155.94.139.2:8082/pagados	
+Array
+(
+)
+2020-12-03 10:45:17 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 10:45:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 10:45:29 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-03 10:48:14 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:49:29 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:50:02 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:51:16 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:51:46 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:52:18 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:56:30 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:58:21 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 10:59:51 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:00:38 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:01:20 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:01:25 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:03:08 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:09:51 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:11:57 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:11:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:12:11 [0] : DEBUG -  http://155.94.139.2:8082	
+Array
+(
+    [usuario] => JC100SA
+    [password] => masterpass
+    [tipo] => web
+    [next] => expedido
+)
+2020-12-03 11:12:11 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:12:19 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 11:12:54 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:12:59 [0] : DEBUG -  http://155.94.139.2:8082	
+Array
+(
+    [usuario] => JC100SA
+    [password] => masterpass
+    [tipo] => web
+    [next] => expedido
+)
+2020-12-03 11:12:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:13:09 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 11:13:13 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:14:56 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:16:20 [0] : DEBUG -  http://155.94.139.2:8082/todos	
+Array
+(
+)
+2020-12-03 11:16:37 [0] : DEBUG -  http://155.94.139.2:8082/aprobados	
+Array
+(
+)
+2020-12-03 11:16:54 [0] : DEBUG -  http://155.94.139.2:8082/pagados	
+Array
+(
+)
+2020-12-03 11:16:56 [0] : DEBUG -  http://155.94.139.2:8082/pagodir	
+Array
+(
+)
+2020-12-03 11:18:35 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:19:00 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:19:54 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:20:56 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:28:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:28:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 11:28:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:29:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 11:29:17 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:29:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 11:29:47 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:29:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 11:30:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:30:11 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 11:31:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:32:08 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 11:32:35 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:38:08 [0] : DEBUG -  http://155.94.139.2:8082/todos	
+Array
+(
+)
+2020-12-03 11:40:34 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:41:23 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:42:14 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:43:06 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:43:31 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:44:32 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:45:26 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:45:50 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:46:08 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:46:34 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:46:50 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:48:05 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:48:33 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:49:13 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:49:34 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:50:13 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:51:00 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:51:22 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:05 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:15 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:17 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:18 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:20 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:21 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:21 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:42 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:52:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 11:53:04 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 11:53:32 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-03 12:09:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:10:00 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:10:19 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:10:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:11:30 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:11:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:20:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:20:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:21:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:21:12 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:21:27 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:21:34 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:22:16 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:22:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:22:36 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:22:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:23:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:23:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:24:08 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:24:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:32:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:32:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:33:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:34:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:35:00 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:41:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:41:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:43:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:47:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:47:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:50:27 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:50:34 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 12:53:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 12:53:42 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:03:41 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:03:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:10:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:10:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:19:12 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:19:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:19:42 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:19:48 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:24:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:24:11 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:24:37 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:24:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:26:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:26:27 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:35:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:35:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:35:53 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:37:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:37:30 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:37:54 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:38:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:41:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:41:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:42:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:43:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:50:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:50:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:51:34 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:51:40 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:52:00 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:52:07 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:52:48 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:52:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:56:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 13:56:47 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 13:57:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:00:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:00:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:01:34 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:01:41 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:02:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:02:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:02:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:03:00 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:04:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:04:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:37:40 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:37:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:39:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:39:10 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:40:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:40:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:41:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:41:34 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:42:47 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:42:53 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:43:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:45:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:46:08 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:47:12 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:47:54 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:48:02 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:48:57 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:49:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:50:00 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:50:07 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:51:09 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:51:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:56:12 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:56:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 14:57:07 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 14:57:12 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:00:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:00:37 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:02:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:02:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:07:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:08:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:21:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:22:04 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:22:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:22:30 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:23:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:23:10 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:24:58 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-03 15:25:00 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:25:02 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 15:25:07 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607028381
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 15:25:37 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607028381
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpLRnhGT
+            [fileName:SplFileInfo:private] => phpLRnhGT
+        )
+
+)
+2020-12-03 15:32:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:32:12 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:32:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:33:21 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 15:33:43 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-03 15:33:45 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:33:47 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 15:41:42 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:41:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:45:44 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 15:45:48 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607031312
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 15:46:03 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607031312
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpH9JIlN
+            [fileName:SplFileInfo:private] => phpH9JIlN
+        )
+
+)
+2020-12-03 15:47:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:47:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:48:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:48:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:49:38 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 15:49:45 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607031294
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 15:50:06 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607031294
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php2g3n1j
+            [fileName:SplFileInfo:private] => php2g3n1j
+        )
+
+)
+2020-12-03 15:50:23 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 15:50:48 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607031272
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 15:50:54 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:51:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:51:03 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607031272
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpYV50LO
+            [fileName:SplFileInfo:private] => phpYV50LO
+        )
+
+)
+2020-12-03 15:52:16 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:52:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:52:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:52:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:53:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:54:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:55:10 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:55:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:55:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:55:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:56:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:56:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:56:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:56:48 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:59:04 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:59:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 15:59:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 15:59:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:04:34 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:04:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:05:26 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 16:12:31 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 16:12:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:13:07 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:14:35 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 16:14:40 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607033638
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 16:15:12 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607033638
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php808RhP
+            [fileName:SplFileInfo:private] => php808RhP
+        )
+
+)
+2020-12-03 16:19:12 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 16:19:17 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607033619
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 16:19:28 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607033619
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpNvtddl
+            [fileName:SplFileInfo:private] => phpNvtddl
+        )
+
+)
+2020-12-03 16:19:39 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-12-03 16:19:45 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-07
+    [fecha_hasta] => 2020-12-07
+)
+2020-12-03 16:19:50 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1607033638
+    [ponencia] => 100PIC
+    [id_documento] => 4428
+    [tipo_documento] => pdf
+)
+2020-12-03 16:20:00 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1607033619
+    [ponencia] => 100PIC
+    [id_documento] => 4431
+    [tipo_documento] => pdf
+)
+2020-12-03 16:20:07 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606432326
+    [ponencia] => 100PIC
+    [id_documento] => 4374
+    [tipo_documento] => pdf
+)
+2020-12-03 16:20:17 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1607033619
+    [ponencia] => 100PIC
+    [id_documento] => 4431
+    [tipo_documento] => pdf
+)
+2020-12-03 16:22:27 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:22:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:24:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:24:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:24:54 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-12-03 16:25:01 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 16:25:07 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607034244
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 16:25:15 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607034244
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php6JLBYa
+            [fileName:SplFileInfo:private] => php6JLBYa
+        )
+
+)
+2020-12-03 16:25:32 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-12-03 16:25:37 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:25:39 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-07
+    [fecha_hasta] => 2020-12-07
+)
+2020-12-03 16:25:42 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1607034244
+    [ponencia] => 100PIC
+    [id_documento] => 4440
+    [tipo_documento] => pdf
+)
+2020-12-03 16:25:48 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:26:10 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607034221
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 16:26:12 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607034221
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpmO2DI1
+            [fileName:SplFileInfo:private] => phpmO2DI1
+        )
+
+)
+2020-12-03 16:26:26 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-07
+    [fecha_hasta] => 2020-12-07
+)
+2020-12-03 16:26:28 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1607034221
+    [ponencia] => 100PIC
+    [id_documento] => 4443
+    [tipo_documento] => pdf
+)
+2020-12-03 16:28:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:29:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:30:09 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:30:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:31:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:31:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:34:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:34:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:35:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:35:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:36:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:36:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:38:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:39:11 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:40:04 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 16:40:09 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:40:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:40:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:40:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:42:09 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:42:19 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:43:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:43:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:43:48 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:44:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:45:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:45:42 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:48:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:48:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:50:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:50:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:50:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:51:04 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:51:23 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:51:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:52:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:52:09 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:55:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:55:07 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 16:55:12 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 16:59:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 16:59:23 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:00:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:00:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:01:12 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-12-03 17:07:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:07:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:13:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:13:53 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:14:42 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:14:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:15:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:15:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:16:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:16:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:17:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:17:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:18:30 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:18:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:20:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:21:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:21:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:22:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:22:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:22:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:22:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:23:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:23:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:28:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:28:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:29:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:29:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:30:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:30:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:31:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:31:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:36:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:36:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:39:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:39:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:39:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:40:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:41:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:41:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:44:27 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:44:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:45:37 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:45:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:46:19 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:46:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:48:30 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:48:37 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:50:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:50:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:51:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:52:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:52:36 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:52:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:55:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:55:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 17:58:10 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 17:58:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:03:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:03:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:07:54 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:08:04 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:08:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:08:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:15:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:15:47 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:16:53 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:17:07 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:19:00 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:19:10 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:20:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:20:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:23:00 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:23:08 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:24:36 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:24:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:25:37 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:25:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:26:11 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:26:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:27:40 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:27:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 18:29:53 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-03 18:30:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 20:09:49 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-03 20:09:52 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-03 20:09:55 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 20:10:01 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607047210
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:10:19 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607047210
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpfgh7Cr
+            [fileName:SplFileInfo:private] => phpfgh7Cr
+        )
+
+)
+2020-12-03 20:11:42 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 20:11:47 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607028302
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:11:58 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607028302
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpclaMMJ
+            [fileName:SplFileInfo:private] => phpclaMMJ
+        )
+
+)
+2020-12-03 20:13:01 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 20:13:20 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606947622
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:13:29 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606270864
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-03 20:17:00 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606947622
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:17:11 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1606947622
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpkC2AVy
+            [fileName:SplFileInfo:private] => phpkC2AVy
+        )
+
+)
+2020-12-03 20:17:50 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 20:17:55 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607048089
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:18:02 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607048089
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpcKj762
+            [fileName:SplFileInfo:private] => phpcKj762
+        )
+
+)
+2020-12-03 20:24:56 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-12-03 20:28:13 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-12-03 20:28:56 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoActualizarDocumentoAjax	
+Array
+(
+    [acuerdo_id] => 1607045340
+    [codigo_organo] => 100PIC
+    [id_flujo_participante] => 1242
+    [id_juicio] => 1600382500
+)
+2020-12-03 20:29:09 [0] : DEBUG -  http://155.94.139.2/bandejas/guardarAcuerdoDocumento	
+Array
+(
+    [id_juicio] => 1600382500
+    [acuerdo_id] => 1607045340
+    [codigo_organo] => 100PIC
+    [id_flujo_participante] => 1242
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpWD00I5
+            [fileName:SplFileInfo:private] => phpWD00I5
+        )
+
+)
+2020-12-03 20:29:12 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-12-03 20:29:19 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1607045340
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-03 20:34:41 [0] : DEBUG -  http://155.94.139.2/bandejas/avanzar/ajax	
+Array
+(
+    [accion] => corregido
+    [id_acuerdo] => 1607045340
+    [codigo_organo] => 100PIC
+    [ultima_version] => 0
+    [bandeja] => revision
+    [tipo_firma] => firel
+    [tipo_flujo_nombre] => 
+    [id_juicio] => 1600382500
+)
+2020-12-03 20:34:42 [0] : DEBUG -  http://155.94.139.2/bandejas/avanzar/ajax	
+Array
+(
+    [accion] => corregido
+    [id_acuerdo] => 1607045361
+    [codigo_organo] => 100PIC
+    [ultima_version] => 0
+    [bandeja] => revision
+    [tipo_firma] => firel
+    [tipo_flujo_nombre] => 
+    [id_juicio] => 1600382500
+)
+2020-12-03 20:34:44 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 20:34:51 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607045361
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:35:08 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607045361
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpM03WHG
+            [fileName:SplFileInfo:private] => phpM03WHG
+        )
+
+)
+2020-12-03 20:35:45 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607048072
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:35:48 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607048072
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpMwP0ge
+            [fileName:SplFileInfo:private] => phpMwP0ge
+        )
+
+)
+2020-12-03 20:36:22 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-12-03 20:36:27 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-07
+    [fecha_hasta] => 2020-12-07
+)
+2020-12-03 20:36:35 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1607048072
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:36:47 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 20:37:02 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607048072
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:37:10 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607048072
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpPk22qm
+            [fileName:SplFileInfo:private] => phpPk22qm
+        )
+
+)
+2020-12-03 20:40:25 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 20:40:30 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-12-03 20:40:38 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-07
+    [fecha_hasta] => 2020-12-07
+)
+2020-12-03 20:41:07 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1607047210
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:41:38 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-03 20:41:43 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607047210
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-03 20:41:53 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607047210
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php6T7Fkr
+            [fileName:SplFileInfo:private] => php6T7Fkr
+        )
+
+)
+2020-12-03 20:46:35 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1607048072
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-03 20:46:44 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-12-03 20:46:50 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-07
+    [fecha_hasta] => 2020-12-07
+)
+2020-12-03 20:46:55 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1607048089
+    [ponencia] => 100PIC
+    [id_documento] => 4472
+    [tipo_documento] => pdf
+)
+2020-12-03 20:47:28 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606947622
+    [ponencia] => 100PIC
+    [id_documento] => 4468
+    [tipo_documento] => pdf
+)
+2020-12-03 20:47:42 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-02
+    [fecha_hasta] => 2020-12-02
+)
+2020-12-03 20:47:46 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-03
+    [fecha_hasta] => 2020-12-03
+)
+2020-12-03 20:47:49 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-12-04
+    [fecha_hasta] => 2020-12-04
+)
+2020-12-03 20:47:54 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606948644
+    [ponencia] => 100PIC
+    [id_documento] => 4404
+    [tipo_documento] => pdf
+)
+2020-12-03 20:52:38 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

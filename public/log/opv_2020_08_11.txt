@@ -1,0 +1,40 @@
+2020-08-11 12:12:07 Array
+(
+    [idDocumento] => 3257170
+    [juzgado] => C36
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-11 12:11:44
+    [tipoJuicio] => 103
+    [reg_date] => 
+    [idExpediente] => 4632676
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599100,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"UNISEX ROPA DE SABANA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-11 12:34:41 Array
+(
+    [idDocumento] => 3257171
+    [juzgado] => C13
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-11 12:34:18
+    [tipoJuicio] => 106
+    [reg_date] => 
+    [idExpediente] => 4632677
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599102,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CAUSALITY"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	

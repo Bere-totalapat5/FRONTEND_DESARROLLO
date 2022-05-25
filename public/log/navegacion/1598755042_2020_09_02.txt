@@ -1,0 +1,185 @@
+2020-09-02 16:58:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 16:58:50 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 17:00:10 [0] : DEBUG -  http://216.144.236.27/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => Operacion2017
+)
+2020-09-02 17:00:16 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 17:00:22 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 17:00:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 17:00:45 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 17:01:30 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-02 17:01:38 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-02 17:01:43 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-02 17:01:50 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-02 17:01:56 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-09-02 17:02:32 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-09-02
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => RAUL
+                    [apellido_paterno] => LAUREANO
+                    [apellido_materno] => JACINTO
+                    [tipo] => actor
+                    [correo] => rlaureano@totalpat.com
+                    [telefono_celular] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-09-02 17:02:36 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 17:03:51 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 17:04:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 17:04:18 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 17:04:38 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-02 17:04:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 17:04:50 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 17:04:55 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 17:05:06 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1599084155	
+Array
+(
+)

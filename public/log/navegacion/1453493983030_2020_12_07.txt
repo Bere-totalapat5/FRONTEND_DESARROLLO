@@ -1,0 +1,1146 @@
+2020-12-07 10:04:09 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 10:04:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 10:04:44 [0] : DEBUG -  http://155.94.139.2:8082/pagodir	
+Array
+(
+)
+2020-12-07 10:04:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 10:04:54 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-07 10:05:02 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 10:05:04 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 10:05:11 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 10:25:52 [0] : DEBUG -  http://155.94.139.2:8082/home?involucrados_apellido_materno=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [involucrados_apellido_materno] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 10:26:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 10:38:36 [0] : DEBUG -  http://155.94.139.2:8082/home?involucrados_apellido_materno=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [involucrados_apellido_materno] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 10:38:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 10:59:06 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-12-07 10:59:06 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-07 10:59:10 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 11:31:17 [0] : DEBUG -  http://155.94.139.2:8082/home?involucrados_apellido_materno=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [involucrados_apellido_materno] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 11:31:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 11:31:19 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-07 11:31:21 [0] : DEBUG -  http://155.94.139.2:8082/pagodir	
+Array
+(
+)
+2020-12-07 11:31:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 11:32:03 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:37:04 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:37:29 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:37:55 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:40:16 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:41:40 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:42:21 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:42:54 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:45:00 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:47:08 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:48:42 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:49:57 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:51:21 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:51:45 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:52:35 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:53:33 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:54:30 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:54:41 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 11:54:53 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:00:08 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:02:58 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:09:17 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:10:14 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:11:25 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:13:16 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:13:51 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:19:29 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:20:37 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:21:05 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:21:33 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:21:42 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:22:04 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:22:09 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:22:17 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:22:31 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:25:11 [0] : DEBUG -  http://155.94.139.2:8082/ajax	
+Array
+(
+)
+2020-12-07 12:49:28 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 12:49:36 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 12:51:58 [0] : DEBUG -  http://155.94.139.2:8082	
+Array
+(
+)
+2020-12-07 12:51:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 12:52:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 13:53:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 13:53:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 13:54:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 13:55:02 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 13:55:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 13:55:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 13:56:05 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 13:56:16 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:03:50 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:04:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:05:13 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:05:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:13:14 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:13:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:14:14 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:14:40 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:14:46 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:15:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:18:07 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:18:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:24:07 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:24:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:32:05 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:32:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:39:40 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:40:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 14:45:14 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 14:45:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 15:03:17 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 15:03:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 15:12:01 [0] : DEBUG -  http://155.94.139.2:8082/home?Estatus=&pagina_actual=1&paginas_totales=1&sellist1=Seleccionar	
+Array
+(
+    [Estatus] => 
+    [sellist1] => Seleccionar
+    [pagina_actual] => 1
+    [paginas_totales] => 1
+)
+2020-12-07 15:12:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 15:12:59 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-07 15:13:10 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:13:17 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 15:21:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:21:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 15:31:57 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:32:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 15:36:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 15:36:34 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 16:08:32 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-07 16:08:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 16:08:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 17:49:18 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-07 17:49:34 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 17:49:38 [0] : DEBUG -  http://155.94.139.2:8082/pagados	
+Array
+(
+)
+2020-12-07 17:49:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:07:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:07:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:11:19 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:11:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:16:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:16:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:26:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:27:12 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:27:47 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:28:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:29:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:29:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:29:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:30:04 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:31:27 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:31:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:32:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:32:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:33:30 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:38:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:44:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:44:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:45:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:45:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:46:41 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:46:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 18:51:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 18:51:54 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 19:00:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 19:01:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 19:01:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 19:02:10 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 19:08:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 19:08:41 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 19:16:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:26:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:28:36 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:28:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 20:29:11 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:29:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:30:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:30:44 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:31:10 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:31:19 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 20:43:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:44:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:44:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 20:46:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:50:03 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:50:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 20:52:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:53:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+)
+2020-12-07 20:53:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:54:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+)
+2020-12-07 20:54:16 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:54:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 20:55:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:56:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:56:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 20:57:48 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:57:57 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 20:59:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:59:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 20:59:27 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-07 20:59:41 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)

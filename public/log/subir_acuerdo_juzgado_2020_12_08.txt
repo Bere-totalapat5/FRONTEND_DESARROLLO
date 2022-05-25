@@ -1,0 +1,376 @@
+2020-12-08 10:11:05 [863] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 8 id_juicio: 1598327308	
+2020-12-08 10:11:05 [863] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 10:11:06 [863] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-08 10:11:08 [863] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/Pc10axYQDuEmfOdVWkNIfXk8L2h4wTkQtI8jPzIS.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/Pc10axYQDuEmfOdVWkNIfXk8L2h4wTkQtI8jPzIS.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/Pc10axYQDuEmfOdVWkNIfXk8L2h4wTkQtI8jPzIS.pdf","url":"\/temporales\/Pc10axYQDuEmfOdVWkNIfXk8L2h4wTkQtI8jPzIS.pdf"}	
+2020-12-08 10:11:08 [863] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:2	
+2020-12-08 10:11:08 [863] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/porfirmar/Pc10axYQDuEmfOdVWkNIfXk8L2h4wTkQtI8jPzIS.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_863_1598327308_%04d.pdf	
+2020-12-08 10:11:08 [863] : DEBUG -  shell_burst output	
+2020-12-08 10:11:08 [863] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_863_1598327308_0002.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_863_1598327308_0002.pdf	
+2020-12-08 10:11:08 [863] : DEBUG -  shell_multistamp output	
+2020-12-08 10:11:08 [863] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_863_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/porfirmar/Pc10axYQDuEmfOdVWkNIfXk8L2h4wTkQtI8jPzIS.pdf	
+2020-12-08 10:11:08 [863] : DEBUG -  shell_cat output	
+2020-12-08 10:11:08 [863] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 10:11:10 [863] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 10:11:10 [863] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 10:11:11 [863] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 10:11:10","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 10:11:11","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 10:11:11","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 10:11:11","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 10:11:11","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 10:11:11 [863] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607443871"}	
+2020-12-08 10:11:11 [863] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":8,"participantes_flujo":[36,37,38,39,40],"bandejas":[4830,4831,4832,4833]}}	
+2020-12-08 10:11:11 [863] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4501}}	
+2020-12-08 10:11:11 [863] : FIN   -  	
+2020-12-08 10:20:41 [715] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 9 id_juicio: 1598327308	
+2020-12-08 10:20:41 [715] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 10:20:41 [715] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-08 10:20:43 [715] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/5K9j7qyRpPzDWlsj3NKXSfKgD5FS3IISNR4ed7Q9.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/5K9j7qyRpPzDWlsj3NKXSfKgD5FS3IISNR4ed7Q9.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/5K9j7qyRpPzDWlsj3NKXSfKgD5FS3IISNR4ed7Q9.pdf","url":"\/temporales\/5K9j7qyRpPzDWlsj3NKXSfKgD5FS3IISNR4ed7Q9.pdf"}	
+2020-12-08 10:20:43 [715] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:2	
+2020-12-08 10:20:43 [715] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/porfirmar/5K9j7qyRpPzDWlsj3NKXSfKgD5FS3IISNR4ed7Q9.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_715_1598327308_%04d.pdf	
+2020-12-08 10:20:43 [715] : DEBUG -  shell_burst output	
+2020-12-08 10:20:43 [715] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_715_1598327308_0002.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_715_1598327308_0002.pdf	
+2020-12-08 10:20:44 [715] : DEBUG -  shell_multistamp output	
+2020-12-08 10:20:44 [715] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_715_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/porfirmar/5K9j7qyRpPzDWlsj3NKXSfKgD5FS3IISNR4ed7Q9.pdf	
+2020-12-08 10:20:44 [715] : DEBUG -  shell_cat output	
+2020-12-08 10:20:44 [715] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 10:20:45 [715] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 10:20:45 [715] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 10:20:45 [715] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 10:20:45","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 10:20:45","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 10:20:45","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 10:20:45","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 10:20:45","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 10:31:37 [771] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 9 id_juicio: 1598327308	
+2020-12-08 10:31:37 [771] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 10:31:38 [771] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-08 10:31:39 [771] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/1uDx0wwYsO5N06PDG84jdilpNfGaKXjynL0KZFEZ.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/1uDx0wwYsO5N06PDG84jdilpNfGaKXjynL0KZFEZ.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/1uDx0wwYsO5N06PDG84jdilpNfGaKXjynL0KZFEZ.pdf","url":"\/temporales\/1uDx0wwYsO5N06PDG84jdilpNfGaKXjynL0KZFEZ.pdf"}	
+2020-12-08 10:31:39 [771] : DEBUG -  Se generó Sello Libro Gob /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_1598327308.pdf	
+2020-12-08 10:31:40 [771] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 10:31:41 [771] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 10:31:41 [771] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 10:31:42 [771] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 10:31:41","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 10:31:41","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 10:31:41","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 10:31:41","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 10:31:41","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 10:31:42 [771] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607445102"}	
+2020-12-08 10:31:42 [771] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":9,"participantes_flujo":[41,42,43,44,45],"bandejas":[4834,4835,4836,4837]}}	
+2020-12-08 10:31:42 [771] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4503}}	
+2020-12-08 10:31:42 [771] : FIN   -  	
+2020-12-08 10:38:12 [100] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 10 id_juicio: 1598327308	
+2020-12-08 10:38:12 [100] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 10:38:12 [100] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-08 10:38:14 [100] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/K9nANMh4ayG40O8b0BcaXusiVWKwxGfhPTddCXpx.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/K9nANMh4ayG40O8b0BcaXusiVWKwxGfhPTddCXpx.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/K9nANMh4ayG40O8b0BcaXusiVWKwxGfhPTddCXpx.pdf","url":"\/temporales\/K9nANMh4ayG40O8b0BcaXusiVWKwxGfhPTddCXpx.pdf"}	
+2020-12-08 10:38:14 [100] : DEBUG -  Se generó Sello Libro Gob /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_1598327308.pdf	
+2020-12-08 10:38:14 [100] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 10:43:56 [453] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 10 id_juicio: 1598327308	
+2020-12-08 10:43:56 [453] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 10:43:56 [453] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-08 10:43:58 [453] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/6ZonUDiwjcwXnwWmNcha5pCPHqGfcenA7I9ObufG.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/6ZonUDiwjcwXnwWmNcha5pCPHqGfcenA7I9ObufG.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/6ZonUDiwjcwXnwWmNcha5pCPHqGfcenA7I9ObufG.pdf","url":"\/temporales\/6ZonUDiwjcwXnwWmNcha5pCPHqGfcenA7I9ObufG.pdf"}	
+2020-12-08 10:43:58 [453] : DEBUG -  Se generó Sello Libro Gob /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_1598327308.pdf	
+2020-12-08 10:43:59 [453] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 10:44:00 [453] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 10:44:00 [453] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 10:44:01 [453] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 10:44:00","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 10:44:01","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 10:44:01","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 10:44:01","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 10:44:01","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 10:44:01 [453] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607445841"}	
+2020-12-08 10:44:01 [453] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":10,"participantes_flujo":[46,47,48,49,50],"bandejas":[4838,4839,4840,4841]}}	
+2020-12-08 10:44:02 [453] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4505}}	
+2020-12-08 10:44:02 [453] : FIN   -  	
+2020-12-08 10:46:49 [617] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 11 id_juicio: 1598327308	
+2020-12-08 10:46:49 [617] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 10:46:49 [617] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-08 10:46:51 [617] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/bhBctlrizQUzo7JnV42NuS0XY801HTW8N7x6Nyl6.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/bhBctlrizQUzo7JnV42NuS0XY801HTW8N7x6Nyl6.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/bhBctlrizQUzo7JnV42NuS0XY801HTW8N7x6Nyl6.pdf","url":"\/temporales\/bhBctlrizQUzo7JnV42NuS0XY801HTW8N7x6Nyl6.pdf"}	
+2020-12-08 10:46:51 [617] : DEBUG -  Se generó Sello Libro Gob /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_1598327308.pdf	
+2020-12-08 10:46:52 [617] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 10:46:53 [617] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 10:46:53 [617] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 10:46:54 [617] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 10:46:53","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 10:46:53","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 10:46:53","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 10:46:53","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 10:46:53","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 10:46:54 [617] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607446014"}	
+2020-12-08 10:46:54 [617] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":11,"participantes_flujo":[51,52,53,54,55],"bandejas":[4842,4843,4844,4845]}}	
+2020-12-08 10:46:54 [617] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4507}}	
+2020-12-08 10:46:54 [617] : FIN   -  	
+2020-12-08 14:27:46 [261] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 12 id_juicio: 1598327308	
+2020-12-08 14:27:46 [261] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 14:27:46 [261] : DEBUG -  Se detectó archivo con extension txt	
+2020-12-08 14:27:46 [261] : DEBUG -  Limpieza MHT: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python2 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/filtro.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/3KTCI1IBj3yp2qHBtUovF3PlMxWetfAORii1SFdG.txt\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/3KTCI1IBj3yp2qHBtUovF3PlMxWetfAORii1SFdG.html\"","return":"OK"}	
+2020-12-08 14:27:47 [261] : DEBUG -  Conversión PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/doc_para_coser.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/3KTCI1IBj3yp2qHBtUovF3PlMxWetfAORii1SFdG.html\"","return":"OK file:\/\/\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_inq7e79l\/resoluciones.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_inq7e79l\/resoluciones.pdf","url":"\/temporales\/rpt_inq7e79l\/resoluciones.pdf"}	
+2020-12-08 14:27:47 [261] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:27:47 [261] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_inq7e79l/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_261_1598327308_%04d.pdf	
+2020-12-08 14:27:48 [261] : DEBUG -  shell_burst output	
+2020-12-08 14:27:48 [261] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_261_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_261_1598327308_0001.pdf	
+2020-12-08 14:27:48 [261] : DEBUG -  shell_multistamp output	
+2020-12-08 14:27:48 [261] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_261_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_inq7e79l/resoluciones.pdf	
+2020-12-08 14:27:48 [261] : DEBUG -  shell_cat output	
+2020-12-08 14:27:48 [261] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 14:27:50 [261] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 14:27:50 [261] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 14:27:50 [261] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 14:27:50","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 14:27:50","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 14:27:50","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 14:27:50","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 14:27:50","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 14:27:51 [261] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607459270"}	
+2020-12-08 14:27:51 [261] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":12,"participantes_flujo":[56,57,58,59,60],"bandejas":[4846,4847,4848,4849]}}	
+2020-12-08 14:27:51 [261] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4509}}	
+2020-12-08 14:27:51 [261] : FIN   -  	
+2020-12-08 14:30:16 [930] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:30:16 [930] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt__0cb24yp/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_930_1607459270_%04d.pdf	
+2020-12-08 14:30:17 [930] : DEBUG -  shell_burst output	
+2020-12-08 14:30:17 [930] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_930_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_930_1607459270_0001.pdf	
+2020-12-08 14:30:17 [930] : DEBUG -  shell_multistamp output	
+2020-12-08 14:30:17 [930] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_930_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt__0cb24yp/resoluciones.pdf	
+2020-12-08 14:30:17 [930] : DEBUG -  shell_cat output	
+2020-12-08 14:30:37 [844] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:30:37 [844] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_2muk17ep/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_844_1607459270_%04d.pdf	
+2020-12-08 14:30:37 [844] : DEBUG -  shell_burst output	
+2020-12-08 14:30:37 [844] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_844_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_844_1607459270_0001.pdf	
+2020-12-08 14:30:37 [844] : DEBUG -  shell_multistamp output	
+2020-12-08 14:30:37 [844] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_844_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_2muk17ep/resoluciones.pdf	
+2020-12-08 14:30:37 [844] : DEBUG -  shell_cat output	
+2020-12-08 14:31:42 [822] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:31:42 [822] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_cw85h4zg/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_822_1607459270_%04d.pdf	
+2020-12-08 14:31:42 [822] : DEBUG -  shell_burst output	
+2020-12-08 14:31:42 [822] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_822_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_822_1607459270_0001.pdf	
+2020-12-08 14:31:42 [822] : DEBUG -  shell_multistamp output	
+2020-12-08 14:31:42 [822] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_822_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_cw85h4zg/resoluciones.pdf	
+2020-12-08 14:31:42 [822] : DEBUG -  shell_cat output	
+2020-12-08 14:32:38 [650] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:32:38 [650] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_9kb6gl7y/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_650_1607459270_%04d.pdf	
+2020-12-08 14:32:39 [650] : DEBUG -  shell_burst output	
+2020-12-08 14:32:39 [650] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_650_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_650_1607459270_0001.pdf	
+2020-12-08 14:32:39 [650] : DEBUG -  shell_multistamp output	
+2020-12-08 14:32:39 [650] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_650_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_9kb6gl7y/resoluciones.pdf	
+2020-12-08 14:32:39 [650] : DEBUG -  shell_cat output	
+2020-12-08 14:33:05 [432] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:33:05 [432] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_dp4b688i/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_432_1607459270_%04d.pdf	
+2020-12-08 14:33:05 [432] : DEBUG -  shell_burst output	
+2020-12-08 14:33:05 [432] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_432_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_432_1607459270_0001.pdf	
+2020-12-08 14:33:05 [432] : DEBUG -  shell_multistamp output	
+2020-12-08 14:33:05 [432] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_432_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_dp4b688i/resoluciones.pdf	
+2020-12-08 14:33:05 [432] : DEBUG -  shell_cat output	
+2020-12-08 14:33:45 [506] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:33:45 [506] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_j4pum94k/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_506_1607459270_%04d.pdf	
+2020-12-08 14:33:45 [506] : DEBUG -  shell_burst output	
+2020-12-08 14:33:45 [506] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_506_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_506_1607459270_0001.pdf	
+2020-12-08 14:33:45 [506] : DEBUG -  shell_multistamp output	
+2020-12-08 14:33:45 [506] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_506_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_j4pum94k/resoluciones.pdf	
+2020-12-08 14:33:45 [506] : DEBUG -  shell_cat output	
+2020-12-08 14:35:38 [295] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:35:38 [295] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_9mlcm7_9/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_295_1607459270_%04d.pdf	
+2020-12-08 14:35:38 [295] : DEBUG -  shell_burst output	
+2020-12-08 14:35:38 [295] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_295_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_295_1607459270_0001.pdf	
+2020-12-08 14:35:38 [295] : DEBUG -  shell_multistamp output	
+2020-12-08 14:35:38 [295] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_295_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_9mlcm7_9/resoluciones.pdf	
+2020-12-08 14:35:38 [295] : DEBUG -  shell_cat output	
+2020-12-08 14:36:23 [299] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:36:23 [299] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_16de0jdr/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_299_1607459270_%04d.pdf	
+2020-12-08 14:36:23 [299] : DEBUG -  shell_burst output	
+2020-12-08 14:36:23 [299] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_299_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_299_1607459270_0001.pdf	
+2020-12-08 14:36:23 [299] : DEBUG -  shell_multistamp output	
+2020-12-08 14:36:23 [299] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_299_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_16de0jdr/resoluciones.pdf	
+2020-12-08 14:36:23 [299] : DEBUG -  shell_cat output	
+2020-12-08 14:36:57 [987] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:36:57 [987] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_93inkt_g/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_987_1607459270_%04d.pdf	
+2020-12-08 14:36:57 [987] : DEBUG -  shell_burst output	
+2020-12-08 14:36:57 [987] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_987_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_987_1607459270_0001.pdf	
+2020-12-08 14:36:57 [987] : DEBUG -  shell_multistamp output	
+2020-12-08 14:36:57 [987] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_987_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_93inkt_g/resoluciones.pdf	
+2020-12-08 14:36:57 [987] : DEBUG -  shell_cat output	
+2020-12-08 14:37:49 [430] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:37:49 [430] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_4rfzjq1d/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_430_1607459270_%04d.pdf	
+2020-12-08 14:37:49 [430] : DEBUG -  shell_burst output	
+2020-12-08 14:37:49 [430] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_430_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_430_1607459270_0001.pdf	
+2020-12-08 14:37:49 [430] : DEBUG -  shell_multistamp output	
+2020-12-08 14:37:49 [430] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_430_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_4rfzjq1d/resoluciones.pdf	
+2020-12-08 14:37:49 [430] : DEBUG -  shell_cat output	
+2020-12-08 14:38:49 [322] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:38:49 [322] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_jbi_4lcl/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_322_1607459270_%04d.pdf	
+2020-12-08 14:38:49 [322] : DEBUG -  shell_burst output	
+2020-12-08 14:38:49 [322] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_322_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_322_1607459270_0001.pdf	
+2020-12-08 14:38:49 [322] : DEBUG -  shell_multistamp output	
+2020-12-08 14:38:49 [322] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_322_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_jbi_4lcl/resoluciones.pdf	
+2020-12-08 14:38:49 [322] : DEBUG -  shell_cat output	
+2020-12-08 14:40:28 [357] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:40:28 [357] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_ptz9uul9/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_357_1607459270_%04d.pdf	
+2020-12-08 14:40:28 [357] : DEBUG -  shell_burst output	
+2020-12-08 14:40:28 [357] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_357_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_357_1607459270_0001.pdf	
+2020-12-08 14:40:28 [357] : DEBUG -  shell_multistamp output	
+2020-12-08 14:40:28 [357] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_357_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_ptz9uul9/resoluciones.pdf	
+2020-12-08 14:40:28 [357] : DEBUG -  shell_cat output	
+2020-12-08 14:41:18 [429] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:41:18 [429] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt__q8y3otq/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_429_1607459270_%04d.pdf	
+2020-12-08 14:41:18 [429] : DEBUG -  shell_burst output	
+2020-12-08 14:41:18 [429] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_429_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_429_1607459270_0001.pdf	
+2020-12-08 14:41:18 [429] : DEBUG -  shell_multistamp output	
+2020-12-08 14:41:18 [429] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_429_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt__q8y3otq/resoluciones.pdf	
+2020-12-08 14:41:18 [429] : DEBUG -  shell_cat output	
+2020-12-08 14:41:48 [351] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:41:48 [351] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_qnegnxuc/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_351_1607459270_%04d.pdf	
+2020-12-08 14:41:48 [351] : DEBUG -  shell_burst output	
+2020-12-08 14:41:48 [351] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_351_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_351_1607459270_0001.pdf	
+2020-12-08 14:41:48 [351] : DEBUG -  shell_multistamp output	
+2020-12-08 14:41:48 [351] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_351_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_qnegnxuc/resoluciones.pdf	
+2020-12-08 14:41:48 [351] : DEBUG -  shell_cat output	
+2020-12-08 14:42:42 [568] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:42:42 [568] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_lu8fsyqu/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_568_1607459270_%04d.pdf	
+2020-12-08 14:42:42 [568] : DEBUG -  shell_burst output	
+2020-12-08 14:42:42 [568] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_568_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_568_1607459270_0001.pdf	
+2020-12-08 14:42:42 [568] : DEBUG -  shell_multistamp output	
+2020-12-08 14:42:42 [568] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_568_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_lu8fsyqu/resoluciones.pdf	
+2020-12-08 14:42:42 [568] : DEBUG -  shell_cat output	
+2020-12-08 14:43:27 [687] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:43:27 [687] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_rb_pbewy/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_687_1607459270_%04d.pdf	
+2020-12-08 14:43:27 [687] : DEBUG -  shell_burst output	
+2020-12-08 14:43:27 [687] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_687_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_687_1607459270_0001.pdf	
+2020-12-08 14:43:27 [687] : DEBUG -  shell_multistamp output	
+2020-12-08 14:43:27 [687] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_687_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_rb_pbewy/resoluciones.pdf	
+2020-12-08 14:43:27 [687] : DEBUG -  shell_cat output	
+2020-12-08 14:44:24 [269] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:44:24 [269] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_9_4n2l6c/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_269_1607459270_%04d.pdf	
+2020-12-08 14:44:24 [269] : DEBUG -  shell_burst output	
+2020-12-08 14:44:24 [269] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_269_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_269_1607459270_0001.pdf	
+2020-12-08 14:44:24 [269] : DEBUG -  shell_multistamp output	
+2020-12-08 14:44:24 [269] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_269_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_9_4n2l6c/resoluciones.pdf	
+2020-12-08 14:44:24 [269] : DEBUG -  shell_cat output	
+2020-12-08 14:45:08 [745] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:45:08 [745] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_rnmjy8jm/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_745_1607459270_%04d.pdf	
+2020-12-08 14:45:08 [745] : DEBUG -  shell_burst output	
+2020-12-08 14:45:08 [745] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_745_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_745_1607459270_0001.pdf	
+2020-12-08 14:45:08 [745] : DEBUG -  shell_multistamp output	
+2020-12-08 14:45:08 [745] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_745_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_rnmjy8jm/resoluciones.pdf	
+2020-12-08 14:45:08 [745] : DEBUG -  shell_cat output	
+2020-12-08 14:46:11 [503] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 14:46:11 [503] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_qvfopvpi/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_503_1607459270_%04d.pdf	
+2020-12-08 14:46:11 [503] : DEBUG -  shell_burst output	
+2020-12-08 14:46:11 [503] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_503_1607459270_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607459270.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_503_1607459270_0001.pdf	
+2020-12-08 14:46:11 [503] : DEBUG -  shell_multistamp output	
+2020-12-08 14:46:11 [503] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_503_1607459270_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_qvfopvpi/resoluciones.pdf	
+2020-12-08 14:46:11 [503] : DEBUG -  shell_cat output	
+2020-12-08 17:15:42 [385] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:2	
+2020-12-08 17:15:42 [385] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/porfirmar/CRgbgeACKUlwlTycftMaiulJbREPuZxyji6zRUAS.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_385_1598327308_%04d.pdf	
+2020-12-08 17:15:43 [385] : DEBUG -  shell_burst output	
+2020-12-08 17:15:43 [385] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_385_1598327308_0002.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_385_1598327308_0002.pdf	
+2020-12-08 17:15:43 [385] : DEBUG -  shell_multistamp output	
+2020-12-08 17:15:43 [385] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_385_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/porfirmar/CRgbgeACKUlwlTycftMaiulJbREPuZxyji6zRUAS.pdf	
+2020-12-08 17:15:43 [385] : DEBUG -  shell_cat output	
+2020-12-08 17:20:53 [785] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 13 id_juicio: 1598327308	
+2020-12-08 17:20:53 [785] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 17:20:54 [785] : DEBUG -  Se detectó archivo con extension txt	
+2020-12-08 17:20:54 [785] : DEBUG -  Limpieza MHT: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python2 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/filtro.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/oUb5vp5qJcbiPqktUue7yeP7ttt7MiVOkpoIWcYl.txt\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/oUb5vp5qJcbiPqktUue7yeP7ttt7MiVOkpoIWcYl.html\"","return":"OK"}	
+2020-12-08 17:20:54 [785] : DEBUG -  Conversión PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/doc_para_coser.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/oUb5vp5qJcbiPqktUue7yeP7ttt7MiVOkpoIWcYl.html\"","return":"OK file:\/\/\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_g3j438r6\/resoluciones.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_g3j438r6\/resoluciones.pdf","url":"\/temporales\/rpt_g3j438r6\/resoluciones.pdf"}	
+2020-12-08 17:20:54 [785] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 17:20:54 [785] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_g3j438r6/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_785_1598327308_%04d.pdf	
+2020-12-08 17:20:54 [785] : DEBUG -  shell_burst output	
+2020-12-08 17:20:54 [785] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_785_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_785_1598327308_0001.pdf	
+2020-12-08 17:20:54 [785] : DEBUG -  shell_multistamp output	
+2020-12-08 17:20:54 [785] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_785_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_g3j438r6/resoluciones.pdf	
+2020-12-08 17:20:55 [785] : DEBUG -  shell_cat output	
+2020-12-08 17:20:55 [785] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 17:20:55 [785] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 17:20:55 [785] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 17:20:56 [785] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 17:20:55","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 17:20:55","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 17:20:56","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 17:20:55","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 17:20:56","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 17:20:56 [785] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607469656"}	
+2020-12-08 17:20:56 [785] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":13,"participantes_flujo":[61,62,63,64,65],"bandejas":[4850,4851,4852,4853]}}	
+2020-12-08 17:20:56 [785] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4538}}	
+2020-12-08 17:20:56 [785] : FIN   -  	
+2020-12-08 17:21:33 [518] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 17:21:33 [518] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_qlfa7gqz/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_518_1607469656_%04d.pdf	
+2020-12-08 17:21:33 [518] : DEBUG -  shell_burst output	
+2020-12-08 17:21:33 [518] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_518_1607469656_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607469656.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_518_1607469656_0001.pdf	
+2020-12-08 17:21:33 [518] : DEBUG -  shell_multistamp output	
+2020-12-08 17:21:33 [518] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_518_1607469656_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_qlfa7gqz/resoluciones.pdf	
+2020-12-08 17:21:33 [518] : DEBUG -  shell_cat output	
+2020-12-08 17:26:48 [254] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 17:26:48 [254] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_2fx7beuv/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_254_1598327308_%04d.pdf	
+2020-12-08 17:26:48 [254] : DEBUG -  shell_burst output	
+2020-12-08 17:26:48 [254] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_254_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_254_1598327308_0001.pdf	
+2020-12-08 17:26:48 [254] : DEBUG -  shell_multistamp output	
+2020-12-08 17:26:48 [254] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_254_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_2fx7beuv/resoluciones.pdf	
+2020-12-08 17:26:48 [254] : DEBUG -  shell_cat output	
+2020-12-08 17:40:37 [856] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 14 id_juicio: 1598327308	
+2020-12-08 17:40:37 [856] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 17:40:37 [856] : DEBUG -  Se detectó archivo con extension txt	
+2020-12-08 17:40:38 [856] : DEBUG -  Limpieza MHT: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python2 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/filtro.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/1baMbscYPpZkkJIWs1iPle0s5FS5zv2YEoqsHHqL.txt\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/1baMbscYPpZkkJIWs1iPle0s5FS5zv2YEoqsHHqL.html\"","return":"OK"}	
+2020-12-08 17:40:38 [856] : DEBUG -  Conversión PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/doc_para_coser.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/1baMbscYPpZkkJIWs1iPle0s5FS5zv2YEoqsHHqL.html\"","return":"OK file:\/\/\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_cvnjvgqq\/resoluciones.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_cvnjvgqq\/resoluciones.pdf","url":"\/temporales\/rpt_cvnjvgqq\/resoluciones.pdf"}	
+2020-12-08 17:40:38 [856] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 17:40:38 [856] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_cvnjvgqq/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_856_1598327308_%04d.pdf	
+2020-12-08 17:40:38 [856] : DEBUG -  shell_burst output	
+2020-12-08 17:40:38 [856] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_856_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_856_1598327308_0001.pdf	
+2020-12-08 17:40:38 [856] : DEBUG -  shell_multistamp output	
+2020-12-08 17:40:38 [856] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_856_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_cvnjvgqq/resoluciones.pdf	
+2020-12-08 17:40:38 [856] : DEBUG -  shell_cat output	
+2020-12-08 17:40:38 [856] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 17:40:39 [856] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 17:40:39 [856] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 17:40:40 [856] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 17:40:39","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 17:40:40","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 17:40:40","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 17:40:40","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 17:40:40","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 17:40:40 [856] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607470840"}	
+2020-12-08 17:40:40 [856] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":14,"participantes_flujo":[66,67,68,69,70],"bandejas":[4854,4855,4856,4857]}}	
+2020-12-08 17:40:40 [856] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4550}}	
+2020-12-08 17:40:40 [856] : FIN   -  	
+2020-12-08 17:42:03 [788] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 17:42:03 [788] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_d2ltiwe_/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_788_1598327308_%04d.pdf	
+2020-12-08 17:42:03 [788] : DEBUG -  shell_burst output	
+2020-12-08 17:42:03 [788] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_788_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_788_1598327308_0001.pdf	
+2020-12-08 17:42:03 [788] : DEBUG -  shell_multistamp output	
+2020-12-08 17:42:03 [788] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_788_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_d2ltiwe_/resoluciones.pdf	
+2020-12-08 17:42:03 [788] : DEBUG -  shell_cat output	
+2020-12-08 18:19:30 [885] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 18:19:30 [885] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_cexf3kw3/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_885_1607470840_%04d.pdf	
+2020-12-08 18:19:30 [885] : DEBUG -  shell_burst output	
+2020-12-08 18:19:30 [885] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_885_1607470840_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607470840.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_885_1607470840_0001.pdf	
+2020-12-08 18:19:30 [885] : DEBUG -  shell_multistamp output	
+2020-12-08 18:19:30 [885] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_885_1607470840_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_cexf3kw3/resoluciones.pdf	
+2020-12-08 18:19:30 [885] : DEBUG -  shell_cat output	
+2020-12-08 18:22:22 [477] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 18:22:22 [477] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_0x5bv96e/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_477_1607470840_%04d.pdf	
+2020-12-08 18:22:22 [477] : DEBUG -  shell_burst output	
+2020-12-08 18:22:22 [477] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_477_1607470840_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607470840.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_477_1607470840_0001.pdf	
+2020-12-08 18:22:22 [477] : DEBUG -  shell_multistamp output	
+2020-12-08 18:22:22 [477] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_477_1607470840_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_0x5bv96e/resoluciones.pdf	
+2020-12-08 18:22:22 [477] : DEBUG -  shell_cat output	
+2020-12-08 18:25:48 [397] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 18:25:48 [397] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_09ltz6sc/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_397_1607470840_%04d.pdf	
+2020-12-08 18:25:48 [397] : DEBUG -  shell_burst output	
+2020-12-08 18:25:48 [397] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_397_1607470840_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607470840.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_397_1607470840_0001.pdf	
+2020-12-08 18:25:49 [397] : DEBUG -  shell_multistamp output	
+2020-12-08 18:25:49 [397] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_397_1607470840_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_09ltz6sc/resoluciones.pdf	
+2020-12-08 18:25:49 [397] : DEBUG -  shell_cat output	
+2020-12-08 18:28:42 [737] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 18:28:42 [737] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_9qpe593r/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_737_1607470840_%04d.pdf	
+2020-12-08 18:28:42 [737] : DEBUG -  shell_burst output	
+2020-12-08 18:28:42 [737] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_737_1607470840_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607470840.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_737_1607470840_0001.pdf	
+2020-12-08 18:28:42 [737] : DEBUG -  shell_multistamp output	
+2020-12-08 18:28:42 [737] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_737_1607470840_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_9qpe593r/resoluciones.pdf	
+2020-12-08 18:28:42 [737] : DEBUG -  shell_cat output	
+2020-12-08 18:39:20 [436] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 18:39:20 [436] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_agl6coot/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_436_1598327308_%04d.pdf	
+2020-12-08 18:39:20 [436] : DEBUG -  shell_burst output	
+2020-12-08 18:39:20 [436] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_436_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_436_1598327308_0001.pdf	
+2020-12-08 18:39:20 [436] : DEBUG -  shell_multistamp output	
+2020-12-08 18:39:20 [436] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_436_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_agl6coot/resoluciones.pdf	
+2020-12-08 18:39:20 [436] : DEBUG -  shell_cat output	
+2020-12-08 18:42:31 [540] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 18:42:31 [540] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_8b40721y/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_540_1598327308_%04d.pdf	
+2020-12-08 18:42:31 [540] : DEBUG -  shell_burst output	
+2020-12-08 18:42:31 [540] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_540_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_540_1598327308_0001.pdf	
+2020-12-08 18:42:31 [540] : DEBUG -  shell_multistamp output	
+2020-12-08 18:42:31 [540] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_540_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_8b40721y/resoluciones.pdf	
+2020-12-08 18:42:31 [540] : DEBUG -  shell_cat output	
+2020-12-08 19:03:18 [399] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 17 id_juicio: 1598327308	
+2020-12-08 19:03:18 [399] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 19:03:19 [399] : DEBUG -  Se detectó archivo con extension txt	
+2020-12-08 19:03:19 [399] : DEBUG -  Limpieza MHT: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python2 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/filtro.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/DrtgbTi1PSKYmRNPdC7SmbgLrzmGpUvwb9elQXx1.txt\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/DrtgbTi1PSKYmRNPdC7SmbgLrzmGpUvwb9elQXx1.html\"","return":"OK"}	
+2020-12-08 19:03:19 [399] : DEBUG -  Conversión PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/doc_para_coser.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/DrtgbTi1PSKYmRNPdC7SmbgLrzmGpUvwb9elQXx1.html\"","return":"OK file:\/\/\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_qjvxk6pp\/resoluciones.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_qjvxk6pp\/resoluciones.pdf","url":"\/temporales\/rpt_qjvxk6pp\/resoluciones.pdf"}	
+2020-12-08 19:03:19 [399] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 19:03:19 [399] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_qjvxk6pp/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_399_1598327308_%04d.pdf	
+2020-12-08 19:03:19 [399] : DEBUG -  shell_burst output	
+2020-12-08 19:03:19 [399] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_399_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_399_1598327308_0001.pdf	
+2020-12-08 19:03:19 [399] : DEBUG -  shell_multistamp output	
+2020-12-08 19:03:19 [399] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_399_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_qjvxk6pp/resoluciones.pdf	
+2020-12-08 19:03:19 [399] : DEBUG -  shell_cat output	
+2020-12-08 19:03:19 [399] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 19:03:24 [399] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 19:03:44 [716] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 17 id_juicio: 1598327308	
+2020-12-08 19:03:44 [716] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-08 19:03:44 [716] : DEBUG -  Se detectó archivo con extension txt	
+2020-12-08 19:03:44 [716] : DEBUG -  Limpieza MHT: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python2 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/filtro.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/ZW9OKNi9fypjtdakoLsuMcAVwxx5gDrI8urhOGT0.txt\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/ZW9OKNi9fypjtdakoLsuMcAVwxx5gDrI8urhOGT0.html\"","return":"OK"}	
+2020-12-08 19:03:45 [716] : DEBUG -  Conversión PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas_html\/doc_para_coser.py\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/ZW9OKNi9fypjtdakoLsuMcAVwxx5gDrI8urhOGT0.html\"","return":"OK file:\/\/\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_s86gmpjo\/resoluciones.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/public\/temporales\/rpt_s86gmpjo\/resoluciones.pdf","url":"\/temporales\/rpt_s86gmpjo\/resoluciones.pdf"}	
+2020-12-08 19:03:45 [716] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-08 19:03:45 [716] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/public/temporales/rpt_s86gmpjo/resoluciones.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_716_1598327308_%04d.pdf	
+2020-12-08 19:03:45 [716] : DEBUG -  shell_burst output	
+2020-12-08 19:03:45 [716] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_716_1598327308_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_716_1598327308_0001.pdf	
+2020-12-08 19:03:45 [716] : DEBUG -  shell_multistamp output	
+2020-12-08 19:03:45 [716] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_716_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/public/temporales/rpt_s86gmpjo/resoluciones.pdf	
+2020-12-08 19:03:45 [716] : DEBUG -  shell_cat output	
+2020-12-08 19:03:45 [716] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-08 19:03:46 [716] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-08 19:03:46 [716] : DEBUG -  Bandera conciliador: 0	
+2020-12-08 19:03:47 [716] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-08 19:03:46","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-08 19:03:46","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-08 19:03:46","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-08 19:03:46","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-08 19:03:46","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-08 19:03:47 [716] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607475827"}	
+2020-12-08 19:03:47 [716] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":17,"participantes_flujo":[81,82,83,84,85],"bandejas":[4866,4867,4868,4869]}}	
+2020-12-08 19:03:47 [716] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4575}}	
+2020-12-08 19:03:47 [716] : FIN   -  	

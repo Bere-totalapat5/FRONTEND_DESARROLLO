@@ -1,0 +1,38 @@
+2020-08-13 12:42:11 [406] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 60250/2020-3 id_juicio: 1595986737 id_acuerdo: 1597340509	
+2020-08-13 12:42:11 [406] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-13 16:00:00	
+2020-08-13 12:42:11 [406] : ERROR -  El archivo PFX es obligatorio.	
+2020-08-13 12:42:11 [406] : FIN   -  	
+2020-08-13 12:42:21 [310] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 60250/2020-3 id_juicio: 1595986737 id_acuerdo: 1597340509	
+2020-08-13 12:42:21 [310] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-13 16:00:00	
+2020-08-13 12:42:21 [310] : DEBUG -  Se consulta el flujo	
+2020-08-13 12:42:21 [310] : DEBUG -  Se pone el candado de firmado.	
+2020-08-13 12:42:22 [310] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3009	
+2020-08-13 12:42:22 [310] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3009	
+2020-08-13 12:42:22 [310] : DEBUG -  Intenta firmar FIREL	
+2020-08-13 12:42:24 [310] : DEBUG -  Finaliza firmar FIREL	
+2020-08-13 12:42:25 [310] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-13 12:42:25 [310] : DEBUG -  Se quita el candado de firmado.	
+2020-08-13 12:42:25 [310] : DEBUG -  Finalización de la firma.	
+2020-08-13 12:42:25 [310] : FIN   -  	
+2020-08-13 12:43:50 [294] : INIC  -  Juzgado: 1JFO Usuario: JFO1SB Acuerdo: 60250/2020-3 id_juicio: 1595986737 id_acuerdo: 1597340509	
+2020-08-13 12:43:50 [294] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-13 16:00:00	
+2020-08-13 12:43:50 [294] : DEBUG -  Se consulta el flujo	
+2020-08-13 12:43:50 [294] : DEBUG -  Se pone el candado de firmado.	
+2020-08-13 12:43:50 [294] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3010	
+2020-08-13 12:43:51 [294] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3010	
+2020-08-13 12:43:51 [294] : DEBUG -  Intenta firmar FIREL	
+2020-08-13 12:43:53 [294] : DEBUG -  Finaliza firmar FIREL	
+2020-08-13 12:43:54 [294] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-13 12:43:54 [294] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3011	
+2020-08-13 12:43:55 [294] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Familiar de Proceso Oral | Clave: 1JFO | Documento: 60250/2020-3 | Firma: JFO1SB | 2020-08-13 12:43:53 | Firma: JFO1J | 2020-08-13 12:42:24 | Fecha Publicación: 2020-08-14 00:00:00 | NAS: 5100-0109-2421-1741-051 -- SIGJ / TSJCDMX --	
+2020-08-13 12:43:56 [294] : DEBUG -  Finaliza sello sigj	
+2020-08-13 12:43:56 [294] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-13 12:43:57 [294] : DEBUG -  DIV.EXPRES - Se decta el servicio de divorcio expres Catalogo: 623 - Tipo: admision	
+2020-08-13 12:43:57 [294] : DEBUG -  DIV.EXPRES - Descarga ultimo documento firmado ultima_version: 3012	
+2020-08-13 12:43:58 [294] : DEBUG -  DIV.EXPRES - se descargan del gestor documental y cosen promociones con acuerdo	
+2020-08-13 12:43:58 [294] : DEBUG -  DIV.EXPRES - configuración correos partes para envios	
+2020-08-13 12:43:58 [294] : DEBUG -  DIV.EXPRES - se mandan los correos al cron	
+2020-08-13 12:43:58 [294] : DEBUG -  DIV.EXPRES - finalizacion	
+2020-08-13 12:43:58 [294] : DEBUG -  Se quita el candado de firmado.	
+2020-08-13 12:43:59 [294] : DEBUG -  Finalización de la firma.	
+2020-08-13 12:43:59 [294] : FIN   -  	

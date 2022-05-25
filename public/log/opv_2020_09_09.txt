@@ -1,0 +1,45 @@
+2020-09-09 10:18:05 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 38
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-09 10:17:57
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4633017
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599736,"participacion":1,"tipoPersona":"F","apPaterno":"MENECES","apMaterno":"MIRANDA","nombre":"MARCELO","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599737,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ZAPATERIA LOMAS"}]}
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-09 16:38:49 Array
+(
+    [idDocumento] => 3257530
+    [juzgado] => R10
+    [idMateria] => R
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-09 04:38:33
+    [tipoJuicio] => 358
+    [reg_date] => 
+    [idExpediente] => 4633018
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599741,"participacion":1,"tipoPersona":"F","apPaterno":"KJYTHG","apMaterno":"","nombre":"YJTHRR","razonSocial":"","email":"YUTYGRR@GMAIL.COM"}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/4473/4474/25548/25549/archivo escrito de la promocion.pdf","idDocument":7437},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/4473/4474/25548/25549/documento prueba anexo 1.pdf","idDocument":7438},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/4473/4474/25548/25549/documento prueba anexo 2.pdf","idDocument":7439},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/4473/4474/25548/25549/documento prueba anexo 3.pdf","idDocument":7440}]
+    [origen] => OPV
+    [nombreCapturista] => FDS FDS FDS
+    [emailCapturista] => gfd@gmail.com
+    [telefonoCapturista] => 1234567876
+    [tipoTramiteDivorcio] => 1
+)
+	

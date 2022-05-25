@@ -1,0 +1,7 @@
+2020-12-15 19:10:35 [465] : INIC  -  ["OK","\/temporales\/rpt_r0l0bd1r\/unidos.pdf"]	
+2020-12-15 19:27:41 [672] : INIC  -  ["OK","\/temporales\/rpt_b03u4908\/unidos.pdf"]	
+2020-12-15 19:27:51 [112] : INIC  -  ["OK","\/temporales\/rpt_7vjp97vz\/unidos.pdf"]	
+2020-12-15 19:27:57 [854] : INIC  -  ["OK","\/temporales\/rpt_076e1zfx\/unidos.pdf"]	
+2020-12-15 19:28:48 [444] : INIC  -  ["OK","\/temporales\/rpt_2bphs_pm\/unidos.pdf"]	
+2020-12-15 19:41:26 [514] : INIC  -  ["OK","\/temporales\/rpt_ptmszve1\/unidos.pdf"]	
+2020-12-15 19:41:27 [962] : INIC  -  ["OK","\/temporales\/rpt_7qhb_4qa\/unidos.pdf"]	

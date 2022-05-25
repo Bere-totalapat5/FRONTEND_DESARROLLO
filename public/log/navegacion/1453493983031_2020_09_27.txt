@@ -1,0 +1,30 @@
+2020-09-27 21:09:18 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-27 21:09:21 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-27 21:09:28 [0] : DEBUG -  http://172.16.159.181/boletin/listaPublicaciones	
+Array
+(
+)
+2020-09-27 21:09:38 [0] : DEBUG -  http://172.16.159.181/boletin/listaPublicaciones/2020/09/28	
+Array
+(
+)
+2020-09-27 21:10:38 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

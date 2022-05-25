@@ -1,0 +1,831 @@
+2020-09-07 10:15:21 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 22
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:15:14
+    [tipoJuicio] => 117
+    [reg_date] => 
+    [idExpediente] => 4632976
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599674,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ARQUIMEDES"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599675,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LEONARDO"}]}
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 10:45:31 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 10:53:55 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 10:57:17 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 11:14:18 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 11:18:27 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 11:36:12 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 11:45:36 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 11:52:05 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 23
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 11:52:18
+    [tipoJuicio] => 108
+    [reg_date] => 
+    [idExpediente] => 4632984
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599692,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CORP STORES"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 11:59:14 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 12:01:09 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 12:10:11 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 24
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 12:10:25
+    [tipoJuicio] => 113
+    [reg_date] => 
+    [idExpediente] => 4632987
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599697,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CORPORACION SOTOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599698,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SABRITAS SA DE CV"}]}
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 12:13:01 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 25
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 12:13:17
+    [tipoJuicio] => 108
+    [reg_date] => 
+    [idExpediente] => 4632988
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599699,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SANTANDER"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599700,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCOMER"}]}
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 12:15:56 Array
+(
+    [idDocumento] => 
+    [juzgado] => F1
+    [idMateria] => V
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 10:43:51
+    [tipoJuicio] => 271
+    [reg_date] => 
+    [idExpediente] => 30972
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599676,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MANZANILLO"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599677,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PERALTA"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 12:48:05 Array
+(
+    [idDocumento] => 
+    [juzgado] => R1
+    [idMateria] => R
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-03-03 01:42:06
+    [tipoJuicio] => 382
+    [reg_date] => 
+    [idExpediente] => 30849
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20580312,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LOGITECH"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 12:59:52 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 27
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 12:58:47
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632992
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599709,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LICONSA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 13:02:58 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 28
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 12:58:47
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632993
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599709,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LICONSA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 13:48:28 Array
+(
+    [idDocumento] => 
+    [juzgado] => F12
+    [idMateria] => F
+    [noExpediente] => 6016
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 01:48:45
+    [tipoJuicio] => 305
+    [reg_date] => 
+    [idExpediente] => 4632994
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599713,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CORPORACION SOTOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599714,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SABRITAS SA DE CV"}]}
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 13:56:06 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 29
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 01:56:22
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632995
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599715,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MURCIE FAQ"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 14:14:08 Array
+(
+    [idDocumento] => 
+    [juzgado] => F5
+    [idMateria] => F
+    [noExpediente] => 6018
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 02:14:22
+    [tipoJuicio] => 308
+    [reg_date] => 
+    [idExpediente] => 4632996
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599716,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MURCIE FAQ"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 14:19:42 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 30
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 02:19:56
+    [tipoJuicio] => 113
+    [reg_date] => 
+    [idExpediente] => 4632997
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599717,"participacion":1,"tipoPersona":"F","apPaterno":"GUARDIA","apMaterno":"LOZO","nombre":"MARIA","razonSocial":""}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 17:09:41 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 31
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 05:09:55
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632998
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599718,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SANTANADER"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599719,"participacion":1,"tipoPersona":"F","apPaterno":"GALICIOP","apMaterno":"MORAN","nombre":"LUIS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 17:14:51 Array
+(
+    [idDocumento] => 
+    [juzgado] => F33
+    [idMateria] => F
+    [noExpediente] => 6016
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 05:15:07
+    [tipoJuicio] => 307
+    [reg_date] => 
+    [idExpediente] => 4632999
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599721,"participacion":1,"tipoPersona":"F","apPaterno":"MENECES","apMaterno":"","nombre":"DAVID","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599722,"participacion":1,"tipoPersona":"F","apPaterno":"GONZALES","apMaterno":"PRIETO","nombre":"LAURA","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 17:17:34 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 32
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 05:16:39
+    [tipoJuicio] => 113
+    [reg_date] => 
+    [idExpediente] => 4633000
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599723,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"VICTORIAS SACD"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 17:21:14 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 33
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 05:16:39
+    [tipoJuicio] => 123
+    [reg_date] => 
+    [idExpediente] => 4633001
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599723,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"VICTORIAS SACD"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599725,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CORONA SA DE CV"}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 17:35:47 Array
+(
+    [idDocumento] => 
+    [juzgado] => F8
+    [idMateria] => F
+    [noExpediente] => 6016
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 05:36:02
+    [tipoJuicio] => 324
+    [reg_date] => 
+    [idExpediente] => 4633002
+    [tipoDocumento] => CAUS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599728,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MIRINDASEEE"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 18:35:18 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 35
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-07 06:35:37
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4633004
+    [tipoDocumento] => CAUS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599731,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MIRINDA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-07 21:45:42 Array
+(
+    [idDocumento] => 
+    [juzgado] => V20
+    [idMateria] => V
+    [noExpediente] => 431
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-07-20 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887809
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCO INVEX, S.A., INSTITUCIÓN DE BANCA MÚLTIPLE, INVEX GRUPO FINANCIEROPA","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"PACHECO","apMaterno":"IBARRA","nombre":"DOMINGO","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7403},{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/PODER 50857.pdf","idDocument":7403}]
+    [origen] => OPV
+    [nombreCapturista] => IBARRA VAZQUEZ BRENDA
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 21:46:17 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => V
+    [noExpediente] => 431
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-07-20 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887809
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCO INVEX, S.A., INSTITUCIÓN DE BANCA MÚLTIPLE, INVEX GRUPO FINANCIEROPA","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"PACHECO","apMaterno":"IBARRA","nombre":"DOMINGO","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7403},{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/PODER 50857.pdf","idDocument":7403}]
+    [origen] => OPV
+    [nombreCapturista] => IBARRA VAZQUEZ BRENDA
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 21:47:06 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => V
+    [noExpediente] => 431
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-07-20 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887809
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCO INVEX, S.A., INSTITUCIÓN DE BANCA MÚLTIPLE, INVEX GRUPO FINANCIEROPA","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"PACHECO","apMaterno":"IBARRA","nombre":"DOMINGO","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7403},{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/PODER 50857.pdf","idDocument":7403}]
+    [origen] => OPV
+    [nombreCapturista] => IBARRA VAZQUEZ BRENDA
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 21:53:19 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 431
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-07-20 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887809
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCO INVEX, S.A., INSTITUCIÓN DE BANCA MÚLTIPLE, INVEX GRUPO FINANCIEROPA","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"PACHECO","apMaterno":"IBARRA","nombre":"DOMINGO","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7403},{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/PODER 50857.pdf","idDocument":7403}]
+    [origen] => OPV
+    [nombreCapturista] => IBARRA VAZQUEZ BRENDA
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 22:06:01 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 431
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-07-20 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887809
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCO INVEX, S.A., INSTITUCIÓN DE BANCA MÚLTIPLE, INVEX GRUPO FINANCIEROPA","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"PACHECO","apMaterno":"IBARRA","nombre":"DOMINGO","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7403}
+    [origen] => OPV
+    [nombreCapturista] => IBARRA VAZQUEZ BRENDA
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 22:16:42 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 2
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887810
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PRÉSTAMOS EXPEDITOS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE, SOCIEDAD FINANCIERA DE OBJETO MÚLTIPLE, ENTIDAD NO REGULADA","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"BUSTAMANTE","apMaterno":"MARTINEZ","nombre":"JESUS MAURICIO","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7405}
+    [origen] => OPV
+    [nombreCapturista] => LÓPEZ JUAREZ KARINA
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 22:16:56 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 2
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887810
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PRÉSTAMOS EXPEDITOS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE, SOCIEDAD FINANCIERA DE OBJETO MÚLTIPLE, ENTIDAD NO REGULADA","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"BUSTAMANTE","apMaterno":"MARTINEZ","nombre":"JESUS MAURICIO","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7405}
+    [origen] => OPV
+    [nombreCapturista] => LÓPEZ JUAREZ KARINA
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 22:22:31 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 466
+    [anioExpediente] => 2015
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887811
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7407}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 22:22:42 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 466
+    [anioExpediente] => 2015
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887811
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7407}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 22:34:34 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887812
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7407}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-07 22:43:16 Array
+(
+    [idDocumento] => 7407
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887813
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7407}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	

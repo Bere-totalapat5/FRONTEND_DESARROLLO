@@ -1,0 +1,33 @@
+2020-09-21 19:32:47 [369] : INIC  -  Juzgado: 100PIC Usuario: JC100J Acuerdo: 1/2020-15 id_juicio: 1595825526 id_acuerdo: 1600734747	
+2020-09-21 19:32:47 [369] : DEBUG -  Se consulta el flujo	
+2020-09-21 19:32:48 [369] : DEBUG -  Se pone el candado de firmado.	
+2020-09-21 19:32:48 [369] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3969	
+2020-09-21 19:32:48 [369] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 3969	
+2020-09-21 19:32:48 [369] : DEBUG -  Intenta firmar FIREL	
+2020-09-21 19:32:48 [369] : DEBUG -  Finaliza firmar FIREL	
+2020-09-21 19:32:48 [369] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-21 19:32:48 [369] : DEBUG -  Se quita el candado de firmado.	
+2020-09-21 19:32:48 [369] : DEBUG -  Finalización de la firma.	
+2020-09-21 19:32:48 [369] : FIN   -  	
+2020-09-21 19:34:38 [104] : INIC  -  Juzgado: 100PIC Usuario: JC100J Acuerdo: 1/2020-14 id_juicio: 1595825526 id_acuerdo: 1600734720	
+2020-09-21 19:34:38 [104] : DEBUG -  Se consulta el flujo	
+2020-09-21 19:34:38 [104] : DEBUG -  Se pone el candado de firmado.	
+2020-09-21 19:34:38 [104] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3967	
+2020-09-21 19:34:38 [104] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3967	
+2020-09-21 19:34:38 [104] : DEBUG -  Intenta firmar FIREL	
+2020-09-21 19:34:43 [104] : DEBUG -  Finaliza firmar FIREL	
+2020-09-21 19:34:43 [104] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-21 19:34:43 [104] : DEBUG -  Se quita el candado de firmado.	
+2020-09-21 19:34:43 [104] : DEBUG -  Finalización de la firma.	
+2020-09-21 19:34:43 [104] : FIN   -  	
+2020-09-21 21:47:26 [657] : INIC  -  Juzgado: 100PIC Usuario: JC100J Acuerdo: 1/2020-16 id_juicio: 1595825526 id_acuerdo: 1600742819	
+2020-09-21 21:47:26 [657] : DEBUG -  Se consulta el flujo	
+2020-09-21 21:47:26 [657] : DEBUG -  Se pone el candado de firmado.	
+2020-09-21 21:47:26 [657] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3972	
+2020-09-21 21:47:26 [657] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3972	
+2020-09-21 21:47:27 [657] : DEBUG -  Intenta firmar FIREL	
+2020-09-21 21:47:27 [657] : DEBUG -  Finaliza firmar FIREL	
+2020-09-21 21:47:27 [657] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-09-21 21:47:27 [657] : DEBUG -  Se quita el candado de firmado.	
+2020-09-21 21:47:27 [657] : DEBUG -  Finalización de la firma.	
+2020-09-21 21:47:27 [657] : FIN   -  	

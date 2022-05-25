@@ -1,0 +1,137 @@
+2020-09-03 00:00:52 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-03 00:01:12 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599109121
+    [id_juicio] => 1599107679
+    [codigo_organo] => 200PIC
+)
+2020-09-03 00:01:33 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599109121
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3660
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1599107679
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php5ahfkN
+            [fileName:SplFileInfo:private] => php5ahfkN
+        )
+
+)
+2020-09-03 00:01:51 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-03 00:01:58 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-03 00:02:09 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599107919
+    [id_juicio] => 1599083102
+    [codigo_organo] => 200PIC
+)
+2020-09-03 00:02:59 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-03 00:10:12 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-03 00:10:16 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-03 00:10:28 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-03 00:10:42 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599109121
+    [ponencia] => 200PIC
+    [id_documento] => 3666
+    [tipo_documento] => pdf
+)
+2020-09-03 00:10:53 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599109121
+    [id_juicio] => 1599107679
+    [codigo_organo] => 200PIC
+)
+2020-09-03 00:11:03 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599109121
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3666
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1599107679
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpHgfFXn
+            [fileName:SplFileInfo:private] => phpHgfFXn
+        )
+
+)
+2020-09-03 00:12:01 [0] : DEBUG -  http://216.144.236.27/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-09-03 00:13:37 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599109121
+    [ponencia] => 200PIC
+    [id_documento] => 3668
+    [tipo_documento] => pdf
+)
+2020-09-03 00:14:44 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

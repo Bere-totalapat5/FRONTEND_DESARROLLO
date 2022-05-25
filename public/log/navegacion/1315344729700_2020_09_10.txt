@@ -1,0 +1,47 @@
+2020-09-10 08:19:17 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-10 08:19:21 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-10 08:19:36 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/42	
+Array
+(
+)
+2020-09-10 08:19:53 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 08:21:32 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libros_registro_notarios_juzgado_
+    [materia] => PC
+)
+2020-09-10 09:42:38 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 09:42:51 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

@@ -1,0 +1,26 @@
+2020-09-29 09:53:16 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-29 09:53:30 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-29 10:05:51 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/65	
+Array
+(
+)
+2020-09-29 10:06:31 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

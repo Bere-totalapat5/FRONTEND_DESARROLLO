@@ -1,0 +1,30 @@
+2020-08-12 11:50:06 [242] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-27 id_juicio: 1582151035139 id_acuerdo: 1597194604	
+2020-08-12 11:50:06 [242] : DEBUG -  Se consulta el flujo	
+2020-08-12 11:50:06 [254] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-28 id_juicio: 1582151035139 id_acuerdo: 1597250960	
+2020-08-12 11:50:06 [254] : DEBUG -  Se consulta el flujo	
+2020-08-12 11:50:07 [242] : ERROR -  El acuerdo tiene candado de proceso de firmado.	
+2020-08-12 11:50:07 [242] : FIN   -  	
+2020-08-12 11:50:07 [254] : DEBUG -  Se pone el candado de firmado.	
+2020-08-12 11:50:07 [254] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3002	
+2020-08-12 11:50:08 [254] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3002	
+2020-08-12 11:50:08 [254] : DEBUG -  Intenta firmar FIREL	
+2020-08-12 11:50:10 [254] : DEBUG -  Finaliza firmar FIREL	
+2020-08-12 11:50:11 [254] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-12 11:50:11 [254] : DEBUG -  Se quita el candado de firmado.	
+2020-08-12 11:50:11 [254] : DEBUG -  Finalización de la firma.	
+2020-08-12 11:50:11 [254] : FIN   -  	
+2020-08-12 11:52:38 [616] : INIC  -  Juzgado: 1PIC Usuario: JC1SA Acuerdo: 1/2020-28 id_juicio: 1582151035139 id_acuerdo: 1597250960	
+2020-08-12 11:52:38 [616] : DEBUG -  Se consulta el flujo	
+2020-08-12 11:52:39 [616] : DEBUG -  Se pone el candado de firmado.	
+2020-08-12 11:52:39 [616] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3003	
+2020-08-12 11:52:39 [616] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3003	
+2020-08-12 11:52:40 [616] : DEBUG -  Intenta firmar FIREL	
+2020-08-12 11:52:42 [616] : DEBUG -  Finaliza firmar FIREL	
+2020-08-12 11:52:43 [616] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-12 11:52:44 [616] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3004	
+2020-08-12 11:52:44 [616] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Civil | Clave: 1PIC | Documento: 1/2020-28 | Firma: JC1SA | 2020-08-12 11:52:43 | Firma: JC1J | 2020-08-12 11:50:10 | Fecha Publicación: 2020-08-13 00:00:00 | NAS: 5100-0109-2359-9315-440 -- SIGJ / TSJCDMX --	
+2020-08-12 11:52:45 [616] : DEBUG -  Finaliza sello sigj	
+2020-08-12 11:52:45 [616] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-12 11:52:46 [616] : DEBUG -  Se quita el candado de firmado.	
+2020-08-12 11:52:47 [616] : DEBUG -  Finalización de la firma.	
+2020-08-12 11:52:47 [616] : FIN   -  	

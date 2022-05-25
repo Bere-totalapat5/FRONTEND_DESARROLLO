@@ -1,0 +1,1049 @@
+2020-10-19 10:53:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-19 10:54:00 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-19 10:54:32 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 10:54:46 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-19 10:54:51 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 10:56:40 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-19 11:15:33 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-19 11:43:04 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 12:04:45 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-19 12:07:14 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 12:08:55 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25?anios=2020&bis=&expediente=	
+Array
+(
+    [expediente] => 
+    [anios] => 2020
+    [bis] => 
+)
+2020-10-19 12:11:04 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 12:41:12 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-19 13:48:24 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-19 13:48:27 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-19 13:48:50 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-10-19 13:49:42 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/30?anios=2020&bis=&expediente=1	
+Array
+(
+    [expediente] => 1
+    [anios] => 2020
+    [bis] => 
+)
+2020-10-19 13:49:53 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-10-19 13:51:13 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-19 13:51:37 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_recepcion
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => hora_recepcion
+                    [value] => 00:00
+                )
+
+            [3] => Array
+                (
+                    [name] => ocursante
+                    [value] => prueba
+                )
+
+            [4] => Array
+                (
+                    [name] => observaciones
+                    [value] => prueba de registro de promocion
+                )
+
+        )
+
+    [tabla] => libros_registro_promocion_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-19 13:51:49 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_recepcion
+                    [value] => 2020-10-19
+                )
+
+            [2] => Array
+                (
+                    [name] => hora_recepcion
+                    [value] => 00:00
+                )
+
+            [3] => Array
+                (
+                    [name] => ocursante
+                    [value] => prueba
+                )
+
+            [4] => Array
+                (
+                    [name] => observaciones
+                    [value] => prueba de registro de promocion
+                )
+
+        )
+
+    [tabla] => libros_registro_promocion_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-19 13:51:51 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-10-19 13:56:58 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-19 17:40:11 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-19 17:40:19 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-19 17:41:26 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-10-19 17:42:25 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 17:43:33 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25?anios=2020&bis=&expediente=	
+Array
+(
+    [expediente] => 
+    [anios] => 2020
+    [bis] => 
+)
+2020-10-19 17:47:04 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 17:55:28 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-19 18:32:26 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 18:45:23 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 18:46:37 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 401
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-19
+                )
+
+            [3] => Array
+                (
+                    [name] => asunto
+                    [value] => Prueba de oficios
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-29
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => Esta es una prueba de oficio ojala no se rompa
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => <option value="0">--Seleccione una opción--</option><option value="Oral mercantil">Oral mercantil</option><option value="Oral civi">Oral civi</option><option value="Ordinario civil">Ordinario civil</option><option value="Ordinario mercatil">Ordinario mercatil</option><option value="Medios preparatorios de los juicios ordinarios(civil-mercnatil-ejecutivo">Medios preparatorios de los juicios ordinarios(civil-mercnatil-ejecutivo</option><option value="Actos prejudiciales">Actos prejudiciales</option><option value="Jurisdicción voluntaria o juicios no contenciosos de los asuntos">Jurisdicción voluntaria o juicios no contenciosos de los asuntos</option><option value="Ordinarios (civil-mercantil-ejecutivo)">Ordinarios (civil-mercantil-ejecutivo)</option><option value="Juicios especiales y vías de apremio">Juicios especiales y vías de apremio</option><option value="Tercerías, arbitraje,otros">Tercerías, arbitraje,otros</option>
+)
+2020-10-19 18:55:04 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 401
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-19
+                )
+
+            [3] => Array
+                (
+                    [name] => asunto
+                    [value] => Prueba de oficios
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-29
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => Esta es una prueba de oficio ojala no se rompa
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => <option value="0">--Seleccione una opción--</option><option value="Oral mercantil">Oral mercantil</option><option value="Oral civi">Oral civi</option><option value="Ordinario civil">Ordinario civil</option><option value="Ordinario mercatil">Ordinario mercatil</option><option value="Medios preparatorios de los juicios ordinarios(civil-mercnatil-ejecutivo">Medios preparatorios de los juicios ordinarios(civil-mercnatil-ejecutivo</option><option value="Actos prejudiciales">Actos prejudiciales</option><option value="Jurisdicción voluntaria o juicios no contenciosos de los asuntos">Jurisdicción voluntaria o juicios no contenciosos de los asuntos</option><option value="Ordinarios (civil-mercantil-ejecutivo)">Ordinarios (civil-mercantil-ejecutivo)</option><option value="Juicios especiales y vías de apremio">Juicios especiales y vías de apremio</option><option value="Tercerías, arbitraje,otros">Tercerías, arbitraje,otros</option>
+)
+2020-10-19 19:03:09 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 401
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-19
+                )
+
+            [3] => Array
+                (
+                    [name] => asunto
+                    [value] => Prueba de oficios
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-29
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => Esta es una prueba de oficio ojala no se rompa
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => <option value="0">--Seleccione una opción--</option><option value="Oral mercantil">Oral mercantil</option><option value="Oral civi">Oral civi</option><option value="Ordinario civil">Ordinario civil</option><option value="Ordinario mercatil">Ordinario mercatil</option><option value="Medios preparatorios de los juicios ordinarios(civil-mercnatil-ejecutivo">Medios preparatorios de los juicios ordinarios(civil-mercnatil-ejecutivo</option><option value="Actos prejudiciales">Actos prejudiciales</option><option value="Jurisdicción voluntaria o juicios no contenciosos de los asuntos">Jurisdicción voluntaria o juicios no contenciosos de los asuntos</option><option value="Ordinarios (civil-mercantil-ejecutivo)">Ordinarios (civil-mercantil-ejecutivo)</option><option value="Juicios especiales y vías de apremio">Juicios especiales y vías de apremio</option><option value="Tercerías, arbitraje,otros">Tercerías, arbitraje,otros</option>
+)
+2020-10-19 19:08:48 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 19:09:59 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 405
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-22
+                )
+
+            [3] => Array
+                (
+                    [name] => asunto
+                    [value] => pruebas
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-20
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => pruebitas
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => 
+)
+2020-10-19 19:10:01 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 19:13:30 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 406
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-19
+                )
+
+            [3] => Array
+                (
+                    [name] => asunto
+                    [value] => pruebas II
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-20
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => Pruebas recargadas
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => 
+)
+2020-10-19 19:13:32 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 19:15:34 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:17:08 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29225
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:17:25 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:17:33 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:19:04 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:19:35 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 19:20:05 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:20:59 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29225
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:21:13 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:33:40 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:33:52 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:34:11 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:34:43 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 405
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-18
+                )
+
+            [3] => Array
+                (
+                    [name] => asunto
+                    [value] => blbalbal
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-20
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => holo
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => 
+)
+2020-10-19 19:34:45 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 19:35:35 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:35:44 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:36:53 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:46:27 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29225
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 19:46:57 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 19:47:27 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:11:18 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:11:56 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:14:08 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29225
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:17:24 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:18:10 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:19:11 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29227
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:19:19 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:23:50 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar_edicion/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => consecutivo
+                    [value] => 2751
+                )
+
+            [1] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [2] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 405
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-18
+                )
+
+            [4] => Array
+                (
+                    [name] => asunto
+                    [value] => blbalbalablablabla
+                )
+
+            [5] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-20
+                )
+
+            [6] => Array
+                (
+                    [name] => observaciones
+                    [value] => holo en edicion
+                )
+
+        )
+
+    [id_valor] => 29228
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:23:52 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 21:26:55 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 21:28:30 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 21:28:47 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 21:29:20 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-10-19 21:29:36 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-10-19 21:30:10 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-10-19 21:31:09 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-10-19 21:31:30 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-10-19 21:36:02 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-19 21:37:35 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 21:40:39 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 505
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-18
+                )
+
+            [3] => Array
+                (
+                    [name] => asunto
+                    [value] => jojoo
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-19
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => ejemplo de oficio
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => 
+)
+2020-10-19 21:40:41 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 21:42:13 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 29229
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:42:26 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29229
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:44:09 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29229
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:55:59 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 21:56:30 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29225
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:56:41 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29229
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:57:38 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 21:58:02 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29229
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 21:59:53 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-19 22:00:21 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29229
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 22:00:30 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29225
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 22:01:23 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29229
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 22:45:12 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 1
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-20
+                )
+
+            [3] => Array
+                (
+                    [name] => asunto
+                    [value] => ok
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-20
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => proba
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => 
+)
+2020-10-19 23:20:18 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29229
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-19 23:37:13 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

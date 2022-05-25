@@ -1,0 +1,842 @@
+2020-12-11 09:24:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 09:24:32 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:24:57 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:26:53 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:30:47 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:31:43 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:32:27 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:38:30 [0] : DEBUG -  http://155.94.139.2:8082/generar_pago	
+Array
+(
+)
+2020-12-11 09:38:37 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 09:40:58 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:41:08 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:42:37 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:42:54 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:44:40 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:47:29 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:49:01 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:51:45 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:52:19 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 09:54:03 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 09:58:45 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:02:50 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:03:51 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:05:47 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:06:23 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:07:10 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:09:15 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:19:06 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:29:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 10:32:06 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:34:41 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-11 10:34:48 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-11 10:34:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-11 10:34:58 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:36:48 [0] : DEBUG -  http://155.94.139.2:8082/todos	
+Array
+(
+)
+2020-12-11 10:37:30 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 10:38:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 10:38:11 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 10:40:34 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 11:47:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 11:50:46 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 14:50:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 14:51:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 14:52:42 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 14:56:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 14:59:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:00:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:05:08 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:06:36 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:12:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:13:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:17:02 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:18:20 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:19:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:22:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:24:18 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:27:17 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 15:53:59 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:55:17 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 15:55:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:57:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 15:58:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:00:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:02:35 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:03:17 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:03:43 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:04:57 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:06:15 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:08:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:08:53 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:09:16 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:10:36 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:11:37 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:12:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:15:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:16:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:17:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:18:24 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:18:57 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:19:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:19:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:22:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:24:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:32:36 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:33:28 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:34:45 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:35:28 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:36:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:42:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:45:47 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:46:28 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:47:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:48:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:48:57 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:50:02 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:51:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:51:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:52:00 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 16:52:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:53:32 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:54:23 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:55:52 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:56:41 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 16:57:35 [0] : DEBUG -  http://155.94.139.2:8082/generar_pago	
+Array
+(
+)
+2020-12-11 17:00:05 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 17:03:46 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 17:04:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 17:04:56 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 17:09:06 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 17:10:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 17:13:17 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:14:02 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:16:56 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:17:28 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:18:47 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:20:56 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:21:57 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:22:25 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:25:08 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:30:19 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:33:47 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:38:18 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:41:09 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:43:11 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:44:17 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:49:42 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:51:30 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:53:48 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 17:56:10 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:02:32 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:03:32 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:04:57 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:08:08 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:10:13 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:14:41 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:15:36 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:16:29 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:18:31 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:19:57 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:20:57 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:21:46 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:23:16 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:24:43 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:25:57 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:28:14 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:28:22 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:29:33 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:30:46 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:31:59 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:34:12 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:36:47 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:38:06 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:39:20 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:41:03 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 18:42:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 18:43:12 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 18:44:38 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 18:45:58 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 18:46:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 18:53:33 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 18:56:31 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 18:57:47 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 19:08:08 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 19:08:20 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 19:20:56 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 19:24:25 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 19:24:41 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 19:25:02 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 19:39:39 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 19:51:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 19:51:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 19:55:53 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 19:57:49 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:00:22 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 20:01:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 20:01:23 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 20:02:24 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:04:17 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:06:19 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:07:40 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:08:55 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:19:32 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:20:48 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 20:29:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 20:30:53 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)
+2020-12-11 20:54:39 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 20:54:54 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:57:28 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:58:27 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 20:58:53 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 21:06:03 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 21:07:17 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 21:08:02 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 21:13:43 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 21:14:18 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 21:14:27 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:28 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:29 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:31 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:32 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:33 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:34 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:35 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:36 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:38 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:39 [0] : DEBUG -  http://155.94.139.2:8082/por_firmar	
+Array
+(
+)
+2020-12-11 21:14:40 [0] : DEBUG -  http://155.94.139.2:8082/busquedabilleteincial	
+Array
+(
+)
+2020-12-11 21:24:26 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-11 21:24:50 [0] : DEBUG -  http://155.94.139.2:8082/logout	
+Array
+(
+)

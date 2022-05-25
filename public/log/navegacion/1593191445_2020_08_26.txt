@@ -1,0 +1,48 @@
+2020-08-26 14:02:18 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-26 14:02:26 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-26 14:02:30 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597121403375
+    [expediente] => 1724/2017
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-08-26 14:02:33 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597099309027
+    [expediente] => 953/2019
+    [tipo_juicio_id] => 306
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-08-26 14:02:42 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597099309027
+    [tipo_juicio_id] => 306
+)
+2020-08-26 14:02:42 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-26 14:02:52 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

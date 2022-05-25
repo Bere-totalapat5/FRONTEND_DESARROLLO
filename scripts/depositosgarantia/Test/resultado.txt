@@ -1,0 +1,187 @@
+C201222012-02-24T17:25:35-06:0025Friday25pm2012-02-24T17:25:35-06:002520122 24America/Chicago ppm5201235 2012-02-24 17:25
+ 	Analizando H2HREPOP_29144024_20120203.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+ 	Analizando H2HREPOP_29144024_20120207.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+ 	Analizando H2HREPOP_29144024_20120208.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+ 	Analizando H2HREPOP_29144024_20120209.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+ 	Analizando H2HREPOP_29144024_20120210.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+ 	Analizando H2HREPOP_29144024_20120213.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+ 	Analizando H2HREPOP_29144024_20120214.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+	Referencia: 0001329247574690
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-14' WHERE numero_orden='1329247574690'
+ Encontrada
+	Referencia: 0001329247501742
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-14' WHERE numero_orden='1329247501742'
+ Encontrada
+ 	Analizando H2HREPOP_29144024_20120215.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+	Referencia: 0001329318351887
+UPDATE dg_transaccion SET estatus='MOVIMIENTO RECHAZADO', ultimo_cambio='2012-02-15' WHERE numero_orden='1329318351887'
+ Encontrada
+	Referencia: 0001329318277269
+UPDATE dg_transaccion SET estatus='MOVIMIENTO RECHAZADO', ultimo_cambio='2012-02-15' WHERE numero_orden='1329318277269'
+ Encontrada
+	Referencia: 0001329318213794
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-15' WHERE numero_orden='1329318213794'
+ Encontrada
+	Referencia: 0001329318163299
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-15' WHERE numero_orden='1329318163299'
+ Encontrada
+ 	Analizando H2HREPOP_29144024_20120216.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+	Referencia: 0001329406967240
+UPDATE dg_transaccion SET estatus='MOVIMIENTO RECHAZADO', ultimo_cambio='2012-02-16' WHERE numero_orden='1329406967240'
+ Encontrada
+	Referencia: 0001329406932076
+UPDATE dg_transaccion SET estatus='MOVIMIENTO RECHAZADO', ultimo_cambio='2012-02-16' WHERE numero_orden='1329406932076'
+ Encontrada
+	Referencia: 0001329406881940
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-16' WHERE numero_orden='1329406881940'
+ Encontrada
+	Referencia: 0001329406827781
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-16' WHERE numero_orden='1329406827781'
+ Encontrada
+	Referencia: 0001329427377778
+UPDATE dg_transaccion SET estatus='MOVIMIENTO RECHAZADO', ultimo_cambio='2012-02-16' WHERE numero_orden='1329427377778'
+ Encontrada
+	Referencia: 0001329427336474
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-16' WHERE numero_orden='1329427336474'
+ Encontrada
+	Referencia: 0001329427294070
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-16' WHERE numero_orden='1329427294070'
+ Encontrada
+ 	Analizando H2HREPOP_29144024_20120217.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+	Referencia: 0001329427336474
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-17' WHERE numero_orden='1329427336474'
+ Encontrada
+	Referencia: 0001329427294070
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-17' WHERE numero_orden='1329427294070'
+ Encontrada
+	Referencia: 0001329507817570
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-17' WHERE numero_orden='1329507817570'
+ Encontrada
+	Referencia: 0001329507756747
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-17' WHERE numero_orden='1329507756747'
+ Encontrada
+ 	Analizando H2HREPOP_29144024_20120220.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+ 	Analizando H2HREPOP_29144024_20120221.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+	Referencia: 0001329427336474
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-21' WHERE numero_orden='1329427336474'
+ Encontrada
+	Referencia: 0001329427294070
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-21' WHERE numero_orden='1329427294070'
+ Encontrada
+	Referencia: 0001329507817570
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-21' WHERE numero_orden='1329507817570'
+ Encontrada
+	Referencia: 0001329507756747
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-21' WHERE numero_orden='1329507756747'
+ Encontrada
+ 	Analizando H2HREPOP_29144024_20120222.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+	Referencia: 0001329427336474
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-22' WHERE numero_orden='1329427336474'
+ Encontrada
+	Referencia: 0001329427294070
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-22' WHERE numero_orden='1329427294070'
+ Encontrada
+	Referencia: 0001329507817570
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-22' WHERE numero_orden='1329507817570'
+ Encontrada
+	Referencia: 0001329507756747
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-22' WHERE numero_orden='1329507756747'
+ Encontrada
+	Referencia: 0001329944196067
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-22' WHERE numero_orden='1329944196067'
+ Encontrada
+	Referencia: 0001329944156013
+UPDATE dg_transaccion SET estatus='MOVIMIENTO EN PROCESO', ultimo_cambio='2012-02-22' WHERE numero_orden='1329944156013'
+ Encontrada
+ 	Analizando H2HREPOP_29144024_20120223.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+	Referencia: 0001329247574690
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-23' WHERE numero_orden='1329247574690'
+ Encontrada
+	Referencia: 0001329427336474
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-23' WHERE numero_orden='1329427336474'
+ Encontrada
+	Referencia: 0001329427294070
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-23' WHERE numero_orden='1329427294070'
+ Encontrada
+	Referencia: 0001329507817570
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-23' WHERE numero_orden='1329507817570'
+ Encontrada
+	Referencia: 0001329507756747
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-23' WHERE numero_orden='1329507756747'
+ Encontrada
+	Referencia: 0001329944156013
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-23' WHERE numero_orden='1329944156013'
+ Encontrada
+ 	Analizando H2HREPOP_29144024_20120224.out
+	Referencia: 0001319319600006
+
+	Referencia: 0001319319600005
+
+	Referencia: 0001329427336474
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-24' WHERE numero_orden='1329427336474'
+ Encontrada
+	Referencia: 0001329427294070
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-24' WHERE numero_orden='1329427294070'
+ Encontrada
+	Referencia: 0001329507817570
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-24' WHERE numero_orden='1329507817570'
+ Encontrada
+	Referencia: 0001329507756747
+UPDATE dg_transaccion SET estatus='MOVIMIENTO PROCESADO', ultimo_cambio='2012-02-24' WHERE numero_orden='1329507756747'
+ Encontrada

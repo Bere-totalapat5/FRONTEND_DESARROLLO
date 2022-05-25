@@ -1,0 +1,141 @@
+2020-09-08 21:24:37 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-08 21:24:42 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-08 21:24:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-08 21:25:38 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 21:28:20 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 21:31:42 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 21:37:36 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-08 21:37:49 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 21:58:28 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 21:58:48 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 21:58:49 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 21:58:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 22:00:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-08 22:00:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 22:01:31 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-08 22:01:43 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 22:05:24 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-08 22:05:39 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 22:05:58 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-08 22:06:05 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-08 22:06:18 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-08 22:08:09 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-08 22:08:21 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)

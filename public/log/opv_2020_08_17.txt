@@ -1,0 +1,20 @@
+2020-08-17 17:52:57 Array
+(
+    [idDocumento] => 3257270
+    [juzgado] => V32
+    [idMateria] => V
+    [noExpediente] => 6005
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 05:52:25
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632716
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599218,"participacion":1,"tipoPersona":"F","apPaterno":"GUTIERREZ","apMaterno":"GUERRA","nombre":"GERARDO","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599219,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"GUARNICIONES DE MEXICO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	

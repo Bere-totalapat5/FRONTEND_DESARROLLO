@@ -1,0 +1,28 @@
+Field	Type	Null	Key	Default	Extra
+id_juicio	bigint(20) unsigned	NO	PRI	NULL	auto_increment
+id_padre	bigint(20)	YES		NULL	
+tipo_expediente	enum('expedientillo','cuadernillo','amparo','amparo_directo','amparo_indirecto','expediente','toca','amparo_exploratorio','expedientillo_no_corresponde','recusacion')	YES		NULL	
+tipo_expediente_extras	text	YES		NULL	
+toca	int(10) unsigned	YES		NULL	
+anio_toca	int(10) unsigned	YES		NULL	
+asunto_toca	int(10) unsigned	YES		NULL	
+expediente	int(10) unsigned	YES		NULL	
+anio	int(10) unsigned	YES		NULL	
+bis	int(11)	YES		NULL	
+juzgado	char(10)	NO	MUL	NULL	
+juzgado_origen	char(10)	YES		NULL	
+secretaria	enum('A','B','C','1','2','3','Z')	YES		NULL	
+fecha_publicacion	date	NO		NULL	
+estatus	enum('abierto','cerrado','apelacion')	YES		abierto	
+id_tipojuicio	smallint(6)	YES		NULL	
+id_catalogo_juicios	smallint(6)	YES		NULL	
+id_etapaprocesal	char(5)	YES		NULL	
+promovente	smallint(5) unsigned	YES		NULL	
+tramite_interpuesto	smallint(5) unsigned	YES		NULL	
+tipo_resolucion	smallint(5) unsigned	YES		NULL	
+fecha_resolucion	date	YES		NULL	
+efecto_admite	char(255)	YES		NULL	
+efecto_admite_texto	char(255)	YES		NULL	
+interpone	char(255)	YES		NULL	
+apela	char(255)	YES		NULL	
+tipo_recurso	char(50)	YES		NULL	

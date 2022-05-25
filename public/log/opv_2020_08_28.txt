@@ -1,0 +1,144 @@
+2020-08-28 10:22:00 Array
+(
+    [idDocumento] => 3257444
+    [juzgado] => C35
+    [idMateria] => C
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-28 10:21:05
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632877
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599538,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTA ES UNA PRUEBA DE PERSONA MORAL SA","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599539,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ESTA ES UNA PRUEBA DEDEMANDADA SA DE CV"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/181/182/25409/25410/DEMANDA_OPV_TEST.pdf","idDocument":7360},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/181/182/25409/25410/ESTO ES UN TEXTO SIN SENTIDO.pdf","idDocument":7361}]
+    [origen] => OPV
+    [nombreCapturista] => ALVAREZ FLORES JAIR OSMANI
+    [emailCapturista] => JAIROSMANI@GMAIL.COM
+    [telefonoCapturista] => 5559451975
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-28 10:37:12 Array
+(
+    [idDocumento] => 3257445
+    [juzgado] => V43
+    [idMateria] => V
+    [noExpediente] => 6004
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-28 10:37:05
+    [tipoJuicio] => 163
+    [reg_date] => 
+    [idExpediente] => 4632878
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599542,"participacion":1,"tipoPersona":"F","apPaterno":"HGF","apMaterno":"JHGF","nombre":"JHGF","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599543,"participacion":1,"tipoPersona":"F","apPaterno":"JHG","apMaterno":"MNB","nombre":"JHGF","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/421/2323/2324/25416/25417/archivo escrito de la promocion.pdf","idDocument":7362}]
+    [origen] => OPV
+    [nombreCapturista] => KJHGF MNHBGV JHGFD
+    [emailCapturista] => vicislas0925@Gmail.com
+    [telefonoCapturista] => 5528600214
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-28 14:09:48 Array
+(
+    [idDocumento] => 3257446
+    [juzgado] => R3
+    [idMateria] => R
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-28 02:09:20
+    [tipoJuicio] => 359
+    [reg_date] => 
+    [idExpediente] => 4632880
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599548,"participacion":1,"tipoPersona":"F","apPaterno":"ELLA","apMaterno":"","nombre":"ELLA","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599549,"participacion":1,"tipoPersona":"F","apPaterno":"EL","apMaterno":"","nombre":"ELLOS","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/1965/1966/25423/25424/Escrito.pdf","idDocument":7364}]
+    [origen] => OPV
+    [nombreCapturista] => JIMENEZ HILDA
+    [emailCapturista] => vanesavelasco.tsjcdmx@gmail.com
+    [telefonoCapturista] => 5581739023
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-28 14:19:38 Array
+(
+    [idDocumento] => 3257447
+    [juzgado] => R3
+    [idMateria] => R
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-28 02:19:09
+    [tipoJuicio] => 359
+    [reg_date] => 
+    [idExpediente] => 4937782
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599551,"participacion":1,"tipoPersona":"F","apPaterno":"ELLA","apMaterno":"","nombre":"ELLA","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/1965/1966/25423/25424/Escrito_0.pdf","idDocument":7365}]
+    [origen] => OPV
+    [nombreCapturista] => ELIZONDO HILDA
+    [emailCapturista] => vanesavelasco.tsjcdmx@gmail.com
+    [telefonoCapturista] => 5581739023
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-28 14:29:32 Array
+(
+    [idDocumento] => 3257448
+    [juzgado] => R2
+    [idMateria] => R
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-28 02:29:04
+    [tipoJuicio] => 357
+    [reg_date] => 
+    [idExpediente] => 4632881
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599554,"participacion":1,"tipoPersona":"F","apPaterno":"JUI","apMaterno":"","nombre":"SDFFGR","razonSocial":"","email":"BHSD@GMAIL.COM"},{"idPersona":20599555,"participacion":1,"tipoPersona":"F","apPaterno":"CFRR","apMaterno":"","nombre":"SDR","razonSocial":"","email":"BHSD@GMAIL.COM"}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/5605/5606/25430/25431/Escrito.pdf","idDocument":7366},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/5605/5606/25430/25431/Anexo.pdf","idDocument":7367}]
+    [origen] => OPV
+    [nombreCapturista] => PEREZ HILDA
+    [emailCapturista] => VANESAVELASCO.TSJCDMX@GMAIL.COM
+    [telefonoCapturista] => 5581732093
+    [tipoTramiteDivorcio] => 1
+)
+	
+2020-08-28 14:55:36 Array
+(
+    [idDocumento] => 3257449
+    [juzgado] => R4
+    [idMateria] => R
+    [noExpediente] => 6027
+    [anioExpediente] => 1945
+    [fechaRecepcion] => 2020-08-28 02:54:55
+    [tipoJuicio] => 389
+    [reg_date] => 
+    [idExpediente] => 4937783
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599557,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/599/2524/2525/25437/25438/Escrito.pdf","idDocument":7368}]
+    [origen] => OPV
+    [nombreCapturista] => HO HE
+    [emailCapturista] => vanesavelasco.tsjcdmx@gmail.com
+    [telefonoCapturista] => 5581739023
+    [tipoTramiteDivorcio] => 
+)
+	

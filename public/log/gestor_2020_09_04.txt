@@ -1,0 +1,49 @@
+2020-09-04 11:06:02 Array
+(
+    [id_documento] => 3257470.0
+    [id_expediente_opc] => 4632938
+    [idGlobal] => 7384
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25465/25466/25474/25475/OPC11-20200904-020.pdf
+)
+	
+2020-09-04 11:15:02 Array
+(
+    [id_documento] => 3257471.0
+    [id_expediente_opc] => 4632939
+    [idGlobal] => 7386
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25465/25466/25481/25482/OPC11-20200904-021.pdf
+)
+	
+2020-09-04 12:34:02 Array
+(
+    [id_documento] => 3257471.0
+    [id_expediente_opc] => 4632939
+    [idGlobal] => 7388
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25465/25466/25481/25482/OPC11-20200904-022.pdf
+)
+	
+2020-09-04 12:34:02 Array
+(
+    [id_documento] => 3257471.0
+    [id_expediente_opc] => 4632939
+    [idGlobal] => 7389
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25465/25466/25481/25482/OPC11-20200904-023.pdf
+)
+	
+2020-09-04 13:09:02 Array
+(
+    [id_documento] => 3257476.0
+    [id_expediente_opc] => 4632956
+    [idGlobal] => 7390
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25465/25466/25488/25489/OPC11-20200904-024.pdf
+)
+	
+2020-09-04 14:37:01 Array
+(
+    [id_documento] => 1599247901850
+    [id_expediente_opc] => 1599247901850
+    [idGlobal] => 7397
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25465/25466/25488/25489/OPC11-20200904-025.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	

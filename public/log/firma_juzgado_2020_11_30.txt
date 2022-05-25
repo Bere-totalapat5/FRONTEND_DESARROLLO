@@ -1,0 +1,56 @@
+2020-11-30 17:04:00 [762] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4212	
+2020-11-30 17:06:31 [210] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4212	
+2020-11-30 17:07:22 [780] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4212	
+2020-11-30 17:25:45 [106] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:25:45 [106] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-14 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:25:46 [106] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:28:22 [994] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:28:23 [994] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-15 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:28:24 [994] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:30:49 [421] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:30:49 [421] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-15 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:30:50 [421] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:31:50 [727] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:31:50 [727] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-15 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:31:51 [727] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:32:57 [881] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:32:57 [881] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-15 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:32:58 [881] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:33:15 [934] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:33:15 [934] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-15 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:33:17 [934] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:34:33 [517] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:34:33 [517] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-14 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:34:34 [517] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:37:56 [152] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:37:56 [152] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-15 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:37:57 [152] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:39:18 [961] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:39:18 [961] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-14 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:39:20 [961] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:40:57 [911] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4374	
+2020-11-30 17:40:57 [911] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-5 |  JC100SA | 2020-11-26 05:15:22 |  JC100J | 2020-11-26 05:12:38 | FP: 2020-12-14 | NAS: 5100-0109-8639-0677-514 -- SIGJ / TSJCDMX --	
+2020-11-30 17:40:58 [911] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:42:15 [692] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:42:15 [692] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-15 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:42:16 [692] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:42:18 [621] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4315	
+2020-11-30 17:42:19 [413] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4374	
+2020-11-30 17:42:19 [413] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-5 |  JC100SA | 2020-11-26 05:15:22 |  JC100J | 2020-11-26 05:12:38 | FP: 2020-12-15 | NAS: 5100-0109-8639-0677-514 -- SIGJ / TSJCDMX --	
+2020-11-30 17:42:20 [413] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:42:33 [849] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:42:33 [849] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-14 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:42:35 [849] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:42:36 [646] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4315	
+2020-11-30 17:42:37 [428] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4374	
+2020-11-30 17:42:37 [428] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-5 |  JC100SA | 2020-11-26 05:15:22 |  JC100J | 2020-11-26 05:12:38 | FP: 2020-12-14 | NAS: 5100-0109-8639-0677-514 -- SIGJ / TSJCDMX --	
+2020-11-30 17:42:39 [428] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:44:34 [913] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-30 17:44:34 [913] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-10 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-30 17:44:35 [913] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:44:36 [670] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4374	
+2020-11-30 17:44:37 [670] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-5 |  JC100SA | 2020-11-26 05:15:22 |  JC100J | 2020-11-26 05:12:38 | FP: 2020-12-10 | NAS: 5100-0109-8639-0677-514 -- SIGJ / TSJCDMX --	
+2020-11-30 17:44:38 [670] : DEBUG -  Finaliza sello sigj 0	
+2020-11-30 17:46:52 [837] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4374	
+2020-11-30 17:46:52 [837] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-5 |  JC100SA | 2020-11-26 05:15:22 |  JC100J | 2020-11-26 05:12:38 | FP: 2020-12-07 | NAS: 5100-0109-8639-0677-514 -- SIGJ / TSJCDMX --	
+2020-11-30 17:46:53 [837] : DEBUG -  Finaliza sello sigj 0	

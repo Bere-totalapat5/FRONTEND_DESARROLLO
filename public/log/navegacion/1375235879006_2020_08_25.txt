@@ -1,0 +1,48 @@
+2020-08-25 11:07:29 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 11:07:38 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-08-25 11:07:58 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1578508855890
+    [juicio] => 2/2020
+    [expediente] => 2
+    [id_catalogo_juicios] => 582
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 16
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-25
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => Prueba acuerdo
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => DOCUMENTO DE PRUEBA.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpDhp5oD
+            [fileName:SplFileInfo:private] => phpDhp5oD
+        )
+
+)
+2020-08-25 11:08:03 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578508855890	
+Array
+(
+)
+2020-08-25 11:08:32 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)

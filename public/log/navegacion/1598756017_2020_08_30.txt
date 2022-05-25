@@ -1,0 +1,67 @@
+2020-08-30 11:13:25 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-30 11:13:38 [0] : DEBUG -  http://216.144.236.27/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => oPERACION2017
+)
+2020-08-30 11:13:46 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-30 11:13:55 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598803949
+    [ponencia] => 200PIC
+    [id_documento] => 3471
+    [tipo_documento] => pdf
+)
+2020-08-30 11:16:42 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-30 11:17:09 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-30 11:17:51 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1598803949
+    [id_juicio] => 1598803804
+    [codigo_organo] => 200PIC
+)
+2020-08-30 11:19:02 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1598803949
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3471
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598803804
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php25MCDb
+            [fileName:SplFileInfo:private] => php25MCDb
+        )
+
+)
+2020-08-30 11:19:41 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

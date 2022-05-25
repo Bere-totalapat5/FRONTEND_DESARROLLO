@@ -1,0 +1,177 @@
+2020-08-30 11:06:52 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-30 11:07:30 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-30 11:07:52 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-30 11:08:15 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-30 11:08:21 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-30 11:08:26 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-08-30 11:08:31 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-08-30 11:10:01 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-30
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => RAUL
+                    [apellido_paterno] => LAUREANO
+                    [apellido_materno] => JACINTO
+                    [tipo] => actor
+                    [correo] => rlaureano@totalpat.com
+                    [telefono_celular] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => TOTALPAT SA DE CV
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => demandado
+                    [correo] => TOTALPAT
+                    [telefono_celular] => 5522000000
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-08-30 11:10:05 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-30 11:11:08 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-30 11:11:18 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598803804	
+Array
+(
+)
+2020-08-30 11:12:26 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1598803804
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 1
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-30
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => DOCUMENTO DE PRUEBA.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpsnQqeU
+            [fileName:SplFileInfo:private] => phpsnQqeU
+        )
+
+)
+2020-08-30 11:12:31 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598803804	
+Array
+(
+)
+2020-08-30 23:48:27 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-30 23:48:40 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-30 23:50:53 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598849233349
+    [expediente] => 2/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-30 23:51:15 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-30 23:51:23 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-30 23:54:11 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)

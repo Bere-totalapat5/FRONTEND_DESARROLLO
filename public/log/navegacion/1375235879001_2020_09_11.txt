@@ -1,0 +1,169 @@
+2020-09-11 09:57:12 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-11 09:57:14 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-11 09:58:02 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-11 10:01:05 [0] : DEBUG -  http://172.16.159.181/agendas	
+Array
+(
+)
+2020-09-11 11:16:28 [0] : DEBUG -  http://172.16.159.181/agendas	
+Array
+(
+)
+2020-09-11 11:16:34 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-11 11:16:37 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-11 11:16:39 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-11 11:16:57 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-11 23:06:48 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-11 23:06:51 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-11 23:06:54 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578510089477	
+Array
+(
+)
+2020-09-11 23:07:03 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1596853031,1JFO,2920-
+)
+2020-09-11 23:07:18 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1581609946773,1JFO,0-
+)
+2020-09-11 23:08:29 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:13:41 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:14:34 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-09-11 23:14:48 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/solicitudes/obtenerPromocionPDF	
+Array
+(
+    [id] => 267687
+)
+2020-09-11 23:14:58 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/solicitudes/cambiarEstatus	
+Array
+(
+    [estatus] => aprobado
+    [id] => 267687
+)
+2020-09-11 23:15:28 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1581611607079,1JFO,0-
+)
+2020-09-11 23:16:40 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578510089477	
+Array
+(
+)
+2020-09-11 23:17:19 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578510089477	
+Array
+(
+)
+2020-09-11 23:18:52 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:23:56 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:29:02 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:34:05 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:39:17 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:44:29 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:47:51 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578510089477	
+Array
+(
+)
+2020-09-11 23:48:13 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1596853031,1JFO,2920-1596852997,1JFO,2919-
+)
+2020-09-11 23:49:34 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:54:42 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 23:59:52 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)

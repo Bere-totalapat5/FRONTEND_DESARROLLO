@@ -1,0 +1,37 @@
+2020-08-31 17:44:17 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/67	
+Array
+(
+)
+2020-08-31 17:44:36 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-08-31 17:44:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-31 17:44:59 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-08-31 17:45:09 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-31 17:45:39 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-08-31 17:45:51 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)

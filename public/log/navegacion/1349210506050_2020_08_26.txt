@@ -1,0 +1,217 @@
+2020-08-26 12:48:51 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-26 12:49:03 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-26 12:49:58 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-26 12:50:09 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598464192535
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-26 12:52:04 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-26 12:52:11 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598464192535
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-26 12:52:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/94	
+Array
+(
+)
+2020-08-26 12:53:03 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 22
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-26 12:53:06 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-26 12:53:12 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-26 12:53:18 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598464192535
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-26 12:53:32 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-26 12:54:38 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598464192535
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-26 12:55:00 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598464192535
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-26 12:55:16 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-26 12:55:22 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598464192535
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-26 12:55:26 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598464192535
+    [tipo_juicio_id] => 302
+)
+2020-08-26 12:55:26 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-26 12:55:36 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-26 12:55:40 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-26 12:55:45 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-08-26 12:55:49 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-08-26 12:56:01 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 605
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => demandado
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1598464192535
+)
+2020-08-26 12:56:05 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-26 12:56:13 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/86	
+Array
+(
+)
+2020-08-26 12:57:00 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-26 13:02:50 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

@@ -1,0 +1,187 @@
+2020-09-04 17:40:33 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 17:40:38 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-04 17:48:18 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-04 17:48:24 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1593113397
+)
+2020-09-04 17:49:08 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1593113397
+)
+2020-09-04 17:49:16 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-04 17:49:24 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1593113397
+)
+2020-09-04 17:49:29 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 17:51:24 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 17:51:53 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 17:53:50 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 17:58:56 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 17:59:16 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 17:59:55 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:00:43 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:01:30 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:01:49 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:02:03 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:38:32 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:38:37 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:39:50 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:40:44 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 18:40:54 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-04 18:40:54 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-04 18:40:54 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 18:40:54 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 18:40:58 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-04 18:41:01 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-04 18:42:56 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-04 18:43:05 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:23:34 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:23:39 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:24:09 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:24:21 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:24:55 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:25:23 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:25:44 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:26:13 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:26:42 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:27:35 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)
+2020-09-04 19:28:12 [0] : DEBUG -  http://216.144.236.27/archivoJudicial	
+Array
+(
+)

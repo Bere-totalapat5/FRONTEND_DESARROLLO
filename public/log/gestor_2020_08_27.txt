@@ -1,0 +1,230 @@
+2020-08-27 11:12:02 Array
+(
+    [id_documento] => 1598496816361
+    [id_expediente_opc] => 1598496816361
+    [idGlobal] => 7316
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25316/25317/doc-4.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 11:13:53 Array
+(
+    [id_documento] => 3257237
+    [id_expediente_opc] => 4632702
+    [idGlobal] => 7316
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25316/25317/doc-4.pdf
+)
+	
+2020-08-27 11:14:38 Array
+(
+    [id_documento] => 3257237
+    [id_expediente_opc] => 4632702
+    [idGlobal] => 7316
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25316/25317/doc-4.pdf
+)
+	
+2020-08-27 14:10:02 Array
+(
+    [id_documento] => 3257437.0
+    [id_expediente_opc] => 4632859
+    [idGlobal] => 7332
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/335/336/25337/25338/JUZGADO100-20200827-004.pdf
+)
+	
+2020-08-27 14:14:01 Array
+(
+    [id_documento] => 1598554024598
+    [id_expediente_opc] => 1598554024598
+    [idGlobal] => 7333
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25316/25317/JUZGADO100-20200827-005.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 14:33:02 Array
+(
+    [id_documento] => 3257437.0
+    [id_expediente_opc] => 4632859
+    [idGlobal] => 7334
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/335/336/25337/25338/JUZGADO100-20200827-012.pdf
+)
+	
+2020-08-27 14:39:01 Array
+(
+    [id_documento] => 1598548702435
+    [id_expediente_opc] => 1598548702435
+    [idGlobal] => 7335
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/56/208/209/JUZGADO100-20200827-015.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 14:56:02 Array
+(
+    [id_documento] => 1598557194145
+    [id_expediente_opc] => 1598557194145
+    [idGlobal] => 7336
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25344/25345/JUZGADO100-20200827-021.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 15:25:01 Array
+(
+    [id_documento] => 1598558605357
+    [id_expediente_opc] => 1598558605357
+    [idGlobal] => 7339
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25344/25345/JUZGADO100-20200827-027.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 15:31:02 Array
+(
+    [id_documento] => 1598558348896
+    [id_expediente_opc] => 1598558348896
+    [idGlobal] => 7340
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25358/25359/JUZGADO100-20200827-032.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 15:39:02 Array
+(
+    [id_documento] => 1598558605357
+    [id_expediente_opc] => 1598558605357
+    [idGlobal] => 7341
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25344/25345/JUZGADO100-20200827-040.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 15:46:02 Array
+(
+    [id_documento] => 1598560867463
+    [id_expediente_opc] => 1598560867463
+    [idGlobal] => 7342
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25316/25317/JUZGADO100-20200827-045.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:07:01 Array
+(
+    [id_documento] => 1598569548798
+    [id_expediente_opc] => 1598569548798
+    [idGlobal] => 7343
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25316/25317/JUZGADO100-20200827-075.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:09:02 Array
+(
+    [id_documento] => 1598569678855
+    [id_expediente_opc] => 1598569678855
+    [idGlobal] => 7344
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25358/25359/JUZGADO100-20200827-076.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:17:02 Array
+(
+    [id_documento] => 1598570149298
+    [id_expediente_opc] => 1598570149298
+    [idGlobal] => 7345
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/25365/25366/25367/JUZGADO100-20200827-078.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:18:01 Array
+(
+    [id_documento] => 1598570200510
+    [id_expediente_opc] => 1598570200510
+    [idGlobal] => 7346
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/25365/25366/25367/JUZGADO100-20200827-079.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:30:02 Array
+(
+    [id_documento] => 1598570878063
+    [id_expediente_opc] => 1598570878063
+    [idGlobal] => 7347
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/56/208/209/JUZGADO100-20200827-081.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:31:01 Array
+(
+    [id_documento] => 1598570990034
+    [id_expediente_opc] => 1598570990034
+    [idGlobal] => 7348
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/56/208/209/JUZGADO100-20200827-082.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:35:01 Array
+(
+    [id_documento] => 1598571202900
+    [id_expediente_opc] => 1598571202900
+    [idGlobal] => 7349
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/25373/25374/25375/JUZGADO100-20200827-084.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:37:01 Array
+(
+    [id_documento] => 1598571340433
+    [id_expediente_opc] => 1598571340433
+    [idGlobal] => 7350
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/25373/25381/25382/JUZGADO100-20200827-085.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 18:42:01 Array
+(
+    [id_documento] => 1598571649069
+    [id_expediente_opc] => 1598571649069
+    [idGlobal] => 7351
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/25373/25374/25375/JUZGADO100-20200827-088.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 20:09:02 Array
+(
+    [id_documento] => 1598571202900
+    [id_expediente_opc] => 1598571202900
+    [idGlobal] => 7354
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/25373/25374/25375/OPC11-20200827-008.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 20:10:02 Array
+(
+    [id_documento] => 1598571202900
+    [id_expediente_opc] => 1598571202900
+    [idGlobal] => 7355
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/25373/25374/25375/OPC11-20200827-009.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 20:11:02 Array
+(
+    [id_documento] => 1598571461081
+    [id_expediente_opc] => 1598571461081
+    [idGlobal] => 7356
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/25365/25402/25403/OPC11-20200827-010.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 20:22:02 Array
+(
+    [id_documento] => 1598570990034
+    [id_expediente_opc] => 1598570990034
+    [idGlobal] => 7357
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/56/208/209/OPC11-20200827-012.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-27 20:23:02 Array
+(
+    [id_documento] => 1598570990034
+    [id_expediente_opc] => 1598570990034
+    [idGlobal] => 7358
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/56/208/209/OPC11-20200827-013.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	

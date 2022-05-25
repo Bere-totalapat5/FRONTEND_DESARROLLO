@@ -1,0 +1,8 @@
+2020-08-15 10:46:02 Array
+(
+    [id_documento] => 3257245.0
+    [id_expediente_opc] => 4632712
+    [idGlobal] => 7210
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/1792/16411/16412/24920/24921/prueba4.pdf
+)
+	

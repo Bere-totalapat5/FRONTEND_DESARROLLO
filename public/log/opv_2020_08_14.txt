@@ -1,0 +1,284 @@
+2020-08-14 13:34:42 Array
+(
+    [idDocumento] => 3257230
+    [juzgado] => V37
+    [idMateria] => V
+    [noExpediente] => 6005
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 01:34:18
+    [tipoJuicio] => 160
+    [reg_date] => 
+    [idExpediente] => 4632696
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599154,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MISCELANEA JUANITA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599155,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ACONZA SOTO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 13:35:47 Array
+(
+    [idDocumento] => 3257231
+    [juzgado] => F19
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 01:35:32
+    [tipoJuicio] => 324
+    [reg_date] => 
+    [idExpediente] => 4632697
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599156,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LICONSA COLSTONE"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 13:36:38 Array
+(
+    [idDocumento] => 3257232
+    [juzgado] => F1
+    [idMateria] => F
+    [noExpediente] => 6017
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 01:36:24
+    [tipoJuicio] => 317
+    [reg_date] => 
+    [idExpediente] => 4632698
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599157,"participacion":1,"tipoPersona":"F","apPaterno":"GARCIA","apMaterno":"ANAYA","nombre":"LOLA","razonSocial":""}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 13:44:39 Array
+(
+    [idDocumento] => 3257233
+    [juzgado] => C6
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 01:44:25
+    [tipoJuicio] => 123
+    [reg_date] => 
+    [idExpediente] => 4632699
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599158,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TELEFONIA OSCARS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599159,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"REPARACIONES SOTO"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 14:08:31 Array
+(
+    [idDocumento] => 3257234
+    [juzgado] => F28
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 02:07:58
+    [tipoJuicio] => 305
+    [reg_date] => 
+    [idExpediente] => 4632700
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599160,"participacion":1,"tipoPersona":"F","apPaterno":"LOPEZ","apMaterno":"LAGUNA","nombre":"LEONARDO","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599161,"participacion":1,"tipoPersona":"F","apPaterno":"LECONA","apMaterno":"LABASTIDA","nombre":"LUCIA","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 14:17:29 Array
+(
+)
+	
+2020-08-14 14:17:43 Array
+(
+)
+	
+2020-08-14 14:19:51 Array
+(
+)
+	
+2020-08-14 14:20:32 Array
+(
+    [id_documento] => 3252809.0
+    [id_expediente_opc] => 47
+    [idGlobal] => 7091
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/33/34/24561/24562/PruebaTest.pdf
+)
+	
+2020-08-14 15:06:22 Array
+(
+    [idDocumento] => 3257235
+    [juzgado] => R8
+    [idMateria] => R
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 03:05:52
+    [tipoJuicio] => 357
+    [reg_date] => 
+    [idExpediente] => 4632701
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599164,"participacion":1,"tipoPersona":"F","apPaterno":"GARCIA","apMaterno":"ROMOCASTRO","nombre":"MARCOS MANUEL","razonSocial":"","email":"KVBSGDKLSN@GMAIL.COM"},{"idPersona":20599165,"participacion":1,"tipoPersona":"F","apPaterno":"DOMINGUEZ","apMaterno":"HERNANDEZ","nombre":"ADRIANA","razonSocial":"","email":"ASFPIGJJG@GMAIL.COM"}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/599/4573/4574/24906/24907/PROMOCION DE EJEMPLO.pdf","idDocument":7207},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/599/4573/4574/24906/24907/ANEXOS DE EJEMPLO.pdf","idDocument":7208}]
+    [origen] => OPV
+    [nombreCapturista] => WTE TWTTW
+    [emailCapturista] => DSR@GMAIL.COM
+    [telefonoCapturista] => 5512345678
+    [tipoTramiteDivorcio] => 1
+)
+	
+2020-08-14 16:38:26 Array
+(
+    [idDocumento] => 3257237
+    [juzgado] => C39
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 04:37:57
+    [tipoJuicio] => 201
+    [reg_date] => 
+    [idExpediente] => 4632702
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599172,"participacion":1,"tipoPersona":"F","apPaterno":"BUENAVISTA","apMaterno":"BUCIO","nombre":"BERNARDO","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599173,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SECRETARIA DE RELACIONES EXTERIORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 17:21:28 Array
+(
+    [idDocumento] => 3257238
+    [juzgado] => F8
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 05:21:14
+    [tipoJuicio] => 301
+    [reg_date] => 
+    [idExpediente] => 4632703
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599174,"participacion":1,"tipoPersona":"F","apPaterno":"MINE","apMaterno":"","nombre":"JANA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599175,"participacion":1,"tipoPersona":"F","apPaterno":"MENDOZA","apMaterno":"SOLIS","nombre":"JUANA","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 17:56:48 Array
+(
+    [idDocumento] => 3257239
+    [juzgado] => C7
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 05:56:30
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632704
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599176,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSICIAN"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 17:58:13 Array
+(
+    [idDocumento] => 3257240
+    [juzgado] => F33
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 05:57:59
+    [tipoJuicio] => 305
+    [reg_date] => 
+    [idExpediente] => 4632705
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599177,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSICIAN"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599178,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"S"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 18:17:38 Array
+(
+    [idDocumento] => 3257241
+    [juzgado] => C2
+    [idMateria] => C
+    [noExpediente] => 6022
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 06:17:18
+    [tipoJuicio] => 103
+    [reg_date] => 
+    [idExpediente] => 4632706
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599179,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSICIAN"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599180,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"S"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 18:25:51 Array
+(
+    [idDocumento] => 3257242
+    [juzgado] => F41
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 06:25:30
+    [tipoJuicio] => 317
+    [reg_date] => 
+    [idExpediente] => 4632707
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599181,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MURCIAN"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-14 19:46:30 Array
+(
+    [idDocumento] => 3257244
+    [juzgado] => C24
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-14 07:46:16
+    [tipoJuicio] => 102
+    [reg_date] => 
+    [idExpediente] => 4632711
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599186,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MAZDA MATAMOROS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	

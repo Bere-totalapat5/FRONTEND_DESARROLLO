@@ -1,0 +1,20 @@
+2020-09-02 13:34:42 Array
+(
+    [idDocumento] => 3257454
+    [juzgado] => C9
+    [idMateria] => C
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-02 01:34:35
+    [tipoJuicio] => 102
+    [reg_date] => 
+    [idExpediente] => 4632916
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599602,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MELOSAS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	

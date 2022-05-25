@@ -1,0 +1,11 @@
+2020-08-25 11:00:30 [848] : INIC  -  Juzgado: 100JCO Usuario: JCO100J Acuerdo: 123/2020-1 id_juicio: 1598371106 id_acuerdo: 1598371178	
+2020-08-25 11:00:30 [848] : DEBUG -  Se consulta el flujo	
+2020-08-25 11:00:31 [848] : DEBUG -  Se pone el candado de firmado.	
+2020-08-25 11:00:31 [848] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3361	
+2020-08-25 11:00:31 [848] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3361	
+2020-08-25 11:00:31 [848] : DEBUG -  Intenta firmar FIREL	
+2020-08-25 11:00:35 [848] : DEBUG -  Finaliza firmar FIREL	
+2020-08-25 11:00:35 [848] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-25 11:00:35 [848] : DEBUG -  Se quita el candado de firmado.	
+2020-08-25 11:00:35 [848] : DEBUG -  Finalización de la firma.	
+2020-08-25 11:00:35 [848] : FIN   -  	

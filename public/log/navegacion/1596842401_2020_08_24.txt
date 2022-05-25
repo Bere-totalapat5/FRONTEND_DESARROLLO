@@ -1,0 +1,138 @@
+2020-08-24 09:42:35 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 09:51:05 [0] : DEBUG -  http://216.144.236.27/probar_excel	
+Array
+(
+    [dia_inicio] => 2020-8-24
+    [exportacion] => excell
+)
+2020-08-24 09:55:08 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 09:55:14 [0] : DEBUG -  http://216.144.236.27/probar_excel	
+Array
+(
+    [dia_inicio] => 2020-8-24
+    [exportacion] => excell
+)
+2020-08-24 09:55:23 [0] : DEBUG -  http://216.144.236.27/probar_excel	
+Array
+(
+    [dia_inicio] => 2020-8-24
+    [exportacion] => pdf
+)
+2020-08-24 09:55:40 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 09:55:44 [0] : DEBUG -  http://216.144.236.27/probar_excel	
+Array
+(
+    [dia_inicio] => 2020-8-24
+    [exportacion] => pdf
+)
+2020-08-24 09:55:57 [0] : DEBUG -  http://216.144.236.27/probar_excel	
+Array
+(
+    [dia_inicio] => 2020-8-24
+    [exportacion] => excell
+)
+2020-08-24 10:05:33 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 10:05:39 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 10:05:44 [0] : DEBUG -  http://216.144.236.27/oralidad/cargarInfoEvento_ajax	
+Array
+(
+    [agenda_id] => 170
+)
+2020-08-24 10:05:47 [0] : DEBUG -  http://216.144.236.27/oralidad/cargarInfoEvento_ajax	
+Array
+(
+    [agenda_id] => 165
+)
+2020-08-24 10:06:39 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 10:39:46 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 10:49:30 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 10:51:16 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 10:52:15 [0] : DEBUG -  http://216.144.236.27/probar_excel	
+Array
+(
+    [dia_inicio] => 2020-8-24
+    [exportacion] => excell
+)
+2020-08-24 11:08:22 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 11:09:06 [0] : DEBUG -  http://216.144.236.27/oralidad/cargarInfoEvento_ajax	
+Array
+(
+    [agenda_id] => 172
+)
+2020-08-24 11:10:10 [0] : DEBUG -  http://216.144.236.27/oralidad/cargarInfoEvento_ajax	
+Array
+(
+    [agenda_id] => 172
+)
+2020-08-24 11:10:14 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 11:12:35 [0] : DEBUG -  http://216.144.236.27/oralidad/cargarInfoEvento_ajax	
+Array
+(
+    [agenda_id] => 172
+)
+2020-08-24 11:13:15 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-24 11:13:29 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 11:14:47 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 11:15:38 [0] : DEBUG -  http://216.144.236.27/oralidad/calendario	
+Array
+(
+)
+2020-08-24 11:15:46 [0] : DEBUG -  http://216.144.236.27/oralidad/cargarInfoEvento_ajax	
+Array
+(
+    [agenda_id] => 172
+)
+2020-08-24 11:16:07 [0] : DEBUG -  http://216.144.236.27/probar_excel	
+Array
+(
+    [dia_inicio] => 2020-8-24
+    [exportacion] => excell
+)
+2020-08-24 11:16:21 [0] : DEBUG -  http://216.144.236.27/probar_excel	
+Array
+(
+    [dia_inicio] => 2020-8-24
+    [exportacion] => pdf
+)

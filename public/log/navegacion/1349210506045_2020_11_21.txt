@@ -1,0 +1,381 @@
+2020-11-21 12:03:32 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-21 12:03:35 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-21 12:03:50 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 12:03:57 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1605981724
+    [id_juicio] => 1598327308
+    [codigo_organo] => 100PIF
+)
+2020-11-21 12:04:46 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1605981724
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIF
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598327308
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-11-21 12:05:00 [0] : DEBUG -  http://155.94.139.2/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-11-21 12:05:09 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-11-21 12:05:18 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-11-24
+    [fecha_hasta] => 2020-11-24
+)
+2020-11-21 12:05:19 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1605981724
+    [ponencia] => 100PIF
+    [id_documento] => 4333
+    [tipo_documento] => pdf
+)
+2020-11-21 12:06:34 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 12:06:37 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1605978183
+    [id_juicio] => 1598327308
+    [codigo_organo] => 100PIF
+)
+2020-11-21 12:06:44 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1605978183
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIF
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598327308
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-11-21 12:06:53 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 12:09:11 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 12:09:18 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1605982125
+    [ponencia] => 100PIF
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-11-21 12:09:29 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1605982125
+    [id_juicio] => 1598327308
+    [codigo_organo] => 100PIF
+)
+2020-11-21 12:09:33 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1605982125
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIF
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598327308
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-11-21 12:09:43 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-11-21 12:09:48 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-11-24
+    [fecha_hasta] => 2020-11-24
+)
+2020-11-21 12:09:52 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1605982125
+    [ponencia] => 100PIF
+    [id_documento] => 4342
+    [tipo_documento] => pdf
+)
+2020-11-21 12:10:20 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1605978183
+    [ponencia] => 100PIF
+    [id_documento] => 4330
+    [tipo_documento] => pdf
+)
+2020-11-21 12:10:26 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1605981724
+    [ponencia] => 100PIF
+    [id_documento] => 4333
+    [tipo_documento] => pdf
+)
+2020-11-21 12:11:20 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-11-21 12:11:25 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-11-24
+    [fecha_hasta] => 2020-11-24
+)
+2020-11-21 12:17:52 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 12:17:55 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1605982109
+    [id_juicio] => 1598327308
+    [codigo_organo] => 100PIF
+)
+2020-11-21 12:17:59 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1605982109
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIF
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598327308
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-11-21 12:18:06 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-11-24
+    [fecha_hasta] => 2020-11-24
+)
+2020-11-21 12:18:08 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1605982109
+    [ponencia] => 100PIF
+    [id_documento] => 4343
+    [tipo_documento] => pdf
+)
+2020-11-21 12:28:05 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 12:28:54 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 12:29:02 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1605982087
+    [id_juicio] => 1598327308
+    [codigo_organo] => 100PIF
+)
+2020-11-21 12:29:04 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1605982087
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIF
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598327308
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-11-21 12:43:57 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 12:58:59 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 13:14:03 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 13:29:05 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 13:44:08 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 13:59:11 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 14:14:14 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 14:29:17 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 14:44:20 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 14:59:23 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 15:14:26 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 15:29:30 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 15:44:33 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 15:59:36 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 16:14:39 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 16:29:42 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 16:44:45 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 16:59:48 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 17:14:51 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 17:29:54 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 17:44:57 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 17:59:17 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 17:59:22 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-11-21 18:14:20 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 18:29:23 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 18:44:26 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 18:59:29 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 19:14:32 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 19:29:35 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-21 19:43:14 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

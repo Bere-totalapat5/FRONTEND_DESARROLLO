@@ -1,0 +1,293 @@
+2020-09-20 01:14:01 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-20 01:14:04 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 01:14:07 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-20 01:14:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-20 01:14:16 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-20 01:14:19 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 01:14:24 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-20 01:14:32 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 2
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-20 01:44:41 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-20 01:44:45 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 01:44:54 [0] : DEBUG -  http://155.94.139.2/home/archivoDetalles/1578603339985	
+Array
+(
+    [id] => 1578603339985
+)
+2020-09-20 01:45:00 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1596853751	
+Array
+(
+)
+2020-09-20 01:45:03 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-20 01:45:03 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-20 01:45:04 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-09-20 01:45:04 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-09-20 01:45:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1596853751
+            [expediente] => 2
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => F50
+            [tipo_archivo] => expedientillo
+            [tipo_juicio_int] => 2
+            [fecha_ingreso] => 2020-07-16
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11135
+                    [nombres] => RAMIRO
+                    [apellido_paterno] => BRITO
+                    [apellido_materno] => MONTES
+                    [tipo] => actor
+                    [correo] => RAMIRO.BRITO@TSJCDMX.GOB.MX
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-09-20 01:45:10 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-20 01:45:13 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 01:45:18 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1596853751	
+Array
+(
+)
+2020-09-20 01:45:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-20 01:45:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-20 01:45:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-09-20 01:45:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-09-20 01:45:24 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1596853751
+            [expediente] => 2
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => F50
+            [tipo_archivo] => expedientillo
+            [tipo_juicio_int] => 1
+            [fecha_ingreso] => 2020-07-16
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11135
+                    [nombres] => RAMIRO
+                    [apellido_paterno] => BRITO
+                    [apellido_materno] => MONTES
+                    [tipo] => actor
+                    [correo] => RAMIRO.BRITO@TSJCDMX.GOB.MX
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-09-20 01:45:26 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-20 01:45:28 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 01:45:57 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-20 02:33:41 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1578503871569	
+Array
+(
+)
+2020-09-20 02:33:44 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-20 02:33:48 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)

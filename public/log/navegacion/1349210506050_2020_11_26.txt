@@ -1,0 +1,52 @@
+2020-11-26 16:54:47 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-26 16:54:50 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-26 16:55:48 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-11-26 17:59:56 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599706830	
+Array
+(
+)
+2020-11-26 17:59:58 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-11-26 17:59:58 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-26 18:00:00 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-26 18:00:16 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

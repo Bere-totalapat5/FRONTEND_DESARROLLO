@@ -1,0 +1,191 @@
+2020-08-30 00:32:04 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-08-30 00:32:25 [0] : DEBUG -  http://216.144.236.27/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => masterpass
+)
+2020-08-30 00:32:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/65	
+Array
+(
+)
+2020-08-30 00:32:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-30 00:32:49 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-30 00:32:51 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-30 00:33:02 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-30 00:33:10 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-30 00:33:18 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => ORAL FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-30 00:33:23 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => ORAL FAMILIAR
+    [juicio] => Ordinario civil Oral
+    [tipo_accion] => 
+)
+2020-08-30 00:33:30 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => ORAL FAMILIAR
+    [juicio] => Ordinario civil Oral
+    [tipo_accion] => AP
+)
+2020-08-30 00:34:22 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-30
+            [id_catalogo_juicio] => 570
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => Ivan
+                    [apellido_paterno] => Resendiz
+                    [apellido_materno] => Dionicio
+                    [tipo] => actor
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => Qwerty
+                    [apellido_paterno] => Qwerty
+                    [apellido_materno] => Qwerty
+                    [tipo] => demandado
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-08-30 00:34:27 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-30 00:34:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/65	
+Array
+(
+)
+2020-08-30 00:34:51 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 1
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => JFO
+)
+2020-08-30 00:35:08 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar_edicion/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => consecutivo
+                    [value] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 2020-08-30
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_resolucion
+                    [value] => Definitiva
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_resolucion_1a_instancia
+                    [value] => 2020-08-19
+                )
+
+            [5] => Array
+                (
+                    [name] => sentido_resolucion_1a_instancia
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [id_valor] => 1
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => JFO
+)
+2020-08-30 00:35:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/65	
+Array
+(
+)

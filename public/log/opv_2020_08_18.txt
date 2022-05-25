@@ -1,0 +1,232 @@
+2020-08-18 15:42:15 Array
+(
+    [idDocumento] => 3257290
+    [juzgado] => C2
+    [idMateria] => C
+    [noExpediente] => 348
+    [anioExpediente] => 2019
+    [fechaRecepcion] => 2020-08-18 03:41:42
+    [tipoJuicio] => 199
+    [reg_date] => 
+    [idExpediente] => 4937660
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599235,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => {}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/24/575/24941/24942/PROMOCION DE EJEMPLO.pdf","idDocument":7213}]
+    [origen] => OPV
+    [nombreCapturista] => GDFH HH
+    [emailCapturista] => shhshs@gmail.com
+    [telefonoCapturista] => 5512345678
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-18 19:08:07 Array
+(
+    [idDocumento] => 3257271
+    [juzgado] => U3
+    [idMateria] => U
+    [noExpediente] => 6055
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 05:53:41
+    [tipoJuicio] => 902
+    [reg_date] => 
+    [idExpediente] => 4632717
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599220,"participacion":1,"tipoPersona":"F","apPaterno":"MERCADO","apMaterno":"MENDOZA","nombre":"MARCELO","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599221,"participacion":1,"tipoPersona":"F","apPaterno":"MORELOS","apMaterno":"MANRIQUEZ","nombre":"MIGUEL","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [nombreCapturista] => 
+    [emailCapturista] => 
+    [telefonoCapturista] => 
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-18 19:47:15 Array
+(
+    [idDocumento] => 3256970
+    [juzgado] => C4
+    [idMateria] => C
+    [noExpediente] => 6021
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-04 07:42:44
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632456
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598734,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSICALES MEFDR","email":""}]}
+    [arr_demandados] => {"demandados":[]}
+    [adjuntos] => 
+    [origen] => OPC
+    [nombreCapturista] => 
+    [emailCapturista] => 
+    [telefonoCapturista] => 
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-18 20:46:47 Array
+(
+    [idDocumento] => 3257299
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-18 08:46:50
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4937665
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599250,"participacion":1,"tipoPersona":"F","apPaterno":"ROBLES","apMaterno":"SALGADO","nombre":"ANTONIO","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/15/56/208/209/2_0.pdf","idDocument":7218}]
+    [origen] => OPV
+    [nombreCapturista] => ASD SAD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-18 21:00:51 Array
+(
+    [idDocumento] => 3257300
+    [juzgado] => C30
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-18 09:00:52
+    [tipoJuicio] => 106
+    [reg_date] => 
+    [idExpediente] => 4632761
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599252,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ASDASDASD","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/463/464/24955/24956/1.pdf","idDocument":7219}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@sad.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-18 21:16:24 Array
+(
+    [idDocumento] => 3257302
+    [juzgado] => C32
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-18 09:16:03
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632764
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599256,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ADFASDFASDFASDF","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/163/164/24962/24963/Anexo.pdf","idDocument":7220}]
+    [origen] => OPV
+    [nombreCapturista] => C C C
+    [emailCapturista] => carlos.bautista@tsjcdmx.gob.mx
+    [telefonoCapturista] => 5548403652
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-18 21:18:29 Array
+(
+    [idDocumento] => 3257303
+    [juzgado] => C62
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-18 09:13:43
+    [tipoJuicio] => 117
+    [reg_date] => 
+    [idExpediente] => 4632763
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599254,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MORALITOS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-18 21:19:33 Array
+(
+    [idDocumento] => 3257304
+    [juzgado] => C30
+    [idMateria] => C
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-18 09:12:24
+    [tipoJuicio] => 108
+    [reg_date] => 
+    [idExpediente] => 4632762
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599253,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MORALITOS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-18 21:26:35 Array
+(
+    [idDocumento] => 3257305
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-18 09:26:29
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4937666
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599258,"participacion":1,"tipoPersona":"F","apPaterno":"ROBLES","apMaterno":"SALGADO","nombre":"ANTONIO","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/15/56/208/209/1_0.pdf","idDocument":7223}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-18 21:29:38 Array
+(
+    [idDocumento] => 3257306
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-18 09:29:36
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4937667
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599260,"participacion":1,"tipoPersona":"F","apPaterno":"ROBLES","apMaterno":"SALGADO","nombre":"ANTONIO","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/15/56/208/209/2_1.pdf","idDocument":7224}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	

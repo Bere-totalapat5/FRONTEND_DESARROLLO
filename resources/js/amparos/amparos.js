@@ -1,0 +1,1 @@
+$('#horaRecepcion').timepicker();

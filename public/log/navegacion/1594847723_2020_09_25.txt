@@ -1,0 +1,54 @@
+2020-09-25 02:42:32 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-25 02:42:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:42:44 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-25 02:44:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:44:22 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-09-25 02:45:08 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-25 02:46:34 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-25 02:47:15 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-25 02:48:12 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-25 02:48:16 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1594847723
+)
+2020-09-25 02:48:37 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-25 02:48:41 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1594847723
+)
+2020-09-25 02:48:49 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

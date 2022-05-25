@@ -1,0 +1,255 @@
+#tableAmparos tr td{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+.folio_registro{
+  min-width: 127px;
+}
+.carpeta_amparo{
+  min-width: 144px;
+}
+.fecha_registro{
+  min-width: 134px;
+}
+.tipo_amparo{
+  min-width: 104px;
+}
+.carpeta_referida{
+  min-width: 127px;
+}
+.no_juicio_amparo{
+  min-width: 173px;
+}
+.autoridad_requiriente{
+  min-width: 158px;
+}
+.entidad_federativa_requiriente{
+  min-width: 211px;
+}
+.registrado_por{
+  min-width: 117px;
+}
+.comentarios_adicionales{
+  min-width: 181px;
+}
+.situacion{
+  min-width: 100px;
+}
+#tableAmparos{
+  display: block;
+}
+#accordion .card{
+  border:none !important;
+}
+#accordion .card .card-header{
+  border: 1px solid #dee2e6 !important;
+}
+#accordion .card .card-header a{
+  padding: 10px !important;
+}
+#collapseOne{
+  border: 1px solid #eee !important;
+  background: #f8f9fa;
+}
+#accordion a::before{
+  top: 10px !important;
+}
+#divButtonN button{
+  margin-bottom: 10px; 
+  width: 100%;
+}
+.datepicker{
+  z-index:9999 !important
+}
+.modal-open .ui-datepicker{
+  z-index: 2000!important
+}
+ul.uib-datepicker-popup.dropdown-menu.ng-scope { z-index: 1090 !important; }
+#ui-datepicker-div{
+  z-index: 1050 !important;
+}
+.select2-container.select2-container--default.select2-container--open{
+  z-index: 1050 !important;
+}
+#listaCarpetas li:hover{
+  background-color: #848F33 !important;
+  color: #FFF !important;
+}
+#modalNuevoAmparo .modal-dialog{
+  width: 96%;
+}
+#modalAgregarParte .modal-dialog{
+  width: 96%;
+}
+
+.acciones{
+  min-width: 70px;
+}
+.nombre_quejoso{
+  min-width: 323px;
+}
+.acto_reclamado{
+  min-width: 130px;
+}
+.detalles_adicionales_acto{
+  min-width: 160px;
+}
+.tipo{
+  min-width: 70px;
+}
+.lada{
+  min-width: 70px;
+}
+.numero{
+  min-width: 120px;
+}
+.extension{
+  min-width: 70%;
+}
+.correo{
+  min-width: 160px;
+}
+.custom-input-file {
+  cursor: pointer;
+  font-size: 1.2em;
+  margin: 0 auto 0;
+  min-height: 10em;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 500px;
+  color: #848F33;
+  border: 2px solid #EEE;
+  border-style: dotted;
+  height: 80px;
+  border-radius: 25px;
+  width: 100%;  
+  align-items: center;
+  display: flex;
+}
+
+.custom-input-file:hover{
+  background: #848F33;
+  color: #fff;
+}
+
+.custom-input-file .input-file{
+  border: 10000px solid transparent;
+  cursor: pointer;
+  font-size: 10000px;
+  margin: 0;
+  opacity: 0;
+  outline: 0 none;
+  padding: 0 ;
+  position: absolute;
+  right: -1000px;
+  top: -1000px;
+}
+
+#formNewAmparo table { 
+  display: table;
+}
+
+#fecha_hora_termino {
+  border: 2px solid #848F33;
+  color: #848F33;
+  height: 3em;
+  font-size: 1.5em;
+  text-align: center;
+  padding: 2px; 
+  background-color: #F5F5F5; 
+  height: 100%;
+}
+
+.sk-circle {
+  margin: auto !important;
+}
+
+#document {
+  display: flex;
+}
+
+::-webkit-scrollbar {
+  height: 8px;  
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #D7DCE1; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8acaf; 
+}
+::-webkit-scrollbar-track {
+  background: #fff 
+}
+
+@media only screen and (max-width: 768px) {
+  #modalNuevoAmparo .modal-lg {
+    width: 100%;
+    margin: 0 !important;
+  }
+
+  #modalAgregarParte .modal-lg {
+    width: 100%;
+    margin: 0 !important;
+  }
+
+  .custom-input-file {
+    min-height: 6em;
+  }
+
+  table#tableQuejoso, table#tableActos{
+    display: block;
+    overflow-y: auto;
+  }
+
+  #document {
+    display: none;
+  }
+
+}
+
+@media only screen and (min-width: 492px) {
+  .form-layout{
+    position: relative;
+  }
+  #divButtonN{
+    position: absolute; 
+    width: 100%;
+  }
+  #divButtonN button{
+    position: relative; 
+    z-index: 1; 
+    display: block; 
+    margin-left: auto;
+    margin-bottom: 0;
+    width: auto; 
+  }
+  #accordion .card .card-header{
+    width: 75px !important;    
+  }
+
+}
+
+@media only screen and (min-width: 992px){
+  #modalNuevoAmparo .modal-lg {
+    max-width: 1024px;
+  }
+  table{
+    display: table;
+  }
+  table::-webkit-scrollbar {
+    height: 10px;  
+  }
+  table::-webkit-scrollbar-thumb {
+    background: #D7DCE1; 
+  }
+  table::-webkit-scrollbar-thumb:hover {
+    background: #a8acaf; 
+  }
+  table::-webkit-scrollbar-track {
+    background: #fff 
+  }
+}
+

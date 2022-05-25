@@ -1,0 +1,104 @@
+2020-09-18 01:32:11 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-18 01:32:18 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-09-18 01:34:01 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-09-18 01:35:05 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-18 01:35:07 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-18 01:35:11 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-09-18 01:40:13 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-09-18 01:41:03 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-09-18 01:41:35 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-09-18 01:42:24 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-18 01:42:27 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-18 01:44:11 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-09-18 01:45:15 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-18 01:45:20 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-09-18 01:45:37 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-09-18 01:46:44 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-18 01:58:42 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-09-18 01:59:28 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-18 01:59:33 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-09-18 01:59:43 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-18 01:59:49 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

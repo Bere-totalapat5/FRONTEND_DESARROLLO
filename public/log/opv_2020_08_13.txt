@@ -1,0 +1,48 @@
+2020-08-13 16:56:12 Array
+(
+    [idDocumento] => 3257211
+    [juzgado] => C20
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-13 04:56:03
+    [tipoJuicio] => 113
+    [reg_date] => 
+    [idExpediente] => 4937621
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599136,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MARTINEZ","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599125,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COLINAS ZAPATA"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/394/395/24885/24886/2.pdf","idDocument":7198}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-13 17:02:14 Array
+(
+    [idDocumento] => 3257211
+    [juzgado] => C20
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-13 04:56:03
+    [tipoJuicio] => 113
+    [reg_date] => 
+    [idExpediente] => 4937621
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599136,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MARTINEZ","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599125,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COLINAS ZAPATA"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/394/395/24885/24886/2.pdf","idDocument":7198}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	

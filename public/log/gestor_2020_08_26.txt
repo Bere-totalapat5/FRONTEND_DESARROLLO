@@ -1,0 +1,18 @@
+2020-08-26 22:00:02 Array
+(
+    [id_documento] => 1593141963
+    [id_expediente_opc] => 1593141963
+    [idGlobal] => 7315
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25316/25317/simulado_20200826_2259.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-26 22:09:02 Array
+(
+    [id_documento] => 1598496816361
+    [id_expediente_opc] => 1598496816361
+    [idGlobal] => 7316
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/25314/25315/25316/25317/doc-4.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	

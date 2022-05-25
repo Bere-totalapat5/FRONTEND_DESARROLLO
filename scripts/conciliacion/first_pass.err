@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "md5-sicor-parser.py", line 19, in <module>
+    import MySQLdb
+  File "/opt/openoffice.org3/basis-link/program/python-core-2.6.1/lib/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: No module named _mysql

@@ -1,0 +1,256 @@
+2020-09-08 00:14:25 Array
+(
+    [idDocumento] => 74073
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 3
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 58878143
+    [tipoDocumento] => INC
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7407}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 00:14:35 Array
+(
+    [idDocumento] => 74073
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 3
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 58878143
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":7407}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 00:27:12 Array
+(
+    [idDocumento] => 74074
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 4
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 58878144
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCA MULTIPLE GRUPO FINANCIERO BANAMEX","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JORGE","apMaterno":"RAMIREZ","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":74074}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 00:29:41 Array
+(
+    [idDocumento] => 74075
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 3
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887815
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":74075}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 00:31:43 Array
+(
+    [idDocumento] => 74076
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 3
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887816
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":74076}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 00:33:58 Array
+(
+    [idDocumento] => 74077
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 3
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887817
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"JUAN FRANCISCO","apMaterno":"NERI","nombre":"SALAZAR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":74077}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 00:38:50 Array
+(
+    [idDocumento] => 74080
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 4
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887880
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCA MULTIPLE GRUPO FINANCIERO BANAMEX","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"SALAZAR","apMaterno":"RAMIREZ","nombre":"JORGE","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":74080}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 00:40:43 Array
+(
+    [idDocumento] => 74081
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 4
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887881
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCA MULTIPLE GRUPO FINANCIERO BANAMEX","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"SALAZAR","apMaterno":"RAMIREZ","nombre":"JORGE","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":74081}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 00:42:46 Array
+(
+    [idDocumento] => 74082
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 4
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 09:20:11
+    [tipoJuicio] => 260
+    [reg_date] => 
+    [idExpediente] => 5887882
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 200PIC
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24989349,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"BANCA MULTIPLE GRUPO FINANCIERO BANAMEX","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":24989350,"participacion":1,"tipoPersona":"F","apPaterno":"SALAZAR","apMaterno":"RAMIREZ","nombre":"JORGE","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2902/6086/834873/1272324/1272325/INVEX DOMINGO PACHECO IBARRA 211.pdf","idDocument":74082}
+    [origen] => OPV
+    [nombreCapturista] => 
+    [emailCapturista] => brenda@gtilegal.com
+    [telefonoCapturista] => 5530192171
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-08 10:12:42 Array
+(
+    [idDocumento] => 3257490
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 36
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-08 10:11:53
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4633005
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599732,"participacion":1,"tipoPersona":"F","apPaterno":"ESCUELA","apMaterno":"ROMANA","nombre":"MEXICANA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599733,"participacion":1,"tipoPersona":"F","apPaterno":"SECUNDARIA","apMaterno":"PINEDA","nombre":"ROMINA","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-09-08 16:27:49 Array
+(
+    [idDocumento] => 3257510
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 37
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-08 04:27:03
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4633016
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599734,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"FOVISSSTE"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599735,"participacion":1,"tipoPersona":"F","apPaterno":"ALVAREZ","apMaterno":"MENDIOLA","nombre":"FERNANDO DAVID","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	

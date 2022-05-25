@@ -1,0 +1,192 @@
+2020-08-30 11:19:58 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-30 11:20:06 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-30 11:20:12 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1598803949
+    [id_juicio] => 1598803804
+    [codigo_organo] => 200PIC
+)
+2020-08-30 11:20:33 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1598803949
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 200PIC
+    [modal_ultima_version] => 3472
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598803804
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => fiel
+    [password] => ing2354R
+    [archivo_key] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Claveprivada_FIEL_LAJR9406042K7_20191224_103126.key
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpvfSMK4
+            [fileName:SplFileInfo:private] => phpvfSMK4
+        )
+
+    [archivo_cer] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => lajr9406042k7.cer
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-x509-ca-cert
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpgkZUyr
+            [fileName:SplFileInfo:private] => phpgkZUyr
+        )
+
+)
+2020-08-30 11:21:28 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones	
+Array
+(
+)
+2020-08-30 11:21:58 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones/2020/09/01	
+Array
+(
+)
+2020-08-30 11:22:31 [0] : DEBUG -  http://216.144.236.27/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-08-30 11:22:40 [0] : DEBUG -  http://216.144.236.27/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-08-30 11:22:49 [0] : DEBUG -  http://216.144.236.27/bandejas/proximaPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-09-01
+    [fecha_hasta] => 2020-09-01
+)
+2020-08-30 11:22:53 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598803949
+    [ponencia] => 200PIC
+    [id_documento] => 3474
+    [tipo_documento] => pdf
+)
+2020-08-30 11:24:06 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-30 11:24:30 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-30 11:24:47 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-30 11:24:50 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-30 11:24:55 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598803804
+)
+2020-08-30 11:25:21 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 1
+    [id_juicio_promocion] => 1598803804
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-30
+    [tp3] => 11:24
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-30
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => resoluciones.pdf
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/pdf
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpF5OLZq
+            [fileName:SplFileInfo:private] => phpF5OLZq
+        )
+
+)
+2020-08-30 11:27:42 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-30 11:27:44 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598803804
+)
+2020-08-30 11:27:52 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 1
+    [id_juicio_promocion] => 1598803804
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-30
+    [tp3] => 11:24
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-30
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => resoluciones.pdf
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/pdf
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpnX4Hd1
+            [fileName:SplFileInfo:private] => phpnX4Hd1
+        )
+
+)
+2020-08-30 11:29:19 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-30 11:29:20 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598803804
+)

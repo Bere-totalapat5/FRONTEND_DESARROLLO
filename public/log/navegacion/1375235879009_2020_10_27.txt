@@ -1,0 +1,398 @@
+2020-10-27 20:48:19 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-27 20:48:23 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:48:28 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-27 20:49:20 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => 2020-10-27
+)
+2020-10-27 20:49:30 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => 2020-10-28
+)
+2020-10-27 20:49:32 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-27 20:49:36 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:51:05 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-27 20:51:08 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:54:27 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:54:33 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 3
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:54:39 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 4
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:54:48 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:54:55 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 6
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:55:03 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 7
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:55:12 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:55:19 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:55:22 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-27 20:56:52 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-27 20:57:08 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-27 20:57:16 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 3
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-27 20:57:23 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 4
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-27 20:57:31 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-27 20:57:36 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 6
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-27 20:59:47 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-27 20:59:55 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-27 21:00:09 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => 2020-10-26
+)
+2020-10-27 21:03:40 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => 2020-10-26
+)
+2020-10-27 21:03:54 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => 2020-10-26
+)
+2020-10-27 21:04:21 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1603852281286
+    [expediente] => 6115/2020
+    [tipo_juicio_id] => 340
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-10-26
+    [origen] => OPC
+)
+2020-10-27 21:04:24 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => 2020-10-26
+)
+2020-10-27 21:04:49 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1603852281286
+    [expediente] => 6115/2020
+    [tipo_juicio_id] => 340
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-10-26
+    [origen] => OPC
+)
+2020-10-27 21:08:02 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-27 21:08:13 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => 2020-10-26
+)
+2020-10-27 21:08:18 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1603852281286
+    [expediente] => 6115/2020
+    [tipo_juicio_id] => 340
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-10-26
+    [origen] => OPC
+)
+2020-10-27 21:08:21 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1603852072479
+    [expediente] => 6114/2020
+    [tipo_juicio_id] => 340
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-10-26
+    [origen] => OPC
+)
+2020-10-27 21:08:24 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1603851862788
+    [expediente] => 6113/2020
+    [tipo_juicio_id] => 340
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-10-26
+    [origen] => OPC
+)
+2020-10-27 21:08:29 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7640
+)
+2020-10-27 21:17:39 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)

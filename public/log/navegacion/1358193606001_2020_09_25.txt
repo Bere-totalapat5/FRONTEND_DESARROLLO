@@ -1,0 +1,192 @@
+2020-09-25 11:43:36 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:43:38 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:43:56 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 11:44:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => incidente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 11:44:17 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 11:44:18 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => MERCANTIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 11:44:19 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => MERCANTIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 11:44:22 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => MERCANTIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 11:44:38 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C200
+            [tipo_archivo] => incidente
+            [fecha_ingreso] => 2020-09-25
+            [id_catalogo_juicio] => 126
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => RAUL
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-09-25 12:03:08 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:11:58 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => incidente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 12:12:02 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:12:04 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:12:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Inmatriculación Judicial
+    [tipo_accion] => 
+)
+2020-09-25 12:12:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Inmatriculación Judicial
+    [tipo_accion] => AR
+)
+2020-09-25 12:12:19 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => incidente
+            [fecha_ingreso] => 2020-09-25
+            [id_catalogo_juicio] => 43
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => parte incidentes
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-09-25 12:12:21 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:14:29 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 12:14:41 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

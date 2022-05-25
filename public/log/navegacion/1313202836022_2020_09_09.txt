@@ -1,0 +1,609 @@
+2020-09-09 09:42:20 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 09:42:25 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-09 09:42:40 [0] : DEBUG -  http://216.144.236.27/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => 123456aA
+)
+2020-09-09 09:42:46 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 09:43:03 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:45:19 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:45:25 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:45:28 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1595613597
+    [expediente] => 500/2020
+    [tipo_juicio_id] => 313
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-07-24
+    [origen] => OPC
+)
+2020-09-09 09:45:32 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 3
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:45:35 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 4
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:45:40 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:45:44 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 6
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:45:46 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 7
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:45:49 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:46:03 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 7
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 09:47:26 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 09:47:57 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 09:55:20 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 09:55:27 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:00:57 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:01:03 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:03:54 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:04:03 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:06:22 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:06:29 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPP
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:06:59 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:07:01 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:09:04 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:10:42 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:11:12 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:13:52 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:13:59 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:14:01 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:17:37 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:21:49 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:21:58 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => EXHO
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:22:02 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INCO
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:22:06 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => CAUS
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:22:17 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:22:21 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:23:07 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:23:15 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:23:22 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:23:27 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 12
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:23:32 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 11
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:23:52 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:23:59 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:24:09 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:24:12 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:24:20 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPC
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:24:22 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPC
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:24:29 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPV
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:24:36 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => SIGJ WEB
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:24:39 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => SIGJ SCANER
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:24:42 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:25:41 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:25:50 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => 2DA_SEC
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:25:56 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPP
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:25:59 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-09 10:35:31 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 10:35:36 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-09 10:35:37 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-09 10:35:43 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 8
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:39:08 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => 2DA_SEC
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:39:13 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => OPP
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:39:16 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-09 10:39:23 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-09 10:39:44 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 0
+)
+2020-09-09 10:39:46 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-09 10:39:50 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-09 10:39:52 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 10:39:56 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-09 10:39:58 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-09 10:40:26 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

@@ -1,0 +1,407 @@
+2020-09-20 00:04:07 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:05:46 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:06:30 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:08:02 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:08:11 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:09:15 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:09:37 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:11:50 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:12:17 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:13:24 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:13:35 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:13:40 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:13:51 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:14:03 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:14:46 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:15:04 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:15:29 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:16:09 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:20:47 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:21:04 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:21:48 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:24:20 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:24:54 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:33:19 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-20 00:33:21 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 00:33:35 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-20 00:39:32 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:42:06 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:43:32 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:45:11 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:54:42 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 00:57:08 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 01:15:24 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 01:30:23 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 01:30:27 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 02:20:33 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 02:20:39 [0] : DEBUG -  http://172.16.159.181/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-20 02:20:42 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 02:20:48 [0] : DEBUG -  http://172.16.159.181/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-20 02:20:55 [0] : DEBUG -  http://172.16.159.181/promociones/validarToca	
+Array
+(
+)
+2020-09-20 02:20:59 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 02:21:05 [0] : DEBUG -  http://172.16.159.181/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-20 02:21:18 [0] : DEBUG -  http://172.16.159.181/promociones/validarToca	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-20 02:21:20 [0] : DEBUG -  http://172.16.159.181/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1599531678
+)
+2020-09-20 02:21:22 [0] : DEBUG -  http://172.16.159.181/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1599531678
+)
+2020-09-20 02:21:22 [0] : DEBUG -  http://172.16.159.181/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1599531678
+    [juicio_promocion] => 2/2020
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-09-20
+    [tp3] => 02:21
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-09-20
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-09-20 02:22:19 [0] : DEBUG -  http://172.16.159.181/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1599531678
+    [juicio_promocion] => 2/2020
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-09-20
+    [tp3] => 02:21
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-09-20
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-09-20 02:38:45 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-20 02:38:45 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-20 02:38:48 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 02:38:56 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-20 02:38:56 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-20 02:38:58 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 02:39:10 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-20 02:39:10 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-20 02:39:11 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 02:56:01 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-20 02:56:01 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-20 02:56:03 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 02:56:05 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 02:56:32 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 03:02:48 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 03:03:00 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 03:04:40 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 03:08:16 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-20 03:28:57 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-20 03:29:00 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-20 03:29:03 [0] : DEBUG -  http://172.16.159.181/archivoJudicial/detalles_archivo	
+Array
+(
+    [id_juicio] => 1595825526
+    [agregar] => 1
+)
+2020-09-20 03:29:05 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-20 03:29:14 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-20 03:29:28 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 03:33:32 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 03:35:10 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 03:35:49 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 03:36:12 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 03:36:25 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-20 03:37:13 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)

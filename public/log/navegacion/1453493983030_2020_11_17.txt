@@ -1,0 +1,86 @@
+2020-11-17 14:43:12 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-17 14:43:17 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 14:43:36 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599108298	
+Array
+(
+)
+2020-11-17 14:44:04 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1599108298
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 14
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 4
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-11-17
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [bandera_notificacion] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpMnL3mG
+            [fileName:SplFileInfo:private] => phpMnL3mG
+        )
+
+)
+2020-11-17 14:44:07 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599108298	
+Array
+(
+)
+2020-11-17 16:06:49 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-11-17 16:06:49 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-17 16:06:53 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 16:07:04 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

@@ -1,0 +1,85 @@
+2020-09-21 13:58:12 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-21 13:58:16 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 13:58:27 [0] : DEBUG -  http://172.16.159.181/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => 123456aA
+)
+2020-09-21 13:58:31 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-09-21 13:58:41 [0] : DEBUG -  http://172.16.159.181/juicio/nuevo	
+Array
+(
+)
+2020-09-21 13:58:46 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-21 13:58:49 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 13:58:53 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2017
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-21 14:11:27 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-21 14:11:27 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-21 14:11:31 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)

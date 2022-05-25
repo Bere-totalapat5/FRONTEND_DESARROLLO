@@ -1,0 +1,384 @@
+2020-08-21 11:45:26 Array
+(
+    [idDocumento] => 3257331
+    [juzgado] => C35
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 11:45:17
+    [tipoJuicio] => 102
+    [reg_date] => 
+    [idExpediente] => 4632796
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599297,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSICALI","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/181/182/25011/25012/1.pdf","idDocument":7244}]
+    [origen] => OPV
+    [nombreCapturista] => SAD ASD
+    [emailCapturista] => ad@asd.asd
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 11:53:30 Array
+(
+    [idDocumento] => 3257332
+    [juzgado] => C9
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 11:53:35
+    [tipoJuicio] => 106
+    [reg_date] => 
+    [idExpediente] => 4632797
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599299,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ASDASDSAD","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/74/567/25018/25019/1.pdf","idDocument":7245}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.ad.sad
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 11:59:26 Array
+(
+    [idDocumento] => 3257333
+    [juzgado] => C14
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 11:59:29
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4632798
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599301,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SORIANA","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/154/155/25025/25026/1.pdf","idDocument":7246}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 12:02:36 Array
+(
+    [idDocumento] => 3257334
+    [juzgado] => C29
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 12:02:40
+    [tipoJuicio] => 103
+    [reg_date] => 
+    [idExpediente] => 4632799
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599303,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SORIANA","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/1023/1024/25032/25033/1.pdf","idDocument":7247}]
+    [origen] => OPV
+    [nombreCapturista] => DSF DSF
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 12:06:10 Array
+(
+    [idDocumento] => 3257335
+    [juzgado] => F12
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 12:06:13
+    [tipoJuicio] => 305
+    [reg_date] => 
+    [idExpediente] => 4632800
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599305,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"XIAOMI","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/5845/5846/25039/25040/1.pdf","idDocument":7248}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 12:12:30 Array
+(
+    [idDocumento] => 3257336
+    [juzgado] => C16
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 12:12:34
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632801
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599307,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSCALI","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/741/742/25046/25047/1.pdf","idDocument":7249}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 12:16:39 Array
+(
+    [idDocumento] => 3257337
+    [juzgado] => F39
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 12:16:43
+    [tipoJuicio] => 306
+    [reg_date] => 
+    [idExpediente] => 4632802
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599309,"participacion":1,"tipoPersona":"F","apPaterno":"ORTIZ","apMaterno":"","nombre":"JUAN","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/1846/1847/25053/25054/1.pdf","idDocument":7250}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 12:33:33 Array
+(
+    [idDocumento] => 3257339
+    [juzgado] => C18
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 12:33:37
+    [tipoJuicio] => 103
+    [reg_date] => 
+    [idExpediente] => 4632804
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599313,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CASACAAA","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/943/944/25060/25061/1.pdf","idDocument":7251}]
+    [origen] => OPV
+    [nombreCapturista] => SAD AD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 12:38:33 Array
+(
+    [idDocumento] => 3257340
+    [juzgado] => C39
+    [idMateria] => C
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 12:38:37
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4632805
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599315,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUJIC","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/502/503/25067/25068/1.pdf","idDocument":7252}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 12:53:53 Array
+(
+    [idDocumento] => 3257341
+    [juzgado] => C16
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 12:53:57
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632806
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599317,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"JUANA","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/741/742/25074/25075/1.pdf","idDocument":7253}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 12:58:25 Array
+(
+    [idDocumento] => 3257342
+    [juzgado] => C6
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 12:58:29
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632807
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599319,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MINIOSTORE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/33/898/25081/25082/1.pdf","idDocument":7254}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 13:03:09 Array
+(
+    [idDocumento] => 3257343
+    [juzgado] => C8
+    [idMateria] => C
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 01:03:14
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632808
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599321,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COLTROS","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/215/216/25088/25089/1.pdf","idDocument":7255}]
+    [origen] => OPV
+    [nombreCapturista] => ads SAD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 18:01:48 Array
+(
+    [idDocumento] => 3257344
+    [juzgado] => C7
+    [idMateria] => C
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 06:01:52
+    [tipoJuicio] => 103
+    [reg_date] => 
+    [idExpediente] => 4632809
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599323,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SADASDASDSAD","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/109/110/25095/25096/1.pdf","idDocument":7256}]
+    [origen] => OPV
+    [nombreCapturista] => asd ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 18:14:53 Array
+(
+    [idDocumento] => 3257345
+    [juzgado] => C38
+    [idMateria] => C
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 06:14:56
+    [tipoJuicio] => 108
+    [reg_date] => 
+    [idExpediente] => 4632810
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599325,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"KKKKKKKSKSK","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/335/336/25102/25103/1.pdf","idDocument":7257}]
+    [origen] => OPV
+    [nombreCapturista] => ASD SAD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 18:32:42 Array
+(
+    [idDocumento] => 3257346
+    [juzgado] => C17
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 06:32:43
+    [tipoJuicio] => 106
+    [reg_date] => 
+    [idExpediente] => 4632811
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599327,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSICALI","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/899/900/25109/25110/1.pdf","idDocument":7258}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-21 18:53:14 Array
+(
+    [idDocumento] => 3257347
+    [juzgado] => C36
+    [idMateria] => C
+    [noExpediente] => 6028
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-21 06:53:15
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632812
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599329,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"POLLOLOJHJICDK","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/2300/2301/25116/25117/1.pdf","idDocument":7259}]
+    [origen] => OPV
+    [nombreCapturista] => SAD SAD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	

@@ -1,0 +1,64 @@
+2020-09-03 10:41:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-03 10:41:06 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+    [usuario] => jc63j
+    [password] => masterpass
+    [tipo] => web
+    [next] => 
+)
+2020-09-03 10:41:06 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-03 10:41:10 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-03 10:41:41 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-03 10:42:13 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-03 10:42:16 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+    [usuario] => JC63J
+    [password] => masterpass
+    [tipo] => web
+    [next] => 
+)
+2020-09-03 10:42:16 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-03 10:42:19 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)

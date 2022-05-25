@@ -1,0 +1,79 @@
+2020-10-02 08:39:10 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-10-02 08:39:13 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-02 08:39:45 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-10-02 08:39:55 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1601053600,100PIC,4065-1601053486,100PIC,4063-1601053338,100PIC,4061-
+)
+2020-10-02 08:40:01 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601053600
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4065
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1599596507
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-10-02 08:40:02 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601053486
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4063
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1600382663
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-10-02 08:40:04 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601053338
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 2
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4061
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1600114830
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-10-02 08:40:10 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

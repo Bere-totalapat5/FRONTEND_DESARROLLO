@@ -1,0 +1,273 @@
+2020-08-30 23:47:12 Array
+(
+    [idDocumento] => 210265873
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 2
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:51:03 Array
+(
+    [idDocumento] => 210265874
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 2
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POST
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:51:09 Array
+(
+    [idDocumento] => 210265874
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 2
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:52:47 Array
+(
+    [idDocumento] => 210265875
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 3
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:52:58 Array
+(
+    [idDocumento] => 210265876
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 3
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:53:07 Array
+(
+    [idDocumento] => 210265877
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 4
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:53:12 Array
+(
+    [idDocumento] => 210265877
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 4
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:53:20 Array
+(
+    [idDocumento] => 210265878
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 5
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:53:28 Array
+(
+    [idDocumento] => 210265879
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 5
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:53:38 Array
+(
+    [idDocumento] => 210265880
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 6
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:53:45 Array
+(
+    [idDocumento] => 210265881
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 6
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:53:53 Array
+(
+    [idDocumento] => 210265882
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 7
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-30 23:54:03 Array
+(
+    [idDocumento] => 210265883
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 7
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	

@@ -1,0 +1,196 @@
+2020-10-06 13:38:24 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 13:38:28 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 13:41:00 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 13:41:04 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 13:41:13 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 14:30:18 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 14:30:38 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-10-06 14:31:51 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-06 14:32:05 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 14:32:09 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 14:36:00 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 14:36:43 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-06 14:55:15 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 14:55:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 14:55:30 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 15:05:40 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-10-06 15:05:41 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 15:05:45 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 15:05:51 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 15:07:47 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 15:11:39 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-06 15:11:55 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 15:11:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 15:16:19 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 15:26:05 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 15:51:52 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 15:55:27 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 15:56:40 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-10-06 16:09:11 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/41	
+Array
+(
+)
+2020-10-06 16:32:21 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/41	
+Array
+(
+)
+2020-10-06 16:34:12 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/41	
+Array
+(
+)
+2020-10-06 16:35:04 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/41	
+Array
+(
+)
+2020-10-06 16:38:48 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/41	
+Array
+(
+)
+2020-10-06 16:40:16 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/100	
+Array
+(
+)

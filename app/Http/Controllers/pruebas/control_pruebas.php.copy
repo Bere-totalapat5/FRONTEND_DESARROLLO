@@ -1,0 +1,195 @@
+<?php
+
+namespace App\Http\Controllers\pruebas;
+
+use App\Http\Controllers\clases\archivos;
+use App\Http\Controllers\clases\gestorDocumental;
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+
+
+
+use PhpOffice\PhpSpreadsheet\RichText\RichText;
+use PhpOffice\PhpSpreadsheet\Shared\Date;
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Style\Alignment;
+use PhpOffice\PhpSpreadsheet\Style\Border;
+use PhpOffice\PhpSpreadsheet\Style\Color;
+use PhpOffice\PhpSpreadsheet\Style\Fill;
+use PhpOffice\PhpSpreadsheet\Style\Font;
+use PhpOffice\PhpSpreadsheet\Style\NumberFormat;
+use PhpOffice\PhpSpreadsheet\Style\Protection;
+use PhpOffice\PhpSpreadsheet\Worksheet\Drawing;
+use PhpOffice\PhpSpreadsheet\Worksheet\PageSetup;
+use PhpOffice\PhpSpreadsheet\Helper\Sample;
+use PhpOffice\PhpSpreadsheet\Writer\IWriter;
+use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
+    
+class control_pruebas extends Controller
+{
+    public function inicio(Request $request){
+
+    	return view("pruebas",[
+            "response" => "vista vista vista"
+        ]);
+    }
+
+    public function probar_excel(Request $request){
+
+        $helper = new Sample();
+
+        //$helper->log('Create new Spreadsheet object');
+        $spreadsheet = new Spreadsheet();
+
+        // Set document properties
+        //$helper->log('Set document properties');
+        $spreadsheet->getProperties()
+            ->setCreator('Maarten Balliauw')
+            ->setLastModifiedBy('Maarten Balliauw')
+            ->setTitle('PhpSpreadsheet Test Document')
+            ->setSubject('PhpSpreadsheet Test Document')
+            ->setDescription('Test document for PhpSpreadsheet, generated using PHP classes.')
+            ->setKeywords('office PhpSpreadsheet php')
+            ->setCategory('Test result file');
+
+
+        // Add a drawing to the worksheet
+        //$helper->log('Add a drawing to the worksheet');
+        $drawing = new Drawing();
+        $drawing->setName('Paid');
+        $drawing->setDescription('Paid');
+        $drawing->setPath(__DIR__ . '/../../../../public/images/LOGO_PJ_vextendida_color.png');
+        $drawing->setHeight(86);
+        $drawing->setCoordinates('A1');
+        $drawing->setWorksheet($spreadsheet->getActiveSheet());
+
+        
+
+        // Add some data
+        //$helper->log('Add some data');
+        $spreadsheet->setActiveSheetIndex(0)
+            ->setCellValue('A1', 'Hello')
+            ->setCellValue('B2', 'world!')
+            ->setCellValue('C1', 'Hello')
+            ->setCellValue('D2', 'world!');
+
+        // Miscellaneous glyphs, UTF-8
+        $spreadsheet->setActiveSheetIndex(0)
+            ->setCellValue('A4', 'Miscellaneous glyphs')
+            ->setCellValue('A5', 'éàèùâêîôûëïüÿäöüç');
+
+        $spreadsheet->getActiveSheet()
+            ->setCellValue('A8', "Hello\nWorld");
+
+        $spreadsheet->getActiveSheet()
+            ->getRowDimension(8)
+            ->setRowHeight(100);
+        $spreadsheet->getActiveSheet()
+            ->getStyle('A8')
+            ->getAlignment()
+            ->setWrapText(true);
+
+        $value = "-ValueA\n-Value B\n-Value C";
+        $spreadsheet->getActiveSheet()
+            ->setCellValue('A10', $value);
+        $spreadsheet->getActiveSheet()
+            ->getRowDimension(10)
+            ->setRowHeight(-1);
+        $spreadsheet->getActiveSheet()
+            ->getStyle('A10')
+            ->getAlignment()
+            ->setWrapText(true);
+        $spreadsheet->getActiveSheet()
+            ->getStyle('A10')
+            ->setQuotePrefix(true);
+
+
+            // Add rich-text string
+        //$helper->log('Add rich-text string');
+        $richText = new RichText();
+        $richText->createText('This invoice is ');
+
+        $payable = $richText->createTextRun('payable within thirty days after the end of the month');
+        $payable->getFont()->setBold(true);
+        $payable->getFont()->setItalic(true);
+        $payable->getFont()->setColor(new Color(Color::COLOR_DARKGREEN));
+
+        $richText->createText(', unless specified otherwise on the invoice.');
+
+        $spreadsheet->getActiveSheet()->getCell('A18')->setValue($richText); 
+
+
+
+
+        
+
+
+
+        // Rename worksheet
+        //$helper->log('Rename worksheet');
+        $spreadsheet->getActiveSheet()
+            ->setTitle('Simple');
+
+        // Save
+        //$helper->write($spreadsheet);
+
+        $response = response()->streamDownload(function() use ($spreadsheet) {
+            $writer = new Xlsx($spreadsheet);
+            $writer->save('php://output');
+        });
+
+    	$response->setStatusCode(200);
+        $response->headers->set('Content-Type', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
+        $response->headers->set('Content-Disposition', 'attachment; filename="your_file.xls"');
+        $response->send();
+
+    }
+
+
+    public function probardocumento(Request $request){
+
+        $clean_html='';
+
+    	
+    }
+
+    public function descarga_gestor( Request $request, $idDocument ){
+        if(isset($idDocument)){
+            //gestorDocumental::getDocGestor($request, $idDocument);
+
+            $bin=gestorDocumental::getDocGestor($request, $idDocument); 
+
+        
+            header('Content-Type: application/pdf'); 
+    //       echo $bin['url'];
+            echo $bin['pdf'];
+            //$idGlobal=3163;
+
+
+
+        }
+        exit;
+    }
+    
+
+    public function probarpdf( Request $request ){
+
+        //return 1;
+        $datos=[];
+        
+        archivos::generarPortada($request, $datos);
+        
+
+    }
+
+    public static function get_string_between($string, $start, $end, $posicion){
+        $string = ' ' . $string;
+        $ini = strpos($string, $start, $posicion);
+        if ($ini == 0) return '';
+        $ini += strlen($start);
+        $len = strpos($string, $end, $ini) - $ini;
+        $final['texto']=substr($string, $ini, $len);
+        $final['posicion']=$ini+$len;
+        return $final;
+    }
+}

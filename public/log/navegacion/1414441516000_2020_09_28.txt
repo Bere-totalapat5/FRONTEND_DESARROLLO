@@ -1,0 +1,1087 @@
+2020-09-28 00:15:49 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:15:59 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:17:08 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:17:14 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:17:17 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/es.js.map	
+Array
+(
+)
+2020-09-28 00:17:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:17:50 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+    [subtipo] => PIC
+    [nombre_largo] => Centésimo de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-28 00:17:56 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+)
+2020-09-28 00:18:37 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 200PIC
+    [subtipo] => PIC
+    [nombre_largo] => Duocentésimo de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-28 00:18:40 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 200PIC
+)
+2020-09-28 00:19:00 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+)
+2020-09-28 00:20:13 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 3PIC
+    [subtipo] => PIC
+    [nombre_largo] => Tercero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-28 00:20:17 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 3PIC
+)
+2020-09-28 00:20:20 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 6PIC
+)
+2020-09-28 00:21:02 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:21:05 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 4PIC
+)
+2020-09-28 00:22:06 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:22:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 5PIC
+)
+2020-09-28 00:29:58 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:30:03 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:30:11 [0] : DEBUG -  http://172.16.159.181/anales/editar/guardarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [codigo_organo] => 1PIC
+    [boletin_temporal_texto] => <h1>No hay resoluciones prueba?</h1><br><br>
+)
+2020-09-28 00:30:15 [0] : DEBUG -  http://172.16.159.181/anales/editar/guardarJuzgadoBoletin	
+Array
+(
+)
+2020-09-28 00:30:19 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:31:25 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:31:28 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:31:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/es.js.map	
+Array
+(
+)
+2020-09-28 00:31:34 [0] : DEBUG -  http://172.16.159.181/anales/editar/guardarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+    [texto_boletin] => <h1>No hay resoluciones</h1><br>listo?
+)
+2020-09-28 00:31:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:31:43 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:31:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/es.js.map	
+Array
+(
+)
+2020-09-28 00:32:22 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:32:22 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/es.js.map	
+Array
+(
+)
+2020-09-28 00:32:25 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:32:26 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/es.js.map	
+Array
+(
+)
+2020-09-28 00:32:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:32:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/es.js.map	
+Array
+(
+)
+2020-09-28 00:32:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/guardarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+    [texto_boletin] => <h1>No hay resoluciones</h1><br>listo?
+)
+2020-09-28 00:33:11 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:33:14 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:33:15 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/es.js.map	
+Array
+(
+)
+2020-09-28 00:33:17 [0] : DEBUG -  http://172.16.159.181/anales/editar/guardarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+    [texto_boletin] => <h1>No hay resoluciones</h1><br>listo?
+)
+2020-09-28 00:33:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 00:33:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:33:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/guardarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+    [texto_boletin] => <h1>No hay resoluciones</h1><br>listo? listo ahora si
+)
+2020-09-28 00:33:45 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-28 00:33:48 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 2PIC
+)
+2020-09-28 00:33:51 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 2PIC
+)
+2020-09-28 00:33:55 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 2PIC
+    [subtipo] => PIC
+    [nombre_largo] => Segundo de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-28 00:33:58 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 2PIC
+)
+2020-09-28 00:34:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/guardarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 2PIC
+    [texto_boletin] => <h1>No hay resoluciones</h1><p>finalizamos</p><br><br>
+)
+2020-09-28 00:34:11 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 2PIC
+)
+2020-09-28 00:34:25 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 200PIC
+    [subtipo] => PIC
+    [nombre_largo] => Duocentésimo de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-28 00:34:28 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 200PIC
+)
+2020-09-28 00:34:31 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+)
+2020-09-28 00:35:21 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-28 12:48:55 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 13:00:57 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-28 13:09:20 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 13:09:52 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-28 13:10:03 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 13:20:07 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 13:22:13 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 13:22:18 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 13:22:27 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 13:23:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 13:23:26 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 13:28:25 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 13:28:35 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-28 13:28:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 13:28:46 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+)
+2020-09-28 13:33:03 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 13:33:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+)
+2020-09-28 13:33:19 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+)
+2020-09-28 13:33:33 [0] : DEBUG -  http://172.16.159.181/anales/editar/guardarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+    [texto_boletin] => <h1>CENT&Eacute;SIMO DE LO CIVIL</h1><h2>SECRETARIA A</h2><br><h2>ACUERDOS DEL 25 DE SEPTIEMBRE DEL 2020</h2><div>Salvador R&iacute;os Garc&iacute;a y Pepe Pecas vs. Lalo Landa. Ordinario Civil 4 Acdos. N&uacute;m. Exp. 1/2020.</div><br><h2>SENTENCIA INTERLOCUTORIA</h2><div>Este Es Ultimo. Ejecuci&oacute;n de Garant&iacute;as Otorgadas Mediante Prenda Sin Transmisi&oacute;n de Posesi&oacute;n y Fideicomiso de Garant&iacute;a (Procedimiento Judicial) Mercantil Sent. N&uacute;m. Exp. 11/2019 esta es una modificaci&oacute;n</div><br><h3>EL SECRETARIO DE ACUERDOS<br> JC100SA 100PIC </h3><br><h2>SECRETARIA B</h2><br><h2>ACUERDOS DEL 25 DE SEPTIEMBRE DEL 2020</h2><div>Parte Sin Demandado 2. Cumplimiento de Contrato Oralidad Mercantil 1 Acuerdo en Exhorto. N&uacute;m. Exp. 12/2019.</div><br><h3>EL SECRETARIO DE ACUERDOS<br> JC100SB 100PIC </h3><br><h2>SECRETARIA C</h2>
+)
+2020-09-28 13:33:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 100PIC
+)
+2020-09-28 13:57:45 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 13:57:50 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-28 13:57:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-28 14:12:21 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-28 14:42:42 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 14:42:50 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 14:42:55 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-28 14:42:55 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 14:44:01 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 14:44:05 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 14:44:08 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 14:44:52 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 14:44:57 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 100PIC
+    [subtipo] => PIC
+    [nombre_largo] => Centésimo de lo Civil
+    [numero_boletin] => 103
+    [fecha_boletin] => 2020-09-29
+)
+2020-09-28 14:53:04 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 14:53:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 200PIC
+    [subtipo] => PIC
+    [nombre_largo] => Duocentésimo de lo Civil
+    [numero_boletin] => 103
+    [fecha_boletin] => 2020-09-29
+)
+2020-09-28 14:53:12 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 200PIC
+)
+2020-09-28 14:53:21 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 12PIC
+)
+2020-09-28 14:53:50 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 15:08:27 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 44PIC
+)
+2020-09-28 15:46:52 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-28 15:46:52 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 15:46:55 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-28 18:03:56 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 18:04:04 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 18:05:26 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 18:05:46 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 18:05:49 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 18:05:50 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 18:05:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 18:06:33 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 18:06:37 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIAG	
+Array
+(
+)
+2020-09-28 18:08:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIAG	
+Array
+(
+)
+2020-09-28 18:08:59 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIAG	
+Array
+(
+)
+2020-09-28 18:09:08 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIAG	
+Array
+(
+)
+2020-09-28 18:09:11 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:10:10 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:10:15 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:10:19 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+    [subtipo] => PIC
+    [nombre_largo] => Cuadragésimo Primero de lo Civil
+    [numero_boletin] => 103
+    [fecha_boletin] => 2020-09-29
+)
+2020-09-28 18:10:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:10:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:10:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:11:04 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:11:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:11:24 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:11:27 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:11:30 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:11:34 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:11:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:11:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:11:49 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-28 18:11:49 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 18:12:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 18:12:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/41PIC/3	
+Array
+(
+)
+2020-09-28 18:13:17 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:14:04 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 18:14:55 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:15:25 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:15:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 18:17:51 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 18:19:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 18:19:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 18:21:15 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 18:21:30 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 18:29:19 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 18:29:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 18:30:37 [0] : DEBUG -  http://172.16.159.181/anales/editar/txtJuzgadoBoletin/0/3/1	
+Array
+(
+)
+2020-09-28 19:08:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/103	
+Array
+(
+)
+2020-09-28 19:08:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 19:08:50 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+)
+2020-09-28 19:31:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+)
+2020-09-28 19:34:25 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+)
+2020-09-28 19:42:26 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+)
+2020-09-28 19:42:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 19:42:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:44:16 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:45:02 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:45:51 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:46:03 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:47:05 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:47:53 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:49:02 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:50:31 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:50:51 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-28 19:50:51 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-28 19:53:26 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:53:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:54:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:58:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 19:58:42 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:00:04 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:01:02 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:01:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:02:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:05:10 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:05:40 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:05:48 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:06:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:06:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:06:52 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:07:00 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:07:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:07:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:08:36 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:09:13 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:09:59 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:10:57 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:11:53 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:12:13 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:13:16 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:14:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:17:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:17:34 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 20:17:36 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 20:17:40 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:17:49 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 20:18:03 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 20:18:06 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizacionTotalBoletin	
+Array
+(
+    [materia] => PIC
+    [id_boletin_registro] => 3
+    [numero_boletin] => 103
+)
+2020-09-28 20:18:27 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 20:18:30 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 41PIC
+)
+2020-09-28 20:18:33 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 44PIC
+)
+2020-09-28 20:18:37 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 57PIC
+)
+2020-09-28 20:18:40 [0] : DEBUG -  http://172.16.159.181/anales/editar/verJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 3
+    [juzgado] => 61PIC
+)
+2020-09-28 20:38:42 [0] : DEBUG -  http://172.16.159.181/anales/editar/103/PIC	
+Array
+(
+)
+2020-09-28 20:38:49 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

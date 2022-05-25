@@ -1,0 +1,12 @@
+2020-08-26 13:10:36 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-26 13:10:52 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-08-26 13:11:08 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

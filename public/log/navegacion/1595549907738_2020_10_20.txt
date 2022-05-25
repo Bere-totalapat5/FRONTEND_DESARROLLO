@@ -1,0 +1,645 @@
+2020-10-20 11:28:25 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-20 11:28:29 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-20 11:29:31 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/28	
+Array
+(
+)
+2020-10-20 11:30:53 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/28/1	
+Array
+(
+    [expediente] => 1348
+    [anios] => 2018
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-20 11:31:19 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/28/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 2020-10-18
+    [fecha_hasta] => 2020-10-18
+)
+2020-10-20 11:33:18 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/31	
+Array
+(
+)
+2020-10-20 11:36:25 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-10-20 11:36:48 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-20 12:00:01 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-10-20 12:00:37 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-10-20 12:00:49 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-20 12:02:43 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-20 12:03:38 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-20 12:05:02 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-10-20 12:05:27 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-20 12:08:09 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-20 12:10:31 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-20 12:11:52 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-10-20 12:12:13 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-20 12:18:00 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-20 12:24:35 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-20 12:24:42 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-20 12:25:01 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/26	
+Array
+(
+)
+2020-10-20 12:25:18 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-20 12:29:36 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/26	
+Array
+(
+)
+2020-10-20 12:29:50 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-20 12:30:27 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_fojas
+                    [value] => 0
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_citacion
+                    [value] => 
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_publicacion_citacion
+                    [value] => 
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_sentencia
+                    [value] => 
+                )
+
+            [5] => Array
+                (
+                    [name] => deja_sin_efectos
+                    [value] => 0
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_sentencia
+                    [value] => 0
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_publicacion_boletin
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => observaciones
+                    [value] => Holo pruebas
+                )
+
+        )
+
+    [tabla] => libros_turno_sentencia_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-20 12:35:40 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_fojas
+                    [value] => 0
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_citacion
+                    [value] => 
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_publicacion_citacion
+                    [value] => 
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_sentencia
+                    [value] => 
+                )
+
+            [5] => Array
+                (
+                    [name] => deja_sin_efectos
+                    [value] => 0
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_sentencia
+                    [value] => 0
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_publicacion_boletin
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => observaciones
+                    [value] => Holo pruebas
+                )
+
+        )
+
+    [tabla] => libros_turno_sentencia_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-20 12:36:16 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_fojas
+                    [value] => 0
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_citacion
+                    [value] => 2020-10-21
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_publicacion_citacion
+                    [value] => 
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_sentencia
+                    [value] => 
+                )
+
+            [5] => Array
+                (
+                    [name] => deja_sin_efectos
+                    [value] => Si
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_sentencia
+                    [value] => Definitiva
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_publicacion_boletin
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => observaciones
+                    [value] => Holo pruebas
+                )
+
+        )
+
+    [tabla] => libros_turno_sentencia_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-20 12:36:18 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/26	
+Array
+(
+)
+2020-10-20 12:36:52 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-20 12:40:14 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/26	
+Array
+(
+)
+2020-10-20 12:49:28 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-20 12:52:44 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-20 12:52:47 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-20 12:52:59 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-10-20 12:55:25 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-10-20 12:55:38 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-20 12:56:34 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_recibe_documento
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_expide_documento
+                    [value] => 2020-10-19
+                )
+
+            [3] => Array
+                (
+                    [name] => no_documento
+                    [value] => w404159
+                )
+
+            [4] => Array
+                (
+                    [name] => referencia
+                    [value] => 169985376248
+                )
+
+            [5] => Array
+                (
+                    [name] => monto_documento
+                    [value] => 0
+                )
+
+            [6] => Array
+                (
+                    [name] => expide
+                    [value] => Pruebas
+                )
+
+            [7] => Array
+                (
+                    [name] => observaciones
+                    [value] => Estas son unas pruebas
+                )
+
+        )
+
+    [tabla] => libros_ingresos_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-20 12:56:45 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_recibe_documento
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_expide_documento
+                    [value] => 2020-10-19
+                )
+
+            [3] => Array
+                (
+                    [name] => no_documento
+                    [value] => w404159
+                )
+
+            [4] => Array
+                (
+                    [name] => referencia
+                    [value] => 169985376248
+                )
+
+            [5] => Array
+                (
+                    [name] => monto_documento
+                    [value] => 105
+                )
+
+            [6] => Array
+                (
+                    [name] => expide
+                    [value] => Pruebas
+                )
+
+            [7] => Array
+                (
+                    [name] => observaciones
+                    [value] => Estas son unas pruebas
+                )
+
+        )
+
+    [tabla] => libros_ingresos_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-20 12:56:57 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_recibe_documento
+                    [value] => 2020-10-20
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_expide_documento
+                    [value] => 2020-10-19
+                )
+
+            [3] => Array
+                (
+                    [name] => no_documento
+                    [value] => w404159
+                )
+
+            [4] => Array
+                (
+                    [name] => referencia
+                    [value] => 169985376248
+                )
+
+            [5] => Array
+                (
+                    [name] => monto_documento
+                    [value] => 105
+                )
+
+            [6] => Array
+                (
+                    [name] => expide
+                    [value] => Pruebas
+                )
+
+            [7] => Array
+                (
+                    [name] => observaciones
+                    [value] => Estas son unas pruebas
+                )
+
+        )
+
+    [tabla] => libros_ingresos_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-20 12:57:00 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-10-20 13:07:32 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/20	
+Array
+(
+)
+2020-10-20 13:07:50 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-20 13:17:13 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

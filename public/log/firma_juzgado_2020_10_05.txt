@@ -1,0 +1,69 @@
+2020-10-05 17:00:34 [882] : INIC  -  Juzgado: 100PIC Usuario: JC100J Acuerdo: 2/2020-2 id_juicio: 1599531678 id_acuerdo: 1601053134 tipo_firma_firel: sello_sigj	
+2020-10-05 17:00:34 [882] : DEBUG -  Se consulta el flujo	
+2020-10-05 17:00:34 [882] : DEBUG -  Se pone el candado de firmado.	
+2020-10-05 17:00:34 [882] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 4059	
+2020-10-05 17:00:34 [882] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 4059	
+2020-10-05 17:00:34 [882] : DEBUG -  Intenta firmar FIREL	
+2020-10-05 17:00:34 [882] : DEBUG -  Finaliza firmar FIREL	
+2020-10-05 17:00:34 [882] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-10-05 17:00:34 [882] : DEBUG -  Se quita el candado de firmado.	
+2020-10-05 17:00:34 [882] : DEBUG -  Finalización de la firma.	
+2020-10-05 17:00:34 [882] : FIN   -  	
+2020-10-05 17:01:05 [138] : INIC  -  Juzgado: 100PIC Usuario: JC100SB Acuerdo: 2/2020-2 id_juicio: 1599531678 id_acuerdo: 1601053134 tipo_firma_firel: sello_sigj	
+2020-10-05 17:01:05 [138] : DEBUG -  Se consulta el flujo	
+2020-10-05 17:01:05 [138] : DEBUG -  Se pone el candado de firmado.	
+2020-10-05 17:01:05 [138] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 4059	
+2020-10-05 17:01:05 [138] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 4059	
+2020-10-05 17:01:06 [138] : DEBUG -  Intenta firmar FIREL	
+2020-10-05 17:01:06 [138] : DEBUG -  Finaliza firmar FIREL	
+2020-10-05 17:01:06 [138] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-10-05 17:01:06 [138] : DEBUG -  docuemntoPDF: /var/www/html/sicor_extendido_80/storage/app/temporales/por_firmar_4059.pdf	
+2020-10-05 17:01:06 [138] : DEBUG -  url_firma: /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_138_100PIC_1601053134.pdf	
+2020-10-05 17:01:06 [138] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 2/2020-2 |  JC100SB | 2020-10-05 05:01:06 |  JC100J | 2020-10-05 05:00:34 | FP: 2020-10-07 | NAS: 5100-0109-4960-2383-426 -- SIGJ / TSJCDMX --	
+2020-10-05 17:01:09 [138] : DEBUG -  Segurn sello sigj {"status":"100","response":{"id_flujo_participante":577,"finalizacion_flujo":"si","fecha_a_publicar":"2020-10-07","tipo_firma_finalizacion":"firel"},"lista_firma":{"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_138_100PIC_1601053134.pdf\" \"_138_100PIC_1601053134\"","return":"0","return_error":"OK Error 31 convirtitiendo sello","file":"0"}}	
+2020-10-05 17:01:09 [138] : DEBUG -  Finaliza sello sigj 0	
+2020-10-05 17:01:09 [138] : DEBUG -  Segundo intento sello 0	
+2020-10-05 17:01:10 [138] : DEBUG -  Segurn sello sigj {"status":"100","response":{"id_flujo_participante":577,"finalizacion_flujo":"si","fecha_a_publicar":"2020-10-07","tipo_firma_finalizacion":"firel"},"lista_firma":{"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_138_100PIC_1601053134.pdf\" \"_138_100PIC_1601053134\"","return":"0","return_error":"OK Error 31 convirtitiendo sello","file":"0"}}	
+2020-10-05 17:01:10 [138] : DEBUG -  Finaliza sello sigj 0	
+2020-10-05 17:02:08 [455] : INIC  -  Juzgado: 100PIC Usuario: JC100SB Acuerdo: 10/2020-2 id_juicio: 1600114830 id_acuerdo: 1601053338 tipo_firma_firel: sello_sigj	
+2020-10-05 17:02:08 [455] : DEBUG -  Se consulta el flujo	
+2020-10-05 17:02:08 [455] : DEBUG -  Se pone el candado de firmado.	
+2020-10-05 17:02:09 [455] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 4061	
+2020-10-05 17:02:09 [455] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 4061	
+2020-10-05 17:02:09 [455] : DEBUG -  Intenta firmar FIREL	
+2020-10-05 17:02:09 [455] : DEBUG -  Finaliza firmar FIREL	
+2020-10-05 17:02:09 [455] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-10-05 17:02:09 [455] : DEBUG -  docuemntoPDF: /var/www/html/sicor_extendido_80/storage/app/temporales/por_firmar_4061.pdf	
+2020-10-05 17:02:09 [455] : DEBUG -  url_firma: /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_455_100PIC_1601053338.pdf	
+2020-10-05 17:02:09 [455] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 10/2020-2 |  JC100SB | 2020-10-05 05:02:09 |  JC100J | 2020-10-02 08:40:05 | FP: 2020-10-07 | NAS: 5100-0109-4960-3778-582 -- SIGJ / TSJCDMX --	
+2020-10-05 17:02:10 [455] : DEBUG -  Segurn sello sigj {"status":"100","response":{"id_flujo_participante":584,"finalizacion_flujo":"si","fecha_a_publicar":"2020-10-07","tipo_firma_finalizacion":"firel"},"lista_firma":{"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_455_100PIC_1601053338.pdf\" \"_455_100PIC_1601053338\"","return":"0","return_error":"OK Error 31 convirtitiendo sello","file":"0"}}	
+2020-10-05 17:02:10 [455] : DEBUG -  Finaliza sello sigj 0	
+2020-10-05 17:02:10 [455] : DEBUG -  Segundo intento sello 0	
+2020-10-05 17:02:11 [455] : DEBUG -  Segurn sello sigj {"status":"100","response":{"id_flujo_participante":584,"finalizacion_flujo":"si","fecha_a_publicar":"2020-10-07","tipo_firma_finalizacion":"firel"},"lista_firma":{"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_455_100PIC_1601053338.pdf\" \"_455_100PIC_1601053338\"","return":"0","return_error":"OK Error 31 convirtitiendo sello","file":"0"}}	
+2020-10-05 17:02:11 [455] : DEBUG -  Finaliza sello sigj 0	
+2020-10-05 17:06:22 [589] : INIC  -  Juzgado: 100PIC Usuario: JC100SB Acuerdo: 10/2020-2 id_juicio: 1600382663 id_acuerdo: 1601053486 tipo_firma_firel: sello_sigj	
+2020-10-05 17:06:22 [589] : DEBUG -  Se consulta el flujo	
+2020-10-05 17:06:22 [589] : DEBUG -  Se pone el candado de firmado.	
+2020-10-05 17:06:22 [589] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 4063	
+2020-10-05 17:06:22 [589] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 4063	
+2020-10-05 17:06:22 [589] : DEBUG -  Intenta firmar FIREL	
+2020-10-05 17:06:22 [589] : DEBUG -  Finaliza firmar FIREL	
+2020-10-05 17:06:22 [589] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-10-05 17:06:22 [589] : DEBUG -  docuemntoPDF: /var/www/html/sicor_extendido_80/storage/app/temporales/por_firmar_4063.pdf	
+2020-10-05 17:06:22 [589] : DEBUG -  url_firma: /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_589_100PIC_1601053486.pdf	
+2020-10-05 17:06:22 [589] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 10/2020-2 |  JC100SB | 2020-10-05 05:06:22 |  JC100J | 2020-10-02 08:40:03 | FP: 2020-10-07 | NAS: 5100-0109-4960-4790-754 -- SIGJ / TSJCDMX --	
+2020-10-05 17:06:23 [589] : DEBUG -  Segurn sello sigj {"status":"100","response":{"id_flujo_participante":591,"finalizacion_flujo":"si","fecha_a_publicar":"2020-10-07","tipo_firma_finalizacion":"firel"},"lista_firma":{"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_589_100PIC_1601053486.pdf\" \"_589_100PIC_1601053486\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_589_100PIC_16010534862.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_589_100PIC_16010534862.pdf","url":"\/temporales\/documento_firmado_589_100PIC_16010534862.pdf"}}	
+2020-10-05 17:06:23 [589] : DEBUG -  Finaliza sello sigj /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_589_100PIC_16010534862.pdf	
+2020-10-05 17:06:23 [589] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:4	
+2020-10-05 17:06:23 [589] : DEBUG -  Se hacen consultas fecha resolucion:2020-10-08 Fecha publicacion: 2020-10-07 número de boletin: 109 Número de firmantes: 0 $arr_num_firas: {"status":100,"response":2,"response_data":[{"flujo_sala_tipo_firma":"sello_sigj","numero":2}]}	
+2020-10-05 17:06:24 [589] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1601053486.pdf	
+2020-10-05 17:06:24 [589] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_589_100PIC_16010534862.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_589_1601053486_%04d.pdf	
+2020-10-05 17:06:24 [589] : DEBUG -  shell_burst output	
+2020-10-05 17:06:24 [589] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_589_1601053486_0004.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1601053486.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_589_1601053486_0004.pdf	
+2020-10-05 17:06:24 [589] : DEBUG -  shell_multistamp output	
+2020-10-05 17:06:24 [589] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_589_1601053486_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_589_100PIC_16010534862.pdf	
+2020-10-05 17:06:24 [589] : DEBUG -  shell_cat output	
+2020-10-05 17:06:24 [589] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-10-05 17:06:24 [589] : DEBUG -  Se quita el candado de firmado.	
+2020-10-05 17:06:24 [589] : DEBUG -  Finalización de la firma.	
+2020-10-05 17:06:24 [589] : FIN   -  	

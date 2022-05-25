@@ -1,0 +1,214 @@
+2020-10-05 11:53:45 [0] : DEBUG -  http://172.16.159.181/estadistica	
+Array
+(
+)
+2020-10-05 11:53:56 [0] : DEBUG -  http://172.16.159.181/estadistica	
+Array
+(
+)
+2020-10-05 11:54:12 [0] : DEBUG -  http://172.16.159.181/estadistica	
+Array
+(
+)
+2020-10-05 11:54:18 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-10-05 11:54:18 [0] : DEBUG -  http://172.16.159.181/estadistica	
+Array
+(
+)
+2020-10-05 11:54:31 [0] : DEBUG -  http://172.16.159.181/estadistica	
+Array
+(
+)
+2020-10-05 11:54:36 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC	
+Array
+(
+)
+2020-10-05 11:54:44 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC	
+Array
+(
+)
+2020-10-05 11:54:49 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC/1/2020	
+Array
+(
+)
+2020-10-05 11:54:55 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC/1/2020/0/1600382500	
+Array
+(
+)
+2020-10-05 11:55:00 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC/1/2020/0/1595825526	
+Array
+(
+)
+2020-10-05 11:55:14 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:22:25 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:33:43 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:41:49 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:43:23 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:43:57 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:45:56 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:46:54 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:48:23 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:51:15 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:51:55 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:54:31 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 13:55:30 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 14:00:49 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 14:37:04 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC/1/2020/0/1595825526	
+Array
+(
+)
+2020-10-05 14:37:19 [0] : DEBUG -  http://172.16.159.181/estadistica	
+Array
+(
+)
+2020-10-05 14:37:25 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC	
+Array
+(
+)
+2020-10-05 14:37:31 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC	
+Array
+(
+)
+2020-10-05 14:37:46 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC/1/2020	
+Array
+(
+)
+2020-10-05 14:37:52 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC/1/2020/0/1599705214	
+Array
+(
+)
+2020-10-05 14:37:57 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC/1/2020/0/1595825526	
+Array
+(
+)
+2020-10-05 14:38:13 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => promcion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 15:02:12 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => promcion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 15:07:08 [0] : DEBUG -  http://172.16.159.181/estadistica/PIC/100PIC/1/2020/0/1595825526	
+Array
+(
+)
+2020-10-05 15:07:15 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => promocion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 15:07:44 [0] : DEBUG -  http://172.16.159.181/estadistica/generar_caratula	
+Array
+(
+    [juzgado] => Centésimo de lo Civil
+    [arr_acuerdo] => promocion_PIC_100PIC_1_2020_0_1595825526_1601015955_1/2020-24_2020-09-28 00:00:00-*-
+    [arr_promocion] => 
+)
+2020-10-05 15:12:38 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-10-05 15:12:47 [0] : DEBUG -  http://172.16.159.181/estadistica	
+Array
+(
+)
+2020-10-05 16:58:41 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

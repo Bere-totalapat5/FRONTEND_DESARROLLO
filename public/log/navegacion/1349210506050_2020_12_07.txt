@@ -1,0 +1,120 @@
+2020-12-07 10:53:01 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-07 10:53:04 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-07 10:53:06 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1598327308	
+Array
+(
+)
+2020-12-07 10:53:09 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1598327308
+)
+2020-12-07 10:53:23 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1598327308
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 192
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 7
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-12-07
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 0
+    [bandera_notificacion] => 1
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpxrjp6e
+            [fileName:SplFileInfo:private] => phpxrjp6e
+        )
+
+)
+2020-12-07 10:53:36 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1598327308	
+Array
+(
+)
+2020-12-07 10:53:39 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1598327308
+)
+2020-12-07 10:53:43 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-07 10:53:47 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1607360016
+    [id_juicio] => 1598327308
+    [codigo_organo] => 100PIF
+)
+2020-12-07 10:53:48 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-07 10:54:04 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1607360016
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIF
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598327308
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php0AhRmc
+            [fileName:SplFileInfo:private] => php0AhRmc
+        )
+
+)
+2020-12-07 10:57:06 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

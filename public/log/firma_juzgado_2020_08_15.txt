@@ -1,0 +1,60 @@
+2020-08-15 17:35:12 [605] : INIC  -  Juzgado: 1JFO Usuario: EGARCIAF Acuerdo: 2/2020-1 id_juicio: 1596853751 id_acuerdo: 1597530654	
+2020-08-15 17:35:12 [605] : DEBUG -  Se consulta el flujo	
+2020-08-15 17:35:12 [605] : DEBUG -  Se pone el candado de firmado.	
+2020-08-15 17:35:13 [605] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3014	
+2020-08-15 17:35:13 [605] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3014	
+2020-08-15 17:35:13 [605] : DEBUG -  Intenta firmar FIREL	
+2020-08-15 17:35:20 [605] : DEBUG -  Finaliza firmar FIREL	
+2020-08-15 17:35:21 [605] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-15 17:35:21 [605] : DEBUG -  Se quita el candado de firmado.	
+2020-08-15 17:35:21 [605] : DEBUG -  Finalización de la firma.	
+2020-08-15 17:35:21 [605] : FIN   -  	
+2020-08-15 17:35:27 [120] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-1 id_juicio: 1596853751 id_acuerdo: 1597530654	
+2020-08-15 17:35:27 [120] : ERROR -  El archivo PFX es obligatorio.	
+2020-08-15 17:35:27 [120] : FIN   -  	
+2020-08-15 17:35:38 [929] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-1 id_juicio: 1596853751 id_acuerdo: 1597530654	
+2020-08-15 17:35:38 [929] : DEBUG -  Se consulta el flujo	
+2020-08-15 17:35:39 [929] : DEBUG -  Se pone el candado de firmado.	
+2020-08-15 17:35:39 [929] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3015	
+2020-08-15 17:35:39 [929] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3015	
+2020-08-15 17:35:39 [929] : DEBUG -  Intenta firmar FIREL	
+2020-08-15 17:35:42 [929] : DEBUG -  Finaliza firmar FIREL	
+2020-08-15 17:35:43 [929] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-15 17:35:43 [929] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3016	
+2020-08-15 17:35:44 [929] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Familiar de Proceso Oral | Clave: 1JFO | Documento: 2/2020-1 | Firma: EGARCIAF | 2020-08-15 05:35:21 | Firma: JFO1J | 2020-08-15 05:35:42 | Fecha Publicación: 2020-08-18 00:00:00 | NAS: 5100-0109-2551-2142-706 -- SIGJ / TSJCDMX --	
+2020-08-15 17:35:44 [929] : DEBUG -  Finaliza sello sigj	
+2020-08-15 17:35:45 [929] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-15 17:35:45 [929] : DEBUG -  DIV.EXPRES - Se decta el servicio de divorcio expres Catalogo: 622 - Tipo: 	
+2020-08-15 17:35:46 [929] : DEBUG -  DIV.EXPRES - Descarga ultimo documento firmado ultima_version: 3017	
+2020-08-15 17:35:46 [929] : DEBUG -  DIV.EXPRES - configuración correos partes para envios	
+2020-08-15 17:35:46 [929] : DEBUG -  DIV.EXPRES - se mandan los correos al cron	
+2020-08-15 17:35:47 [929] : DEBUG -  DIV.EXPRES - finalizacion	
+2020-08-15 17:35:47 [929] : DEBUG -  Se quita el candado de firmado.	
+2020-08-15 17:35:47 [929] : DEBUG -  Finalización de la firma.	
+2020-08-15 17:35:47 [929] : FIN   -  	
+2020-08-15 19:13:08 [436] : INIC  -  Juzgado: 1PIC Usuario: JC1J Acuerdo: 1/2020-29 id_juicio: 1582151035139 id_acuerdo: 1597536543	
+2020-08-15 19:13:08 [436] : DEBUG -  Se consulta el flujo	
+2020-08-15 19:13:09 [436] : DEBUG -  Se pone el candado de firmado.	
+2020-08-15 19:13:09 [436] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3019	
+2020-08-15 19:13:09 [436] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3019	
+2020-08-15 19:13:10 [436] : DEBUG -  Intenta firmar FIREL	
+2020-08-15 19:13:13 [436] : DEBUG -  Finaliza firmar FIREL	
+2020-08-15 19:13:13 [436] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-15 19:13:13 [436] : DEBUG -  Se quita el candado de firmado.	
+2020-08-15 19:13:14 [436] : DEBUG -  Finalización de la firma.	
+2020-08-15 19:13:14 [436] : FIN   -  	
+2020-08-15 19:14:06 [689] : INIC  -  Juzgado: 1PIC Usuario: JC1SA Acuerdo: 1/2020-29 id_juicio: 1582151035139 id_acuerdo: 1597536543	
+2020-08-15 19:14:06 [689] : DEBUG -  Se consulta el flujo	
+2020-08-15 19:14:07 [689] : DEBUG -  Se pone el candado de firmado.	
+2020-08-15 19:14:07 [689] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3020	
+2020-08-15 19:14:07 [689] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3020	
+2020-08-15 19:14:08 [689] : DEBUG -  Intenta firmar FIREL	
+2020-08-15 19:14:10 [689] : DEBUG -  Finaliza firmar FIREL	
+2020-08-15 19:14:11 [689] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-15 19:14:11 [689] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3021	
+2020-08-15 19:14:12 [689] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Civil | Clave: 1PIC | Documento: 1/2020-29 | Firma: JC1SA | 2020-08-15 07:14:10 | Firma: JC1J | 2020-08-15 07:13:13 | Fecha Publicación: 2020-08-18 00:00:00 | NAS: 5100-0109-2555-2417-577 -- SIGJ / TSJCDMX --	
+2020-08-15 19:14:13 [689] : DEBUG -  Finaliza sello sigj	
+2020-08-15 19:14:13 [689] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-15 19:14:14 [689] : DEBUG -  Se quita el candado de firmado.	
+2020-08-15 19:14:14 [689] : DEBUG -  Finalización de la firma.	
+2020-08-15 19:14:14 [689] : FIN   -  	

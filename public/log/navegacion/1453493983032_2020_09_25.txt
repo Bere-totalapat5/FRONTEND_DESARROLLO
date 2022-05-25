@@ -1,0 +1,1074 @@
+2020-09-25 11:25:36 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:25:38 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:26:02 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 11:26:57 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-09-25 11:26:58 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 11:27:55 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-09-25 11:28:10 [0] : DEBUG -  http://155.94.139.2/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-09-25 11:28:21 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 11:28:23 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-09-25 11:28:26 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-09-25 11:28:28 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-09-25 11:28:28 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-09-25 11:28:50 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:28:52 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:29:00 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599531678	
+Array
+(
+)
+2020-09-25 11:33:54 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 11:34:04 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-09-25 11:34:17 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:34:19 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:34:33 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600114830	
+Array
+(
+)
+2020-09-25 11:34:46 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:34:48 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:35:33 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600114830	
+Array
+(
+)
+2020-09-25 11:35:34 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600114830	
+Array
+(
+)
+2020-09-25 11:38:25 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1600114830
+    [juicio] => 10/2020
+    [expediente] => 10
+    [id_catalogo_juicios] => 43
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 1
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => PRUEBA
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php71YGId
+            [fileName:SplFileInfo:private] => php71YGId
+        )
+
+)
+2020-09-25 11:38:28 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600114830	
+Array
+(
+)
+2020-09-25 11:40:18 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:40:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:40:29 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599531678	
+Array
+(
+)
+2020-09-25 11:41:23 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1599531678
+    [juicio] => 2/2020
+    [expediente] => 2
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 1
+    [tipo_acuerdo] => sentencia definitiva
+    [subtipo_acuerdo] => Condenatoria
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => PRUEBA
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpZQCX2a
+            [fileName:SplFileInfo:private] => phpZQCX2a
+        )
+
+)
+2020-09-25 11:41:26 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599531678	
+Array
+(
+)
+2020-09-25 11:42:34 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1601052085
+    [parte] => 1
+    [permiso] => 1
+)
+2020-09-25 11:42:36 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1601052085
+    [parte] => 1
+    [permiso] => 0
+)
+2020-09-25 11:42:44 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:42:46 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:42:53 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382663	
+Array
+(
+)
+2020-09-25 11:43:00 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:43:03 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:43:15 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382663	
+Array
+(
+)
+2020-09-25 11:43:16 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382663	
+Array
+(
+)
+2020-09-25 11:44:02 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1600382663
+    [juicio] => 10/2020
+    [expediente] => 10
+    [id_catalogo_juicios] => 43
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 1
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Prevención
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => PRUEBA
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpvc911z
+            [fileName:SplFileInfo:private] => phpvc911z
+        )
+
+)
+2020-09-25 11:44:05 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382663	
+Array
+(
+)
+2020-09-25 11:45:21 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:45:23 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:45:30 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599596507	
+Array
+(
+)
+2020-09-25 11:46:04 [0] : DEBUG -  http://155.94.139.2/consultaPartesNotificacion	
+Array
+(
+    [id] => 1599596507
+    [guardar] => 1
+)
+2020-09-25 11:47:00 [0] : DEBUG -  http://155.94.139.2/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 19
+                            [nombres] => JUAN
+                            [apellido_paterno] => PEREZ
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => EJEMPLO@GMAIL.COM
+                            [telefono] => -5558535526
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1599596507
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 100
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 11:47:12 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1599596507
+    [juicio] => 100/2020
+    [expediente] => 100
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 2
+    [tipo_acuerdo] => sentencia definitiva
+    [subtipo_acuerdo] => Absolutoria
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => AUDIENCIA
+    [visibilidad] => personal
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 1
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpX7pKXY
+            [fileName:SplFileInfo:private] => phpX7pKXY
+        )
+
+)
+2020-09-25 11:47:14 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599596507	
+Array
+(
+)
+2020-09-25 11:48:26 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:48:29 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:48:33 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1598509633	
+Array
+(
+)
+2020-09-25 11:49:19 [0] : DEBUG -  http://155.94.139.2/consultaPartesNotificacion	
+Array
+(
+    [id] => 1598509633
+    [guardar] => 1
+)
+2020-09-25 11:50:24 [0] : DEBUG -  http://155.94.139.2/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 9
+                            [nombres] => ROCIO ALEJANDRA
+                            [apellido_paterno] => MEJIA
+                            [apellido_materno] => ORTEGA
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -PRUEBA@HOTMAIL.COM
+                            [telefono] => -5513145689
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 10
+                            [nombres] => JUAN CARLOS
+                            [apellido_paterno] => HERRERA
+                            [apellido_materno] => VENTURA
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -PRUEBA@HOTMAIL.COM
+                            [telefono] => -5589634598
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1598509633
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 606
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 11:50:37 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1598509633
+    [juicio] => 606/2020
+    [expediente] => 606
+    [id_catalogo_juicios] => 622
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 1
+    [tipo_acuerdo] => sentencia definitiva
+    [subtipo_acuerdo] => Condenatoria
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => PRUEBA
+    [visibilidad] => personal
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 1
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpjHy8EV
+            [fileName:SplFileInfo:private] => phpjHy8EV
+        )
+
+)
+2020-09-25 11:50:40 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1598509633	
+Array
+(
+)
+2020-09-25 11:51:26 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1601052639
+    [parte] => 1
+    [permiso] => 0
+)
+2020-09-25 11:51:30 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1601052639
+    [parte] => 2
+    [permiso] => 0
+)
+2020-09-25 11:51:40 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:51:43 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:55:01 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 11:55:07 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:55:10 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:55:25 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 315
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:57:06 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:57:18 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 88
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:57:27 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:57:30 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:57:43 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:57:48 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 11:57:50 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 11:57:58 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599531678	
+Array
+(
+)
+2020-09-25 11:58:53 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1599531678
+    [juicio] => 2/2020
+    [expediente] => 2
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 2
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Prevención
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => PRUEBA
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpPJumGo
+            [fileName:SplFileInfo:private] => phpPJumGo
+        )
+
+)
+2020-09-25 11:58:55 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599531678	
+Array
+(
+)
+2020-09-25 12:01:19 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 12:01:22 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 12:01:39 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600114830	
+Array
+(
+)
+2020-09-25 12:02:16 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1600114830
+    [juicio] => 10/2020
+    [expediente] => 10
+    [id_catalogo_juicios] => 43
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 2
+    [tipo_acuerdo] => sentencia definitiva
+    [subtipo_acuerdo] => Absolutoria
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => PRUEBA
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpNolPZ1
+            [fileName:SplFileInfo:private] => phpNolPZ1
+        )
+
+)
+2020-09-25 12:02:18 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600114830	
+Array
+(
+)
+2020-09-25 12:03:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 12:04:02 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 12:04:11 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382663	
+Array
+(
+)
+2020-09-25 12:04:44 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1600382663
+    [juicio] => 10/2020
+    [expediente] => 10
+    [id_catalogo_juicios] => 43
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 2
+    [tipo_acuerdo] => audiencia
+    [subtipo_acuerdo] => De Juicio
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => AUDIENCIA
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpf5MgW0
+            [fileName:SplFileInfo:private] => phpf5MgW0
+        )
+
+)
+2020-09-25 12:04:47 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382663	
+Array
+(
+)
+2020-09-25 12:05:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 12:06:01 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 12:06:08 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599596507	
+Array
+(
+)
+2020-09-25 12:06:38 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1599596507
+    [juicio] => 100/2020
+    [expediente] => 100
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 3
+    [tipo_acuerdo] => sentencia definitiva
+    [subtipo_acuerdo] => Absolutoria
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => PRUEBA
+    [visibilidad] => secreto
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phppQVoGp
+            [fileName:SplFileInfo:private] => phppQVoGp
+        )
+
+)
+2020-09-25 12:06:41 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599596507	
+Array
+(
+)
+2020-09-25 12:07:11 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1601053600
+    [parte] => 1
+    [permiso] => 0
+)
+2020-09-25 12:07:16 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1601052433
+    [parte] => 2
+    [permiso] => 0
+)
+2020-09-25 12:07:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 12:07:22 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 12:12:05 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1598509633	
+Array
+(
+)
+2020-09-25 12:12:33 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1598509633
+    [juicio] => 606/2020
+    [expediente] => 606
+    [id_catalogo_juicios] => 622
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 2
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Prevención
+    [especial] => -
+    [fecha] => 2020-09-25
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => PRUEBA
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847826
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Respesta a promocion mht.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => multipart/related
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phphlGJOL
+            [fileName:SplFileInfo:private] => phphlGJOL
+        )
+
+)
+2020-09-25 12:12:36 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1598509633	
+Array
+(
+)
+2020-09-25 12:16:47 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-09-25 12:23:04 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-09-25 12:23:23 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-09-25 12:45:11 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-25 12:45:14 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 12:45:17 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-25 12:45:26 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1601055855
+    [ponencia] => 100PIC
+    [id_documento] => 4070
+    [tipo_documento] => pdf
+)
+2020-09-25 12:45:36 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1601055855
+    [id_juicio] => 1601055550
+    [codigo_organo] => 100PIC
+)
+2020-09-25 12:45:52 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601055855
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4070
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1601055550
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-09-25 12:46:01 [0] : DEBUG -  http://172.16.159.181/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-09-25 12:46:05 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1601055855
+    [ponencia] => 100PIC
+    [id_documento] => 4071
+    [tipo_documento] => pdf
+)
+2020-09-25 13:17:54 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-25 13:17:59 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

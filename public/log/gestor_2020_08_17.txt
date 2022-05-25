@@ -1,0 +1,32 @@
+2020-08-17 08:34:19 Array
+(
+    [id_documento] => 3252808006.0
+    [id_expediente_opc] => 1239
+    [idGlobal] => 580
+    [url] => http://contenttsjws.net:8001/volumen2/Estructuras/TSJ/OPC//1/5/24/25/1997/1998/panasonic_OPC.pdf
+)
+	
+2020-08-17 08:42:19 Array
+(
+    [id_documento] => 3252808006.0
+    [id_expediente_opc] => 1239
+    [idGlobal] => 581
+    [url] => http://contenttsjws.net:8001/volumen2/Estructuras/TSJ/OPC//1/5/24/25/1997/1998/panasonic_OPC_0.pdf
+)
+	
+2020-08-17 18:05:02 Array
+(
+    [id_documento] => 3257270.0
+    [id_expediente_opc] => 4632716
+    [idGlobal] => 7211
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/421/2150/2151/24927/24928/Gestor1.pdf
+)
+	
+2020-08-17 18:05:02 Array
+(
+    [id_documento] => 3257271.0
+    [id_expediente_opc] => 4632717
+    [idGlobal] => 7212
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/1792/14371/14372/24934/24935/Gestor2.pdf
+)
+	

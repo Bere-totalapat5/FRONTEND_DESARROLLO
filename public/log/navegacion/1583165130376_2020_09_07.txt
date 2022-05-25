@@ -1,0 +1,44 @@
+2020-09-07 20:58:42 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 20:58:47 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 20:58:52 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-07 20:59:04 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-07 20:59:07 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-07 20:59:12 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

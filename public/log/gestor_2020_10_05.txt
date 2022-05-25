@@ -1,0 +1,410 @@
+2020-10-05 11:30:12 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-10-05 11:30:21 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_1PIC_1_2020_0_1578503871569_1578934184010_1/2020-1_2020-01-14 00:00:00
+)
+	
+2020-10-05 11:37:43 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_1PIC_1_2020_0_1578503871569_1578934184010_1/2020-1_2020-01-14 00:00:00
+)
+	
+2020-10-05 11:41:20 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_1PIC_1_2020_0_1578503871569_1578934184010_1/2020-1_2020-01-14 00:00:00
+)
+	
+2020-10-05 11:52:17 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_1PIC_1_2020_0_1578503871569_1578934184010_1/2020-1_2020-01-14 00:00:00
+)
+	
+2020-10-05 11:53:11 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_1PIC_1_2020_0_1578503871569_1578934184010_1/2020-1_2020-01-14 00:00:00
+)
+	
+2020-10-05 11:55:34 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 11:57:31 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 11:57:44 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 11:58:23 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 11:58:30 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 11:59:03 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 11:59:44 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 11:59:52 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 12:13:20 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 12:13:44 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 12:13:53 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 12:14:05 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 12:14:25 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 12:14:31 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 12:24:44 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 1
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 12:32:30 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 13:12:43 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 13:13:34 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 13:14:51 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 13:15:57 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 13:22:42 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00
+)
+	
+2020-10-05 13:46:45 Array
+(
+    [idDocumento] => 1601422783830
+    [id_expediente_opc] => 1601422783830
+    [id_documento] => 1601422783830
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00
+)
+	
+2020-10-05 14:01:12 Array
+(
+    [idDocumento] => 1601924450475
+    [id_expediente_opc] => 1601924450475
+    [id_documento] => 1601924450475
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00
+)
+	
+2020-10-05 14:05:10 Array
+(
+    [idDocumento] => 1601924450475
+    [id_expediente_opc] => 1601924450475
+    [id_documento] => 1601924450475
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00
+)
+	
+2020-10-05 14:18:11 Array
+(
+    [idDocumento] => 1601924450475
+    [id_expediente_opc] => 1601924450475
+    [id_documento] => 1601924450475
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => acuerdo_PIC_100PIC_1_2020_0_1595825526_1600401425_1/2020-10_2020-09-22 00:00:00
+)
+	
+2020-10-05 14:39:27 Array
+(
+    [idDocumento] => 1601926694390
+    [id_expediente_opc] => 1601926694390
+    [id_documento] => 1601926694390
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promcion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 14:40:48 Array
+(
+    [idDocumento] => 1601926694390
+    [id_expediente_opc] => 1601926694390
+    [id_documento] => 1601926694390
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promcion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 14:41:12 Array
+(
+    [idDocumento] => 1601926694390
+    [id_expediente_opc] => 1601926694390
+    [id_documento] => 1601926694390
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promcion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 14:41:41 Array
+(
+    [idDocumento] => 1601926694390
+    [id_expediente_opc] => 1601926694390
+    [id_documento] => 1601926694390
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promcion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 14:41:47 Array
+(
+    [idDocumento] => 1601926694390
+    [id_expediente_opc] => 1601926694390
+    [id_documento] => 1601926694390
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promcion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 14:42:12 Array
+(
+    [idDocumento] => 1601926694390
+    [id_expediente_opc] => 1601926694390
+    [id_documento] => 1601926694390
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promcion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 14:44:08 Array
+(
+    [idDocumento] => 1601926694390
+    [id_expediente_opc] => 1601926694390
+    [id_documento] => 1601926694390
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promocion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 14:44:17 Array
+(
+    [idDocumento] => 1601926694390
+    [id_expediente_opc] => 1601926694390
+    [id_documento] => 1601926694390
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promocion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 15:02:58 Array
+(
+    [idDocumento] => 1601928132362
+    [id_expediente_opc] => 1601928132362
+    [id_documento] => 1601928132362
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promocion_PIC_100PIC_1_2020_0_1595825526_1597685587_1/2020-3_2020-08-18 00:00:00
+)
+	
+2020-10-05 15:08:28 Array
+(
+    [idDocumento] => 1601928465627
+    [id_expediente_opc] => 1601928465627
+    [id_documento] => 1601928465627
+    [idGlobal] => 607
+    [url] => 1
+    [dato_extra] => promocion_PIC_100PIC_1_2020_0_1595825526_1601015955_1/2020-24_2020-09-28 00:00:00
+)
+	

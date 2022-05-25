@@ -1,0 +1,4427 @@
+2020-08-27 00:00:05 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:02:14 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 00:02:19 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 00:02:26 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:03:19 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7316
+)
+2020-08-27 00:03:22 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7314
+)
+2020-08-27 00:03:44 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:03:58 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7312
+)
+2020-08-27 00:04:26 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:04:34 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7312
+)
+2020-08-27 00:04:38 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7316
+)
+2020-08-27 00:07:10 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 00:07:12 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 00:07:18 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 00:07:19 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:07:37 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 1
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 00:07
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => ejemplo_caratula.pdf
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/pdf
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php0ZKWRx
+            [fileName:SplFileInfo:private] => php0ZKWRx
+        )
+
+)
+2020-08-27 00:07:39 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 00:07:44 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7324
+)
+2020-08-27 00:07:51 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:08:08 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 00:08:14 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:12:23 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:13:44 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:13:55 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 00:14:04 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => undefined
+)
+2020-08-27 00:14:06 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => undefined
+)
+2020-08-27 00:14:09 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7312
+)
+2020-08-27 00:14:12 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7316
+)
+2020-08-27 00:14:17 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 00:14:22 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 00:14:28 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:14:31 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:16:22 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 00:16:48 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 00:16:50 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:17:05 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 00:17:11 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 0
+)
+2020-08-27 00:17:21 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 00:17:24 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:17:29 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598504388886|6|1|1.0|C|C100|2020|1|Ordinario|Centésimo de lo Civil|2020-08-26 23:59:48|Salvador  Ríos  García , Pepe  Pecas  |Lalo  Landa  |1|1598504388886|sigj_promocion
+    [id_promocion] => 1598504388886
+)
+2020-08-27 00:17:39 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598499917079|6|1|1.0|C|C100|2020|1|Ordinario|Centésimo de lo Civil|2020-08-26 22:45:16|Salvador  Ríos  García , Pepe  Pecas  |Lalo  Landa  |1|1598499917079|sigj_promocion
+    [id_promocion] => 1598499917079
+)
+2020-08-27 00:17:58 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:17:58 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 00:17
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 00:18:19 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 00:18:20 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:20:04 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 00:20:06 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:20:20 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598505479829|6|1|1.0|C|C100|2020|1|Ordinario|Centésimo de lo Civil|2020-08-27 00:17:59|Salvador  Ríos  García , Pepe  Pecas  |Lalo  Landa  |1|1598505479829|sigj_promocion
+    [id_promocion] => 1598505479829
+)
+2020-08-27 00:21:06 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:21:14 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:21:21 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 00:21:34 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7316
+)
+2020-08-27 00:21:43 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7312
+)
+2020-08-27 00:26:57 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:32:36 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 00:32:42 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 00:32:44 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:32:51 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:32:51 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 00:32
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 00:33:30 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 00:33:56 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 00:36:10 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-08-27 00:36:15 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1453493983030
+)
+2020-08-27 00:36:24 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-08-27 00:36:31 [0] : DEBUG -  http://216.144.236.27/agendas/citas	
+Array
+(
+)
+2020-08-27 00:36:38 [0] : DEBUG -  http://216.144.236.27/agendas/citas_json	
+Array
+(
+    [fecha] => 2020-08-28
+)
+2020-08-27 00:42:32 [0] : DEBUG -  http://216.144.236.27/agendas/citas	
+Array
+(
+)
+2020-08-27 00:43:57 [0] : DEBUG -  http://216.144.236.27/agendas/citas	
+Array
+(
+)
+2020-08-27 00:44:34 [0] : DEBUG -  http://216.144.236.27/agendas/citas	
+Array
+(
+)
+2020-08-27 00:45:33 [0] : DEBUG -  http://216.144.236.27/agendas/citas	
+Array
+(
+)
+2020-08-27 00:45:43 [0] : DEBUG -  http://216.144.236.27/agendas/citas_json	
+Array
+(
+    [fecha] => 2020-08-31
+)
+2020-08-27 00:45:47 [0] : DEBUG -  http://216.144.236.27/agendas/citas_json	
+Array
+(
+    [fecha] => 2020-08-26
+)
+2020-08-27 00:46:08 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 00:46:14 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 00:46:15 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:46:24 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 00:46:24 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 00:46
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 00:47:18 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:47:26 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 00:47:54 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 00:48:23 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 00:48:33 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7316
+)
+2020-08-27 00:49:42 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 00:49:48 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:50:49 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 00:50:53 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 00:50:58 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 00:51:07 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 00:51:14 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:52:50 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 00:52:58 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:53:08 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 00:53:52 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 00:53:59 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:54:33 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:54:40 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:54:56 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:56:07 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:56:16 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 00:56:29 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:56:44 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:56:56 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 00:57:10 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 01:01:10 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 01:01:25 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 01:01:39 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598507567189
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 01:01:46 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598507567189
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 01:01:47 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598507567189
+    [tipo_juicio_id] => 302
+)
+2020-08-27 01:01:47 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:01:54 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 01:01:59 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 01:02:38 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 01:02:51 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598508155203
+    [expediente] => 605/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 01:02:53 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598508155203
+    [tipo_juicio_id] => 302
+)
+2020-08-27 01:02:53 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:03:02 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:03:09 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:03:22 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:03:27 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:03:33 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:04:03 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 605
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1598508155203
+)
+2020-08-27 01:04:11 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 605
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1598508155203
+)
+2020-08-27 01:04:16 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 605
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 01:04:45 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:04:56 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598508245	
+Array
+(
+)
+2020-08-27 01:04:59 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:05:02 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:05:04 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:05:07 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:05:43 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:05:53 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:05:59 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1595825526	
+Array
+(
+)
+2020-08-27 01:06:02 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:06:05 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:06:07 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-08-27 01:06:10 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-08-27 01:13:27 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:13:37 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598508245	
+Array
+(
+)
+2020-08-27 01:13:44 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598508245	
+Array
+(
+)
+2020-08-27 01:13:48 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:13:51 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:13:53 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:13:56 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:14:07 [0] : DEBUG -  http://216.144.236.27/juicio/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1598508245
+            [expediente] => 605
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-08-27 01:14:11 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:15:33 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 01:15:40 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598508932130
+    [expediente] => 606/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 01:15:41 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598508932130
+    [tipo_juicio_id] => 302
+)
+2020-08-27 01:15:41 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:15:49 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 606
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 01:15:56 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:16:01 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:16:35 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:16:44 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:16:46 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-27 01:16:46 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:16:47 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 01:17:10 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 01:17:17 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 01:17:23 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598508932130
+    [expediente] => 606/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 01:17:24 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598508932130
+    [tipo_juicio_id] => 302
+)
+2020-08-27 01:17:24 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:17:31 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 606
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 01:17:37 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:17:43 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:17:47 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:17:51 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:18:09 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 606
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1598508932130
+)
+2020-08-27 01:21:20 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:24:29 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:25:23 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 01:26:10 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 01:26:15 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 01:26:27 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598508932130
+    [expediente] => 606/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 01:26:29 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598508932130
+    [tipo_juicio_id] => 302
+)
+2020-08-27 01:26:29 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:26:36 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 606
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 01:26:42 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:26:48 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:26:53 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:26:56 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:27:10 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 606
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1598508932130
+)
+2020-08-27 01:27:15 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:27:26 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:27:43 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509633	
+Array
+(
+)
+2020-08-27 01:27:46 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:27:49 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:27:51 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:27:54 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:28:00 [0] : DEBUG -  http://216.144.236.27/juicio/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1598509633
+            [expediente] => 606
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 1
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 10
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-08-27 01:28:05 [0] : DEBUG -  http://216.144.236.27/juicio/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1598509633
+            [expediente] => 606
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 1
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 10
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 9
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 10
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-08-27 01:28:37 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-08-27 01:29:01 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-08-27 01:29:47 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-08-27 01:30:34 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 01:30:38 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 01:31:16 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 01:31:24 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598509874654
+    [expediente] => 607/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 01:31:26 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598509874654
+    [tipo_juicio_id] => 302
+)
+2020-08-27 01:31:26 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:31:34 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 607
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 01:31:41 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:31:45 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:31:50 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:31:54 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:32:08 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 607
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1598509874654
+)
+2020-08-27 01:32:12 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:32:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-08-27 01:32:35 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-08-27 01:33:29 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:33:37 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:33:41 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:33:43 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:33:46 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:33:49 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:35:35 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:35:39 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:35:42 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:35:45 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:35:47 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:37:42 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:37:46 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:37:48 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:37:51 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:37:54 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:38:12 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:38:16 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:38:19 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:38:21 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:38:24 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:39:52 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:39:58 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:40:00 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:40:03 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:40:05 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:40:21 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:40:25 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:40:28 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:40:30 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:40:33 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:40:44 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:40:48 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:40:51 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:40:54 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:40:57 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:41:07 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:41:11 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:41:14 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:41:17 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:41:20 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:41:26 [0] : DEBUG -  http://216.144.236.27/juicio/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1598509930
+            [expediente] => 607
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 1
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 12
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-08-27 01:41:33 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598509930	
+Array
+(
+)
+2020-08-27 01:41:37 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:41:39 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:41:42 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:41:45 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:41:53 [0] : DEBUG -  http://216.144.236.27/juicio/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1598509930
+            [expediente] => 607
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 1
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 12
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-08-27 01:42:20 [0] : DEBUG -  http://216.144.236.27/juicio/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1598509930
+            [expediente] => 607
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 1
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 12
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 11
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 12
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-08-27 01:42:24 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:42:34 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598509930	
+Array
+(
+)
+2020-08-27 01:43:00 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598509930	
+Array
+(
+)
+2020-08-27 01:43:10 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-08-27 01:43:15 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarPermisosUsuarios	
+Array
+(
+    [usuario_id] => 1453493983030
+)
+2020-08-27 01:43:17 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1453493983030
+)
+2020-08-27 01:43:26 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1453493983030
+    [menu_id] => 3146914
+    [activo] => 0
+)
+2020-08-27 01:43:27 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1453493983030
+    [menu_id] => 3146914
+    [activo] => 1
+)
+2020-08-27 01:43:28 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1453493983030
+    [menu_id] => 5264014
+    [activo] => 0
+)
+2020-08-27 01:43:29 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/guardarMenusUsuarios	
+Array
+(
+    [id_usuario] => 1453493983030
+    [menu_id] => 5264014
+    [activo] => 1
+)
+2020-08-27 01:43:31 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-08-27 01:45:41 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-08-27 01:45:51 [0] : DEBUG -  http://216.144.236.27/agendas/citas	
+Array
+(
+)
+2020-08-27 01:46:24 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 01:46:34 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598510780193
+    [expediente] => 609/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 01:46:35 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598510780193
+    [tipo_juicio_id] => 302
+)
+2020-08-27 01:46:35 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:46:42 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 609
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 01:46:48 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:46:53 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:46:58 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:47:02 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:47:18 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 609
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1598510780193
+)
+2020-08-27 01:47:22 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 01:47:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-08-27 01:47:36 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-08-27 01:48:15 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:48:22 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1598510840	
+Array
+(
+)
+2020-08-27 01:48:26 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:48:29 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:48:31 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:48:34 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:48:41 [0] : DEBUG -  http://216.144.236.27/juicio/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1598510840
+            [expediente] => 609
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 1
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 622
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13
+                    [nombres] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 14
+                    [nombres] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-08-27 01:48:45 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:48:51 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:49:00 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598510840	
+Array
+(
+)
+2020-08-27 01:49:16 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalle/mostrarCalendarioAudiencias	
+Array
+(
+    [secretaria] => A
+    [dia_min] => 2020-08-31
+)
+2020-08-27 01:49:37 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalle/mostrarCalendarioAudiencias	
+Array
+(
+    [secretaria] => A
+    [dia_min] => 2020-08-31
+)
+2020-08-27 01:49:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-08-27 01:51:06 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:51:12 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598510840	
+Array
+(
+)
+2020-08-27 01:51:34 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalle/mostrarCalendarioAudiencias	
+Array
+(
+    [secretaria] => A
+    [dia_min] => 2020-08-31
+)
+2020-08-27 01:51:54 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1598510840
+    [juicio] => 609/2020
+    [expediente] => 609
+    [id_catalogo_juicios] => 622
+    [fecha_publicacion_temp] => 2020-08-28
+    [acuerdo] => 1
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-27
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [promocion_adjuntar] => Array
+        (
+            [0] => 1598510780193
+        )
+
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [etapa_procesal] => admision
+    [tipo_etapa_procesal] => virtual
+    [horario_virtual] => 2020-09-04 12:00:00
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpmE3t5a
+            [fileName:SplFileInfo:private] => phpmE3t5a
+        )
+
+)
+2020-08-27 01:52:00 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598510840	
+Array
+(
+)
+2020-08-27 01:52:10 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-27 01:52:15 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1598511118
+    [id_juicio] => 1598510840
+    [codigo_organo] => 100PIC
+)
+2020-08-27 01:52:23 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1598511118
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 3400
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598510840
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpvCJsZr
+            [fileName:SplFileInfo:private] => phpvCJsZr
+        )
+
+)
+2020-08-27 02:20:32 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 08:12:45 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 08:42:13 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-27 08:42:17 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-27 08:42:17 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 08:42:26 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 08:42:33 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 08:42:34 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 08:42:47 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 1
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 08:42
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => ejemplo_caratula.pdf
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/pdf
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php6M8U02
+            [fileName:SplFileInfo:private] => php6M8U02
+        )
+
+)
+2020-08-27 08:42:53 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 08:42:58 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7326
+)
+2020-08-27 08:43:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 08:43:55 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:47:17 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:47:45 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:49:17 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:50:18 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:50:38 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:51:34 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:51:41 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 08:55:05 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:55:27 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:55:34 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 08:55:57 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:56:06 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 08:57:15 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:57:24 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 08:57:29 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:59:07 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:59:33 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 08:59:42 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:01:14 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:01:40 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:01:50 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEvento	
+Array
+(
+    [fecha_evento] => 2020-08-27
+    [id_juicio_promocion] => 0
+    [juicio_promocion] => 0
+    [toca] => 1
+    [asunto_toca] => 
+    [nombre_evento] => 1
+    [descripcion_evento] => 2
+    [hora_inicio] => 09:30
+    [hora_final] => 10:00
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-08-27 09:01:50 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:04:15 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:04:32 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:09:00 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:09:09 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:09:33 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEvento	
+Array
+(
+    [fecha_evento] => 2020-08-27
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [ponencia_evento] => A
+    [toca] => 1
+    [asunto_toca] => 
+    [nombre_evento] => 12
+    [descripcion_evento] => 34
+    [hora_inicio] => 10:00
+    [hora_final] => 10:30
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-08-27 09:09:33 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:11:04 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:13:31 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:16:46 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:20:52 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:20:59 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:21:05 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:21:19 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:21:25 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 09:21:33 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 09:22:33 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:22:49 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:25:18 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:25:26 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:26:05 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:26:12 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:26:20 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 09:26:26 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:26:28 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 09:26:31 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 09:26:53 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:26:54 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 09:27:05 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 1
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 09:26
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => ejemplo_caratula.pdf
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/pdf
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpHYGljC
+            [fileName:SplFileInfo:private] => phpHYGljC
+        )
+
+)
+2020-08-27 09:27:08 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 09:27:13 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7328
+)
+2020-08-27 09:27:24 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:28:24 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:29:51 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:36:30 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:37:08 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:37:15 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:38:49 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:40:42 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:40:58 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 09:41:03 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 09:41:16 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:42:41 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:43:00 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:43:22 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:45:10 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:45:47 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:46:35 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:47:44 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:47:51 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:49:41 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 09:49:43 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:49:47 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:49:54 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:49:57 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:50:03 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:50:25 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEvento	
+Array
+(
+    [fecha_evento] => 2020-08-27
+    [id_juicio_promocion] => 1597685587
+    [juicio_promocion] => 1/2020-3
+    [ponencia_evento] => A
+    [id_acuerdo] => 1597685587
+    [toca] => 1
+    [asunto_toca] => 
+    [nombre_evento] => EVENTO 1
+    [descripcion_evento] => descripción
+    [hora_inicio] => 11:00
+    [hora_final] => 11:30
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-08-27 09:50:26 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:50:54 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/13	
+Array
+(
+)
+2020-08-27 09:51:53 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 09:51:58 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 09:54:47 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-08-27 09:54:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 09:55:01 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 09:55:05 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 09:55:06 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:55:16 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598504296	
+Array
+(
+)
+2020-08-27 09:55:17 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/13	
+Array
+(
+)
+2020-08-27 09:55:25 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-27 09:55:27 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598510840	
+Array
+(
+)
+2020-08-27 09:55:34 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:55:39 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:55:41 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1598511118
+    [ponencia] => 100PIC
+    [id_documento] => 3403
+    [tipo_documento] => pdf
+)
+2020-08-27 09:55:47 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEvento	
+Array
+(
+    [fecha_evento] => 2020-08-27
+    [id_juicio_promocion] => 1597685587
+    [juicio_promocion] => 1/2020-3
+    [ponencia_evento] => A
+    [id_acuerdo] => 1597685587
+    [toca] => 1
+    [asunto_toca] => 
+    [nombre_evento] => jhbiugbi
+    [descripcion_evento] => i0noin
+    [hora_inicio] => 09:30
+    [hora_final] => 10:30
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-08-27 09:55:47 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:55:50 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1598510840
+    [arr_imprimir] => 1598511118,100PIC,3403-
+)
+2020-08-27 09:55:56 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/13	
+Array
+(
+)
+2020-08-27 09:56:34 [0] : DEBUG -  http://216.144.236.27/agendas/validar_acuerdo_ajax	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 09:56:52 [0] : DEBUG -  http://216.144.236.27/agendas/guardarEvento	
+Array
+(
+    [fecha_evento] => 2020-08-27
+    [id_juicio_promocion] => 1595827366
+    [juicio_promocion] => 1/2020-2
+    [ponencia_evento] => A
+    [id_acuerdo] => 1595827366
+    [toca] => 1
+    [asunto_toca] => 
+    [nombre_evento] => jhbiugbi
+    [descripcion_evento] => i0noin
+    [hora_inicio] => 09:30
+    [hora_final] => 09:30
+    [intervalo_min] => 15
+    [recordatorio_sms] => 1
+    [recordatorio_correo] => 1
+)
+2020-08-27 09:56:52 [0] : DEBUG -  http://216.144.236.27/agendas	
+Array
+(
+)
+2020-08-27 09:56:59 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/13	
+Array
+(
+)
+2020-08-27 09:58:01 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598510840	
+Array
+(
+)
+2020-08-27 09:59:19 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598510840	
+Array
+(
+)
+2020-08-27 09:59:30 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1598510840
+    [arr_imprimir] => 1598511118,100PIC,3403-
+)
+2020-08-27 10:03:34 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 10:04:06 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 10:45:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 10:46:02 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+    [usuario] => JC100J
+    [password] => masterpass
+    [tipo] => web
+    [next] => 
+)
+2020-08-27 10:46:02 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 10:46:11 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 10:46:50 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 20
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 10:46:58 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 10:47:05 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2019
+    [asunto_toca] => 
+)
+2020-08-27 10:47:11 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 210
+    [anio_toca] => 2019
+    [asunto_toca] => 
+)
+2020-08-27 10:47:27 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 120
+    [anio_toca] => 2019
+    [asunto_toca] => 
+)
+2020-08-27 10:47:48 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 110
+    [anio_toca] => 2017
+    [asunto_toca] => 
+)
+2020-08-27 10:47:51 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 110
+    [anio_toca] => 2017
+    [asunto_toca] => 
+)
+2020-08-27 10:50:14 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2017
+    [asunto_toca] => 
+)
+2020-08-27 10:50:20 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 10:50:26 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 10:50:33 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 10:50:33 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 10:46
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 10:50:45 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 11:03:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 11:03:09 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 11:03:18 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 6
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 11:03:23 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 9
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 11:08:48 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 11:08:53 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 11:08:54 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 11:09:02 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 11:09:02 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 11:03
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 11:09:26 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 11:09:26 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 11:03
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 11:10:42 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 11:10:44 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 11:10:46 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 11:10:46 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 11:03
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 13:35:40 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 13:35:46 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 13:35:54 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 13:35:56 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 13:36:25 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 13:36:25 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 13:35
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 13:43:30 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 13:46:53 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 13:46:56 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 13:46:58 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 13:47:03 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 13:47:03 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 13:35
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 13:58:09 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598499917079|6|1|1.0|C|C100|2020|1|Ordinario|Centésimo de lo Civil|2020-08-26 22:45:16|Salvador  Ríos  García , Pepe  Pecas  |Lalo  Landa  |1|1598499917079|sigj_promocion
+    [id_promocion] => 1598499917079
+)
+2020-08-27 13:58:14 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 13:58:30 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7316
+)
+2020-08-27 13:58:42 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:00:50 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:22:52 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:22:59 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 14:23:44 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 14:23:50 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 14:23:50 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 13:58
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 14:29:01 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:29:07 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:29:18 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-08-27 14:29:32 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 14:30:07 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 288327
+)
+2020-08-27 14:30:21 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 288327
+)
+2020-08-27 14:39:29 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 14:39:31 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:39:44 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 606
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 14:39:49 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598509633
+)
+2020-08-27 14:39:53 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598509633
+)
+2020-08-27 14:39:53 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1598509633
+    [juicio_promocion] => 606/2020
+    [toca] => 606
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 14:39
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 14:42:35 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:35 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:36 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:36 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:37 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:38 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:39 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:39 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:39 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:40 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:42 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:42 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:43 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:43 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:44 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:54 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:42:55 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 14:43:08 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:43:18 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 606
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 14:43:19 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598509633
+)
+2020-08-27 14:43:24 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598557194145|6|1|1.0|C|C100|2020|606|Jurisdicción voluntaria|Centésimo de lo Civil|2020-08-27 14:39:53|ROCIO ALEJANDRA  MEJIA  ORTEGA , JUAN CARLOS  HERRERA  VENTURA ||622|1598557194145|sigj_promocion
+    [id_promocion] => 1598557194145
+)
+2020-08-27 14:57:30 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 606
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 14:59:01 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 609
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 14:59:05 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598510840
+)
+2020-08-27 14:59:08 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598510840
+)
+2020-08-27 14:59:08 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1598510840
+    [juicio_promocion] => 609/2020
+    [toca] => 609
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 14:43
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 15:01:50 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 15:03:15 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 606
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 15:03:17 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 606
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 15:03:19 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598509633
+)
+2020-08-27 15:03:24 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598509633
+)
+2020-08-27 15:03:24 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1598509633
+    [juicio_promocion] => 606/2020
+    [toca] => 606
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 14:39
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 15:40:08 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 15:40:20 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)
+2020-08-27 15:40:28 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 15:40:35 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 15:40:37 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 15:40:41 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 15:40:41 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 15:41:00 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 15:41:03 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 15:41:06 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 15:41:06 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 15:41:21 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 15:41:23 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 15:41:28 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 15:41:28 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 17:51:12 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 17:58:42 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 17:58:46 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 17:58:49 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 17:58:53 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 17:58:53 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:02:56 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:02:56 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:03:02 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:03:02 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:03:24 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 
+    [id_promocion] => 1598569383977
+)
+2020-08-27 18:03:40 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:03:40 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:04:37 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:04:37 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:05:13 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 18:05:20 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 18:05:26 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:05:27 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:05:32 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569478791|6|1|1.0|C|C100|2020|1|Ordinario|Centésimo de lo Civil|2020-08-27 18:04:38|Salvador  Ríos  García , Pepe  Pecas  |Lalo  Landa  |1|1598569478791|sigj_promocion
+    [id_promocion] => 1598569478791
+)
+2020-08-27 18:05:43 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:05:43 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:05:48 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569478791|6|1|1.0|C|C100|2020|1|Ordinario|Centésimo de lo Civil|2020-08-27 18:04:38|Salvador  Ríos  García , Pepe  Pecas  |Lalo  Landa  |1|1598569478791|sigj_promocion
+    [id_promocion] => 1598569478791
+)
+2020-08-27 18:05:48 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:05:48 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:06:47 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-27 18:06:47 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 18:06:51 [0] : DEBUG -  http://216.144.236.27/boletin/listaPublicaciones	
+Array
+(
+)
+2020-08-27 18:06:51 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-27 18:06:58 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:06:58 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:07:16 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 609
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:07:23 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 0
+)
+2020-08-27 18:07:35 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569478791|6|1|1.0|C|C100|2020|1|Ordinario|Centésimo de lo Civil|2020-08-27 18:04:38|Salvador  Ríos  García , Pepe  Pecas  |Lalo  Landa  |1|1598569478791|sigj_promocion
+    [id_promocion] => 1598569478791
+)
+2020-08-27 18:07:53 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 609
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:07:55 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598510840
+)
+2020-08-27 18:07:57 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598510840
+)
+2020-08-27 18:07:57 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1598510840
+    [juicio_promocion] => 609/2020
+    [toca] => 609
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 15:40
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:07:59 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 309
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:08:07 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 609
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:08:08 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598510840
+)
+2020-08-27 18:08:14 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 609
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:08:16 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598510840
+)
+2020-08-27 18:08:17 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569678855|6|1|1.0|C|C100|2020|609|Jurisdicción voluntaria|Centésimo de lo Civil|2020-08-27 18:07:58|ROCIO ALEJANDRA  MEJIA  ORTEGA , JUAN CARLOS  HERRERA  VENTURA ||622|1598569678855|sigj_promocion
+    [id_promocion] => 1598569678855
+)
+2020-08-27 18:08:55 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569678855|6|1|1.0|C|C100|2020|609|Jurisdicción voluntaria|Centésimo de lo Civil|2020-08-27 18:07:58|ROCIO ALEJANDRA  MEJIA  ORTEGA , JUAN CARLOS  HERRERA  VENTURA ||622|1598569678855|sigj_promocion
+    [id_promocion] => 1598569678855
+)
+2020-08-27 18:09:21 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 609
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:09:22 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 609
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:10:10 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 18:10:27 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 607
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:10:38 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 600
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:10:42 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:10:46 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2019
+    [asunto_toca] => 
+)
+2020-08-27 18:10:49 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:10:58 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 18:11:05 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 18:11:05 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 18:11:27 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

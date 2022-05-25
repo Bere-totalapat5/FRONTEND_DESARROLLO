@@ -1,0 +1,218 @@
+@media screen and (max-width: 600px) {
+  .titulo_secundario {
+    visibility: hidden;
+    clear: both;
+    display: none;
+  }
+
+  .img_header{
+    content:url("/images/header_movil.png");
+  }
+
+  .dataTables_filter{
+    display: none;
+  }
+
+  .dataTables_length{
+    display: none;
+  }
+  .titulo-primario{
+    font-size: 16px;
+  }
+
+  .stage_fecha{
+    display: none;
+  }
+
+  .titulo-primario-reloj{
+    font-size: 16px; 
+    white-space: nowrap;
+    padding-left: 10px;
+  }
+  .titulo_secundario_horario_min{
+    display: initial !important;
+    padding-left: 10px;
+  }
+
+  #clock_index{
+    font-size: 16px;
+  }
+
+  .organo_movil{
+    display: initial !important;
+  }
+
+  .organo_desktop{
+    display: none !important;
+  }
+
+  #actividad_div{
+    display: none !important;
+  }
+
+}
+@media screen and (max-width: 760px) {
+  .nav-statistics-wrapper .nav:last-child{
+    display:flex !important;
+  }
+}
+
+
+/*
+* INDEX HORARIO MIN SE OCULTA SIEMPRE
+*/
+.titulo_secundario_horario_min{
+  display: none;
+}
+.reloj_vencido{
+  color: #fc233c !important;
+}
+
+/*
+* CALENDARIO DÍAS INÁBILES
+*/
+.dp-note {
+  position:absolute
+}
+.dp-note {
+  background: #ff8a98;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  left: 50%;
+  bottom: 4px;
+  -webkit-transform: translateX(-50%);
+  transform:translateX(-50%);
+  opacity:50%;
+}
+.dp-note-footer {
+  background: #ff8a98;
+  color: #ff8a98;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  left: 50%; 
+  bottom: 4px;
+  -webkit-transform: translateX(-50%);
+  transform:translateX(-50%);
+  opacity:50%;
+}
+.-selected- .dp-note {
+   
+  background: #ff8a98;
+  opacity:.7;
+}
+.datepickers-container{
+  margin-left: 30px;
+}
+.custom-cells{
+  cursor: pointer;
+}
+
+/*
+* CALENDARIO AGENDA
+*/
+.dhx_cal_container{
+  box-shadow:none !important;
+}
+
+/*
+* BOLETIN
+*/
+.boletin_body{
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+  -webkit-column-gap: 40px;
+  -moz-column-gap: 40px;
+  column-gap: 40px;
+  color:#2e3338;
+  text-indent: -10px;
+}
+.boletin_body h1{
+  font-size: 18px !important;
+  
+}
+.boletin_body h2{
+  font-size: 16px !important;
+  margin-bottom: 0px !important;
+  
+}
+.boletin_body h3{
+  margin-bottom: 0px !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  
+}
+.boletin_body div{
+  text-indent: -10px;
+  text-align: justify;
+}
+
+
+/*
+* BOLETIN ANALES
+*/
+.boletin_body_anales{
+ 
+  color:#2e3338;
+  text-indent: -10px;
+}
+.boletin_body_anales h1{
+  font-size: 18px !important;
+  
+}
+.boletin_body_anales h2{
+  font-size: 16px !important;
+  margin-bottom: 0px !important;
+  
+}
+.boletin_body_anales h3{
+  margin-bottom: 0px !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  
+}
+.boletin_body_anales div{
+  text-indent: -10px;
+  text-align: justify;
+}
+
+/*
+* RECUPERAR PASS
+*/
+#message {
+  display:none;
+  background: #f1f1f1;
+  color: #000;
+  position: relative;
+  padding: 20px;
+  margin-top: 10px; 
+}
+
+#message p {
+  padding: 10px 35px;
+  font-size: 18px;
+}
+
+/* Add a green text color and a checkmark when the requirements are right */
+.valid {
+  color: green;
+}
+
+.valid:before {
+  position: relative;
+  left: -35px;
+  content: "✔";
+}
+
+/* Add a red text color and an "x" when the requirements are wrong */
+.invalid {
+  color: red;
+}
+
+.invalid:before {
+  position: relative;
+  left: -35px;
+  content: "✖";
+}

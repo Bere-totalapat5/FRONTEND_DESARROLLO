@@ -1,0 +1,30 @@
+2020-09-04 10:17:57 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 10:17:59 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+    [usuario] => JC100J
+    [password] => masterpass
+    [tipo] => web
+    [next] => 
+)
+2020-09-04 10:17:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 10:18:03 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)

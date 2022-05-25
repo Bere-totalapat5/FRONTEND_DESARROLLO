@@ -1,0 +1,480 @@
+2020-11-05 09:48:18 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 09:48:21 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 10:51:21 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-11-05 10:51:24 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 10:51:27 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 10:51:39 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-11-05 11:14:01 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 11:14:04 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 11:18:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 11:18:56 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 11:19:08 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-11-05 11:59:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:00:01 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 12:00:22 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-05 12:00:31 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:00:49 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:01:29 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:06:17 [0] : DEBUG -  http://155.94.139.2/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-11-05 12:06:24 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-11-05 12:06:30 [0] : DEBUG -  http://155.94.139.2/archivoJudicial	
+Array
+(
+)
+2020-11-05 12:06:39 [0] : DEBUG -  http://155.94.139.2/sivep	
+Array
+(
+)
+2020-11-05 12:06:44 [0] : DEBUG -  http://155.94.139.2/agendas	
+Array
+(
+)
+2020-11-05 12:06:54 [0] : DEBUG -  http://155.94.139.2/agendas/citas	
+Array
+(
+)
+2020-11-05 12:07:00 [0] : DEBUG -  http://155.94.139.2/notificaciones/notificado	
+Array
+(
+)
+2020-11-05 12:07:05 [0] : DEBUG -  http://155.94.139.2/notificaciones/sin_notificar	
+Array
+(
+)
+2020-11-05 12:07:11 [0] : DEBUG -  http://155.94.139.2/notificaciones/fisicas_notificados	
+Array
+(
+)
+2020-11-05 12:07:16 [0] : DEBUG -  http://155.94.139.2/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-11-05 12:07:23 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)
+2020-11-05 12:07:30 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 12:07:38 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:07:48 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-05 12:07:55 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:07:58 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 12:08:08 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 12:08:14 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:08:24 [0] : DEBUG -  http://155.94.139.2/notificaciones/notificado	
+Array
+(
+)
+2020-11-05 12:08:29 [0] : DEBUG -  http://155.94.139.2/notificaciones/sin_notificar	
+Array
+(
+)
+2020-11-05 12:08:34 [0] : DEBUG -  http://155.94.139.2/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-11-05 12:08:39 [0] : DEBUG -  http://155.94.139.2/notificaciones/fisicas_notificados	
+Array
+(
+)
+2020-11-05 12:08:54 [0] : DEBUG -  http://155.94.139.2/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-11-05 12:08:59 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-11-05 12:09:10 [0] : DEBUG -  http://155.94.139.2/boletin/listaPublicaciones	
+Array
+(
+)
+2020-11-05 12:09:15 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-11-05 12:10:54 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-11-05 12:11:01 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/grupos	
+Array
+(
+)
+2020-11-05 12:11:06 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/grupos	
+Array
+(
+)
+2020-11-05 12:11:07 [0] : DEBUG -  http://155.94.139.2/archivoJudicial	
+Array
+(
+)
+2020-11-05 12:11:11 [0] : DEBUG -  http://155.94.139.2/sivep	
+Array
+(
+)
+2020-11-05 12:11:18 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-11-05 12:11:25 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/22	
+Array
+(
+)
+2020-11-05 12:11:36 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/30	
+Array
+(
+)
+2020-11-05 12:11:42 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/29	
+Array
+(
+)
+2020-11-05 12:11:48 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/28	
+Array
+(
+)
+2020-11-05 12:11:53 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/19	
+Array
+(
+)
+2020-11-05 12:11:59 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/19	
+Array
+(
+)
+2020-11-05 12:12:03 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/15	
+Array
+(
+)
+2020-11-05 12:12:08 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/23	
+Array
+(
+)
+2020-11-05 12:12:15 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:23:36 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:36:49 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-11-05 12:36:52 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:36:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 12:38:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:39:01 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 12:39:03 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:41:07 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:41:09 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 12:41:10 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:41:12 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 12:41:15 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:41:19 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:41:21 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 12:41:23 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:41:26 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:41:28 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-05 12:41:30 [0] : DEBUG -  http://155.94.139.2/bandejas/revision	
+Array
+(
+)
+2020-11-05 12:45:03 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-05 12:45:08 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 12:47:17 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 13:17:42 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 13:23:08 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 13:38:12 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 13:39:18 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 13:40:12 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 13:55:16 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 14:10:20 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-11-05 14:19:28 [0] : DEBUG -  http://155.94.139.2/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-11-05 14:19:47 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-11-05 14:58:20 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-11-05 14:59:37 [0] : DEBUG -  http://155.94.139.2/promociones/nueva	
+Array
+(
+)

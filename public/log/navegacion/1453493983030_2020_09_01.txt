@@ -1,0 +1,45 @@
+2020-09-01 18:58:01 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-01 18:58:06 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+    [usuario] => JC100J
+    [password] => masterpass
+    [tipo] => web
+    [next] => libros_gobierno/juzgado/18
+)
+2020-09-01 18:58:06 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-01 18:58:22 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-01 18:58:33 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-01 18:58:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-01 20:04:25 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)

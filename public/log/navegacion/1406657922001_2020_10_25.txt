@@ -1,0 +1,2157 @@
+2020-10-25 09:20:16 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-25 09:20:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-25 09:20:45 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:20:53 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:20:55 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:20:55 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:20:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:20:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:20:58 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:20:59 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:35:29 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:35:38 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:35:39 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:35:40 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:36:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:36:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:36:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:36:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:37:41 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:37:48 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:37:49 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:37:50 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:37:54 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:37:54 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:37:54 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:37:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:39:23 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:40:14 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:40:15 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:40:15 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:40:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:40:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:40:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:40:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:40:36 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:40:50 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:41:08 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:41:09 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:41:09 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:41:23 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:41:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:41:47 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:41:47 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:42:29 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:43:13 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:43:28 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:43:30 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:43:31 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:43:43 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:43:43 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:43:44 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:43:44 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:44:00 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:44:11 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:44:13 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:44:13 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:44:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:44:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:44:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:44:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:47:51 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:48:10 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:48:12 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:48:31 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:48:45 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:50:00 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:50:07 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:50:08 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:50:08 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:50:51 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:50:59 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:51:00 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:51:01 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:54:06 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:54:41 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:54:43 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:54:43 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:54:47 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:54:48 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:54:48 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:54:48 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:55:02 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1220
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-25 09:55:04 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1220
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-07-13
+            [id_catalogo_juicio] => 623
+            [cuaderno] => 
+            [alias] => 
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => MALDONADO PEREZ MAYRA ITZEL
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => MM@CIENCIAS.UNAM.MX
+                    [telefono_celular] => 5513001003
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1594662490
+)
+2020-10-25 09:55:06 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:56:38 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 09:56:45 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 09:56:47 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 09:56:47 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 09:57:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:57:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 09:57:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 09:57:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 09:59:58 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:00:07 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:00:08 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:00:08 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:00:28 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:00:31 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:00:56 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:00:57 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:00:57 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:01:23 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:01:23 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:01:23 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:01:23 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:01:30 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1220
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-25 10:01:33 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1220
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-07-13
+            [id_catalogo_juicio] => 623
+            [cuaderno] => 
+            [alias] => 
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => MALDONADO PEREZ MAYRA ITZEL
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => MM@CIENCIAS.UNAM.MX
+                    [telefono_celular] => 5513001003
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1594662490
+)
+2020-10-25 10:01:34 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:02:37 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:02:43 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:03:07 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:03:33 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:03:34 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:03:34 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:03:39 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:03:39 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:03:39 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:03:40 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:03:58 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:04:06 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:04:08 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:04:10 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:04:17 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:04:17 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:04:17 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:04:17 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:04:22 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1220
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-25 10:05:32 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:05:37 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:05:39 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:05:39 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:05:49 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:05:49 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:05:49 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:05:49 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:06:14 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:07:13 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:07:41 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:07:42 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:07:42 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:08:37 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:08:43 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:08:45 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:08:45 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:10:41 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:10:47 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:10:48 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:10:48 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:10:56 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:10:56 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:10:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:10:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:11:15 [0] : DEBUG -  http://155.94.139.2/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-10-25 10:11:29 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:12:38 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:13:08 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:13:09 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:13:09 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:13:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:13:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:13:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:13:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:18:02 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:18:19 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:18:21 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:18:21 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:19:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:19:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:19:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:19:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:20:30 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:20:39 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:20:40 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:20:41 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:21:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:21:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:21:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:21:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:22:11 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:22:23 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:22:25 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:22:25 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:24:33 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:24:45 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:24:47 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:24:47 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:25:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:25:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:25:26 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:25:26 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:26:00 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:26:07 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:26:08 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:26:08 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:26:43 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:26:43 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:26:44 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:26:44 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:27:18 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:27:34 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:27:36 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:27:36 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:27:41 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:27:42 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:27:42 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:27:42 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:28:06 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:28:17 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:28:18 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:28:18 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:29:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:29:10 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:29:10 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:29:10 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:37:19 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:37:31 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:37:32 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:37:33 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:39:05 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:39:11 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:39:13 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:39:13 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:39:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:39:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:39:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:39:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:42:40 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:42:46 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:42:47 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:42:47 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:43:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:43:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:43:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:43:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:44:22 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:45:26 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:45:28 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:45:28 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:45:48 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:45:48 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:45:48 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:45:48 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:48:03 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:49:00 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:49:01 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:49:01 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:49:27 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:49:28 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:49:28 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:49:28 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:49:55 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:50:15 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:50:35 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:50:35 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:52:38 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:57:03 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:57:28 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:57:29 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:57:29 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:57:33 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:57:33 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:57:33 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:57:33 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 10:58:05 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 10:58:13 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 10:58:14 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 10:58:14 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 10:59:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:59:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 10:59:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 10:59:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 11:01:58 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 11:02:09 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 11:02:11 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 11:02:11 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 11:02:19 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 11:02:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 11:02:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 11:02:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 11:02:43 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 11:03:52 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 11:03:54 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 11:03:54 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 11:04:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 11:04:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 11:04:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 11:04:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 11:04:52 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-10-25 11:05:22 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1594662490
+    [expediente] => 1220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-10-25 11:05:30 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1594662490
+    [tipo_juicio_id] => 357
+)
+2020-10-25 11:05:30 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-10-25 11:06:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 11:06:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-10-25 11:06:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-10-25 11:06:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-10-25 11:06:30 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1220
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-25 11:06:32 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1220
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-07-13
+            [id_catalogo_juicio] => 623
+            [cuaderno] => 
+            [alias] => 
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => MALDONADO PEREZ MAYRA ITZEL
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => MM@CIENCIAS.UNAM.MX
+                    [telefono_celular] => 5513001003
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1594662490
+)
+2020-10-25 11:06:34 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)

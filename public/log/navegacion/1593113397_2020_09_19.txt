@@ -1,0 +1,233 @@
+2020-09-19 20:45:21 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-19 20:45:23 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-19 20:45:27 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:45:34 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:45:36 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1582151035139
+)
+2020-09-19 20:45:36 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-19 20:45:36 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-19 20:45:36 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Especial Hipotecario
+    [tipo_accion] => 
+)
+2020-09-19 20:45:37 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Especial Hipotecario
+    [tipo_accion] => AP
+)
+2020-09-19 20:46:39 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:46:52 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 52255
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:47:54 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:48:02 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2018
+    [tipo_archivo] => 
+)
+2020-09-19 20:48:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 18988
+    [anio_expediente] => 2018
+    [tipo_archivo] => 
+)
+2020-09-19 20:48:23 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:48:41 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:48:56 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1555
+    [anio_expediente] => 2008
+    [tipo_archivo] => 
+)
+2020-09-19 20:49:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 155588
+    [anio_expediente] => 2008
+    [tipo_archivo] => 
+)
+2020-09-19 20:50:07 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:50:21 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1456789
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:50:24 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1456789
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:50:27 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1456789
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:50:37 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1456789
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:53:58 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:54:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 564654654
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:54:38 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:54:47 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 5646516
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:55:45 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:55:52 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 564561
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-19 20:56:20 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:56:28 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 5642
+    [anio_expediente] => 2019
+    [tipo_archivo] => 
+)
+2020-09-19 20:58:18 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-19 20:58:27 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 65465
+    [anio_expediente] => 2019
+    [tipo_archivo] => 
+)
+2020-09-19 21:02:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 65465
+    [anio_expediente] => 2019
+    [tipo_archivo] => 
+)
+2020-09-19 21:03:21 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-19 21:03:26 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-19 21:03:29 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1578503871569	
+Array
+(
+)

@@ -1,0 +1,68 @@
+table.tableDatosSujeto{
+  border: 1px solid #dee2e6;
+}
+
+table.tableDatosSujeto  td, table.tableDatosSujeto th{
+  border-bottom: 1px solid #dee2e6;
+  vertical-align: text-top !important;
+  padding: 5px 12px !important;
+}
+
+table.tableDatosSujeto2  td, table.tableDatosSujeto2 th{
+  border: 1px solid #dee2e6;
+  vertical-align: text-top !important;
+  padding: 5px 12px !important;
+  width: 33%;
+}
+table.tableDatosSujeto tbody.table-datos-sujeto tr td:nth-child(2n-1){
+  background-color: #FDFFF4;
+}
+table.tableDatosSujeto tbody.table-datos-sujeto tr td{
+  width: 25%;
+}
+
+table.tableDatosSujeto2 thead tr:first-child{
+  background-color: #FDFFF4;
+}
+
+table.tableDelitosSujeto  td, table.tableDelitosSujeto th{
+  border: 1px solid #dee2e6;
+  vertical-align: text-top !important;
+  padding: 5px 12px !important;
+  width: 25%;
+}
+
+table.tableDelitosSujeto tr:nth-child( 2n+1 ) {
+  background-color: #FDFFF4;
+}
+table.tableDatosSujeto td:nth-child(3n) {
+  border-left: 1px solid #EEE;
+}
+#modal-ver .modal-dialog {
+  min-width: 900px;
+}
+#modal-ver .modal-dialog .card .card-body {
+  min-height: 30vh;
+}
+
+@media screen and (max-width: 917px) {
+  #modal-ver .modal-dialog {
+    min-width: calc( 100% - 18px );
+  } 
+}
+
+.pagination-wrapper.justify-content-space-between.col-sm-4 {
+  display: none !important;
+}
+
+#flujos{
+  border: 1px solid #eee;
+}
+
+#flujos td{
+  padding: 5px 12px !important;
+}
+
+#body-table2 tr:nth-child( 2n+1 ){
+  background-color: #FDFFF4;
+}

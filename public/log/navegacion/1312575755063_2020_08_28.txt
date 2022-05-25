@@ -1,0 +1,179 @@
+2020-08-28 12:32:43 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-28 12:32:54 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-28 12:36:16 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-28 12:36:24 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-28 12:36:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-28 12:36:49 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-28 12:36:58 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-28 12:42:52 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-28 12:42:58 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-28 12:43:50 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-28 12:43:59 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1594668331	
+Array
+(
+)
+2020-08-28 12:44:21 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1594668331
+    [juicio] => 103/2020
+    [expediente] => 103
+    [id_catalogo_juicios] => 214
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 8
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-28
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593397680
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpcPYgi4
+            [fileName:SplFileInfo:private] => phpcPYgi4
+        )
+
+)
+2020-08-28 12:44:25 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1594668331	
+Array
+(
+)
+2020-08-28 12:49:07 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-28 12:49:12 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-28 12:52:32 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-28 12:54:16 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1594668331
+    [juicio] => 103/2020
+    [expediente] => 103
+    [id_catalogo_juicios] => 214
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 9
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-28
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593397680
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => prueba.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php7PKO0x
+            [fileName:SplFileInfo:private] => php7PKO0x
+        )
+
+)
+2020-08-28 12:54:18 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1594668331/Error%20acuerdo%20existente	
+Array
+(
+)
+2020-08-28 12:54:27 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1594668331/Error%20acuerdo%20existente	
+Array
+(
+)
+2020-08-28 12:54:45 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1594668331
+    [juicio] => 103/2020
+    [expediente] => 103
+    [id_catalogo_juicios] => 214
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 10
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-28
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593397680
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpH6E9M8
+            [fileName:SplFileInfo:private] => phpH6E9M8
+        )
+
+)
+2020-08-28 12:54:49 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1594668331	
+Array
+(
+)
+2020-08-28 12:54:59 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-28 12:56:06 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)

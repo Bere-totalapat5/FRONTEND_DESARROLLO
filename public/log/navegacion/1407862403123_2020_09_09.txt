@@ -1,0 +1,383 @@
+2020-09-09 10:08:23 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 10:08:33 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 10:08:44 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [toca] => 1
+    [anio] => 2020
+    [asunto] => 
+    [tipo_archivo] => 
+)
+2020-09-09 10:08:58 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [toca] => 1
+    [anio] => 2020
+    [asunto] => 
+    [tipo_archivo] => 
+)
+2020-09-09 10:10:39 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [toca] => 1
+    [anio] => 2020
+    [asunto] => 
+    [tipo_archivo] => 
+)
+2020-09-09 10:11:13 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [toca] => 1
+    [anio] => 2020
+    [asunto] => 
+    [tipo_archivo] => 
+)
+2020-09-09 17:34:02 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-09 17:34:10 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 17:35:02 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 17:35:13 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [toca] => 1
+    [anio] => 2020
+    [asunto] => 
+    [tipo_archivo] => 
+)
+2020-09-09 17:36:53 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 17:37:04 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [toca] => 1
+    [anio] => 2020
+    [asunto] => 
+    [tipo_archivo] => 
+)
+2020-09-09 20:42:53 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 21:16:44 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [toca] => 1
+    [anio] => 2020
+    [asunto] => 
+    [tipo_archivo] => 
+)
+2020-09-09 21:16:50 [0] : DEBUG -  http://216.144.236.27/juicio/datosToca	
+Array
+(
+    [id_juicio] => 1578584467492
+)
+2020-09-09 21:16:54 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 21:16:57 [0] : DEBUG -  http://216.144.236.27/juicio/buscarExpediente	
+Array
+(
+    [expediente_num] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [juzgado] => 68PIC
+    [tipo_archivo] => 
+    [id_expediente] => 1551462505851
+)
+2020-09-09 21:16:57 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 21:17:00 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Contraversias de arrendamiento
+    [tipo_accion] => 
+)
+2020-09-09 21:17:04 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Contraversias de arrendamiento
+    [tipo_accion] => AP
+)
+2020-09-09 21:17:05 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 21:17:15 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [toca] => 1
+    [anio] => 2020
+    [asunto] => 
+    [tipo_archivo] => 
+)
+2020-09-09 21:17:20 [0] : DEBUG -  http://216.144.236.27/juicio/datosToca	
+Array
+(
+    [id_juicio] => 1578584467492
+)
+2020-09-09 21:17:24 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 21:17:24 [0] : DEBUG -  http://216.144.236.27/juicio/buscarExpediente	
+Array
+(
+    [expediente_num] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [juzgado] => 68PIC
+    [tipo_archivo] => 
+    [id_expediente] => 1551462505851
+)
+2020-09-09 21:17:27 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 21:17:31 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Contraversias de arrendamiento
+    [tipo_accion] => 
+)
+2020-09-09 21:17:35 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Contraversias de arrendamiento
+    [tipo_accion] => AP
+)
+2020-09-09 21:21:51 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => toca
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-09 21:22:01 [0] : DEBUG -  http://216.144.236.27/juicio/juzgados	
+Array
+(
+    [tipo_juzgado] => PIC
+)
+2020-09-09 21:23:08 [0] : DEBUG -  http://216.144.236.27/juicio/juzgados	
+Array
+(
+    [tipo_juzgado] => PC
+)
+2020-09-09 21:23:18 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 21:23:29 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-09 21:23:42 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 21:23:52 [0] : DEBUG -  http://216.144.236.27/juicio/juzgados	
+Array
+(
+    [tipo_juzgado] => PIC
+)
+2020-09-09 21:24:08 [0] : DEBUG -  http://216.144.236.27/juicio/juzgados	
+Array
+(
+    [tipo_juzgado] => PC
+)
+2020-09-09 21:25:12 [0] : DEBUG -  http://216.144.236.27/juicio/juzgados	
+Array
+(
+    [tipo_juzgado] => PIC
+)
+2020-09-09 21:25:22 [0] : DEBUG -  http://216.144.236.27/juicio/buscarExpediente	
+Array
+(
+    [expediente_num] => 1
+    [anio] => 2020
+    [bis] => 
+    [juzgado] => 1PIC
+    [tipo_archivo] => 
+    [id_expediente] => 
+)
+2020-09-09 21:25:35 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [id_catalogo] => 337
+)
+2020-09-09 21:25:38 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 21:25:42 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 21:25:45 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-09-09 21:25:49 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-09-09 21:26:27 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => toca
+    [toca] => 2
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-09 21:26:34 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [tipo_archivo] => toca
+            [fecha_ingreso] => 2020-09-09
+            [id_catalogo_juicio] => 337
+            [toca] => 2
+            [anio_toca] => 2020
+            [asunto_toca] => 
+            [cuaderno] => 
+            [alias] => 
+            [numero_expediente] => 
+            [resolucion_amparo] => 
+            [tipo_recurso] => apelacion
+            [tipo_recurso_otro] => 
+            [competencia] => incompetencia por declinatoria
+            [competencia_otra] => 
+            [efecto_admite] => efecto devolutivo
+            [efecto_admite_otro] => 
+            [tipo_expediente_extra] => 
+            [resolucion_recurre] => Prueba
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BAUTISTA GALICIA NIMBE  JANET
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => isra_@hotmail.com
+                    [telefono_celular] => 233
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                )
+
+            [1] => Array
+                (
+                    [nombre] => RAMON RUIZ BUELNA
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => demandado
+                    [correo] => isra_isra@hotmail.com
+                    [telefono_celular] => 4
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                )
+
+        )
+
+    [expedientes_relacionados] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1578503871569
+                    [clave_organo] => 1PIC
+                    [nombre_organo] => Primero de lo Civil
+                    [id_expediente] => 1578503871569
+                    [numero] => 1
+                    [anio] => 2020
+                    [bis] => -
+                    [principal] => 1
+                )
+
+        )
+
+)
+2020-09-09 21:28:06 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 21:28:16 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 21:53:32 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-09-09 21:53:32 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 21:56:46 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

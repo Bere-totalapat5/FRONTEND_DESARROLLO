@@ -1,0 +1,26 @@
+2020-10-06 14:22:47 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-10-06 14:22:49 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 14:22:52 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-10-06 14:23:03 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

@@ -1,0 +1,1797 @@
+2020-09-25 12:14:47 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 12:14:54 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:15:06 [0] : DEBUG -  http://155.94.139.2/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => Operacion2017
+)
+2020-09-25 12:15:11 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 12:16:02 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:16:11 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:16:13 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:16:14 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:16:14 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:16:22 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 12:16:39 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:16:41 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:17:00 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:17:19 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:17:35 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:17:41 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:17:45 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:17:46 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:17:46 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:19:35 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 12:19:46 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:20:04 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:20:08 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:20:10 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:20:12 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:20:12 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:20:33 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 12:20:50 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:21:00 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:21:04 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:21:05 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:21:05 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:21:44 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:23:28 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:23:34 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 2
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:23:37 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 12:24:07 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 12:24:43 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:24:49 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-25 12:24:52 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-25 12:24:58 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:25:04 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:25:11 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:25:16 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:25:20 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:25:21 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:25:21 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:25:33 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:26:17 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:26:27 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:26:30 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:26:31 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:26:31 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:26:53 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:26:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 12:26:56 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:26:56 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:26:56 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 12:26:56 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 12:27:11 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:27:48 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:27:50 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:27:54 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:27:56 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:27:58 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:27:58 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:28:07 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:28:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 12:28:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:28:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:28:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 12:28:09 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 12:28:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:28:14 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 12:28:14 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 12:28:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:28:47 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:28:53 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:29:00 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:29:03 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:29:04 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:29:04 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:29:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:29:14 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 12:29:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:29:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:29:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 12:29:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 12:29:23 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 307
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 12:33:50 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-09-25 12:33:57 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 9
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-25 12:33:59 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597110867561
+    [expediente] => 647/2019
+    [tipo_juicio_id] => 417
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-10
+    [origen] => OPV
+)
+2020-09-25 12:34:00 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597110867561
+    [tipo_juicio_id] => 417
+)
+2020-09-25 12:34:00 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:35:48 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:36:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 12:36:28 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:36:38 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 12:36:42 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 11
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 12:36:45 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 11
+    [anio] => 2019
+    [bis] => 
+)
+2020-09-25 12:36:50 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expedientillo
+    [expediente] => 11
+    [anio] => 2019
+    [bis] => 
+)
+2020-09-25 12:36:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 2
+    [anio] => 2020
+)
+2020-09-25 12:37:04 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expedientillo
+    [expediente] => 2
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 12:37:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 65
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:37:10 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 12:37:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 12:37:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:37:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 12:37:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 12:37:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 12:37:14 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 2
+    [anio] => 2020
+)
+2020-09-25 12:38:39 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:39:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 12:46:38 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 12:46:50 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 12:58:31 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 13:18:59 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:19:45 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 13:19:52 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscar_opc	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+)
+2020-09-25 13:19:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:19:59 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:20:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Inmatriculación Judicial
+    [tipo_accion] => 
+)
+2020-09-25 13:20:03 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Inmatriculación Judicial
+    [tipo_accion] => AR
+)
+2020-09-25 13:20:17 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 13:21:43 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:21:59 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:22:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:22:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:22:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:22:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:22:02 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:22:44 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:22:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:22:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:22:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:22:58 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:22:58 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:22:58 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:23:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-09-25 13:23:22 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 307
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expedientillo
+            [fecha_ingreso] => 2020-09-25
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => isra_@hotmail.com
+                    [telefono_celular] => -
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 1
+                    [id_usuario_notificacion] => 1
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => GRECIA AMELITZA GIL DE PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => DE PRATO
+                    [tipo] => demandado
+                    [correo] => salvador.rios@tsjcdmx.gob.mx
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 2
+                    [id_usuario_notificacion] => 2
+                    [parte_direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre] => LUIS RICARDO PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => PRATO
+                    [tipo] => demandado
+                    [correo] => iarellano@totalpat.com
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 3
+                    [id_usuario_notificacion] => 3
+                    [parte_direccion] => BLV DE LAS NACIONES 46B
+TLALNEPANTLA, ESTADO DE MEXICO
+MEXICO
+                )
+
+        )
+
+)
+2020-09-25 13:23:23 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:26:54 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:29:54 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:29:59 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:29:59 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:30:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:30:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:30:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:30:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 307
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => 
+            [fecha_ingreso] => 2020-09-25
+            [id_catalogo_juicio] => 14
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => isra_@hotmail.com
+                    [telefono_celular] => -
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 1
+                    [id_usuario_notificacion] => 1
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => GRECIA AMELITZA GIL DE PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => DE PRATO
+                    [tipo] => demandado
+                    [correo] => salvador.rios@tsjcdmx.gob.mx
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 2
+                    [id_usuario_notificacion] => 2
+                    [parte_direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre] => LUIS RICARDO PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => PRATO
+                    [tipo] => demandado
+                    [correo] => iarellano@totalpat.com
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 3
+                    [id_usuario_notificacion] => 3
+                    [parte_direccion] => BLV DE LAS NACIONES 46B
+TLALNEPANTLA, ESTADO DE MEXICO
+MEXICO
+                )
+
+        )
+
+)
+2020-09-25 13:30:17 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:30:29 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:30:31 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:30:31 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:30:32 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:30:32 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:30:32 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:30:36 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 307
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => 
+            [fecha_ingreso] => 2020-09-25
+            [id_catalogo_juicio] => 14
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => isra_@hotmail.com
+                    [telefono_celular] => -
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 1
+                    [id_usuario_notificacion] => 1
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => GRECIA AMELITZA GIL DE PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => DE PRATO
+                    [tipo] => demandado
+                    [correo] => salvador.rios@tsjcdmx.gob.mx
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 2
+                    [id_usuario_notificacion] => 2
+                    [parte_direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre] => LUIS RICARDO PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => PRATO
+                    [tipo] => demandado
+                    [correo] => iarellano@totalpat.com
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 3
+                    [id_usuario_notificacion] => 3
+                    [parte_direccion] => BLV DE LAS NACIONES 46B
+TLALNEPANTLA, ESTADO DE MEXICO
+MEXICO
+                )
+
+        )
+
+)
+2020-09-25 13:31:43 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:31:53 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:31:54 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:31:54 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:31:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:31:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:31:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:32:02 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 307
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-09-25
+            [id_catalogo_juicio] => 14
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => isra_@hotmail.com
+                    [telefono_celular] => -
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 1
+                    [id_usuario_notificacion] => 1
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => GRECIA AMELITZA GIL DE PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => DE PRATO
+                    [tipo] => demandado
+                    [correo] => salvador.rios@tsjcdmx.gob.mx
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 2
+                    [id_usuario_notificacion] => 2
+                    [parte_direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre] => LUIS RICARDO PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => PRATO
+                    [tipo] => demandado
+                    [correo] => iarellano@totalpat.com
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 3
+                    [id_usuario_notificacion] => 3
+                    [parte_direccion] => BLV DE LAS NACIONES 46B
+TLALNEPANTLA, ESTADO DE MEXICO
+MEXICO
+                )
+
+        )
+
+)
+2020-09-25 13:33:28 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:33:40 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:33:42 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:33:42 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:33:43 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:33:43 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:33:43 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:33:47 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 307
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => 
+            [fecha_ingreso] => 2020-09-25
+            [id_catalogo_juicio] => 14
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => isra_@hotmail.com
+                    [telefono_celular] => -
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 1
+                    [id_usuario_notificacion] => 1
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => GRECIA AMELITZA GIL DE PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => DE PRATO
+                    [tipo] => demandado
+                    [correo] => salvador.rios@tsjcdmx.gob.mx
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 2
+                    [id_usuario_notificacion] => 2
+                    [parte_direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre] => LUIS RICARDO PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => PRATO
+                    [tipo] => demandado
+                    [correo] => iarellano@totalpat.com
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 3
+                    [id_usuario_notificacion] => 3
+                    [parte_direccion] => BLV DE LAS NACIONES 46B
+TLALNEPANTLA, ESTADO DE MEXICO
+MEXICO
+                )
+
+        )
+
+)
+2020-09-25 13:34:34 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:34:44 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:34:49 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:34:51 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:34:51 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:34:52 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:34:52 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:34:52 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:35:49 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:36:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:36:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:36:10 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:36:10 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:36:11 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:36:11 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:36:11 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:36:14 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 307
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => 
+            [fecha_ingreso] => 2020-09-25
+            [id_catalogo_juicio] => 14
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => isra_@hotmail.com
+                    [telefono_celular] => -
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 1
+                    [id_usuario_notificacion] => 1
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => GRECIA AMELITZA GIL DE PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => DE PRATO
+                    [tipo] => demandado
+                    [correo] => salvador.rios@tsjcdmx.gob.mx
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 2
+                    [id_usuario_notificacion] => 2
+                    [parte_direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre] => LUIS RICARDO PRATO
+                    [apellido_paterno] => 
+                    [apellido_materno] => PRATO
+                    [tipo] => demandado
+                    [correo] => iarellano@totalpat.com
+                    [telefono_celular] => -
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 3
+                    [id_usuario_notificacion] => 3
+                    [parte_direccion] => BLV DE LAS NACIONES 46B
+TLALNEPANTLA, ESTADO DE MEXICO
+MEXICO
+                )
+
+        )
+
+)
+2020-09-25 13:37:59 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:38:10 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:38:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:38:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:38:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:38:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:38:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:38:40 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-25 13:38:51 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 307
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-25 13:38:53 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/datosToca	
+Array
+(
+    [id_juicio] => 1601052710
+)
+2020-09-25 13:38:53 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:38:54 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-25 13:38:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-25 13:38:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-25 13:39:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 307
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 13:39:10 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expedientillo
+    [expediente] => 307
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 13:39:14 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => incidente
+    [expediente] => 307
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 13:39:26 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 307
+    [anio] => 2020
+    [bis] => 
+)

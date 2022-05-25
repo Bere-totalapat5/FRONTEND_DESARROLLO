@@ -1,0 +1,389 @@
+2020-09-04 11:00:56 Array
+(
+    [idDocumento] => 3257470
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 10:59:49
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632938
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599620,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COMUNICACIONES DE LA NUEVA ESPECIE SA DE CV"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599621,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ENLACES ADMINISTRADOS EN CONJUNTO SA DE CV"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-09-04 11:13:19 Array
+(
+    [idDocumento] => 3257471
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 2
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 11:12:36
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632939
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599622,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"PUENTES NACIONALES ADMINISTRADOS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599623,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CARRETERAS PLANAS SA DE CV"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-09-04 11:14:28 Array
+(
+    [idDocumento] => 3257472
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 3
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 11:14:30
+    [tipoJuicio] => 106
+    [reg_date] => 
+    [idExpediente] => 4632940
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599625,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"JUGUETERIA SA","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/25465/25466/25467/25468/1.pdf","idDocument":7385}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd2@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 0
+    [tipo_recepcion] => digital
+)
+	
+2020-09-04 11:20:00 Array
+(
+    [idDocumento] => 3257475
+    [juzgado] => F2
+    [idMateria] => F
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 11:20:06
+    [tipoJuicio] => 318
+    [reg_date] => 
+    [idExpediente] => 4937820
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599629,"participacion":1,"tipoPersona":"F","apPaterno":"GINON","apMaterno":"MORENO","nombre":"ELVA","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/3149/3150/13207/13208/1.pdf","idDocument":7387}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@sad.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+    [tipo_recepcion] => digital
+)
+	
+2020-09-04 13:03:08 Array
+(
+    [idDocumento] => 3257476
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 4
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 01:02:25
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632956
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599630,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO A TRAVES DE SU FONDE DE LA VIVIENDA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599631,"participacion":1,"tipoPersona":"F","apPaterno":"ROSAS","apMaterno":"GONZALEZ","nombre":"DIANA","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-09-04 13:56:23 Array
+(
+    [idDocumento] => 3257477
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 5
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 01:55:49
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632957
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599634,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LA EMPRESA NUMERO UNO","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599635,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"LA EMPRESA NUMERO 2"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/25465/25466/25495/25496/manual_usuario_MIDE.pdf","idDocument":7391},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/25465/25466/25495/25496/oficio.pdf","idDocument":7392}]
+    [origen] => OPV
+    [nombreCapturista] => ALVAREZ FLORES JAIR OSMANI
+    [emailCapturista] => JAIROSMANI@GMAIL.COM
+    [telefonoCapturista] => 5559451975
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-04 14:15:39 Array
+(
+    [idDocumento] => 3257478
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 6
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 02:15:05
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632958
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599638,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"EMPRESA DE MANTENIMIENTO DE LA CDMX SA DE CV","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599639,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CONSTRUCCIONES METALURGICAS DE CUERNAVACA SA DE CV"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/25465/25466/25502/25503/Escrito.pdf","idDocument":7393},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/25465/25466/25502/25503/Anexo.pdf","idDocument":7394}]
+    [origen] => OPV
+    [nombreCapturista] => ALVAREZ FLORES JAIR OSMANI
+    [emailCapturista] => JAIROSMANI@GMAIL.COM
+    [telefonoCapturista] => 5559451975
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-04 15:49:56 Array
+(
+    [idDocumento] => 3257479
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 7
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 03:49:49
+    [tipoJuicio] => 103
+    [reg_date] => 
+    [idExpediente] => 4632959
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599640,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MIKAEL SA"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+    [tipo_recepcion] => ambos
+)
+	
+2020-09-04 15:55:31 Array
+(
+    [idDocumento] => 3257480
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 8
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 03:55:32
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632960
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599641,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUJICAS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+    [tipo_recepcion] => ambos
+)
+	
+2020-09-04 15:59:57 Array
+(
+    [idDocumento] => 3257481
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 9
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 03:59:47
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632961
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599642,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TREMOR GAMES"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+    [tipo_recepcion] => ambos
+)
+	
+2020-09-04 16:01:53 Array
+(
+    [idDocumento] => 3257482
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 10
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 04:01:06
+    [tipoJuicio] => 108
+    [reg_date] => 
+    [idExpediente] => 4632962
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599643,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TREMOR GAMES"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+    [tipo_recepcion] => ambos
+)
+	
+2020-09-04 16:04:31 Array
+(
+    [idDocumento] => 3257483
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 11
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 04:03:33
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632963
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599644,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TERMOR GAMES"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+    [tipo_recepcion] => ambos
+)
+	
+2020-09-04 16:15:15 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 14
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 04:15:26
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632966
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599647,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MINERVAS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-04 17:45:21 Array
+(
+    [idDocumento] => 
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 17
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 05:45:34
+    [tipoJuicio] => 106
+    [reg_date] => 
+    [idExpediente] => 4632969
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599656,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MORALISTAS"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-04 17:46:12 Array
+(
+    [idDocumento] => 3257484
+    [juzgado] => C200
+    [idMateria] => C
+    [noExpediente] => 18
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 05:46:10
+    [tipoJuicio] => 107
+    [reg_date] => 
+    [idExpediente] => 4632970
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599657,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"VISCTOR"}]}
+    [arr_demandados] => 
+    [adjuntos] => 
+    [origen] => OPC
+    [tipo_recepcion] => ambos
+)
+	
+2020-09-04 18:03:38 Array
+(
+    [idDocumento] => 
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 05:58:04
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 30971
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599663,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MARTAS"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599664,"participacion":1,"tipoPersona":"F","apPaterno":"MORALES","apMaterno":"JIMENEZ","nombre":"HECTOR","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-04 18:11:14 Array
+(
+    [idDocumento] => 
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 05:48:18
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 30970
+    [tipoDocumento] => INCO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599659,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUSICALIZATE"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599660,"participacion":1,"tipoPersona":"F","apPaterno":"MORALES","apMaterno":"JIMENEZ","nombre":"HECTOR","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => 2DA_SEC
+    [tipo_recepcion] => fisico
+)
+	
+2020-09-04 19:09:09 Array
+(
+    [idDocumento] => 
+    [juzgado] => F19
+    [idMateria] => F
+    [noExpediente] => 6016
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-04 07:09:24
+    [tipoJuicio] => 305
+    [reg_date] => 
+    [idExpediente] => 4632975
+    [tipoDocumento] => EXHO
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599669,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MURCIA"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599670,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SALAZAR"}]}
+    [adjuntos] => 
+    [origen] => OPP
+    [tipo_recepcion] => fisico
+)
+	

@@ -1,0 +1,106 @@
+td.acciones .fa-info-circle{
+  color: #FFF;
+  background-color: #848F33;
+  padding: 3px;
+  font-size: 1.2em;
+}
+
+td.acciones a .fa-info-circle{
+  border-radius: 3px;
+}
+
+table.tableDatosSujeto{
+  border: 1px solid #dee2e6;
+}
+
+table.tableDatosSujeto  td, table.tableDatosSujeto th{
+  border-bottom: 1px solid #dee2e6;
+  vertical-align: text-top;
+  padding: 5px 12px;
+}
+
+table.tableDatosSujeto2  td, table.tableDatosSujeto2 th{
+  border: 1px solid #dee2e6;
+  vertical-align: text-top;
+  padding: 5px 12px;
+  width: 33%;
+}
+
+table.tableDatosSujeto td:nth-child(3n) {
+  border-left: 1px solid #EEE;
+}
+
+table.tableDatosSujeto tbody.table-datos-sujeto tr td:nth-child(2n-1){
+  background-color: #FDFFF4;
+}
+
+table.tableDatosSujeto tbody.table-datos-sujeto tr td{
+  width: 25%;
+}
+
+table.tableDatosSujeto2 thead tr:first-child{
+  background-color: #FDFFF4;
+}
+.doc_remi:active{
+  background: #d6d6d6;
+  border: 2px solid #868ba1 !important;
+  margin-bottom: 8px !important;
+}
+
+.doc_remi:hover{
+  background: #ebebeb;
+}
+
+.bgDocRem div{
+  background: #ebebeb;
+}
+
+#porHTML .fr-box.fr-basic .fr-element{
+  padding: 20px 70px !important;
+}
+
+#porHTML td{
+  border: none;
+}
+
+#nombreDoc:focus{
+  outline: #868ba1 solid  1px !important;
+}
+
+#modalDatosNoti .modal-dialog{
+  min-width: 980px !important;
+}
+
+
+@media only screen and (max-width: 992px ){
+  #modalDatosNoti .modal-dialog {
+    max-width: 95% !important;
+    min-width: 95% !important;
+  }
+
+  #divSolicitud table {
+    overflow-x: auto;
+    display: block !important;
+  }
+}
+
+
+::-webkit-scrollbar {
+  height: 8px;  
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #D7DCE1; 
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8acaf; 
+}
+::-webkit-scrollbar-track {
+  background: #fff 
+}
+@media only screen and (max-width: 776px ){
+  #modalDatosNoti .modal-dialog {
+    max-width: 95% !important;
+  } 
+}

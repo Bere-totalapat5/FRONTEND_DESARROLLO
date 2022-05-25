@@ -1,0 +1,1034 @@
+2020-09-10 21:29:57 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 21:29:58 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 21:30:03 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_notificados	
+Array
+(
+)
+2020-09-10 21:30:38 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-09-10 21:30:42 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 21:30:59 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-09-10 21:31:09 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-10 21:33:56 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 21:33:58 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 21:34:15 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 70
+)
+2020-09-10 21:34:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 21:34:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 70
+)
+2020-09-10 21:34:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 70
+)
+2020-09-10 21:34:21 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599791274
+    [ponencia] => 1PIC
+    [id_documento] => 3802
+    [tipo_documento] => pdf
+)
+2020-09-10 21:34:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 70
+)
+2020-09-10 21:34:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 70
+)
+2020-09-10 21:34:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 21:34:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 70
+)
+2020-09-10 21:34:51 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 21:35:03 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599791274
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 6
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 3802
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1578503871569
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/66f1b5b35bd6013d6d6780d944875140b40c01e815925f1559d0183f97bd77f04f39278fec494a2fe1f71292e7e21aa54d85d14d200862e381ffb98369916466.pdf
+    [modal_correo_notificacion_id] => 70
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Jurisdicci&oacute;n voluntaria promovido por BAUTISTA GALICIA NIMBE JANET en contra de RAMON RUIZ BUELNA, bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php2brs1r
+            [fileName:SplFileInfo:private] => php2brs1r
+        )
+
+)
+2020-09-10 21:41:25 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_notificado	
+Array
+(
+    [id_acuerdo_notificacion] => 70
+)
+2020-09-10 21:41:25 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 70
+    [parte_correo] => isra_isra@hotmail.com
+    [id_parte] => 70
+)
+2020-09-10 21:41:25 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 70
+    [parte_correo] => isra_@hotmail.com
+    [id_parte] => 69
+)
+2020-09-10 21:41:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificado	
+Array
+(
+)
+2020-09-10 21:41:41 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_resumen	
+Array
+(
+    [id] => 70
+)
+2020-09-10 21:41:50 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_notificados	
+Array
+(
+)
+2020-09-10 21:41:58 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-10 22:02:31 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 22:02:40 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599793102
+    [ponencia] => 1PIC
+    [id_documento] => 3812
+    [tipo_documento] => pdf
+)
+2020-09-10 22:02:44 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 71
+)
+2020-09-10 22:02:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 71
+)
+2020-09-10 22:02:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 22:02:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 71
+)
+2020-09-10 22:02:50 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 22:02:56 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599793102
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 6
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 3812
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1578503871569
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/28c27894dc215c7094f68149fb4cc7e8766d521fefc314c136904ab0a11395bf266f468dae3efb734715a0b03b5e0233f924609ee0df21955672a828881edc41.pdf
+    [modal_correo_notificacion_id] => 71
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Jurisdicci&oacute;n voluntaria promovido por BAUTISTA GALICIA NIMBE JANET en contra de RAMON RUIZ BUELNA, bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpxS3Lmp
+            [fileName:SplFileInfo:private] => phpxS3Lmp
+        )
+
+)
+2020-09-10 22:11:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 71
+    [parte_correo] => isra_isra@hotmail.com
+    [id_parte] => 70
+)
+2020-09-10 22:11:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 71
+    [parte_correo] => isra_@hotmail.com
+    [id_parte] => 69
+)
+2020-09-10 22:11:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_notificado	
+Array
+(
+    [id_acuerdo_notificacion] => 71
+)
+2020-09-10 22:11:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 22:11:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 73
+)
+2020-09-10 22:11:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 73
+)
+2020-09-10 22:11:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 73
+)
+2020-09-10 22:11:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 22:11:47 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 22:11:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599793747
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 7
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 3821
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1578503871569
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/ac1d31847f84a26adf3a1036b12c67662592ec064c07e98037645d6e36c61b6ab075183e14978f0bd3f1346b54cfc9759fc32e8edf3a9bc1dd357a0841fe6027.pdf
+    [modal_correo_notificacion_id] => 73
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Jurisdicci&oacute;n voluntaria promovido por BAUTISTA GALICIA NIMBE JANET en contra de RAMON RUIZ BUELNA, bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpjtG9JA
+            [fileName:SplFileInfo:private] => phpjtG9JA
+        )
+
+)
+2020-09-10 22:30:21 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 22:30:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 73
+)
+2020-09-10 22:30:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 22:30:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 73
+)
+2020-09-10 22:30:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 73
+)
+2020-09-10 22:30:29 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 22:30:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599793747
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 7
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 3821
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1578503871569
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/ac1d31847f84a26adf3a1036b12c67662592ec064c07e98037645d6e36c61b6ab075183e14978f0bd3f1346b54cfc9759fc32e8edf3a9bc1dd357a0841fe6027.pdf
+    [modal_correo_notificacion_id] => 73
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Jurisdicci&oacute;n voluntaria promovido por BAUTISTA GALICIA NIMBE JANET en contra de RAMON RUIZ BUELNA, bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpiTuJOW
+            [fileName:SplFileInfo:private] => phpiTuJOW
+        )
+
+)
+2020-09-10 22:34:36 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599793747
+    [ponencia] => 1PIC
+    [id_documento] => 3821
+    [tipo_documento] => pdf
+)
+2020-09-10 22:34:41 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 73
+)
+2020-09-10 22:34:41 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 22:34:41 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 73
+)
+2020-09-10 22:34:41 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 73
+)
+2020-09-10 22:34:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 22:34:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 73
+)
+2020-09-10 22:34:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 73
+)
+2020-09-10 22:34:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 73
+)
+2020-09-10 22:34:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 22:34:51 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 22:34:56 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599793747
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 7
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 3821
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1578503871569
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/ac1d31847f84a26adf3a1036b12c67662592ec064c07e98037645d6e36c61b6ab075183e14978f0bd3f1346b54cfc9759fc32e8edf3a9bc1dd357a0841fe6027.pdf
+    [modal_correo_notificacion_id] => 73
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Jurisdicci&oacute;n voluntaria promovido por BAUTISTA GALICIA NIMBE JANET en contra de RAMON RUIZ BUELNA, bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php2AsHWF
+            [fileName:SplFileInfo:private] => php2AsHWF
+        )
+
+)
+2020-09-10 22:37:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 22:37:23 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 73
+)
+2020-09-10 22:37:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 73
+)
+2020-09-10 22:37:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 22:37:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 73
+)
+2020-09-10 22:37:25 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 22:37:29 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599793747
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 7
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 3821
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1578503871569
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/ac1d31847f84a26adf3a1036b12c67662592ec064c07e98037645d6e36c61b6ab075183e14978f0bd3f1346b54cfc9759fc32e8edf3a9bc1dd357a0841fe6027.pdf
+    [modal_correo_notificacion_id] => 73
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Jurisdicci&oacute;n voluntaria promovido por BAUTISTA GALICIA NIMBE JANET en contra de RAMON RUIZ BUELNA, bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phplVNhPR
+            [fileName:SplFileInfo:private] => phplVNhPR
+        )
+
+)
+2020-09-10 22:43:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-10 22:43:15 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599793747
+    [ponencia] => 1PIC
+    [id_documento] => 3821
+    [tipo_documento] => pdf
+)
+2020-09-10 22:43:20 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 73
+)
+2020-09-10 22:43:20 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-10 22:43:20 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 73
+)
+2020-09-10 22:43:20 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 73
+)
+2020-09-10 22:43:22 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-10 22:43:26 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599793747
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 7
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 3821
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1578503871569
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/ac1d31847f84a26adf3a1036b12c67662592ec064c07e98037645d6e36c61b6ab075183e14978f0bd3f1346b54cfc9759fc32e8edf3a9bc1dd357a0841fe6027.pdf
+    [modal_correo_notificacion_id] => 73
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Jurisdicci&oacute;n voluntaria promovido por BAUTISTA GALICIA NIMBE JANET en contra de RAMON RUIZ BUELNA, bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpTmc6df
+            [fileName:SplFileInfo:private] => phpTmc6df
+        )
+
+)

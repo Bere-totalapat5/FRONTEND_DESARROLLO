@@ -1,0 +1,16 @@
+2022-01-25 18:28:21 -- creación de archivo log --
+
+##---- 2022-01-25 12:28:30 ----------------------------------------------------------------------------------------------##
+
+##---- Descripcion: INFORMACION RECIBIDA
+
+-> transaccion : GET
+ -> id_usuario : 1610132330907
+ -> usuario : USUARIO DEL SISTEMA
+ -> modulo : CREACION PROMOCION INTERFAZ
+ -> data_get : {"datos":{"id_carpeta_judicial":"1642782649622","folio_carpeta":"008\/0001\/2022","fecha_recepcion":"25-01-2022","hora_recepcion":"09:55","id_calidad_juridica":"46","id_persona":"1643132677077","tipo_promocion":"1","nombres":null,"apellido_paterno":null,"apellido_materno":null,"id_tipo_requerimiento":"2","tipo_requerimiento":"Promoci\u00f3n de Tramite","id_ta":null,"resumen":null,"nombre_documento":null,"extension_doc":"PDF","tamanio_archivo_b64":null,"b64_doc":null,"personas":null,"id_usuario_sesion":1610132330907,"estatus_registro":"registrar"}}
+
+##---------------------------------------------------------------------------------------------------------------------------##
+
+
+

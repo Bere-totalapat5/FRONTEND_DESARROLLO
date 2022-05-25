@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Tipr, a Small and Simple jQuery Tooltip Plugin</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link href="https://fonts.googleapis.com/css?family=Squada+One|Source+Code+Pro|Merriweather:300|Abril+Fatface" rel="stylesheet">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+
+<link rel="stylesheet" href="inc/standard.css">
+
+<link rel="stylesheet" type="text/css" href="tipr/tipr.css">
+<script type="text/javascript" src="tipr/tipr.min.js"></script>
+
+</head><body>
+
+<div class="cont">
+
+<div id="head"><div class="block"><a href="http://www.tipue.com" class="not"><div class="ban">Tipue</div></a></div></div>
+
+<div class="head">
+<div class="block" style="padding-top: 70px;">
+<h3>Tipr</h3>
+<div class="fo-1" style="padding-top: 13px;">V. 4.1</div>
+</div></div>
+<div class="block-790"><div class="slab fo-2">Tipr. <span class="fa-1">A small and simple jQuery tooltip plugin. It's free and open source.</span></div></div>
+
+<div class="block-978" style="padding-bottom: 39px;">
+
+<div class="fo-2">
+Small, simple, flat, cool. Tipr is a jQuery tooltip plugin. It works on almost any element, and reacts to the size of the viewport. Tipr is free and open source.
+</div>
+
+<div style="padding-top: 31px;"><h2>A demo</h2></div>
+<div class="fo-3" style="padding-top: 17px;">
+<span class="tip" data-tip="Basic">Hover here</span><br>
+<span class="tip" data-tip="Above" data-mode="above">A demo of above mode</span><br>
+<span class="tip" data-tip="Other" data-alt="true">The alternate display mode</span>
+</div>
+
+<div class="fo-3" style="padding-top: 21px;">
+Tipr has full <a href="http://www.tipue.com/tipr/">documentation</a>. We also offer a range of flexible <a href="http://www.tipue.com/support/">support</a> plans, including free.
+</div>
+
+</div>
+
+</div>
+
+<footer class="foot"><div class="block fo-1"><a href="http://www.tipue.com">Tipue</a> is a small web development studio based in North London.<p>&copy; 2019 Tipue. Est London.</div></footer>
+
+
+<script>
+$(document).ready(function() {
+     $('.tip').tipr();
+});
+</script>
+
+</body>
+</html>

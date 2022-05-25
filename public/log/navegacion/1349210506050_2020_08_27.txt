@@ -1,0 +1,144 @@
+2020-08-27 00:14:45 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 00:14:57 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/86	
+Array
+(
+)
+2020-08-27 00:15:10 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/91	
+Array
+(
+)
+2020-08-27 00:15:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 00:15:52 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => recurrente
+                    [value] => 12
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_interpuso_apelacion
+                    [value] => 2020-08-13
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_resolucion_apelada
+                    [value] => 2020-08-19
+                )
+
+            [4] => Array
+                (
+                    [name] => tipo_resolucion_apelada
+                    [value] => 12
+                )
+
+            [5] => Array
+                (
+                    [name] => fecha_auto_admisorio
+                    [value] => 2020-08-10
+                )
+
+            [6] => Array
+                (
+                    [name] => efecto_que_se_admite
+                    [value] => 12
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_contestacion_agravios_rebeldía
+                    [value] => 2020-08-11
+                )
+
+            [8] => Array
+                (
+                    [name] => sala_turno_recurso
+                    [value] => Sexto de lo Civil de Proceso Oral
+                )
+
+            [9] => Array
+                (
+                    [name] => fecha_oficio_sala
+                    [value] => 2020-08-06
+                )
+
+            [10] => Array
+                (
+                    [name] => num_oficio_sala
+                    [value] => 12
+                )
+
+            [11] => Array
+                (
+                    [name] => fecha_remision_sala
+                    [value] => 2020-08-04
+                )
+
+            [12] => Array
+                (
+                    [name] => fecha_recepcion_sala
+                    [value] => 2020-08-18
+                )
+
+            [13] => Array
+                (
+                    [name] => fecha_devolucion
+                    [value] => 2020-08-11
+                )
+
+            [14] => Array
+                (
+                    [name] => sentido_resuelve_sala
+                    [value] => sin sentido
+                )
+
+        )
+
+    [tabla] => libros_recursos_apelacion_juzgado_
+    [materia] => PIF
+    [id_juicio] => 1598327308
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Ordinario civil
+)
+2020-08-27 00:15:55 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/91	
+Array
+(
+)
+2020-08-27 00:16:10 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 12:48:54 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 12:49:08 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 14:06:54 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)

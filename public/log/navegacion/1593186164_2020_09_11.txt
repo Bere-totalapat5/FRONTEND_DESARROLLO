@@ -1,0 +1,28 @@
+2020-09-11 13:48:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-11 13:48:46 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-09-11 13:48:50 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_notificados	
+Array
+(
+)
+2020-09-11 13:51:18 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_notificados	
+Array
+(
+)
+2020-09-11 13:51:54 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_notificados	
+Array
+(
+)
+2020-09-11 13:52:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-09-11 13:57:18 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

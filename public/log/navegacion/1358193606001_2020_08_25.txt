@@ -1,0 +1,2954 @@
+2020-08-25 10:30:09 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 10:50:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 10:51:41 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 10:52:10 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-25 10:52:39 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-25 10:52:54 [0] : DEBUG -  http://216.144.236.27/juicio/buscar_opc	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+)
+2020-08-25 10:52:56 [0] : DEBUG -  http://216.144.236.27/juicio/buscar_opc	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+)
+2020-08-25 10:53:08 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-25 10:53:28 [0] : DEBUG -  http://216.144.236.27/juicio/buscar_opc	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+)
+2020-08-25 10:53:47 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 10:53:50 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 10:53:52 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 10:54:01 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-25 10:54:30 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-25 10:54:39 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-08-25 10:54:47 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-08-25 10:58:24 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 123
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C51
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-25
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => MIGUEL ANGEL
+                    [apellido_paterno] => DE LA CRUZ
+                    [apellido_materno] => GARCIA
+                    [tipo] => actor
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => CLAUDIA
+                    [apellido_paterno] => HERNANDEZ
+                    [apellido_materno] => JIMENEZ
+                    [tipo] => demandado
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 3
+                    [id_usuario_notificacion] => 3
+                    [parte_direccion] => VIADUCTO MIGUEL ALEMAN No.1106 COL. NARVARTE
+                )
+
+        )
+
+)
+2020-08-25 10:58:28 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-25 10:58:41 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 10:58:53 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598371106	
+Array
+(
+)
+2020-08-25 10:59:33 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1598371106
+    [juicio] => 123/2020
+    [expediente] => 123
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 1
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-25
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Machote acuerdo modificado (1).docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpA61rVg
+            [fileName:SplFileInfo:private] => phpA61rVg
+        )
+
+)
+2020-08-25 10:59:39 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598371106	
+Array
+(
+)
+2020-08-25 10:59:54 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-25 11:00:00 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1598371178
+    [id_juicio] => 1598371106
+    [codigo_organo] => 100JCO
+)
+2020-08-25 11:00:30 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1598371178
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100JCO
+    [modal_ultima_version] => 3361
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598371106
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpdr34PZ
+            [fileName:SplFileInfo:private] => phpdr34PZ
+        )
+
+)
+2020-08-25 11:00:49 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-25 11:00:51 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-08-25 11:01:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 11:01:14 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598371106	
+Array
+(
+)
+2020-08-25 11:01:17 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598371106	
+Array
+(
+)
+2020-08-25 11:01:35 [0] : DEBUG -  http://216.144.236.27/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1598371178,100JCO,3362-
+)
+2020-08-25 11:06:36 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 11:06:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:07:02 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:53:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 2020-08-25
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => MXN
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:54:37 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:54:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:05 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:06 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:06 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:07 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:07 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:08 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:09 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:55:09 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:10 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:55:10 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_entrada
+                    [value] => 
+                )
+
+            [2] => Array
+                (
+                    [name] => suerte_principal
+                    [value] => 0
+                )
+
+            [3] => Array
+                (
+                    [name] => tipo_moneda
+                    [value] => 0
+                )
+
+            [4] => Array
+                (
+                    [name] => asuntos_concluidos
+                    [value] => 0
+                )
+
+            [5] => Array
+                (
+                    [name] => datos_baja
+                    [value] => 
+                )
+
+            [6] => Array
+                (
+                    [name] => envios_archivo_judicial
+                    [value] => 
+                )
+
+            [7] => Array
+                (
+                    [name] => extincion
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => escision_juzgado
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 11:55:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:55:12 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:55:12 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:55:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:55:15 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:55:16 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/109	
+Array
+(
+)
+2020-08-25 11:55:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 8
+    [tabla] => libro_gobierno_juzgado_
+    [materia] => JCO
+)
+2020-08-25 12:05:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/110	
+Array
+(
+)
+2020-08-25 12:20:41 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 12354
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 12:20:47 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 12:41:52 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+        )
+
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 12:41:56 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/110	
+Array
+(
+)
+2020-08-25 12:42:05 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 1
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+)
+2020-08-25 12:42:12 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/110	
+Array
+(
+)
+2020-08-25 12:42:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/110	
+Array
+(
+)
+2020-08-25 12:43:36 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+)
+2020-08-25 12:44:53 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+)
+2020-08-25 12:45:01 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 1
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+)
+2020-08-25 12:47:29 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar_edicion/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => consecutivo
+                    [value] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+        )
+
+    [id_valor] => 1
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+    [seccion_certificados] => Array
+        (
+            [0] => Array
+                (
+                    [id_db] => 
+                    [no_lista] => 1
+                    [eliminado] => 
+                    [id_seccion_certificado] => elemento_1
+                    [datos] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => fecha_expedicion_1
+                                    [value] => 2020-08-25
+                                )
+
+                            [1] => Array
+                                (
+                                    [name] => fecha_ingreso_1
+                                    [value] => 2020-08-25
+                                )
+
+                            [2] => Array
+                                (
+                                    [name] => no_certificado_1
+                                    [value] => 1235
+                                )
+
+                            [3] => Array
+                                (
+                                    [name] => importe_documento_1
+                                    [value] => 1,565.00
+                                )
+
+                            [4] => Array
+                                (
+                                    [name] => institucion_expide_1
+                                    [value] => BANSEFI
+                                )
+
+                            [5] => Array
+                                (
+                                    [name] => tipo_paterno_1
+                                    [value] => DE LA CRUZ
+                                )
+
+                            [6] => Array
+                                (
+                                    [name] => tipo_materno_1
+                                    [value] => GARCIA
+                                )
+
+                            [7] => Array
+                                (
+                                    [name] => tipo_nombres_1
+                                    [value] => MIGUEL ANGEL
+                                )
+
+                            [8] => Array
+                                (
+                                    [name] => asiencto_caja_1
+                                    [value] => 40
+                                )
+
+                            [9] => Array
+                                (
+                                    [name] => fecha_entrega_1
+                                    [value] => 2020-08-25
+                                )
+
+                            [10] => Array
+                                (
+                                    [name] => concepto_1
+                                    [value] => PAGO SENTENCIA
+                                )
+
+                            [11] => Array
+                                (
+                                    [name] => caracter_recibe_1
+                                    [value] => PARTE ACTORA
+                                )
+
+                            [12] => Array
+                                (
+                                    [name] => identificacion_1
+                                    [value] => INE
+                                )
+
+                            [13] => Array
+                                (
+                                    [name] => observaciones_1
+                                    [value] => PRUEBA
+                                )
+
+                            [14] => Array
+                                (
+                                    [name] => tipo_beneficiario_1
+                                    [value] => Física
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+2020-08-25 12:47:31 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/110	
+Array
+(
+)
+2020-08-25 12:47:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar_edicion/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => consecutivo
+                    [value] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+        )
+
+    [id_valor] => 1
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+    [seccion_certificados] => Array
+        (
+            [0] => Array
+                (
+                    [id_db] => 
+                    [no_lista] => 1
+                    [eliminado] => 
+                    [id_seccion_certificado] => elemento_1
+                    [datos] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => fecha_expedicion_1
+                                    [value] => 2020-08-25
+                                )
+
+                            [1] => Array
+                                (
+                                    [name] => fecha_ingreso_1
+                                    [value] => 2020-08-25
+                                )
+
+                            [2] => Array
+                                (
+                                    [name] => no_certificado_1
+                                    [value] => 1235
+                                )
+
+                            [3] => Array
+                                (
+                                    [name] => importe_documento_1
+                                    [value] => 1,565.00
+                                )
+
+                            [4] => Array
+                                (
+                                    [name] => institucion_expide_1
+                                    [value] => BANSEFI
+                                )
+
+                            [5] => Array
+                                (
+                                    [name] => tipo_paterno_1
+                                    [value] => DE LA CRUZ
+                                )
+
+                            [6] => Array
+                                (
+                                    [name] => tipo_materno_1
+                                    [value] => GARCIA
+                                )
+
+                            [7] => Array
+                                (
+                                    [name] => tipo_nombres_1
+                                    [value] => MIGUEL ANGEL
+                                )
+
+                            [8] => Array
+                                (
+                                    [name] => asiencto_caja_1
+                                    [value] => 40
+                                )
+
+                            [9] => Array
+                                (
+                                    [name] => fecha_entrega_1
+                                    [value] => 2020-08-25
+                                )
+
+                            [10] => Array
+                                (
+                                    [name] => concepto_1
+                                    [value] => PAGO SENTENCIA
+                                )
+
+                            [11] => Array
+                                (
+                                    [name] => caracter_recibe_1
+                                    [value] => PARTE ACTORA
+                                )
+
+                            [12] => Array
+                                (
+                                    [name] => identificacion_1
+                                    [value] => INE
+                                )
+
+                            [13] => Array
+                                (
+                                    [name] => observaciones_1
+                                    [value] => PRUEBA
+                                )
+
+                            [14] => Array
+                                (
+                                    [name] => tipo_beneficiario_1
+                                    [value] => Física
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+2020-08-25 12:47:40 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+)
+2020-08-25 13:08:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_certificado_juzgado_
+    [materia] => JCO
+)
+2020-08-25 13:22:09 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/111	
+Array
+(
+)
+2020-08-25 13:22:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/111	
+Array
+(
+)
+2020-08-25 13:22:29 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 13:25:40 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_recepcion
+                    [value] => 2020-08-25
+                )
+
+            [2] => Array
+                (
+                    [name] => documentos_anexos
+                    [value] => UN SOBRE CON DOCUMENTOS
+                )
+
+            [3] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_promociones_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 13:25:43 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/111	
+Array
+(
+)
+2020-08-25 13:25:54 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_promociones_juzgado_
+    [materia] => JCO
+)
+2020-08-25 13:47:15 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/112	
+Array
+(
+)
+2020-08-25 13:47:44 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 13:55:30 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_citacion
+                    [value] => 2020-08-25
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_turno
+                    [value] => 2020-08-26
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_sentencia
+                    [value] => 2020-08-27
+                )
+
+            [4] => Array
+                (
+                    [name] => tipo_sentencia
+                    [value] => Definitiva
+                )
+
+            [5] => Array
+                (
+                    [name] => sentido_resolucion
+                    [value] => Condenatoria
+                )
+
+            [6] => Array
+                (
+                    [name] => fecha_publicacion
+                    [value] => 2020-08-25
+                )
+
+            [7] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_sentencia_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 13:56:15 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/112	
+Array
+(
+)
+2020-08-25 13:56:43 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/112	
+Array
+(
+)
+2020-08-25 13:57:15 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-25 13:57:40 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 13:58:49 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-25 13:59:52 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:01:20 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-25 14:03:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:06:19 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:07:41 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-25 14:07:42 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:07:50 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-25 14:08:00 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:08:30 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:08:33 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-25 14:14:25 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-25 14:16:22 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:16:23 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:20:43 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-25 14:20:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:21:14 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-25 14:21:25 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/112	
+Array
+(
+)
+2020-08-25 14:22:31 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/112	
+Array
+(
+)
+2020-08-25 14:22:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 14:23:19 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_citacion
+                    [value] => 2020-08-25
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_turno
+                    [value] => 2020-08-26
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_sentencia
+                    [value] => 2020-08-27
+                )
+
+            [4] => Array
+                (
+                    [name] => tipo_sentencia
+                    [value] => Definitiva
+                )
+
+            [5] => Array
+                (
+                    [name] => sentido_resolucion
+                    [value] => Condenatoria
+                )
+
+            [6] => Array
+                (
+                    [name] => fecha_publicacion
+                    [value] => 2020-08-25
+                )
+
+            [7] => Array
+                (
+                    [name] => observaciones
+                    [value] => prueba
+                )
+
+        )
+
+    [tabla] => libro_sentencia_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 14:23:21 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/112	
+Array
+(
+)
+2020-08-25 14:23:30 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_sentencia_juzgado_
+    [materia] => JCO
+)
+2020-08-25 14:29:23 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_sentencia_juzgado_
+    [materia] => JCO
+)
+2020-08-25 14:39:40 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/113	
+Array
+(
+)
+2020-08-25 14:39:42 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/113	
+Array
+(
+)
+2020-08-25 14:40:02 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 14:41:04 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => tipo_juicio
+                    [value] => Oral mercantil
+                )
+
+            [2] => Array
+                (
+                    [name] => fecha_ingreso
+                    [value] => 2020-08-25
+                )
+
+            [3] => Array
+                (
+                    [name] => oficio_autoridad
+                    [value] => 333/2020
+                )
+
+            [4] => Array
+                (
+                    [name] => autoridad_exhortante
+                    [value] => JUEZ PRIMERO DE PRIMERA INSTANCIA EN MATERIA CIVIL DE ZITÁCUARO MICHOACÁN
+                )
+
+            [5] => Array
+                (
+                    [name] => auto_provee
+                    [value] => 24/01/2020
+                )
+
+            [6] => Array
+                (
+                    [name] => diligencia_encomendada
+                    [value] => Emplazamiento
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_diligencia
+                    [value] => 
+                )
+
+            [8] => Array
+                (
+                    [name] => devueltos
+                    [value] => 0
+                )
+
+            [9] => Array
+                (
+                    [name] => no_oficio_devuelto
+                    [value] => 
+                )
+
+            [10] => Array
+                (
+                    [name] => fecha_devolucion
+                    [value] => 
+                )
+
+            [11] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libro_exhorto_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 14:41:07 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/113	
+Array
+(
+)
+2020-08-25 14:41:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_exhorto_juzgado_
+    [materia] => JCO
+)
+2020-08-25 14:42:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 14:42:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 1
+    [tabla] => libro_exhorto_juzgado_
+    [materia] => JCO
+)
+2020-08-25 14:48:58 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_exhorto_juzgado_
+    [materia] => JCO
+)
+2020-08-25 15:04:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/113	
+Array
+(
+)
+2020-08-25 15:10:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/114	
+Array
+(
+)
+2020-08-25 15:10:16 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/114	
+Array
+(
+)
+2020-08-25 15:10:16 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/114	
+Array
+(
+)
+2020-08-25 15:10:31 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 15:17:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-08-25
+                )
+
+            [2] => Array
+                (
+                    [name] => destinatario
+                    [value] => MIGUEL ANGEL DE LA CRUZ GARCIA
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_registro
+                    [value] => 2020-08-25
+                )
+
+            [4] => Array
+                (
+                    [name] => asunto
+                    [value] => Remitir Recurso
+                )
+
+            [5] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-08-26
+                )
+
+            [6] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+            [7] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 534
+                )
+
+        )
+
+    [tabla] => libro_oficio_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 15:17:17 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/114	
+Array
+(
+)
+2020-08-25 15:17:24 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/114	
+Array
+(
+)
+2020-08-25 15:17:27 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_oficio_juzgado_
+    [materia] => JCO
+)
+2020-08-25 15:17:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_oficio_juzgado_
+    [materia] => JCO
+)
+2020-08-25 15:42:00 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/115	
+Array
+(
+)
+2020-08-25 15:42:19 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/115	
+Array
+(
+)
+2020-08-25 15:44:54 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 15:57:44 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_cuadernos
+                    [value] => 12
+                )
+
+            [2] => Array
+                (
+                    [name] => no_cedulas
+                    [value] => 10
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_actuario
+                    [value] => 2020-08-25
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_diligenciar
+                    [value] => 2020-08-26
+                )
+
+            [5] => Array
+                (
+                    [name] => lugar_actuarse
+                    [value] => AV.NIÑOS HEROES No.150 PISO 4 COLONIA DOCTORES
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_diligencia
+                    [value] => Notificación Si
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_diligencia
+                    [value] => 2020-08-25
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_devolucion
+                    [value] => 2020-08-26
+                )
+
+            [9] => Array
+                (
+                    [name] => lanzamientos
+                    [value] => Persona física
+                )
+
+            [10] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_actuario_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 15:57:47 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/115	
+Array
+(
+)
+2020-08-25 15:57:47 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_cuadernos
+                    [value] => 12
+                )
+
+            [2] => Array
+                (
+                    [name] => no_cedulas
+                    [value] => 10
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_actuario
+                    [value] => 2020-08-25
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_diligenciar
+                    [value] => 2020-08-26
+                )
+
+            [5] => Array
+                (
+                    [name] => lugar_actuarse
+                    [value] => AV.NIÑOS HEROES No.150 PISO 4 COLONIA DOCTORES
+                )
+
+            [6] => Array
+                (
+                    [name] => tipo_diligencia
+                    [value] => Notificación Si
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_diligencia
+                    [value] => 2020-08-25
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_devolucion
+                    [value] => 2020-08-26
+                )
+
+            [9] => Array
+                (
+                    [name] => lanzamientos
+                    [value] => Persona física
+                )
+
+            [10] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_actuario_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 15:57:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/115	
+Array
+(
+)
+2020-08-25 15:57:59 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_actuario_juzgado_
+    [materia] => JCO
+)
+2020-08-25 16:09:21 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/116	
+Array
+(
+)
+2020-08-25 16:09:37 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 16:19:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => tipo_auxiliar
+                    [value] => Perito
+                )
+
+            [2] => Array
+                (
+                    [name] => auxiliar_tipo_persona
+                    [value] => Física
+                )
+
+            [3] => Array
+                (
+                    [name] => paterno_auxiliar
+                    [value] => RAMOS
+                )
+
+            [4] => Array
+                (
+                    [name] => materno_auxiliar
+                    [value] => RIVERA
+                )
+
+            [5] => Array
+                (
+                    [name] => nombre_auxiliar
+                    [value] => MARCO ANTONIO
+                )
+
+            [6] => Array
+                (
+                    [name] => especialidad
+                    [value] => ADMINISTRACIÓN
+                )
+
+            [7] => Array
+                (
+                    [name] => fecha_designacion
+                    [value] => 2020-08-25
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_notificacion
+                    [value] => 2020-08-26
+                )
+
+            [9] => Array
+                (
+                    [name] => fecha_aceptacion
+                    [value] => 2020-08-27
+                )
+
+            [10] => Array
+                (
+                    [name] => fecha_dictamen
+                    [value] => 2020-08-28
+                )
+
+            [11] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_auxiliar_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 16:19:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/116	
+Array
+(
+)
+2020-08-25 16:19:24 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_auxiliar_juzgado_
+    [materia] => JCO
+)
+2020-08-25 16:45:30 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/116	
+Array
+(
+)
+2020-08-25 16:45:48 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/116	
+Array
+(
+)
+2020-08-25 16:46:24 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/117	
+Array
+(
+)
+2020-08-25 16:46:26 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/117	
+Array
+(
+)
+2020-08-25 16:46:26 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/117	
+Array
+(
+)
+2020-08-25 16:46:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 16:55:25 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_amparo
+                    [value] => 812/2019-II
+                )
+
+            [2] => Array
+                (
+                    [name] => tipo_amparo
+                    [value] => Directo
+                )
+
+            [3] => Array
+                (
+                    [name] => quejoso_tipo_recibe
+                    [value] => Física
+                )
+
+            [4] => Array
+                (
+                    [name] => paterno_quejoso
+                    [value] => HERNANDEZ
+                )
+
+            [5] => Array
+                (
+                    [name] => materno_quejoso
+                    [value] => JIMENEZ
+                )
+
+            [6] => Array
+                (
+                    [name] => nombre_quejoso
+                    [value] => CLAUDIA
+                )
+
+            [7] => Array
+                (
+                    [name] => tercero_tipo_recibe
+                    [value] => Física
+                )
+
+            [8] => Array
+                (
+                    [name] => paterno_tercero
+                    [value] => CASTRO
+                )
+
+            [9] => Array
+                (
+                    [name] => materno_tercero
+                    [value] => GONZALEZ
+                )
+
+            [10] => Array
+                (
+                    [name] => nombre_tercero
+                    [value] => FERNANDO
+                )
+
+            [11] => Array
+                (
+                    [name] => acto_reclamado
+                    [value] => SENTENCIA DEFINITIVA DE FECHA 17/02/2020
+                )
+
+            [12] => Array
+                (
+                    [name] => fecha_ingreso
+                    [value] => 2020-08-26
+                )
+
+            [13] => Array
+                (
+                    [name] => informe_solicitado
+                    [value] => Previo
+                )
+
+            [14] => Array
+                (
+                    [name] => fecha_cumplimiento
+                    [value] => 2020-08-25
+                )
+
+            [15] => Array
+                (
+                    [name] => datos_envio
+                    [value] => SOBRE CON DOCUMENTOS
+                )
+
+            [16] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_amparos_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 16:55:28 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/117	
+Array
+(
+)
+2020-08-25 16:59:54 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_amparos_juzgado_
+    [materia] => JCO
+)
+2020-08-25 17:10:03 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/118	
+Array
+(
+)
+2020-08-25 17:10:19 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 17:11:26 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_reclama
+                    [value] => 2020-08-25
+                )
+
+            [2] => Array
+                (
+                    [name] => monto_multa
+                    [value] => 150,235.50
+                )
+
+            [3] => Array
+                (
+                    [name] => impuso_tipo_recibe
+                    [value] => Física
+                )
+
+            [4] => Array
+                (
+                    [name] => apellido_paterno
+                    [value] => DE LA CRUZ
+                )
+
+            [5] => Array
+                (
+                    [name] => apellido_materno
+                    [value] => GARCIA
+                )
+
+            [6] => Array
+                (
+                    [name] => nombre
+                    [value] => MIGUEL ANGEL
+                )
+
+            [7] => Array
+                (
+                    [name] => no_oficio_exhorto
+                    [value] => 451
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_oficio_exhorto
+                    [value] => 2020-08-24
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_multas_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 17:11:30 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_reclama
+                    [value] => 2020-08-25
+                )
+
+            [2] => Array
+                (
+                    [name] => monto_multa
+                    [value] => 150,235.50
+                )
+
+            [3] => Array
+                (
+                    [name] => impuso_tipo_recibe
+                    [value] => Física
+                )
+
+            [4] => Array
+                (
+                    [name] => apellido_paterno
+                    [value] => DE LA CRUZ
+                )
+
+            [5] => Array
+                (
+                    [name] => apellido_materno
+                    [value] => GARCIA
+                )
+
+            [6] => Array
+                (
+                    [name] => nombre
+                    [value] => MIGUEL ANGEL
+                )
+
+            [7] => Array
+                (
+                    [name] => no_oficio_exhorto
+                    [value] => 451
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_oficio_exhorto
+                    [value] => 2020-08-24
+                )
+
+            [9] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_multas_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 17:11:30 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/118	
+Array
+(
+)
+2020-08-25 17:11:32 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/118	
+Array
+(
+)
+2020-08-25 17:15:37 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 2
+    [tabla] => libro_multas_juzgado_
+    [materia] => JCO
+)
+2020-08-25 17:26:09 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/118	
+Array
+(
+)
+2020-08-25 17:26:51 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_multas_juzgado_
+    [materia] => JCO
+)
+2020-08-25 17:33:38 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/119	
+Array
+(
+)
+2020-08-25 17:33:40 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/119	
+Array
+(
+)
+2020-08-25 17:33:40 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/119	
+Array
+(
+)
+2020-08-25 17:38:51 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 17:41:20 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => secretaria
+                    [value] => A
+                )
+
+            [2] => Array
+                (
+                    [name] => tipo_audiencia
+                    [value] => Preliminar
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_audiencia
+                    [value] => 2020-08-25
+                )
+
+            [4] => Array
+                (
+                    [name] => hora_audiencia
+                    [value] => 10:00
+                )
+
+            [5] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_audiencia_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 17:41:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/119	
+Array
+(
+)
+2020-08-25 17:42:25 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_audiencia_juzgado_
+    [materia] => JCO
+)
+2020-08-25 17:48:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/120	
+Array
+(
+)
+2020-08-25 17:48:51 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/120	
+Array
+(
+)
+2020-08-25 17:48:54 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/120	
+Array
+(
+)
+2020-08-25 17:48:55 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/120	
+Array
+(
+)
+2020-08-25 17:49:13 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 17:56:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => fecha_notario
+                    [value] => 2020-08-25
+                )
+
+            [2] => Array
+                (
+                    [name] => no_notaria
+                    [value] => 123
+                )
+
+            [3] => Array
+                (
+                    [name] => notario_tipo
+                    [value] => Física
+                )
+
+            [4] => Array
+                (
+                    [name] => paterno_notario
+                    [value] => SANCHEZ
+                )
+
+            [5] => Array
+                (
+                    [name] => materno_notario
+                    [value] => PULIDO
+                )
+
+            [6] => Array
+                (
+                    [name] => nombre_notario
+                    [value] => ANGEL
+                )
+
+            [7] => Array
+                (
+                    [name] => direccion_notario
+                    [value] => CALLE CANGREJO No.1156 C.P. 11060  COLONIA AMPLIACIÓN CARACOL
+                )
+
+            [8] => Array
+                (
+                    [name] => expediente
+                    [value] => 123/2020
+                )
+
+            [9] => Array
+                (
+                    [name] => documentos_recibe
+                    [value] => EXP PRINCIPAL EN 58 FOJAS
+                )
+
+            [10] => Array
+                (
+                    [name] => asunto
+                    [value] => ESCRITURA
+                )
+
+            [11] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-08-25
+                )
+
+            [12] => Array
+                (
+                    [name] => nombre_tipo
+                    [value] => Física
+                )
+
+            [13] => Array
+                (
+                    [name] => paterno
+                    [value] => HERNANDEZ
+                )
+
+            [14] => Array
+                (
+                    [name] => materno
+                    [value] => JIMENEZ
+                )
+
+            [15] => Array
+                (
+                    [name] => nombre
+                    [value] => CLAUDIA
+                )
+
+            [16] => Array
+                (
+                    [name] => caracter_recibe
+                    [value] => AUTORIZADO POR LA NOTARIA
+                )
+
+            [17] => Array
+                (
+                    [name] => identificacion
+                    [value] => INE CLAVE DZCRAN99092321H700
+                )
+
+            [18] => Array
+                (
+                    [name] => fecha_devolucion
+                    [value] => 2020-08-25
+                )
+
+            [19] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_notario_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 17:56:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/120	
+Array
+(
+)
+2020-08-25 17:56:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 1
+    [tabla] => libro_notario_juzgado_
+    [materia] => JCO
+)
+2020-08-25 18:04:44 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/120	
+Array
+(
+)
+2020-08-25 18:05:02 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 1
+    [tabla] => libro_notario_juzgado_
+    [materia] => JCO
+)
+2020-08-25 18:05:08 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_notario_juzgado_
+    [materia] => JCO
+)
+2020-08-25 18:41:05 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/121	
+Array
+(
+)
+2020-08-25 18:41:29 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/121	
+Array
+(
+)
+2020-08-25 18:41:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/121	
+Array
+(
+)
+2020-08-25 18:42:06 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 18:47:08 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => no_fianza
+                    [value] => 1
+                )
+
+            [2] => Array
+                (
+                    [name] => concepto
+                    [value] => Derecho del tanto
+                )
+
+            [3] => Array
+                (
+                    [name] => importe
+                    [value] => 158,365.50
+                )
+
+            [4] => Array
+                (
+                    [name] => fecha_ingreso
+                    [value] => 2020-08-25
+                )
+
+            [5] => Array
+                (
+                    [name] => institucion_expide
+                    [value] => BANSEFI
+                )
+
+            [6] => Array
+                (
+                    [name] => garante
+                    [value] => MIGUEL ANGEL DE LA CRUZ
+                )
+
+            [7] => Array
+                (
+                    [name] => garantia_efectiva
+                    [value] => No
+                )
+
+            [8] => Array
+                (
+                    [name] => motivos_garantia
+                    [value] => 
+                )
+
+            [9] => Array
+                (
+                    [name] => beneficiario_tipo
+                    [value] => Física
+                )
+
+            [10] => Array
+                (
+                    [name] => paterno_beneficiario
+                    [value] => HERNANDEZ
+                )
+
+            [11] => Array
+                (
+                    [name] => materno_beneficiario
+                    [value] => JIMENEZ
+                )
+
+            [12] => Array
+                (
+                    [name] => nombre_beneficiario
+                    [value] => CLAUDIA
+                )
+
+            [13] => Array
+                (
+                    [name] => caracter_recibe
+                    [value] => AUTORIZADO POR LA NOTARIA
+                )
+
+            [14] => Array
+                (
+                    [name] => identificacion
+                    [value] => INE CLAVE DZCRAN99092321H700
+                )
+
+            [15] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-08-25
+                )
+
+            [16] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBA
+                )
+
+        )
+
+    [tabla] => libro_fianza_juzgado_
+    [materia] => JCO
+    [id_juicio] => 1598371106
+    [expediente] => 123
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-25 18:47:11 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/121	
+Array
+(
+)
+2020-08-25 18:49:08 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 1
+    [tabla] => libro_fianza_juzgado_
+    [materia] => JCO
+)
+2020-08-25 18:57:35 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

@@ -1,0 +1,2945 @@
+2020-10-06 09:46:59 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-10-06 09:47:02 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 09:47:30 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-10-06 09:47:37 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:48:10 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-10-06 09:48:17 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:48:19 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:49:16 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-10-06 09:49:20 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:49:22 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 3
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:49:23 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 4
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:49:24 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:49:26 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 4
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:49:28 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 3
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:49:29 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:50:17 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-10-06 09:50:21 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:50:23 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:50:29 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:50:30 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 3
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 09:51:03 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-10-06 10:05:25 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-10-06 10:05:41 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => demandas_todas
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-10-06 10:05:47 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-10-06 10:05:49 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 10:05:51 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 10:13:10 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 10:13:34 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 10:43:36 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 10:43:55 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 10:44:40 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 10:45:10 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 10:45:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 10:45:35 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:24:11 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:24:23 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:24:31 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:24:40 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:24:51 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 13:24:55 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:25:02 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:25:08 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 13:25:15 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:25:32 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:28:58 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:29:06 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:32:43 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:33:48 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:34:37 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:48:01 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:48:24 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:48:33 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:48:53 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:48:56 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 13:49:01 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:49:04 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 13:49:07 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:50:24 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:50:57 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:51:00 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 13:51:04 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:51:08 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 13:55:34 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 13:55:42 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:55:46 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 13:55:51 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 13:55:55 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 13:56:26 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:10:43 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 14:10:54 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:11:00 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:11:02 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:11:06 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:11:10 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:11:16 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:11:19 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:13:34 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 14:14:26 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:14:32 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:14:40 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:14:46 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 3
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:17:01 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 14:17:09 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:18:12 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 14:18:19 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:19:02 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 14:19:08 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:19:13 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 3
+                            [direccion] => 123
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:19:17 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 3
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:19:30 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 3
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:19:34 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 3
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:19:38 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:20:34 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 14:20:42 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:20:46 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:20:50 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:20:55 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:20:59 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:21:06 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 3
+                            [direccion] => 123
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:21:33 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-10-06 14:21:39 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:21:46 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 1
+                            [direccion] => 123
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:22:06 [0] : DEBUG -  http://172.16.159.181/consultaPartesNotificacion	
+Array
+(
+    [id] => 1595825526
+    [guardar] => 1
+)
+2020-10-06 14:22:09 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [nombres] => Salvador
+                            [apellido_paterno] => Ríos
+                            [apellido_materno] => García
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => 5537342290
+                            [notificacion] => 0
+                            [direccion] => 123
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [nombres] => Pepe
+                            [apellido_paterno] => Pecas
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3
+                            [nombres] => Lalo
+                            [apellido_paterno] => Landa
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => -
+                            [telefono] => -
+                            [notificacion] => 0
+                            [direccion] => Campo Güiro 55
+San Antonio
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1595825526
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-06 14:22:16 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-10-06 17:19:36 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 17:19:40 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 17:19:44 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-10-06 17:20:10 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-06 17:22:56 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 17:22:58 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 17:23:01 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-10-06 17:25:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 17:25:22 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 17:25:38 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599531678	
+Array
+(
+)
+2020-10-06 17:26:12 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1599531678
+    [juicio] => 2/2020
+    [expediente] => 2
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 3
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-10-22
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => prueba correos
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [bandera_notificacion] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => DOCUMENTO DE PRUEBA.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpQOOHQG
+            [fileName:SplFileInfo:private] => phpQOOHQG
+        )
+
+)
+2020-10-06 17:26:36 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599531678/Problemas%20con%20las%20imporesoras%20DOCX.%20Favor%20de%20consultar%20con%20soporte	
+Array
+(
+)
+2020-10-06 17:27:13 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1599531678
+    [juicio] => 2/2020
+    [expediente] => 2
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 3
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-10-06
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [bandera_notificacion] => 0
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => DOCUMENTO DE PRUEBA.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php1mgnzi
+            [fileName:SplFileInfo:private] => php1mgnzi
+        )
+
+)
+2020-10-06 17:27:37 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599531678/Problemas%20con%20las%20imporesoras%20DOCX.%20Favor%20de%20consultar%20con%20soporte	
+Array
+(
+)
+2020-10-06 17:29:10 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 17:29:42 [0] : DEBUG -  http://155.94.139.2/bandejas/buscar	
+Array
+(
+    [bandeja] => firma
+    [expediente] => 100
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [tipo_acuerdo] => -
+    [origen_acuerdo] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 17:29:50 [0] : DEBUG -  http://155.94.139.2/bandejas/buscar	
+Array
+(
+    [bandeja] => firma
+    [expediente] => 2
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [tipo_acuerdo] => -
+    [origen_acuerdo] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 17:29:58 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1601052085
+    [id_juicio] => 1599531678
+    [codigo_organo] => 100PIC
+)
+2020-10-06 17:30:07 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601052085
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4043
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1599531678
+    [modal_tipo_flujo_nombre] => no
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-10-06 17:30:14 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-10-06 17:40:24 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-06 17:40:28 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-06 17:40:32 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 17:40:44 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1601053134,100PIC,4219-
+)
+2020-10-06 17:40:55 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601053134
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4219
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1599531678
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-10-06 17:43:42 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-10-06 17:43:53 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-10-08
+    [fecha_hasta] => 2020-10-08
+)
+2020-10-06 17:44:11 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-10-05
+    [fecha_hasta] => 2020-10-05
+)
+2020-10-06 17:44:15 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-10-06
+    [fecha_hasta] => 2020-10-06
+)
+2020-10-06 17:44:20 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-10-08
+    [fecha_hasta] => 2020-10-08
+)
+2020-10-06 17:44:26 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1601053134
+    [id_juicio] => 1599531678
+    [codigo_organo] => 100PIC
+)
+2020-10-06 17:44:42 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 17:46:39 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1601053134,100PIC,4221-
+)
+2020-10-06 17:47:11 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601053134
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4221
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1599531678
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-10-06 17:49:02 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-10-06 17:49:14 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-10-08
+    [fecha_hasta] => 2020-10-08
+)
+2020-10-06 17:49:32 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1601052085
+    [id_juicio] => 1599531678
+    [codigo_organo] => 100PIC
+)
+2020-10-06 17:49:36 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 17:51:23 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1601052085,100PIC,4223-
+)
+2020-10-06 17:51:29 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601052085
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 6
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4223
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1599531678
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-10-06 17:54:40 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 17:55:40 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-10-06 17:55:53 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-10-08
+    [fecha_hasta] => 2020-10-08
+)
+2020-10-06 17:56:00 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1601053134
+    [id_juicio] => 1599531678
+    [codigo_organo] => 100PIC
+)
+2020-10-06 17:56:04 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 17:56:22 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1601053134,100PIC,4225-
+)
+2020-10-06 17:56:27 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601053134
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4225
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1599531678
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-10-06 18:01:09 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:01:43 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-10-06 18:01:51 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-10-08
+    [fecha_hasta] => 2020-10-08
+)
+2020-10-06 18:01:56 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1601053134
+    [id_juicio] => 1599531678
+    [codigo_organo] => 100PIC
+)
+2020-10-06 18:02:02 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:02:15 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1601053134,100PIC,4227-
+)
+2020-10-06 18:02:20 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601053134
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4227
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1599531678
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-10-06 18:07:07 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:09:13 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:09:22 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-10-06 18:09:41 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-10-06 18:09:52 [0] : DEBUG -  http://155.94.139.2/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-10-08
+    [fecha_hasta] => 2020-10-08
+)
+2020-10-06 18:09:56 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/cancelarFechaPublicacion_ajax	
+Array
+(
+    [id_acuerdo] => 1601053134
+    [id_juicio] => 1599531678
+    [codigo_organo] => 100PIC
+)
+2020-10-06 18:10:08 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:10:18 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1601053134,100PIC,4229-
+)
+2020-10-06 18:10:24 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601053134
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 4229
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1599531678
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => 
+)
+2020-10-06 18:15:13 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:20:18 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:25:24 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:30:30 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:35:35 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:40:40 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-10-06 18:45:45 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)

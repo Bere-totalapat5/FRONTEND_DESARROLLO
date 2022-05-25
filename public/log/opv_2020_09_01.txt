@@ -1,0 +1,72 @@
+2020-09-01 16:41:25 Array
+(
+    [idDocumento] => 3257450
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-01 04:41:26
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4937800
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599595,"participacion":1,"tipoPersona":"F","apPaterno":"ROBLES","apMaterno":"SALGADO","nombre":"ANTONIO","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/15/56/208/209/1_15.pdf","idDocument":7377}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-09-01 17:02:20 Array
+(
+    [idDocumento] => 3257452
+    [juzgado] => C33
+    [idMateria] => C
+    [noExpediente] => 6029
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-09-01 05:02:21
+    [tipoJuicio] => 105
+    [reg_date] => 
+    [idExpediente] => 4632897
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599599,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"KLOKLOKLO","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/283/284/25458/25459/1.pdf","idDocument":7378}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-09-01 17:20:23 Array
+(
+    [idDocumento] => 3257453
+    [juzgado] => C12
+    [idMateria] => C
+    [noExpediente] => 45
+    [anioExpediente] => 2018
+    [fechaRecepcion] => 2020-09-01 05:19:43
+    [tipoJuicio] => 199
+    [reg_date] => 
+    [idExpediente] => 4937801
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599601,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/360/361/14047/14048/Anexo.pdf","idDocument":7379}]
+    [origen] => OPV
+    [nombreCapturista] => C C
+    [emailCapturista] => c@c.com
+    [telefonoCapturista] => 5548403652
+    [tipoTramiteDivorcio] => 
+)
+	

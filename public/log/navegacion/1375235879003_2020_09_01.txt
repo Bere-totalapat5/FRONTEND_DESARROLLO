@@ -1,0 +1,65 @@
+2020-09-01 13:04:11 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-01 13:04:15 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-01 13:04:17 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-01 13:04:24 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-01 14:51:48 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-01 14:51:52 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-01 14:52:02 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-01 14:52:07 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1375235879003
+)
+2020-09-01 14:52:12 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-01 14:56:24 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-01 16:23:21 [0] : DEBUG -  http://216.144.236.27/edictos	
+Array
+(
+)

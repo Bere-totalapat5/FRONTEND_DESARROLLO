@@ -1,0 +1,2107 @@
+2020-09-14 19:36:11 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 19:36:14 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 19:36:16 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 19:36:46 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 35
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-14
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpdPZaxy
+            [fileName:SplFileInfo:private] => phpdPZaxy
+        )
+
+)
+2020-09-14 19:36:50 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 19:55:05 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 19:55:08 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 19:55:30 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 19:56:34 [0] : DEBUG -  http://172.16.159.181/promociones/nueva	
+Array
+(
+)
+2020-09-14 19:57:46 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-09-14 19:59:51 [0] : DEBUG -  http://172.16.159.181/promociones/posteriores	
+Array
+(
+)
+2020-09-14 20:01:16 [0] : DEBUG -  http://172.16.159.181/promociones/posteriores	
+Array
+(
+)
+2020-09-14 20:01:23 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-09-14 20:01:36 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-09-14 20:05:30 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-09-14 20:05:55 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-09-14 20:06:06 [0] : DEBUG -  http://172.16.159.181/promociones/posteriores	
+Array
+(
+)
+2020-09-14 20:07:22 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:07:24 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:07:27 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 20:07:30 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 20:07:55 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [es_edicto] => on
+    [acuerdo] => 36
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-14
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php4tp4AK
+            [fileName:SplFileInfo:private] => php4tp4AK
+        )
+
+)
+2020-09-14 20:08:00 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 20:08:22 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 20:08:30 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1600132079
+    [ponencia] => 1PIC
+    [id_documento] => 3874
+    [tipo_documento] => pdf
+)
+2020-09-14 20:08:37 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1600132079
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-14 20:08:43 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600132079
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3874
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpsZTuAF
+            [fileName:SplFileInfo:private] => phpsZTuAF
+        )
+
+)
+2020-09-14 20:08:50 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-14 20:10:06 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 20:10:11 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1600132079
+    [ponencia] => 1PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-09-14 20:10:37 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:11:24 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:11:24 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:16:26 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:16:26 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:16:27 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:16:27 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:18:40 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:18:40 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:18:41 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:18:41 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:19:06 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:19:06 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:19:07 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:19:07 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:20:20 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:20:20 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:20:21 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:20:21 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:20:50 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:20:50 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:20:51 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:20:51 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:21:59 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:22:00 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:22:01 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:22:01 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:23:36 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 20:23:41 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:23:41 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:23:42 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:23:42 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:24:31 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:24:31 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:24:32 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:24:32 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:24:38 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 20:24:43 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:24:43 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:24:44 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:24:44 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:25:34 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 20:25:39 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:25:39 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:25:40 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:25:40 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:27:14 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 20:27:19 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:27:19 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:27:20 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:27:20 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:27:50 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 20:27:55 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:27:55 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:27:56 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:27:56 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:29:54 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 20:29:59 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:29:59 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:30:00 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:30:00 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:30:38 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 20:30:43 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:30:43 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:30:44 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:30:44 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 20:31:08 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:31:09 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 20:31:10 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 20:31:10 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 21:46:57 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 21:47:08 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 21:47:11 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 21:47:13 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 21:47:44 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 37
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-14
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phphv6Hxq
+            [fileName:SplFileInfo:private] => phphv6Hxq
+        )
+
+)
+2020-09-14 21:58:36 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 37
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-14
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php953CBH
+            [fileName:SplFileInfo:private] => php953CBH
+        )
+
+)
+2020-09-14 22:04:13 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:04:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:05:26 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [es_edicto] => on
+    [acuerdo] => 37
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-14
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => LISTAS DE ENVIO A ARCHIVO JUDICIAL.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpSI5h1p
+            [fileName:SplFileInfo:private] => phpSI5h1p
+        )
+
+)
+2020-09-14 22:05:31 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:06:28 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 22:06:28 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 22:06:32 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 22:06:39 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:06:47 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 22:07:03 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1600139129
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-14 22:07:08 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600139129
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3879
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php8FPxJz
+            [fileName:SplFileInfo:private] => php8FPxJz
+        )
+
+)
+2020-09-14 22:07:22 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:07:30 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:08:22 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:08:22 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:08:40 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <div style="text-align: center;"><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No. </strong></div><br>
+LISTAS DE ENVIO A ARCHIVO JUDICIAL&nbsp;<br>
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. <br>
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.<br>
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.<br>
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.<br>
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.<br>
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.<br>
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.<br>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.<br><br>EL SECRETARIO DE ACUERDOS<br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO
+    [edicto_num_palabras] => 388
+    [edicto_costo] => 776
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:08:43 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:08:47 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:08:55 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:08:59 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:08:59 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:09:28 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <div style="text-align: center;"><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No. </strong></div><br><div style="text-align: justify;">
+LISTAS DE ENVIO A ARCHIVO JUDICIAL&nbsp;</div><div style="text-align: justify;">
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. </div><div style="text-align: justify;">
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div><div style="text-align: justify;">
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div><div style="text-align: justify;">
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div><div style="text-align: justify;">
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div><div style="text-align: justify;">
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div><div style="text-align: justify;">
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.<br><br>EL SECRETARIO DE ACUERDOS<br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO
+    [edicto_num_palabras] => 388
+    [edicto_costo] => 776
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:09:31 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:09:36 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:10:13 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 13
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:10:13 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 13
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600132079
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:10:23 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:10:23 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:11:32 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:11:32 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:13:12 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <p style="text-align: center;"><span><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No. </strong></span></p><div><span>
+<br>
+<span>
+LISTAS DE ENVIO A ARCHIVO JUDICIAL&nbsp;
+<div>
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. </div>
+<div>
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div>
+<div>
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div>
+<div>
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div>
+<div>
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div>
+<div>
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div>
+<div>
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+<br>
+<br>EL SECRETARIO DE ACUERDOS
+<br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</span></span></div>
+    [edicto_num_palabras] => 388
+    [edicto_costo] => 776
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:13:17 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:13:22 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:13:35 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:13:36 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:13:49 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:13:49 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:13:52 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <p><span><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No. </strong></span></p><div><span>
+<br>
+<span>
+LISTAS DE ENVIO A ARCHIVO JUDICIAL&nbsp;
+<div>
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. </div>
+<div>
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div>
+<div>
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div>
+<div>
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div>
+<div>
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div>
+<div>
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div>
+<div>
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+<br>
+<br>EL SECRETARIO DE ACUERDOS
+<br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</span></span></div>
+    [edicto_num_palabras] => 388
+    [edicto_costo] => 776
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:13:56 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:14:02 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:14:10 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:14:10 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:14:16 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <p><span><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No. </strong></span></p><div><span>
+<br>
+<span>
+LISTAS DE ENVIO A ARCHIVO JUDICIAL 123<div>
+Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos. </div>
+<div>
+Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div>
+<div>
+Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div>
+<div>
+Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div>
+<div>
+El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div>
+<div>
+En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div>
+<div>
+La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>
+Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+<br>
+<br>EL SECRETARIO DE ACUERDOS
+<br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</span></span></div>
+    [edicto_num_palabras] => 389
+    [edicto_costo] => 778
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:14:20 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:14:30 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:14:48 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:14:48 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:15:47 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:15:47 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:16:10 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:16:12 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:16:13 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:16:23 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <p><span><strong>PRIMERO DE LO CIVIL 12<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No.&nbsp;</strong></span></p><div><span><br>&nbsp;<span>LISTAS DE ENVIO A ARCHIVO JUDICIAL 123<div>Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos.</div><div>Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div><div>Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div><div>Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div><div>El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div><div>En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div><div>La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente. <br>&nbsp;<br>EL SECRETARIO DE ACUERDOS <br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</span></span></div>
+    [edicto_num_palabras] => 383
+    [edicto_costo] => 766
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:16:28 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:16:33 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:16:40 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:16:43 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:16:44 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:16:58 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <p style="text-align: center;"><span><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No.&nbsp;</strong></span></p><div><span><br>&nbsp;<span>LISTAS DE ENVIO A ARCHIVO JUDICIAL<div>Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos.</div><div>Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div><div>Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div><div>Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div><div>El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div><div>En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div><div>La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente. <br>&nbsp;<br>EL SECRETARIO DE ACUERDOS <br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</span></span></div>
+    [edicto_num_palabras] => 381
+    [edicto_costo] => 762
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:17:11 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:17:17 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:18:45 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:18:50 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:18:50 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:18:51 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 22:18:51 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 22:18:58 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <p style="text-align: center;"><span><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No.&nbsp;</strong></span></p><div><span><br>&nbsp;<span>LISTAS DE ENVIO A ARCHIVO JUDICIAL<div>Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos.</div><div>Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div><div>Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div><div>Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div><div>El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div><div>En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div><div>La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente. <br>&nbsp;<br>EL SECRETARIO DE ACUERDOS <br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</span></span></div>
+    [edicto_num_palabras] => 381
+    [edicto_costo] => 762
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:19:03 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:19:13 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:20:03 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:20:08 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:20:08 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:20:09 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 22:20:09 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 22:20:14 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <p style="text-align: center;"><span><strong>PRIMERO DE LO CIVIL 3<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No.&nbsp;</strong></span></p><div><span><br>&nbsp;<span>LISTAS DE ENVIO A ARCHIVO JUDICIAL<div>Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos.</div><div>Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div><div>Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div><div>Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div><div>El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div><div>En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div><div>La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente. <br>&nbsp;<br>EL SECRETARIO DE ACUERDOS <br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</span></span></div>
+    [edicto_num_palabras] => 382
+    [edicto_costo] => 764
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:21:50 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <div style="text-align: center;"><strong>PRIMERO DE LO CIVIL 3<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No.&nbsp;</strong></div><div style="text-align: justify;"><br>&nbsp;LISTAS DE ENVIO A ARCHIVO JUDICIAL<div>Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos.</div><div>Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div><div>Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div><div>Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div><div>El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div><div>En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div><div>La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente. <br>&nbsp;<br>EL SECRETARIO DE ACUERDOS <br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</div>
+    [edicto_num_palabras] => 382
+    [edicto_costo] => 764
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:21:56 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:22:00 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:22:15 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:22:15 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:22:16 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 22:22:16 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 22:22:30 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <div style="text-align: center;"><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No.&nbsp;</strong></div>
+<div style="text-align: justify;">
+<br>&nbsp;LISTAS DE ENVIO A ARCHIVO JUDICIAL
+<div>Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos.</div>
+<div>Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div>
+<div>Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div>
+<div>Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div>
+<div>El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div>
+<div>En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div>
+<div>La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+<br>&nbsp;
+<br>EL SECRETARIO DE ACUERDOS
+<br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</div>
+    [edicto_num_palabras] => 386
+    [edicto_costo] => 772
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:22:33 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:22:38 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:29:34 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:29:42 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:29:42 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:29:43 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 22:29:43 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 22:29:50 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <div style="text-align: center;"><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No.&nbsp;</strong></div>
+<div style="text-align: justify;">
+<br>&nbsp;LISTAS DE ENVIO A ARCHIVO JUDICIAL
+<div>Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos.</div>
+<div>Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div>
+<div>Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div>
+<div>Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div>
+<div>El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div>
+<div>En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div>
+<div>La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+<br>&nbsp;
+<br>EL SECRETARIO DE ACUERDOS
+<br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</div>
+    [edicto_num_palabras] => 386
+    [edicto_costo] => 772
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:29:57 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:30:02 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:30:07 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:30:07 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:30:08 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 22:30:08 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 22:32:07 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:32:07 [0] : DEBUG -  http://172.16.159.181/edictos/mostrarEditorHTML	
+Array
+(
+    [modo] => obtener
+    [id_edicto] => 14
+    [extension_archivo_obtener] => html
+    [id_acuerdo] => 1600139129
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:32:08 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 22:32:08 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 22:32:10 [0] : DEBUG -  http://172.16.159.181/edictos/editar	
+Array
+(
+    [id_edicto] => 14
+    [id_acuerdo] => 1600139129
+    [documento_html] => <div style="text-align: center;"><strong>PRIMERO DE LO CIVIL<br>SECRETARIA &quot;A&quot;<br>EXP. No. 1/2020<br>EDICTO No.&nbsp;</strong></div>
+<div style="text-align: justify;">
+<br>&nbsp;LISTAS DE ENVIO A ARCHIVO JUDICIAL
+<div>Antecedente: el Archivo Judicial es el &aacute;rea encargada del resguardo de expedientes de diversas &aacute;reas del PJCDMX, entre ellas los Juzgados y Salas. Cuenta con su propio reglamento de operaci&oacute;n para todos los tr&aacute;mites que se realizan con ellos.</div>
+<div>Dentro del ciclo de vida de un expediente, &eacute;ste pasa por las etapas de recepci&oacute;n y archivado dentro del Juzgado, de ah&iacute;, despu&eacute;s de un tiempo el Juzgado determina que el expediente se va a resguardo del Archivo Judicial, puede posteriormente el Juzgado solicitar al Archivo su devoluci&oacute;n en una o m&aacute;s ocasiones, hasta que finalmente se envi&eacute; de nuevo al Archivo para destrucci&oacute;n. Todo ello acorde al C&oacute;digo de Procedimientos Civiles del D.F. y del Reglamento para el Archivo Judicial.</div>
+<div>Seg&uacute;n el C&oacute;digo, se precisa que el titular del Juzgado es el encargado y &uacute;nico con criterio para indicar cu&aacute;ndo se env&iacute;a un expediente al Archivo Judicial.</div>
+<div>Por lo general si un expediente no tiene actividad procesal (sin actuaciones), despu&eacute;s de 6 meses se remite al Archivo dentro de un listado denominado de Resguardo.</div>
+<div>El Archivo Judicial, asigna un n&uacute;mero de c&oacute;digo &uacute;nico a cada expediente, independientemente de su procedencia, el cual, cuando un Juzgado le solicita su devoluci&oacute;n, el Archivo Judicial lo remite siempre con ese n&uacute;mero y el Juzgado debe incorporarlo una vez que haga la remisi&oacute;n del expediente de nuevo al Archivo, para lo cual lo env&iacute;a dentro de una lista denominada como Devoluci&oacute;n.</div>
+<div>En los casos de los expedientes que son enviados a Destrucci&oacute;n, deben tener forzosamente un auto que lo respalde, sino el Archivo no lo recibe, estos expedientes se mandan dentro de una lista llamada de Destrucci&oacute;n. Igualmente el titular del Juzgado es quien determina cuando un expediente amerita su env&iacute;o a destrucci&oacute;n.</div>
+<div>La generaci&oacute;n de las listas por lo general es de forma mensual incluyendo aquellos expedientes que en el mes cayeron en una de las situaciones antes descritas y limitada tambi&eacute;n por lo general a 100 expedientes por listado.</div>Los formatos de lista tambi&eacute;n son similares entre Juzgados a excepci&oacute;n de la materia de Oralidad, en la cual se refieren CDs de audiencias y en todos se refieren anexos del expediente.
+<br>&nbsp;
+<br>EL SECRETARIO DE ACUERDOS
+<br>LIC. SECRETARIO ACUERDOS 1PIC SECRETARIO SECRETARIO</div>
+    [edicto_num_palabras] => 386
+    [edicto_costo] => 772
+    [edicto_num_intervalo] => 0
+    [num_publicaciones] => 0
+)
+2020-09-14 22:32:20 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:32:24 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 14
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:38:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 38
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-14
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpFSDHSp
+            [fileName:SplFileInfo:private] => phpFSDHSp
+        )
+
+)
+2020-09-14 22:38:26 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:38:46 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:38:52 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 22:39:24 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 22:39:32 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1600141105
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-14 22:39:43 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600141105
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3885
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpv60bSk
+            [fileName:SplFileInfo:private] => phpv60bSk
+        )
+
+)
+2020-09-14 22:39:55 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:40:05 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:40:26 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [es_edicto] => on
+    [acuerdo] => 39
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-14
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpojrpKY
+            [fileName:SplFileInfo:private] => phpojrpKY
+        )
+
+)
+2020-09-14 22:40:30 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:40:41 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 22:40:51 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1600141228
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-14 22:40:58 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600141228
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3889
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phprVqvVi
+            [fileName:SplFileInfo:private] => phprVqvVi
+        )
+
+)
+2020-09-14 22:41:07 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:41:12 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 15
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:42:38 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 15
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:45:53 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 22:50:36 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:50:39 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:50:58 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 22:51:21 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [es_edicto] => on
+    [acuerdo] => 40
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-09-14
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpMGUQwE
+            [fileName:SplFileInfo:private] => phpMGUQwE
+        )
+
+)
+2020-09-14 22:51:24 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:52:43 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 22:52:54 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1600141883
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-14 22:53:01 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600141883
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3894
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php8PNpSO
+            [fileName:SplFileInfo:private] => php8PNpSO
+        )
+
+)
+2020-09-14 22:53:29 [0] : DEBUG -  http://172.16.159.181/edictos	
+Array
+(
+)
+2020-09-14 22:53:35 [0] : DEBUG -  http://172.16.159.181/edictos/consultarDocumentoEdicto	
+Array
+(
+    [id_edicto] => 16
+    [modo] => obtener
+    [extension_archivo_obtener] => pdf
+    [archivo_64] => 
+    [archivo_pdf_b64] => 
+)
+2020-09-14 22:54:01 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:55:16 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-14 22:57:49 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 23:02:59 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 23:08:20 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-14 23:13:26 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)

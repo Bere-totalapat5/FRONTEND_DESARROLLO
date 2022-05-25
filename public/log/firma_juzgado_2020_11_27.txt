@@ -1,0 +1,45 @@
+2020-11-27 08:36:41 [983] : INIC  -  Juzgado: 100PIC Usuario: JC100SA Acuerdo: 3/2020-7 id_juicio: 1599706830 id_acuerdo: 1606440207 tipo_firma_firel: sello_sigj	
+2020-11-27 08:36:41 [983] : DEBUG -  Se consulta el flujo	
+2020-11-27 08:36:41 [983] : DEBUG -  Se pone el candado de firmado.	
+2020-11-27 08:36:41 [983] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 4379	
+2020-11-27 08:36:41 [983] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 4379	
+2020-11-27 08:36:41 [983] : DEBUG -  Intenta firmar FIREL	
+2020-11-27 08:36:41 [983] : DEBUG -  Finaliza firmar FIREL	
+2020-11-27 08:36:41 [983] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-11-27 08:36:41 [983] : DEBUG -  Se sube el documento con las dos firmas	
+2020-11-27 08:36:41 [983] : DEBUG -  docuemntoPDF: /var/www/html/sicor_extendido_80/storage/app/temporales/por_firmar_4379.pdf	
+2020-11-27 08:36:41 [983] : DEBUG -  url_firma: /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_983_100PIC_1606440207.pdf	
+2020-11-27 08:36:41 [983] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-11-30 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-27 08:36:42 [983] : DEBUG -  Return sello sigj {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_983_100PIC_1606440207.pdf\" \"_983_100PIC_1606440207\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_983_100PIC_16064402072.pdf"}	
+2020-11-27 08:36:42 [983] : DEBUG -  Primer sello sigj {"status":"100","response":{"id_flujo_participante":1031,"finalizacion_flujo":"si","fecha_a_publicar":"2020-11-30","tipo_firma_finalizacion":"firel"},"lista_firma":{"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_983_100PIC_1606440207.pdf\" \"_983_100PIC_1606440207\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_983_100PIC_16064402072.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_983_100PIC_16064402072.pdf","url":"\/temporales\/documento_firmado_983_100PIC_16064402072.pdf"}}	
+2020-11-27 08:36:42 [983] : DEBUG -  Finaliza sello sigj /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_983_100PIC_16064402072.pdf	
+2020-11-27 08:36:42 [983] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:2	
+2020-11-27 08:36:43 [983] : DEBUG -  Se hacen consultas fecha resolucion:2020-12-01 Fecha publicacion: 2020-11-30 número de boletin: 129 Número de firmantes: 1 $arr_num_firas: {"status":100,"response":2,"response_data":[{"flujo_sala_tipo_firma":"sello_sigj","numero":1},{"flujo_sala_tipo_firma":"firel","numero":1}]}	
+2020-11-27 08:36:43 [983] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1606440207.pdf	
+2020-11-27 08:36:43 [983] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_983_100PIC_16064402072.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_983_1606440207_%04d.pdf	
+2020-11-27 08:36:43 [983] : DEBUG -  shell_burst output	
+2020-11-27 08:36:43 [983] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_983_1606440207_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_info_boletin_1606440207.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_983_1606440207_0001.pdf	
+2020-11-27 08:36:43 [983] : DEBUG -  shell_multistamp output	
+2020-11-27 08:36:43 [983] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_983_1606440207_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_983_100PIC_16064402072.pdf	
+2020-11-27 08:36:43 [983] : DEBUG -  shell_cat output	
+2020-11-27 08:36:43 [983] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-11-27 08:36:43 [983] : DEBUG -  Se quita el candado de firmado.	
+2020-11-27 08:36:43 [983] : DEBUG -  Finalización de la firma.	
+2020-11-27 08:36:43 [983] : FIN   -  	
+2020-11-27 08:37:25 [230] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4382	
+2020-11-27 08:37:26 [230] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-01 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-27 08:37:26 [230] : DEBUG -  Finaliza sello sigj /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_100PIC_16064402072.pdf	
+2020-11-27 08:37:26 [230] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:2	
+2020-11-27 08:37:27 [230] : DEBUG -  Se hacen consultas fecha resolucion:2020-12-02 Fecha publicacion: 2020-12-01 número de boletin: 130 Número de firmantes: 1	
+2020-11-27 08:37:27 [230] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1606440207.pdf	
+2020-11-27 08:37:27 [230] : DEBUG -  Se finaliza el sello boletin judicial /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1606440207.pdf	
+2020-11-27 08:37:27 [230] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_100PIC_16064402072.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_230_1606440207_%04d.pdf	
+2020-11-27 08:37:27 [230] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_230_1606440207_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1606440207.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_230_1606440207_0001.pdf	
+2020-11-27 08:37:27 [230] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_230_1606440207_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_100PIC_16064402072.pdf	
+2020-11-27 20:13:35 [787] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4315	
+2020-11-27 20:16:41 [505] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-27 20:16:41 [505] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2020-12-14 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-27 20:16:45 [505] : DEBUG -  Finaliza sello sigj 0	
+2020-11-27 20:31:53 [479] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:4383	
+2020-11-27 20:31:53 [479] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 3/2020-7 |  JC100SA | 2020-11-27 08:36:41 |  JC100J | 2020-11-26 07:24:06 | FP: 2021-01-11 | NAS: 5100-0109-8644-4575-673 -- SIGJ / TSJCDMX --	
+2020-11-27 20:31:55 [479] : DEBUG -  Finaliza sello sigj 0	

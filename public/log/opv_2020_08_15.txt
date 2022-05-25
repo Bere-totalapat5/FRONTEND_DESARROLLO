@@ -1,0 +1,68 @@
+2020-08-15 10:35:39 Array
+(
+    [idDocumento] => 3257245
+    [juzgado] => U4
+    [idMateria] => U
+    [noExpediente] => 6006
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-15 10:34:53
+    [tipoJuicio] => 902
+    [reg_date] => 
+    [idExpediente] => 4632712
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599188,"participacion":1,"tipoPersona":"F","apPaterno":"BUENAVISTA","apMaterno":"BUCIO","nombre":"BERNARDO","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599189,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SECRETARIA DE RELACIONES EXTERIORES"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-15 11:25:14 Array
+(
+    [idDocumento] => 
+    [juzgado] => R100
+    [idMateria] => R
+    [noExpediente] => 220
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-07-13 12:47:34
+    [tipoJuicio] => 357
+    [reg_date] => 
+    [idExpediente] => 5887361
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24985173,"participacion":1,"tipoPersona":"F","apPaterno":"MALDONADO","apMaterno":"PEREZ","nombre":"MAYRA ITZEL","razonSocial":"","email":"MM@CIENCIAS.UNAM.MX"},{"idPersona":24985174,"participacion":1,"tipoPersona":"F","apPaterno":"MONTENEGRO","apMaterno":"ORDOÑEZ","nombre":"MARIO ANDRES","razonSocial":"","email":"MONTENEGROMARIOANDRES@GMAIL.COM"}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2913/3423/835576/1263467/1263468/SOLICITUD DE DIVORCIO con firmas.pdf","idDocument":288639},{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2913/3423/835576/1263467/1263468/Acta de Mat.pdf","idDocument":288640}]
+    [origen] => OPV
+    [nombreCapturista] => MALDONADO PEREZ MAYRA ITZEL
+    [emailCapturista] => MM@CIENCIAS.UNAM.MX
+    [telefonoCapturista] => 5513001003
+    [tipoTramiteDivorcio] => 1
+)
+	
+2020-08-15 11:25:31 Array
+(
+    [idDocumento] => 
+    [juzgado] => R100
+    [idMateria] => R
+    [noExpediente] => 220
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-07-13 12:47:34
+    [tipoJuicio] => 357
+    [reg_date] => 
+    [idExpediente] => 58873611
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":24985173,"participacion":1,"tipoPersona":"F","apPaterno":"MALDONADO","apMaterno":"PEREZ","nombre":"MAYRA ITZEL","razonSocial":"","email":"MM@CIENCIAS.UNAM.MX"},{"idPersona":24985174,"participacion":1,"tipoPersona":"F","apPaterno":"MONTENEGRO","apMaterno":"ORDOÑEZ","nombre":"MARIO ANDRES","razonSocial":"","email":"MONTENEGROMARIOANDRES@GMAIL.COM"}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2913/3423/835576/1263467/1263468/SOLICITUD DE DIVORCIO con firmas.pdf","idDocument":288639},{"status":true,"observaciones":"","url":"http://172.19.202.115:8000//Estructuras/Estructuras/TSJ/OPC//1/2913/3423/835576/1263467/1263468/Acta de Mat.pdf","idDocument":288640}]
+    [origen] => OPV
+    [nombreCapturista] => MALDONADO PEREZ MAYRA ITZEL
+    [emailCapturista] => MM@CIENCIAS.UNAM.MX
+    [telefonoCapturista] => 5513001003
+    [tipoTramiteDivorcio] => 1
+)
+	

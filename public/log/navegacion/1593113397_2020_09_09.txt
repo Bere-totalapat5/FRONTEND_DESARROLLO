@@ -1,0 +1,145 @@
+2020-09-09 10:04:39 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 10:04:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-09 10:05:40 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 10:05:54 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-09 10:07:00 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-09 10:07:06 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-09 10:12:19 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-09 10:12:29 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-09 11:11:33 [0] : DEBUG -  http://216.144.236.27/juicio/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-09 11:12:43 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 5
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-09 11:13:35 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 5
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-09 11:13:45 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 11:33:23 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 11:33:34 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CUANTÍA MENOR MERCANTIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-09 11:33:41 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CUANTÍA MENOR MERCANTIL
+    [juicio] => Pago de daños culposos causados por motivos del transito de vehiculo
+    [tipo_accion] => 
+)
+2020-09-09 11:33:47 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CUANTÍA MENOR MERCANTIL
+    [juicio] => Pago de daños culposos causados por motivos del transito de vehiculo
+    [tipo_accion] => AP
+)
+2020-09-09 11:34:11 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CUANTÍA MENOR MERCANTIL
+    [juicio] => Pago de daños culposos causados por motivos del transito de vehiculo
+    [tipo_accion] => 
+)
+2020-09-09 11:34:19 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CUANTÍA MENOR MERCANTIL
+    [juicio] => Pago de daños culposos causados por motivos del transito de vehiculo
+    [tipo_accion] => AP
+)
+2020-09-09 13:18:04 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 5
+    [anio] => 2020
+    [bis] => 
+)

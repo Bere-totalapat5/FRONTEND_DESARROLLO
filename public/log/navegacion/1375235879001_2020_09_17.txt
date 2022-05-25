@@ -1,0 +1,101 @@
+2020-09-17 09:17:48 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-17 09:17:51 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-17 09:18:00 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-17 09:18:20 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1375235879001
+)
+2020-09-17 09:18:37 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-17 09:18:45 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1375235879001
+)
+2020-09-17 09:18:50 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1375235879001
+)
+2020-09-17 09:20:56 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-17 09:20:56 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-17 09:20:59 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-17 09:22:01 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-17 09:22:21 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/grupos	
+Array
+(
+)
+2020-09-17 09:22:42 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-09-17 09:22:44 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-17 09:22:44 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-17 09:22:44 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-17 09:22:45 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-17 09:22:48 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/ministerioLey/cargarMinisterioLey	
+Array
+(
+    [id_ministerio] => 0
+)
+2020-09-17 09:25:52 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/ministerioLey/cargarMinisterioLey	
+Array
+(
+    [id_ministerio] => 0
+)

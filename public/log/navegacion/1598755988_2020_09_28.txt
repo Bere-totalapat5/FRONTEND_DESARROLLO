@@ -1,0 +1,125 @@
+2020-09-28 09:23:05 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-28 09:23:07 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-28 09:23:08 [0] : DEBUG -  http://172.16.159.181/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-09-28 09:23:14 [0] : DEBUG -  http://172.16.159.181/boletin/listaPublicaciones	
+Array
+(
+)
+2020-09-28 09:23:18 [0] : DEBUG -  http://172.16.159.181/bandejas/buscarPublicaciones	
+Array
+(
+)
+2020-09-28 09:23:25 [0] : DEBUG -  http://172.16.159.181/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-09-28
+    [fecha_hasta] => 2020-09-28
+)
+2020-09-28 09:23:31 [0] : DEBUG -  http://172.16.159.181/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-09-28
+    [fecha_hasta] => 2020-09-28
+)
+2020-09-28 09:23:43 [0] : DEBUG -  http://172.16.159.181/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-09-29
+    [fecha_hasta] => 2020-09-29
+)
+2020-09-28 09:23:55 [0] : DEBUG -  http://172.16.159.181/bandejas/buscarPublicacion/buscar	
+Array
+(
+    [toca] => -
+    [anio_toca] => 0
+    [asunto_toca] => -
+    [fecha_desde] => 2020-09-29
+    [fecha_hasta] => 2020-09-29
+)
+2020-09-28 09:42:16 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-28 14:12:33 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-28 14:12:36 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-28 14:12:52 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-28 14:14:01 [0] : DEBUG -  http://172.16.159.181/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-09-28 14:14:33 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1600406742,200PIC,3930
+)
+2020-09-28 14:14:47 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-28 14:14:47 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-28 14:14:49 [0] : DEBUG -  http://172.16.159.181/crearSelloSigj	
+Array
+(
+)
+2020-09-28 14:15:06 [0] : DEBUG -  http://172.16.159.181/crearSelloSigj	
+Array
+(
+)
+2020-09-28 14:16:49 [0] : DEBUG -  http://172.16.159.181/crearSelloSigj	
+Array
+(
+)
+2020-09-28 14:42:12 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

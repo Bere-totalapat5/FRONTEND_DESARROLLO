@@ -1,0 +1,48 @@
+2020-11-06 11:16:49 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-06 11:16:53 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-06 11:17:34 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-06 11:17:47 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7735
+)
+2020-11-06 11:18:01 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7736
+)
+2020-11-06 11:21:11 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-11-06 11:23:01 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-06 11:23:14 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-06 11:23:34 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-06 11:23:48 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7737
+)
+2020-11-06 11:24:03 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7738
+)

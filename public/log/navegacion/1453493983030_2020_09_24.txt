@@ -1,0 +1,1118 @@
+2020-09-24 18:12:53 [0] : DEBUG -  http://172.16.159.181/promociones/cargar_caratulas_pdf	
+Array
+(
+)
+2020-09-24 18:13:00 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 5
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => cargar_caratulas_pdf
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-24 18:13:02 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 4
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => cargar_caratulas_pdf
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-24 19:07:13 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 19:07:53 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 18
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phplU8xWb
+            [fileName:SplFileInfo:private] => phplU8xWb
+        )
+
+)
+2020-09-24 19:07:53 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526/Problemas%20con%20las%20imporesoras%20DOCX.%20Favor%20de%20consultar%20con%20soporte	
+Array
+(
+)
+2020-09-24 19:09:09 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 18
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phptSe1l3
+            [fileName:SplFileInfo:private] => phptSe1l3
+        )
+
+)
+2020-09-24 19:09:09 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526/Problemas%20con%20las%20imporesoras%20DOCX.%20Favor%20de%20consultar%20con%20soporte	
+Array
+(
+)
+2020-09-24 19:10:36 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526/Problemas%20con%20las%20imporesoras%20DOCX.%20Favor%20de%20consultar%20con%20soporte	
+Array
+(
+)
+2020-09-24 19:10:55 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 18
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php2tvuJp
+            [fileName:SplFileInfo:private] => php2tvuJp
+        )
+
+)
+2020-09-24 19:12:22 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 19:17:25 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 19:17:28 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 18
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpWoiTih
+            [fileName:SplFileInfo:private] => phpWoiTih
+        )
+
+)
+2020-09-24 19:17:34 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:22:38 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 19:23:46 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1595825526
+    [juzgado] => 100PIC
+)
+2020-09-24 19:25:07 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 19:25:14 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1600993051
+    [id_juicio] => 1595825526
+    [codigo_organo] => 100PIC
+)
+2020-09-24 19:25:20 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600993051
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 3978
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1595825526
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-09-24 19:25:23 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599690053
+    [id_juicio] => 1595825526
+    [codigo_organo] => 100PIC
+)
+2020-09-24 19:25:34 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599690012
+    [id_juicio] => 1595825526
+    [codigo_organo] => 100PIC
+)
+2020-09-24 19:25:38 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599690053
+    [id_juicio] => 1595825526
+    [codigo_organo] => 100PIC
+)
+2020-09-24 19:25:42 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599689905
+    [id_juicio] => 1595825526
+    [codigo_organo] => 100PIC
+)
+2020-09-24 19:25:50 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599689905
+    [id_juicio] => 1595825526
+    [codigo_organo] => 100PIC
+)
+2020-09-24 19:26:00 [0] : DEBUG -  http://172.16.159.181/juicio/nuevo	
+Array
+(
+)
+2020-09-24 19:26:04 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 19:26:06 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 19:26:10 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:36:01 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:36:16 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1600833779,100PIC,3976
+)
+2020-09-24 19:36:21 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1600993051,100PIC,3978
+)
+2020-09-24 19:39:34 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:40:00 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:40:25 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 19
+    [tipo_acuerdo] => sentencia definitiva
+    [subtipo_acuerdo] => Absolutoria
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => AneTec_SIGJ_A_2021_v0.1.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpdIG9a8
+            [fileName:SplFileInfo:private] => phpdIG9a8
+        )
+
+)
+2020-09-24 19:40:30 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:40:44 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:41:37 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:42:11 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:42:20 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600994429
+)
+2020-09-24 19:42:30 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:43:54 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:53:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:53:32 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1600833779,100PIC,3976
+)
+2020-09-24 19:54:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:55:05 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 19:59:37 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:00:15 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:02:27 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:02:59 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:03:40 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:03:53 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:04:10 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:04:35 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:05:13 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 20
+    [tipo_acuerdo] => sentencia definitiva
+    [subtipo_acuerdo] => Absolutoria
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpl6XFnO
+            [fileName:SplFileInfo:private] => phpl6XFnO
+        )
+
+)
+2020-09-24 20:05:17 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:06:44 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 20:07:22 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 20:07:28 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1600995916
+    [ponencia] => 100PIC
+    [id_documento] => 3982
+    [tipo_documento] => pdf
+)
+2020-09-24 20:07:31 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1600994429
+    [ponencia] => 100PIC
+    [id_documento] => 3980
+    [tipo_documento] => pdf
+)
+2020-09-24 20:07:41 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1600995916,100PIC,3982-1600994429,100PIC,3980-
+)
+2020-09-24 20:07:50 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600995916
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 3982
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1595825526
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-09-24 20:07:50 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600994429
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 3980
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1595825526
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-09-24 20:10:44 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599690053
+    [ponencia] => 100PIC
+    [id_documento] => 3768
+    [tipo_documento] => pdf
+)
+2020-09-24 20:12:24 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 20:17:29 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 20:22:42 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 20:27:45 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 20:32:54 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 20:38:01 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 20:39:44 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-24 20:39:44 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 20:39:47 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 20:43:11 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 20:48:14 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:12:55 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-09-24 21:12:59 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:14:02 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:15:23 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:23:11 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:23:58 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:27:16 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:27:25 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:29:00 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:34:05 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:34:06 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:34:39 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:35:18 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:36:11 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-24 21:36:11 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 21:39:13 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:41:55 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:44:26 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:49:31 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:54:16 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:54:39 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 21:58:59 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:59:31 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 21:59:45 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:00:02 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:00:44 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:01:35 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:02:21 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:02:43 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-24 22:02:43 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 22:02:46 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 22:04:57 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:08:49 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:09:24 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:10:00 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:12:02 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-24 22:12:02 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 22:12:04 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 22:12:22 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-24 22:12:22 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 22:12:25 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 22:15:03 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:15:22 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:15:35 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:16:56 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:20:13 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:22:50 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:23:19 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:23:30 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 22:25:15 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:25:24 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-24 22:25:24 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 22:25:26 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 22:30:28 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:31:40 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:34:06 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 22:34:24 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:39:37 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:44:48 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:50:00 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 22:55:03 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:00:05 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:05:08 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:10:11 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:15:14 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:20:18 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:23:02 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599690053
+    [id_juicio] => 1595825526
+    [codigo_organo] => 100PIC
+)
+2020-09-24 23:23:07 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-24 23:23:09 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-24 23:23:19 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 23:25:49 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 21
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpBo9WcU
+            [fileName:SplFileInfo:private] => phpBo9WcU
+        )
+
+)
+2020-09-24 23:25:52 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 23:26:10 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 22
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => documentoDePruebaSICOR.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpM0WA46
+            [fileName:SplFileInfo:private] => phpM0WA46
+        )
+
+)
+2020-09-24 23:26:13 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 23:26:45 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 23
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-09-24
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => sent. 654.19.mht
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/octet-stream
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpPXUQj9
+            [fileName:SplFileInfo:private] => phpPXUQj9
+        )
+
+)
+2020-09-24 23:26:51 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-24 23:27:03 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:27:13 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/preview	
+Array
+(
+    [arr_imprimir] => 1601008008,100PIC,3995-1601007972,100PIC,3993-1601007951,100PIC,3991-
+)
+2020-09-24 23:27:42 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601008008
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 3995
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1595825526
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-09-24 23:27:43 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601007951
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 2
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 3991
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1595825526
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-09-24 23:27:43 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1601007972
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 1
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 3993
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 1
+    [modal_id_juicio] => 1595825526
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => sello_sigj
+    [password] => Lbh_220609
+)
+2020-09-24 23:30:05 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 23:32:11 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:35:31 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 23:35:48 [0] : DEBUG -  http://172.16.159.181/probar_pdf	
+Array
+(
+)
+2020-09-24 23:37:17 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:38:14 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:43:20 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:48:26 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:53:39 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-24 23:58:52 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)

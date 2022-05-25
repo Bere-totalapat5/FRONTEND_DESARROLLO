@@ -1,0 +1,163 @@
+2020-10-21 13:48:23 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-21 13:48:26 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-21 13:48:35 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-21 14:00:21 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-21 14:14:35 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-21 14:16:35 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => seccion_destinatario
+                    [value] => Para pruebas con destinatario
+                )
+
+            [2] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 1331
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-21
+                )
+
+            [4] => Array
+                (
+                    [name] => asunto
+                    [value] => pruebas VI
+                )
+
+            [5] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-23
+                )
+
+            [6] => Array
+                (
+                    [name] => observaciones
+                    [value] => Ejemplo de prueba con destinatario
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => 
+)
+2020-10-21 14:18:39 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-21 14:19:39 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => destinatario
+                    [value] => DESTINATARIO DE PRUEBA
+                )
+
+            [2] => Array
+                (
+                    [name] => no_oficio
+                    [value] => 3113
+                )
+
+            [3] => Array
+                (
+                    [name] => fecha_oficio
+                    [value] => 2020-10-19
+                )
+
+            [4] => Array
+                (
+                    [name] => asunto
+                    [value] => pruebas IV
+                )
+
+            [5] => Array
+                (
+                    [name] => fecha_entrega
+                    [value] => 2020-10-23
+                )
+
+            [6] => Array
+                (
+                    [name] => observaciones
+                    [value] => PRUEBAS CON DESTINATARIO
+                )
+
+        )
+
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+    [id_juicio] => 
+    [expediente] => 
+    [anio] => 
+    [bis] => 
+    [tipo_juicio] => 
+)
+2020-10-21 14:19:42 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/25	
+Array
+(
+)
+2020-10-21 14:20:35 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29230
+    [tabla] => libros_oficios_juzgado_
+    [materia] => PIC
+)
+2020-10-21 14:22:14 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

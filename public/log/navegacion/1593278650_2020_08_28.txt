@@ -1,0 +1,12 @@
+2020-08-28 12:19:15 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-28 12:19:17 [0] : DEBUG -  http://216.144.236.27/notificaciones/sin_notificar	
+Array
+(
+)
+2020-08-28 12:19:42 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

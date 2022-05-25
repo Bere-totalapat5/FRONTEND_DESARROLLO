@@ -1,0 +1,26 @@
+2020-09-01 13:03:16 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-01 13:03:20 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-01 13:03:23 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-01 13:03:28 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

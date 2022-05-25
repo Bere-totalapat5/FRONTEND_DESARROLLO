@@ -1,0 +1,26 @@
+2020-08-20 16:23:58 [729] : INIC  -  Juzgado: 100JFO Usuario: JFO100SA Acuerdo: 22/2020-7 id_juicio: 1597953244 id_acuerdo: 1597958410	
+2020-08-20 16:23:58 [729] : DEBUG -  Se consulta el flujo	
+2020-08-20 16:23:58 [729] : DEBUG -  Se pone el candado de firmado.	
+2020-08-20 16:23:58 [729] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3248	
+2020-08-20 16:23:59 [729] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3248	
+2020-08-20 16:23:59 [729] : DEBUG -  Intenta firmar FIREL	
+2020-08-20 16:24:01 [729] : DEBUG -  Finaliza firmar FIREL	
+2020-08-20 16:24:02 [729] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-20 16:24:02 [729] : DEBUG -  Se quita el candado de firmado.	
+2020-08-20 16:24:02 [729] : DEBUG -  Finalización de la firma.	
+2020-08-20 16:24:02 [729] : FIN   -  	
+2020-08-20 16:24:32 [194] : INIC  -  Juzgado: 100JFO Usuario: jfo100sb Acuerdo: 22/2020-7 id_juicio: 1597953244 id_acuerdo: 1597958410	
+2020-08-20 16:24:32 [194] : DEBUG -  Se consulta el flujo	
+2020-08-20 16:24:32 [194] : DEBUG -  Se pone el candado de firmado.	
+2020-08-20 16:24:33 [194] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3249	
+2020-08-20 16:24:33 [194] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3249	
+2020-08-20 16:24:33 [194] : DEBUG -  Intenta firmar FIREL	
+2020-08-20 16:24:36 [194] : DEBUG -  Finaliza firmar FIREL	
+2020-08-20 16:24:36 [194] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-20 16:24:37 [194] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3250	
+2020-08-20 16:24:37 [194] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Familiar de Proceso Oral | 22/2020-7 |  JFO100SA | 2020-08-20 04:24:01 |  JFO100SB | 2020-08-20 04:24:36 | FP: 2020-08-24 00:00:00 | NAS: 5100-0109-2843-7565-990 -- SIGJ / TSJCDMX --	
+2020-08-20 16:24:43 [194] : DEBUG -  Finaliza sello sigj	
+2020-08-20 16:24:43 [194] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-20 16:24:44 [194] : DEBUG -  Se quita el candado de firmado.	
+2020-08-20 16:24:44 [194] : DEBUG -  Finalización de la firma.	
+2020-08-20 16:24:44 [194] : FIN   -  	

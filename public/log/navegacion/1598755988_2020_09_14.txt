@@ -1,0 +1,398 @@
+2020-09-14 11:40:22 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-14 11:40:24 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 11:40:30 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 11:40:47 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 11:41:07 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7409
+    [save] => 1
+)
+2020-09-14 11:41:31 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 15:38:51 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-14 15:38:57 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 15:39:05 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 15:40:18 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1600032987
+    [parte] => 1
+    [permiso] => 1
+)
+2020-09-14 15:40:20 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1600032987
+    [parte] => 1
+    [permiso] => 0
+)
+2020-09-14 18:01:49 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 18:01:56 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:07:51 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578510089477	
+Array
+(
+)
+2020-09-14 19:07:53 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-14 19:07:53 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 19:07:56 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 19:07:58 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:08:03 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:08:08 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1599536232
+    [arr_imprimir] => 0,0,7415-1599536387,200PIC,3710-0,0,7409-1599536869,200PIC,3715-0,0,7407-1599537516,200PIC,3720-0,0,7411-1599538407,200PIC,3725-0,0,7413-1599539522,200PIC,3730-1599540133,200PIC,3735-1600032987,200PIC,3859-1600033379,200PIC,3862-
+    [arr_orden] => 1,1599536075394,demanda,2020-09-04 09:20:11--,1599536387,acuerdo,2020-09-09 00:00:00--1,1599536762504,demanda,2020-09-07 22:45:00--,1599536869,acuerdo,2020-09-09 00:00:00--1,1599536597425,demanda,2020-09-04 09:20:11--,1599537516,acuerdo,2020-09-09 00:00:00--1,1599538235901,demanda,2020-09-07 23:07:00--,1599538407,acuerdo,2020-09-09 00:00:00--1,1599539079772,demanda,2020-09-07 23:24:00--,1599539522,acuerdo,2020-09-09 00:00:00--,1599540133,acuerdo,2020-09-09 00:00:00--,1600032987,acuerdo,2020-09-15 00:00:00--1,1600033379,acuerdo,2020-09-15 00:00:00--
+)
+2020-09-14 19:11:07 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:11:12 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:11:32 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1600032987
+    [ponencia] => 200PIC
+    [id_documento] => 3859
+    [tipo_documento] => pdf
+)
+2020-09-14 19:11:42 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1600033379
+    [ponencia] => 200PIC
+    [id_documento] => 3862
+    [tipo_documento] => pdf
+)
+2020-09-14 19:11:46 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1600032987
+    [ponencia] => 200PIC
+    [id_documento] => 3859
+    [tipo_documento] => pdf
+)
+2020-09-14 19:12:08 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1600032987,200PIC,3859-
+)
+2020-09-14 19:13:53 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:14:22 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1600033379,200PIC,3862-
+)
+2020-09-14 19:14:26 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:15:17 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:15:43 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:15:53 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-09-14 19:16:10 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-14 19:16:12 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 19:16:15 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 19:16:18 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:17:32 [0] : DEBUG -  http://172.16.159.181/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-09-14 19:17:42 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 19:17:45 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 19:17:49 [0] : DEBUG -  http://172.16.159.181/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-09-14 19:18:01 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1600032987
+    [ponencia] => 200PIC
+    [id_documento] => 3859
+    [tipo_documento] => pdf
+)
+2020-09-14 19:21:09 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-14 19:21:12 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 19:21:23 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:24:36 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-14 19:24:38 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-14 19:24:41 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:29:08 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+)
+2020-09-14 19:29:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:29:24 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1599536232
+    [arr_imprimir] => 0,0,7415-1599536387,200PIC,3710-0,0,7409-1599536869,200PIC,3715-0,0,7407-1599537516,200PIC,3720-0,0,7411-1599538407,200PIC,3725-0,0,7413-1599539522,200PIC,3730-1599540133,200PIC,3735-1600032987,200PIC,3859-1600033379,200PIC,3862-
+    [arr_orden] => 1,1599536075394,demanda,2020-09-04 09:20:11--,1599536387,acuerdo,2020-09-09 00:00:00--1,1599536762504,demanda,2020-09-07 22:45:00--,1599536869,acuerdo,2020-09-09 00:00:00--1,1599536597425,demanda,2020-09-04 09:20:11--,1599537516,acuerdo,2020-09-09 00:00:00--1,1599538235901,demanda,2020-09-07 23:07:00--,1599538407,acuerdo,2020-09-09 00:00:00--1,1599539079772,demanda,2020-09-07 23:24:00--,1599539522,acuerdo,2020-09-09 00:00:00--,1599540133,acuerdo,2020-09-09 00:00:00--,1600032987,acuerdo,2020-09-15 00:00:00--,1600033379,acuerdo,2020-09-15 00:00:00--
+)
+2020-09-14 19:30:28 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:30:34 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:30:39 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1599536232
+    [arr_imprimir] => 0,0,7415-1599536387,200PIC,3710-0,0,7409-1599536869,200PIC,3715-0,0,7407-1599537516,200PIC,3720-0,0,7411-1599538407,200PIC,3725-0,0,7413-1599539522,200PIC,3730-1599540133,200PIC,3735-1600032987,200PIC,3859-1600033379,200PIC,3862-
+    [arr_orden] => 1,1599536075394,demanda,2020-09-04 09:20:11--,1599536387,acuerdo,2020-09-09 00:00:00--1,1599536762504,demanda,2020-09-07 22:45:00--,1599536869,acuerdo,2020-09-09 00:00:00--1,1599536597425,demanda,2020-09-04 09:20:11--,1599537516,acuerdo,2020-09-09 00:00:00--1,1599538235901,demanda,2020-09-07 23:07:00--,1599538407,acuerdo,2020-09-09 00:00:00--1,1599539079772,demanda,2020-09-07 23:24:00--,1599539522,acuerdo,2020-09-09 00:00:00--,1599540133,acuerdo,2020-09-09 00:00:00--,1600032987,acuerdo,2020-09-15 00:00:00--,1600033379,acuerdo,2020-09-15 00:00:00--
+)
+2020-09-14 19:32:05 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:32:11 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:32:13 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1599536232
+    [arr_imprimir] => 0,0,7415-1599536387,200PIC,3710-0,0,7409-1599536869,200PIC,3715-0,0,7407-1599537516,200PIC,3720-0,0,7411-1599538407,200PIC,3725-0,0,7413-1599539522,200PIC,3730-1599540133,200PIC,3735-1600032987,200PIC,3859-1600033379,200PIC,3862-
+    [arr_orden] => 1,1599536075394,demanda,2020-09-04 09:20:11--,1599536387,acuerdo,2020-09-09 00:00:00--1,1599536762504,demanda,2020-09-07 22:45:00--,1599536869,acuerdo,2020-09-09 00:00:00--1,1599536597425,demanda,2020-09-04 09:20:11--,1599537516,acuerdo,2020-09-09 00:00:00--1,1599538235901,demanda,2020-09-07 23:07:00--,1599538407,acuerdo,2020-09-09 00:00:00--1,1599539079772,demanda,2020-09-07 23:24:00--,1599539522,acuerdo,2020-09-09 00:00:00--,1599540133,acuerdo,2020-09-09 00:00:00--,1600032987,acuerdo,2020-09-15 00:00:00--,1600033379,acuerdo,2020-09-15 00:00:00--
+)
+2020-09-14 19:35:06 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:35:11 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:35:13 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1599536232
+    [arr_imprimir] => 0,0,7415-1599536387,200PIC,3710-0,0,7409-1599536869,200PIC,3715-0,0,7407-1599537516,200PIC,3720-0,0,7411-1599538407,200PIC,3725-0,0,7413-1599539522,200PIC,3730-1599540133,200PIC,3735-1600032987,200PIC,3859-1600033379,200PIC,3862-
+    [arr_orden] => 1,1599536075394,demanda,2020-09-04 09:20:11--,1599536387,acuerdo,2020-09-09 00:00:00--1,1599536762504,demanda,2020-09-07 22:45:00--,1599536869,acuerdo,2020-09-09 00:00:00--1,1599536597425,demanda,2020-09-04 09:20:11--,1599537516,acuerdo,2020-09-09 00:00:00--1,1599538235901,demanda,2020-09-07 23:07:00--,1599538407,acuerdo,2020-09-09 00:00:00--1,1599539079772,demanda,2020-09-07 23:24:00--,1599539522,acuerdo,2020-09-09 00:00:00--,1599540133,acuerdo,2020-09-09 00:00:00--,1600032987,acuerdo,2020-09-15 00:00:00--,1600033379,acuerdo,2020-09-15 00:00:00--
+)
+2020-09-14 19:38:10 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599536232	
+Array
+(
+)
+2020-09-14 19:38:15 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599536232
+    [juzgado] => 200PIC
+)
+2020-09-14 19:38:17 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1599536232
+    [arr_imprimir] => 0,0,7415-1599536387,200PIC,3710-0,0,7409-1599536869,200PIC,3715-0,0,7407-1599537516,200PIC,3720-0,0,7411-1599538407,200PIC,3725-0,0,7413-1599539522,200PIC,3730-1599540133,200PIC,3735-1600032987,200PIC,3859-1600033379,200PIC,3862-
+    [arr_orden] => 1,1599536075394,demanda,2020-09-04 09:20:11--,1599536387,acuerdo,2020-09-09 00:00:00--1,1599536762504,demanda,2020-09-07 22:45:00--,1599536869,acuerdo,2020-09-09 00:00:00--1,1599536597425,demanda,2020-09-04 09:20:11--,1599537516,acuerdo,2020-09-09 00:00:00--1,1599538235901,demanda,2020-09-07 23:07:00--,1599538407,acuerdo,2020-09-09 00:00:00--1,1599539079772,demanda,2020-09-07 23:24:00--,1599539522,acuerdo,2020-09-09 00:00:00--,1599540133,acuerdo,2020-09-09 00:00:00--,1600032987,acuerdo,2020-09-15 00:00:00--,1600033379,acuerdo,2020-09-15 00:00:00--
+)
+2020-09-14 19:54:58 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

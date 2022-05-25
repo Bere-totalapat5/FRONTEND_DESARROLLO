@@ -1,0 +1,22 @@
+2020-09-22 23:04:37 [959] : INIC  -  Juzgado: 100PIC Usuario: JC100J Acuerdo: 1/2020-17 id_juicio: 1595825526 id_acuerdo: 1600833779	
+2020-09-22 23:04:37 [959] : DEBUG -  Se consulta el flujo	
+2020-09-22 23:04:38 [959] : DEBUG -  Se pone el candado de firmado.	
+2020-09-22 23:04:38 [959] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3974	
+2020-09-22 23:04:38 [959] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3974	
+2020-09-22 23:04:38 [959] : DEBUG -  Intenta firmar FIREL	
+2020-09-22 23:04:41 [959] : DEBUG -  Finaliza firmar FIREL	
+2020-09-22 23:04:41 [959] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finaliz贸 el flujo.	
+2020-09-22 23:04:41 [959] : DEBUG -  Se quita el candado de firmado.	
+2020-09-22 23:04:41 [959] : DEBUG -  Finalizaci贸n de la firma.	
+2020-09-22 23:04:41 [959] : FIN   -  	
+2020-09-22 23:05:08 [373] : INIC  -  Juzgado: 100PIC Usuario: JC100SA Acuerdo: 1/2020-17 id_juicio: 1595825526 id_acuerdo: 1600833779	
+2020-09-22 23:05:08 [373] : DEBUG -  Se consulta el flujo	
+2020-09-22 23:05:08 [373] : DEBUG -  Se pone el candado de firmado.	
+2020-09-22 23:05:08 [373] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 3975	
+2020-09-22 23:05:08 [373] : DEBUG -  Intenta descargar documento WORD acuerdo - ultima version: 3975	
+2020-09-22 23:05:08 [373] : DEBUG -  Intenta firmar FIREL	
+2020-09-22 23:05:13 [373] : DEBUG -  Finaliza firmar FIREL	
+2020-09-22 23:05:14 [373] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finaliz贸 el flujo.	
+2020-09-22 23:05:14 [373] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:3976	
+2020-09-22 23:05:14 [373] : DEBUG -  El flujo finaliz贸, el sello SIGJ es: Sello electr髇ico SIGJ / TSJCDMX -- Cent茅simo de lo Civil | 1/2020-17 |  JC100SA | 2020-09-22 11:05:13 |  JC100J | 2020-09-22 11:04:41 | FP: 2020-09-24 | NAS: 5100-0109-4810-2214-581 -- SIGJ / TSJCDMX --	
+2020-09-22 23:05:14 [373] : DEBUG -  Finaliza sello sigj 0	

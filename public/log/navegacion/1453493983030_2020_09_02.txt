@@ -1,0 +1,526 @@
+2020-09-02 13:07:12 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-02 13:07:26 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-02 18:16:13 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 18:16:17 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 18:16:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 18:17:00 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 18:17:12 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 7
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:19:03 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/21	
+Array
+(
+)
+2020-09-02 20:19:07 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+    [usuario] => JC100J
+    [password] => masterpass
+    [tipo] => web
+    [next] => libros_gobierno/juzgado/21
+)
+2020-09-02 20:19:07 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 20:19:11 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 20:19:14 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 20:19:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 12
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:20:15 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 12
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:24:52 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 20:25:00 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 13
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:31:38 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 20:31:47 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 14
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:40:40 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 14
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:40:53 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 20:41:02 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 15
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:41:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 14
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:44:19 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 20:44:27 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 16
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:45:46 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 20:45:54 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 17
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 20:58:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 20:58:33 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 18
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 21:30:51 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 21:30:55 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 21:31:04 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 19
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 21:38:24 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 21:38:34 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 19
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 21:41:41 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 21:41:50 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 20
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 21:46:33 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 21:46:44 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 21
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 21:52:49 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 21:52:58 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 22
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 21:56:27 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 21:56:36 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 23
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 21:56:47 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 21:56:56 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 23
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 22:01:08 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 22:01:17 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 24
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 22:01:32 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 24
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 22:04:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 22:04:54 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 25
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 22:20:44 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 22:20:53 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 26
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 22:45:58 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 22:46:02 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-02 22:53:58 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 22:54:03 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 22:54:12 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 27
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 22:56:17 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 22:56:28 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 22:56:42 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => EXHORTO
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-02 23:05:39 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 23:05:45 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 23:05:55 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 29
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 23:07:51 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 23:08:01 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 30
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 23:08:47 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 23:08:56 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 31
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 23:13:12 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 23:13:17 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 31
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 23:13:22 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 32
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 23:14:30 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 23:14:39 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 33
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 23:15:52 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 23:16:01 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 34
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 23:28:04 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/18	
+Array
+(
+)
+2020-09-02 23:28:13 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 35
+    [tabla] => libros_egresos_juzgado_
+    [materia] => PIC
+)
+2020-09-02 23:35:46 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => EXHORTO
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-02 23:36:35 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 23:40:10 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-09-02 23:40:34 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => exhorto
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-02 23:40:44 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-02 23:40:50 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-02 23:40:56 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-02 23:41:02 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AP
+)
+2020-09-02 23:44:54 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 1
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => exhorto
+            [fecha_ingreso] => 2020-09-02
+            [id_catalogo_juicio] => 14
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => Raul
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => demandado
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-09-02 23:44:59 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)

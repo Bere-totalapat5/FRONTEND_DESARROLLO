@@ -1,0 +1,92 @@
+2020-09-10 19:40:14 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 19:40:18 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-10 19:40:18 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 20:30:22 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 20:39:01 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 20:39:06 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1596853751/Problemas%20con%20las%20imporesoras%20DOCX.%20Favor%20de%20consultar%20con%20soporte	
+Array
+(
+)
+2020-09-10 20:39:07 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-10 20:39:07 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 20:39:12 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-10 20:39:15 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 20:41:00 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-10 20:41:06 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 20:41:48 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 20:44:16 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-10 20:44:31 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-10 20:44:31 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-10 20:44:35 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-10 20:44:38 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-10 20:46:54 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-10 20:47:47 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-10 20:48:40 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-10 20:50:43 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-10 20:50:53 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

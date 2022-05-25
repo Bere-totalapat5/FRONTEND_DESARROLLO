@@ -1,0 +1,86 @@
+2020-09-22 00:00:16 [0] : DEBUG -  http://155.94.139.2/juicio/editar/446198	
+Array
+(
+)
+2020-09-22 00:00:30 [0] : DEBUG -  http://155.94.139.2/juicio/editar/446198	
+Array
+(
+)
+2020-09-22 00:01:41 [0] : DEBUG -  http://155.94.139.2/juicio/editar/446192	
+Array
+(
+)
+2020-09-22 00:01:43 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-22 00:01:48 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 00:01:56 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1578503871569	
+Array
+(
+)
+2020-09-22 00:01:59 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => 
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-22 00:03:57 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1578503871569	
+Array
+(
+)
+2020-09-22 00:04:30 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1578503871569	
+Array
+(
+)
+2020-09-22 00:04:38 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-22 00:04:38 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-22 00:04:38 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-09-22 00:04:38 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-09-22 00:09:12 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

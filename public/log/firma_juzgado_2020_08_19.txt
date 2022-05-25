@@ -1,0 +1,4 @@
+2020-08-19 19:22:21 [338] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-12 id_juicio: 1578508855890 id_acuerdo: 1597766231	
+2020-08-19 19:22:21 [338] : DEBUG -  Se consulta el flujo	
+2020-08-19 19:22:21 [338] : ERROR -  El acuerdo tiene candado de proceso de firmado.	
+2020-08-19 19:22:21 [338] : FIN   -  	

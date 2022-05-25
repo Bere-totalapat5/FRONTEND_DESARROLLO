@@ -1,0 +1,1143 @@
+2020-09-27 15:35:43 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 16:13:10 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 16:13:10 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 16:34:51 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 16:34:51 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 17:58:09 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:00:22 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:01:22 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-27 18:01:33 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:11:48 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:14:16 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:14:55 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:24:11 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:25:15 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:26:14 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:31:09 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 18:31:12 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 18:31:28 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 18:31:40 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 18:59:00 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 18:59:06 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 18:59:15 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 19:03:46 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 19:04:18 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 19:05:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 19:06:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 19:06:45 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 19:09:54 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:09:56 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:09:59 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 19:10:05 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:10:16 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:10:19 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:14:45 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:14:52 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 19:14:57 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:15:25 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:15:49 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:16:12 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:17:55 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:18:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:19 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:20 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:20 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:28 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:29 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:18:29 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 19:21:04 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:22:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:22:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:23:00 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:23:02 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:24:46 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:25:02 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:25:10 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:25:42 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:26:00 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:26:27 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:26:43 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:26:58 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:27:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:27:26 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:28:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:28:30 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:29:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:30:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:31:43 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:33:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:33:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:33:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:34:05 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:34:11 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:34:18 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:34:27 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:34:33 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:34:43 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:34:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:35:01 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:35:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:37:16 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:37:53 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:38:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:38:21 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:38:37 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:38:48 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:38:58 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:39:17 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:39:27 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:39:43 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:39:53 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:40:14 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:40:57 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:41:05 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:41:16 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:41:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:41:59 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:42:24 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:42:33 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:42:42 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:45:14 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:45:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:45:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIAG	
+Array
+(
+)
+2020-09-27 19:45:53 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:46:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:46:57 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:47:01 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:47:04 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIA	
+Array
+(
+)
+2020-09-27 19:50:06 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 19:50:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:54:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIA	
+Array
+(
+)
+2020-09-27 19:54:46 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIA	
+Array
+(
+)
+2020-09-27 19:54:51 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:54:57 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:55:30 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:56:21 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:56:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:56:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 19:57:28 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PC	
+Array
+(
+)
+2020-09-27 19:57:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 19:59:22 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 19:59:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 19:59:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:00:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:00:42 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:01:20 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:01:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:02:40 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:02:46 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:02:53 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:03:04 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:03:37 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:04:01 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:04:12 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:04:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:04:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:04:56 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:05:01 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:05:08 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:07:03 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:08:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:10:01 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:10:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:11:22 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:11:43 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:12:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:12:14 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/UGJJA	
+Array
+(
+)
+2020-09-27 20:12:20 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:13:36 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:27:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:29:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 20:29:55 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:30:14 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:30:44 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 20:30:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:32:10 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:32:49 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:32:51 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:33:17 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:33:20 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:40:28 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:40:34 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:40:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:42:34 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:42:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:43:16 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:43:22 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 100PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:53:03 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:53:09 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:54:49 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:54:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:55:32 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:55:36 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:56:24 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:56:31 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 20:59:15 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 20:59:18 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 21:07:10 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 21:07:13 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 21:25:17 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 21:25:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:06:27 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:06:30 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:09:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:09:13 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:10:34 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:10:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:10:59 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:11:01 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:11:06 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:11:08 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:11:28 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:11:33 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:11:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:12:14 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:12:16 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:12:45 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:13:11 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:16:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:17:08 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:23:02 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:23:05 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:23:29 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 23:23:42 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 23:23:49 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:23:53 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 2PIC
+    [subtipo] => PIC
+    [nombre_largo] => Segundo de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:24:28 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:26:10 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:26:54 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:33:49 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:35:42 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:35:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id] => 102
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:36:03 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:36:07 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id] => 102
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:39:55 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:39:58 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id] => 102
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:40:30 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-27 23:40:30 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 23:41:42 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 23:43:18 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 23:43:23 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 23:43:49 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 23:43:52 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 23:44:15 [0] : DEBUG -  http://172.16.159.181/anales/editar/2	
+Array
+(
+)
+2020-09-27 23:44:18 [0] : DEBUG -  http://172.16.159.181/anales	
+Array
+(
+)
+2020-09-27 23:44:20 [0] : DEBUG -  http://172.16.159.181/anales/editar/102	
+Array
+(
+)
+2020-09-27 23:44:55 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:47:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:48:41 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:48:45 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:49:34 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:49:38 [0] : DEBUG -  http://172.16.159.181/anales/editar/sincronizarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+    [subtipo] => PIC
+    [nombre_largo] => Primero de lo Civil
+    [numero_boletin] => 102
+    [fecha_boletin] => 2020-09-28
+)
+2020-09-27 23:50:17 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:54:15 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:55:39 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:56:30 [0] : DEBUG -  http://172.16.159.181/anales/editar/102/PIC	
+Array
+(
+)
+2020-09-27 23:56:34 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 1PIC
+)
+2020-09-27 23:56:47 [0] : DEBUG -  http://172.16.159.181/anales/editar/cargarJuzgadoBoletin	
+Array
+(
+    [id_boletin_registro] => 2
+    [juzgado] => 2PIC
+)

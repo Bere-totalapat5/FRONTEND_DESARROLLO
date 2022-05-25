@@ -1,0 +1,12 @@
+#modal-ver .modal-dialog {
+  min-width: 1000px;
+}
+
+@media only screen and (max-width: 768px) {
+  #modal-ver .modal-dialog {
+    margin-left: 0;
+    margin-right: 0;
+    min-width: 100%;
+  }
+}
+

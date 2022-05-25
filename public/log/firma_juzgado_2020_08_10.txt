@@ -1,0 +1,108 @@
+2020-08-10 14:21:12 [896] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:21:12 [896] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 14:21:12 [896] : DEBUG -  Se consulta el flujo	
+2020-08-10 14:21:12 [896] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2971	
+2020-08-10 14:30:14 [613] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:30:14 [613] : ERROR -  El acuerdo tiene candado de proceso de firmado.	
+2020-08-10 14:30:14 [613] : FIN   -  	
+2020-08-10 14:31:44 [534] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:31:44 [534] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 14:31:44 [534] : DEBUG -  Se consulta el flujo	
+2020-08-10 14:31:44 [534] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2971	
+2020-08-10 14:31:44 [534] : ERROR -  MD5 NO SON IGUALES	
+2020-08-10 14:31:44 [534] : FIN   -  	
+2020-08-10 14:32:49 [383] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:32:49 [383] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 14:32:49 [383] : DEBUG -  Se consulta el flujo	
+2020-08-10 14:32:50 [383] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2971	
+2020-08-10 14:32:50 [383] : ERROR -  MD5 NO SON IGUALES 07d074387bc60d90d4322d6ae9c2999d y 4bcdf8de790f5bcdca542ac5ea743e65	
+2020-08-10 14:32:50 [383] : FIN   -  	
+2020-08-10 14:41:25 [749] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:41:25 [749] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 14:41:25 [749] : DEBUG -  Se consulta el flujo	
+2020-08-10 14:41:25 [749] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2971	
+2020-08-10 14:41:25 [749] : ERROR -  MD5 NO SON IGUALES 07d074387bc60d90d4322d6ae9c2999d y 4bcdf8de790f5bcdca542ac5ea743e65	
+2020-08-10 14:41:25 [749] : FIN   -  	
+2020-08-10 14:46:52 [964] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:46:52 [964] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 14:46:52 [964] : DEBUG -  Se consulta el flujo	
+2020-08-10 14:46:53 [964] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2971	
+2020-08-10 14:46:53 [964] : ERROR -  MD5 NO SON IGUALES 07d074387bc60d90d4322d6ae9c2999d y 4bcdf8de790f5bcdca542ac5ea743e65	
+2020-08-10 14:46:53 [964] : FIN   -  	
+2020-08-10 14:48:27 [515] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:48:27 [515] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 14:48:27 [515] : DEBUG -  Se consulta el flujo	
+2020-08-10 14:48:27 [515] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2971	
+2020-08-10 14:50:32 [125] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:50:32 [125] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 14:50:32 [125] : DEBUG -  Se consulta el flujo	
+2020-08-10 14:50:32 [125] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2971	
+2020-08-10 14:50:32 [125] : ERROR -  MD5 NO SON IGUALES 1e4430ee94e678c5087a06dab766fc63 y 4bcdf8de790f5bcdca542ac5ea743e65	
+2020-08-10 14:50:32 [125] : FIN   -  	
+2020-08-10 14:51:44 [363] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-11 id_juicio: 1578508855890 id_acuerdo: 1597086438	
+2020-08-10 14:51:44 [363] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 14:51:44 [363] : DEBUG -  Se consulta el flujo	
+2020-08-10 14:51:44 [363] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2971	
+2020-08-10 14:51:45 [363] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2971	
+2020-08-10 14:51:45 [363] : DEBUG -  Intenta firmar FIREL	
+2020-08-10 14:51:49 [363] : DEBUG -  Finaliza firmar FIREL	
+2020-08-10 14:51:51 [363] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-10 14:51:51 [363] : DEBUG -  Se quita el candado de firmado.	
+2020-08-10 14:51:51 [363] : DEBUG -  Finalización de la firma.	
+2020-08-10 14:51:51 [363] : FIN   -  	
+2020-08-10 16:08:01 [997] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 60251/2020-8 id_juicio: 1595987565 id_acuerdo: 1597093573	
+2020-08-10 16:08:01 [997] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-10 id_juicio: 1578508855890 id_acuerdo: 1597086409	
+2020-08-10 16:08:01 [214] : INIC  -  Juzgado: 1JFO Usuario: JFO1J Acuerdo: 2/2020-9 id_juicio: 1578508855890 id_acuerdo: 1597086389	
+2020-08-10 16:08:01 [997] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 16:08:01 [997] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-11 16:00:00	
+2020-08-10 16:08:01 [997] : DEBUG -  Se consulta el flujo	
+2020-08-10 16:08:01 [997] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 16:08:01 [214] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 16:08:02 [997] : DEBUG -  Se consulta el flujo	
+2020-08-10 16:08:02 [214] : DEBUG -  Se consulta el flujo	
+2020-08-10 16:08:02 [997] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2974	
+2020-08-10 16:08:02 [997] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2974	
+2020-08-10 16:08:02 [214] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2967	
+2020-08-10 16:08:02 [997] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2969	
+2020-08-10 16:08:02 [997] : DEBUG -  Intenta firmar FIREL	
+2020-08-10 16:08:02 [214] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2967	
+2020-08-10 16:08:02 [997] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2969	
+2020-08-10 16:08:02 [214] : DEBUG -  Intenta firmar FIREL	
+2020-08-10 16:08:03 [997] : DEBUG -  Intenta firmar FIREL	
+2020-08-10 16:08:05 [997] : DEBUG -  Finaliza firmar FIREL	
+2020-08-10 16:08:05 [997] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-10 16:08:05 [997] : DEBUG -  Se quita el candado de firmado.	
+2020-08-10 16:08:05 [997] : DEBUG -  Finalización de la firma.	
+2020-08-10 16:08:05 [997] : FIN   -  	
+2020-08-10 16:08:05 [997] : DEBUG -  Finaliza firmar FIREL	
+2020-08-10 16:08:06 [997] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-10 16:08:06 [997] : DEBUG -  Se quita el candado de firmado.	
+2020-08-10 16:08:06 [997] : DEBUG -  Finalización de la firma.	
+2020-08-10 16:08:06 [997] : FIN   -  	
+2020-08-10 16:08:06 [214] : DEBUG -  Finaliza firmar FIREL	
+2020-08-10 16:08:06 [214] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-10 16:08:06 [214] : DEBUG -  Se quita el candado de firmado.	
+2020-08-10 16:08:07 [214] : DEBUG -  Finalización de la firma.	
+2020-08-10 16:08:07 [214] : FIN   -  	
+2020-08-10 16:09:59 [480] : INIC  -  Juzgado: 1JFO Usuario: EGARCIAF Acuerdo: 60251/2020-8 id_juicio: 1595987565 id_acuerdo: 1597093573	
+2020-08-10 16:09:59 [480] : DEBUG -  Se pone el candado de firmado.	
+2020-08-10 16:09:59 [480] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-11 16:00:00	
+2020-08-10 16:09:59 [480] : DEBUG -  Se consulta el flujo	
+2020-08-10 16:10:00 [480] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2975	
+2020-08-10 16:10:00 [480] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2975	
+2020-08-10 16:10:00 [480] : DEBUG -  Intenta firmar FIREL	
+2020-08-10 16:10:03 [480] : DEBUG -  Finaliza firmar FIREL	
+2020-08-10 16:10:04 [480] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-10 16:10:04 [480] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:2978	
+2020-08-10 16:10:05 [480] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Primero de lo Familiar de Proceso Oral | Clave: 1JFO | Documento: 60251/2020-8 | Firma: EGARCIAF | 2020-08-10 04:10:03 | Firma: JFO1J | 2020-08-10 04:08:05 | Fecha Publicación: 2020-08-12 00:00:00 | NAS: 5100-0109-2252-2945-747 -- SIGJ / TSJCDMX --	
+2020-08-10 16:10:06 [480] : DEBUG -  Finaliza sello sigj	
+2020-08-10 16:10:06 [480] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-10 16:10:07 [480] : DEBUG -  DIV.EXPRES - Se decta el servicio de divorcio expres Catalogo: 623 - Tipo: admision	
+2020-08-10 16:10:07 [480] : DEBUG -  DIV.EXPRES - Descarga ultimo documento firmado ultima_version: 2979	
+2020-08-10 16:10:08 [480] : DEBUG -  DIV.EXPRES - se descargan del gestor documental y cosen promociones con acuerdo	
+2020-08-10 16:10:08 [480] : DEBUG -  DIV.EXPRES - configuración correos partes para envios	
+2020-08-10 16:10:08 [480] : DEBUG -  DIV.EXPRES - se mandan los correos al cron	
+2020-08-10 16:10:09 [480] : DEBUG -  DIV.EXPRES - finalizacion	
+2020-08-10 16:10:09 [480] : DEBUG -  Se quita el candado de firmado.	
+2020-08-10 16:10:09 [480] : DEBUG -  Finalización de la firma.	
+2020-08-10 16:10:09 [480] : FIN   -  	

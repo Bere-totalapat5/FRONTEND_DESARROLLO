@@ -1,0 +1,2 @@
+doc_para_coser.py3 -> doc_para_coser-nuevo.py3
+ln -sf doc_para_coser-doc.py3 doc_para_coser.py3

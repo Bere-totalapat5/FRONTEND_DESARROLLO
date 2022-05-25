@@ -1,0 +1,40 @@
+2020-08-31 08:36:24 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-31 08:36:33 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-31 08:36:42 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 326
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-31 08:36:43 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598547982
+)
+2020-08-31 08:36:47 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1598547982
+)
+2020-08-31 08:36:47 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1598547982
+    [juicio_promocion] => 326/2020
+    [toca] => 326
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-31
+    [tp3] => 08:36
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-31
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)

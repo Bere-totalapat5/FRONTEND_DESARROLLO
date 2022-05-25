@@ -1,0 +1,43 @@
+2020-12-09 09:37:38 [194] : INIC  -  Juzgado: 100PIC Usuario: JC100J Acuerdo: 1/2020-20 id_juicio: 1600382500 id_acuerdo: 1607528217 tipo_firma_firel: firel_tsj	
+2020-12-09 09:37:38 [194] : DEBUG -  Se consulta la ultima versión	
+2020-12-09 09:37:38 [194] : DEBUG -  Se pone el candado de firmado.	
+2020-12-09 09:37:38 [194] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 4584	
+2020-12-09 09:37:38 [194] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 4584	
+2020-12-09 09:37:38 [194] : DEBUG -  Intenta firmar FIREL	
+2020-12-09 09:37:40 [194] : DEBUG -  LOG RESPUESTA WS FIRMADO TSJ: {"firmaAchivoResult":{"estado":"0","descripcion":"Satisfactorio","nombreFirmante":"RAMIRO BRITO MONTES","numeroSerie":"70.6a.66.20.63.6a.66.00.00.00.00.00.00.00.00.00.00.00.99.ac","transferencia":"1634","identificadorDocumento":"7df5c6ea-d8be-4c64-b84c-230baaee0136"}}	
+2020-12-09 09:37:40 [194] : DEBUG -  Finaliza firmar FIREL	
+2020-12-09 09:37:40 [194] : DEBUG -  Se avanza la firma: {"status":"100","response":{"id_flujo_participante":1368,"finalizacion_flujo":"no","fecha_a_publicar":"no","tipo_firma_finalizacion":"firel","llave_firmado_documento":null,"llaves_firmado_firmantes":null}}	
+2020-12-09 09:37:40 [194] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-12-09 09:37:40 [194] : DEBUG -  Se quita el candado de firmado.	
+2020-12-09 09:37:40 [194] : DEBUG -  Finalización de la firma.	
+2020-12-09 09:37:40 [194] : FIN   -  	
+2020-12-09 10:15:17 [530] : INIC  -  Juzgado: 100PIC Usuario: JC100SA Acuerdo: 1/2020-20 id_juicio: 1600382500 id_acuerdo: 1607528217 tipo_firma_firel: firel_tsj	
+2020-12-09 10:15:17 [530] : DEBUG -  Se consulta la ultima versión	
+2020-12-09 10:15:17 [530] : DEBUG -  Se pone el candado de firmado.	
+2020-12-09 10:15:18 [530] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 4585	
+2020-12-09 10:15:18 [530] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 4585	
+2020-12-09 10:15:18 [530] : DEBUG -  Intenta firmar FIREL	
+2020-12-09 10:15:20 [530] : DEBUG -  LOG RESPUESTA WS FIRMADO TSJ: {"firmaAchivoResult":{"estado":"0","descripcion":"Satisfactorio","nombreFirmante":"RAMIRO BRITO MONTES","numeroSerie":"70.6a.66.20.63.6a.66.00.00.00.00.00.00.00.00.00.00.00.99.ac","transferencia":"1635","identificadorDocumento":"7df5c6ea-d8be-4c64-b84c-230baaee0136"}}	
+2020-12-09 10:15:20 [530] : DEBUG -  Finaliza firmar FIREL	
+2020-12-09 10:15:20 [530] : DEBUG -  Se avanza la firma: {"status":"100","response":{"id_flujo_participante":1367,"finalizacion_flujo":"si","fecha_a_publicar":"2020-12-10","tipo_firma_finalizacion":"firel","llave_firmado_documento":"7df5c6ea-d8be-4c64-b84c-230baaee0136","llaves_firmado_firmantes":"1635,1634"}}	
+2020-12-09 10:15:20 [530] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-12-09 10:15:21 [530] : DEBUG -  Se sube el documento con las dos firmas	
+2020-12-09 10:15:21 [530] : DEBUG -  docuemntoPDF: /san/www/html/sicor_extendido_80/storage/app/documentos/tmp/100PIC_1607528217_2_firmado.pdf	
+2020-12-09 10:15:21 [530] : DEBUG -  url_firma: /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_530_100PIC_1607528217.pdf	
+2020-12-09 10:15:21 [530] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Civil | 1/2020-20 |  JC100SA | 2020-12-09 10:15:20 |  JC100J | 2020-12-09 09:37:40 | FP: 2020-12-10 | NAS: 5100-0109-9388-5476-063 -- SIGJ / TSJCDMX --	
+2020-12-09 10:15:22 [530] : DEBUG -  Return sello sigj {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_530_100PIC_1607528217.pdf\" \"_530_100PIC_1607528217\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_530_100PIC_16075282172.pdf"}	
+2020-12-09 10:15:22 [530] : DEBUG -  Primer sello sigj {"status":"100","response":{"id_flujo_participante":1367,"finalizacion_flujo":"si","fecha_a_publicar":"2020-12-10","tipo_firma_finalizacion":"firel","llave_firmado_documento":"7df5c6ea-d8be-4c64-b84c-230baaee0136","llaves_firmado_firmantes":"1635,1634"},"lista_firma":{"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_530_100PIC_1607528217.pdf\" \"_530_100PIC_1607528217\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_530_100PIC_16075282172.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/firmados\/documento_firmado_530_100PIC_16075282172.pdf","url":"\/temporales\/documento_firmado_530_100PIC_16075282172.pdf"}}	
+2020-12-09 10:15:22 [530] : DEBUG -  Finaliza sello sigj /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_530_100PIC_16075282172.pdf	
+2020-12-09 10:15:22 [530] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:3	
+2020-12-09 10:15:22 [530] : DEBUG -  Se hacen consultas fecha resolucion:2020-12-11 Fecha publicacion: 2020-12-10 número de boletin: 137 Número de firmantes: 2 $arr_num_firas: {"status":100,"response":2,"response_data":[{"flujo_sala_tipo_firma":"firel_tsj","numero":2}]}	
+2020-12-09 10:15:22 [530] : DEBUG -  Se finaliza el sello boletin judicial V2 /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607528217.pdf	
+2020-12-09 10:15:22 [530] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_530_100PIC_16075282172.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_530_1607528217_%04d.pdf	
+2020-12-09 10:15:22 [530] : DEBUG -  shell_burst output	
+2020-12-09 10:15:22 [530] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_530_1607528217_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1607528217.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_530_1607528217_0001.pdf	
+2020-12-09 10:15:22 [530] : DEBUG -  shell_multistamp output	
+2020-12-09 10:15:22 [530] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_530_1607528217_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/firmados/documento_firmado_530_100PIC_16075282172.pdf	
+2020-12-09 10:15:22 [530] : DEBUG -  shell_cat output	
+2020-12-09 10:15:23 [530] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-12-09 10:15:24 [530] : DEBUG -  Se quita el candado de firmado.	
+2020-12-09 10:15:24 [530] : DEBUG -  Finalización de la firma.	
+2020-12-09 10:15:24 [530] : FIN   -  	

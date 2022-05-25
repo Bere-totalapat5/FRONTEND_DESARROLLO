@@ -1,0 +1,331 @@
+2020-11-17 23:43:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-17 23:43:57 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 23:44:01 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-17 23:49:41 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-17 23:49:53 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 23:50:10 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-17 23:50:20 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-17 23:50:30 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1605677952514
+    [expediente] => 108/2020
+    [tipo_juicio_id] => 109
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-17
+    [origen] => OPV
+)
+2020-11-17 23:50:32 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1605677952514
+    [tipo_juicio_id] => 109
+)
+2020-11-17 23:50:32 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-17 23:51:16 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-17 23:51:18 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-17 23:51:20 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-11-17 23:51:22 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-11-17 23:51:34 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 108
+    [anio] => 2020
+    [bis] => 
+)
+2020-11-17 23:51:41 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [forma_creacion] => promocion
+            [expediente] => 108
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => C300
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-11-17
+            [id_catalogo_juicio] => 1
+            [cuaderno] => 
+            [alias] => 
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => FLYBARLESS SA
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => GYRO SA DE CV
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => demandado
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1605677952514
+)
+2020-11-17 23:51:42 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-17 23:51:53 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-17 23:52:00 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7800
+)
+2020-11-17 23:52:10 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7801
+)
+2020-11-17 23:52:20 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7801
+)
+2020-11-17 23:52:27 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-17 23:52:29 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-17 23:52:57 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-17 23:53:11 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-17 23:53:13 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 23:53:24 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 108
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 23:53:30 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1605678701	
+Array
+(
+)
+2020-11-17 23:53:49 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1605678701
+    [juzgado] => 200PIC
+)
+2020-11-17 23:53:52 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1605678701
+    [arr_imprimir] => 0,0,7800-0,0,7801-
+    [arr_orden] => 1,1605677952514,demanda,2020-11-17 23:37:41--
+)
+2020-11-17 23:54:27 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-17 23:54:32 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-17 23:54:34 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 23:54:38 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-17 23:54:40 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 23:54:52 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 108
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-17 23:54:57 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1605678701	
+Array
+(
+)
+2020-11-17 23:56:53 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-11-17 23:57:53 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1605678701	
+Array
+(
+)
+2020-11-17 23:58:25 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1605678701	
+Array
+(
+)
+2020-11-17 23:58:34 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1605678701
+    [juzgado] => 200PIC
+)
+2020-11-17 23:58:37 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/batch_expediente_digital	
+Array
+(
+    [juicio] => 1605678701
+    [arr_imprimir] => 0,0,7800-0,0,7801-
+    [arr_orden] => 1,1605677952514,demanda,2020-11-17 23:37:41--
+)

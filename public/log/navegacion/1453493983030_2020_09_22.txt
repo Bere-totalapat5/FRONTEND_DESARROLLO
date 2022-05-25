@@ -1,0 +1,536 @@
+2020-09-22 19:14:09 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-22 19:14:12 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 19:14:25 [0] : DEBUG -  http://172.16.159.181/juicio/nuevo	
+Array
+(
+)
+2020-09-22 19:14:40 [0] : DEBUG -  http://172.16.159.181/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 777
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-22 19:14:46 [0] : DEBUG -  http://172.16.159.181/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-22 19:14:48 [0] : DEBUG -  http://172.16.159.181/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-22 19:14:50 [0] : DEBUG -  http://172.16.159.181/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-09-22 19:14:52 [0] : DEBUG -  http://172.16.159.181/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-09-22 19:16:23 [0] : DEBUG -  http://172.16.159.181/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 777
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-09-22
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 2
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => prueba lucio
+                    [apellido_paterno] => prueba lucio
+                    [apellido_materno] => prueba lucio
+                    [tipo] => actor
+                    [correo] => prueba@prueba.com
+                    [telefono_celular] => 5566556655
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => prueba lucio SA de Cv
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => demandado
+                    [correo] => prueba@prueba.com
+                    [telefono_celular] => 5566556655
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-09-22 19:16:24 [0] : DEBUG -  http://172.16.159.181/juicio/nuevo	
+Array
+(
+)
+2020-09-22 19:16:30 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-22 19:16:33 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 20:10:47 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-22 20:10:50 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 20:10:53 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 20:11:00 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600569171
+)
+2020-09-22 20:13:54 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600569171
+)
+2020-09-22 20:14:03 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 20:14:16 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:15:04 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 20:15:59 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600569171
+)
+2020-09-22 20:18:44 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600569171
+)
+2020-09-22 20:19:09 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600401425
+)
+2020-09-22 20:21:03 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1599689905
+)
+2020-09-22 20:22:51 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+    [usuario] => JC100J
+    [password] => masterpass
+    [tipo] => web
+    [next] => 
+)
+2020-09-22 20:22:51 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-22 20:22:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 20:22:59 [0] : DEBUG -  http://155.94.139.2/sivep	
+Array
+(
+)
+2020-09-22 20:23:09 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-22 20:23:12 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 20:23:16 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-22 20:23:18 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 20:23:22 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 20:23:31 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600742819
+)
+2020-09-22 20:24:17 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600742819
+)
+2020-09-22 20:24:38 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600742819
+)
+2020-09-22 20:24:56 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:25:19 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:26:20 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:26:49 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:26:58 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:27:46 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:30:12 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:30:41 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600570959
+)
+2020-09-22 20:30:53 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600569171
+)
+2020-09-22 20:31:47 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600742819
+)
+2020-09-22 20:32:19 [0] : DEBUG -  http://155.94.139.2/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600742819
+)
+2020-09-22 20:32:43 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1595827309
+)
+2020-09-22 20:32:47 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 20:32:51 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)
+2020-09-22 20:32:51 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 20:33:02 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1595827309
+)
+2020-09-22 20:35:10 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1597685587
+)
+2020-09-22 22:02:57 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-22 22:02:57 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-22 23:02:22 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-22 23:02:22 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-22 23:02:25 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 23:02:27 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 23:02:35 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600742819
+)
+2020-09-22 23:02:56 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 17
+    [tipo_acuerdo] => sentencia definitiva
+    [subtipo_acuerdo] => Absolutoria
+    [especial] => -
+    [fecha] => 2020-09-22
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 3366e6060b260cced41a6843eb6a4e6d9396e82b0a39e599e6f7cfa48fdeedffe7e8e4373a6fbd998bd5f466d0650f645d8eedca2dc980028054a31ee90c1b24.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpspLhhu
+            [fileName:SplFileInfo:private] => phpspLhhu
+        )
+
+)
+2020-09-22 23:03:00 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 23:04:16 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-22 23:04:22 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1600833779
+    [id_juicio] => 1595825526
+    [codigo_organo] => 100PIC
+)
+2020-09-22 23:04:37 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1600833779
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 3974
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1595825526
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpmzfFMT
+            [fileName:SplFileInfo:private] => phpmzfFMT
+        )
+
+)
+2020-09-22 23:04:46 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-22 23:07:08 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-22 23:07:11 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-22 23:07:12 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 23:07:22 [0] : DEBUG -  http://172.16.159.181/procesosTrabajo/sivep/agregar_acuerdo_sivep_ajax	
+Array
+(
+    [id_acuerdo] => 1600833779
+)
+2020-09-22 23:07:47 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-22 23:08:11 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-22 23:08:16 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-22 23:10:09 [0] : DEBUG -  http://172.16.159.181/sivep	
+Array
+(
+)
+2020-09-22 23:18:05 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-22 23:18:13 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

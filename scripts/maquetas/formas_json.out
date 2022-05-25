@@ -1,0 +1,102 @@
+looking for: Maqueta_formas
+
+Got 5 rows in: 1.9784 secs.
+
+2 FORMPRUEBA
+master: ['FORMPRUEBA', '', '', 'Soy un formulario', '']
+SELECT maq_formas_id FROM maq_formas WHERE clave=%s FORMPRUEBA
+SELECT maq_formas_id FROM maq_formas WHERE clave=FORMPRUEBA
+mater_id= 17223 repfef= FORMPRUEBA
+mater_id= 17223 repfef= 
+parts: [17223L, 0, 'Expediente', 'expediente_consecutivo', 'expediente_consecutivo', 'exp_cons', '6', '', '', 'T', 'Debe ingresar el consecutivo del expediente', 'F']
+('q:', 'INSERT INTO maq_formas_elementos\n        (maq_formas_id,orden,label,name,id,tipo,maxlength,defaultvalue,filtro,required,message,rdonly)\n        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)')
+('r:', [17223L, 0, 'Expediente', 'expediente_consecutivo', 'expediente_consecutivo', 'exp_cons', '6', '', '', 'T', 'Debe ingresar el consecutivo del expediente', 'F'])
+('INSERT INTO maq_formas_elementos\n        (maq_formas_id,orden,label,name,id,tipo,maxlength,defaultvalue,filtro,required,message,rdonly)\n        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', [17223L, 0, 'Expediente', 'expediente_consecutivo', 'expediente_consecutivo', 'exp_cons', '6', '', '', 'T', 'Debe ingresar el consecutivo del expediente', 'F'])
+mater_id= 17223 repfef= 
+parts: [17223L, 1, '&nbsp;\\nA\xc3\xb1o', 'expediente_anio', 'expediente_anio', 'exp_anio', '4', '', '', 'T', 'Debe ingresar el a\xc3\xb1o del expediente', 'F']
+('q:', 'INSERT INTO maq_formas_elementos\n        (maq_formas_id,orden,label,name,id,tipo,maxlength,defaultvalue,filtro,required,message,rdonly)\n        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)')
+('r:', [17223L, 1, '&nbsp;\\nA\xc3\xb1o', 'expediente_anio', 'expediente_anio', 'exp_anio', '4', '', '', 'T', 'Debe ingresar el a\xc3\xb1o del expediente', 'F'])
+('INSERT INTO maq_formas_elementos\n        (maq_formas_id,orden,label,name,id,tipo,maxlength,defaultvalue,filtro,required,message,rdonly)\n        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', [17223L, 1, '&nbsp;\\nA\xc3\xb1o', 'expediente_anio', 'expediente_anio', 'exp_anio', '4', '', '', 'T', 'Debe ingresar el a\xc3\xb1o del expediente', 'F'])
+mater_id= 17223 repfef= ---
+6 FIN
+master: ['FIN', 'FIN', 'NO ESCRIBIR DESPUES DE ESTA LINEA', '', '']
+SELECT maq_formas_id FROM maq_formas WHERE clave=%s FIN
+SELECT maq_formas_id FROM maq_formas WHERE clave=FIN
+mater_id= 17226 repfef= FIN
+parts: [17226L, 0, 'SI ES NECESARIO, FAVOR DE INSERTAR LINEAS ARRIBA DE ESTA', 'FIN', 'FIN', 'FIN', 0, '', '', 'F', '', 'F']
+('q:', 'INSERT INTO maq_formas_elementos\n        (maq_formas_id,orden,label,name,id,tipo,maxlength,defaultvalue,filtro,required,message,rdonly)\n        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)')
+('r:', [17226L, 0, 'SI ES NECESARIO, FAVOR DE INSERTAR LINEAS ARRIBA DE ESTA', 'FIN', 'FIN', 'FIN', 0, '', '', 'F', '', 'F'])
+('INSERT INTO maq_formas_elementos\n        (maq_formas_id,orden,label,name,id,tipo,maxlength,defaultvalue,filtro,required,message,rdonly)\n        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', [17226L, 0, 'SI ES NECESARIO, FAVOR DE INSERTAR LINEAS ARRIBA DE ESTA', 'FIN', 'FIN', 'FIN', 0, '', '', 'F', '', 'F'])
+
+Saved 6 rows in: 0.0120 secs.
+
+SELECT maq_formas_id,clave,usuario,menu,tituloformulario,action FROM maq_formas
+SELECT orden, label,name,id,tipo,maxlength,defaultvalue,filtro,required,message,rdonly FROM maq_formas_elementos WHERE maq_formas_id=%s  ORDER BY orden
+('-- allm: --', ({'maq_formas_id': 17223L, 'usuario': u'', 'menu': u'', 'clave': u'FORMPRUEBA', 'action': u'', 'tituloformulario': u'Soy un formulario'}, {'maq_formas_id': 17226L, 'usuario': u'FIN', 'menu': u'NO ESCRIBIR DESPUES DE ESTA LINEA', 'clave': u'FIN', 'action': u'', 'tituloformulario': u''}))
+search cmd= FORMPRUEBA
+{
+  "forma": {
+    "usuario": "", 
+    "menu": "", 
+    "clave": "FORMPRUEBA", 
+    "action": "", 
+    "tituloformulario": "Soy un formulario"
+  }, 
+  "elementos": [
+    {
+      "orden": 0, 
+      "name": "expediente_consecutivo", 
+      "tipo": "exp_cons", 
+      "defaultvalue": "", 
+      "required": "T", 
+      "label": "Expediente", 
+      "rdonly": "F", 
+      "maxlength": 6, 
+      "filtro": "", 
+      "message": "Debe ingresar el consecutivo del expediente", 
+      "id": "expediente_consecutivo"
+    }, 
+    {
+      "orden": 1, 
+      "name": "expediente_anio", 
+      "tipo": "exp_anio", 
+      "defaultvalue": "", 
+      "required": "T", 
+      "label": "&nbsp;\\nAño", 
+      "rdonly": "F", 
+      "maxlength": 4, 
+      "filtro": "", 
+      "message": "Debe ingresar el año del expediente", 
+      "id": "expediente_anio"
+    }
+  ]
+}
+
+search cmd= FIN
+{
+  "forma": {
+    "usuario": "FIN", 
+    "menu": "NO ESCRIBIR DESPUES DE ESTA LINEA", 
+    "clave": "FIN", 
+    "action": "", 
+    "tituloformulario": ""
+  }, 
+  "elementos": [
+    {
+      "orden": 0, 
+      "name": "FIN", 
+      "tipo": "FIN", 
+      "defaultvalue": "", 
+      "required": "F", 
+      "label": "SI ES NECESARIO, FAVOR DE INSERTAR LINEAS ARRIBA DE ESTA", 
+      "rdonly": "F", 
+      "maxlength": 0, 
+      "filtro": "", 
+      "message": "", 
+      "id": "FIN"
+    }
+  ]
+}
+
+('Saving:', u'/var/www/public_html/maquetas/actions.json')
+debugis: 1

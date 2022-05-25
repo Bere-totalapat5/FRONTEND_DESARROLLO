@@ -1,0 +1,302 @@
+2020-08-24 11:19:10 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-24 18:16:55 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-24 18:17:06 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/80	
+Array
+(
+)
+2020-08-24 18:23:26 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-24 18:23:38 [0] : DEBUG -  http://216.144.236.27/juicio/buscar_opc	
+Array
+(
+    [expediente] => 33
+    [anio] => 2020
+)
+2020-08-24 18:23:57 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 33
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-24 18:24:19 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-24 18:24:37 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-24 18:24:44 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => FAMILIAR
+    [juicio] => Controversias del orden familiar
+    [tipo_accion] => 
+)
+2020-08-24 18:24:50 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => FAMILIAR
+    [juicio] => Controversias del orden familiar
+    [tipo_accion] => AP
+)
+2020-08-24 18:25:15 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 33
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-24
+            [id_catalogo_juicio] => 214
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ARTURO
+                    [apellido_paterno] => ZARATE
+                    [apellido_materno] => HERNANDEZ
+                    [tipo] => actor
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => BELEM
+                    [apellido_paterno] => LUGO
+                    [apellido_materno] => SALAS
+                    [tipo] => demandado
+                    [correo] => 
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+)
+2020-08-24 18:25:20 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-24 18:25:27 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/65	
+Array
+(
+)
+2020-08-24 18:25:49 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-24 18:26:07 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandeja] => iniciales
+    [tipo] => n
+    [fecha] => -
+)
+2020-08-24 18:26:10 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1597508731302
+    [expediente] => 220/2020
+    [tipo_juicio_id] => 357
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-07-13
+    [origen] => OPV
+)
+2020-08-24 18:26:15 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1597508731302
+    [tipo_juicio_id] => 357
+)
+2020-08-24 18:26:15 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-24 18:26:19 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-24 18:26:22 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-24 18:26:25 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => 
+)
+2020-08-24 18:26:28 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Especial
+    [tipo_accion] => AP
+)
+2020-08-24 18:26:53 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 220
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-07-13
+            [id_catalogo_juicio] => 623
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => MAYRA ITZEL
+                    [apellido_paterno] => MALDONADO
+                    [apellido_materno] => PEREZ
+                    [tipo] => actor
+                    [correo] => MM@CIENCIAS.UNAM.MX
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => MARIO ANDRES
+                    [apellido_paterno] => MONTENEGRO
+                    [apellido_materno] => ORDOÑEZ
+                    [tipo] => actor
+                    [correo] => MONTENEGROMARIOANDRES@GMAIL.COM
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre] => MALDONADO PEREZ MAYRA ITZEL
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => MM@CIENCIAS.UNAM.MX
+                    [telefono_celular] => 5513001003
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1597508731302
+)
+2020-08-24 18:26:57 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-24 18:27:06 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/juzgado/65	
+Array
+(
+)
+2020-08-24 18:27:35 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/consultar_informacion	
+Array
+(
+    [id_valor] => 2
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => JFO
+)
+2020-08-24 18:28:01 [0] : DEBUG -  http://216.144.236.27/libros_gobierno/buscar_registro/juzgado	
+Array
+(
+    [valor] => 2
+    [tabla] => libros_gobierno_juzgado_
+    [materia] => JFO
+)
+2020-08-24 23:21:50 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-24 23:22:01 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos	
+Array
+(
+)
+2020-08-24 23:22:06 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarPermisosUsuarios	
+Array
+(
+    [usuario_id] => 1406657922001
+)
+2020-08-24 23:22:09 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/grupos/cargarMenusUsuarios	
+Array
+(
+    [usuario_id] => 1406657922001
+)
+2020-08-24 23:22:46 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/ministerioLey	
+Array
+(
+)
+2020-08-24 23:22:57 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

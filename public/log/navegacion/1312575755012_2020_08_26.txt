@@ -1,0 +1,21 @@
+2020-08-26 20:18:26 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-26 20:18:37 [0] : DEBUG -  http://216.144.236.27/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => 123456aA
+)
+2020-08-26 20:18:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-26 20:19:06 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-26 20:19:12 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

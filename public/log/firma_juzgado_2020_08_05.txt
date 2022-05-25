@@ -1,0 +1,124 @@
+2020-08-05 12:24:10 inicio exp: 1596645910 acuerdo: 1596646144	
+2020-08-05 12:26:36 inicio exp: 1596645910 acuerdo: 1596646144	
+2020-08-05 12:27:58 inicio exp: 1596645910 acuerdo: 1596646144	
+2020-08-05 12:28:07 inicio exp: 1596645910 acuerdo: 1596646125	
+2020-08-05 12:28:19 inicio exp: 1596645910 acuerdo: 1596646102	
+2020-08-05 12:28:38 inicio exp: 1596645910 acuerdo: 1596646144	
+2020-08-05 12:28:44 inicio exp: 1596645910 acuerdo: 1596646125	
+2020-08-05 12:28:48 inicio exp: 1596645910 acuerdo: 1596646065	
+2020-08-05 12:28:52 inicio exp: 1596645910 acuerdo: 1596646045	
+2020-08-05 20:07:06 [ 300 ] : INIC  -  - 1596674681 acuerdo: 1596675392	
+2020-08-05 20:07:06 [ 300 ] : ERROR -  - El archivo PFX es obligatorio.	
+2020-08-05 20:07:50 [ 226 ] : INIC  -  1596674681 acuerdo: 1596675392	
+2020-08-05 20:07:50 [ 226 ] : ERROR -  El archivo PFX es obligatorio.	
+2020-08-05 20:15:18 [453] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 1/2020-9 id_juicio: 1596645910 id_acuerdo: 1596646125	
+2020-08-05 20:15:18 [453] : ERROR -  El archivo PFX es obligatorio.	
+2020-08-05 20:27:26 [862] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 1/2020-9 id_juicio: 1596645910 id_acuerdo: 1596646125	
+2020-08-05 20:27:26 [862] : ERROR -  El archivo PFX es obligatorio.	
+2020-08-05 20:27:26 [862] : FIN   -  	
+2020-08-05 20:28:03 [561] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 1/2020-9 id_juicio: 1596645910 id_acuerdo: 1596646125	
+2020-08-05 20:28:03 [561] : DEBUG -  Se consulta el flujo	
+2020-08-05 20:33:51 [150] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 20:33:51 [150] : DEBUG -  Se consulta el flujo	
+2020-08-05 20:33:51 [150] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2855	
+2020-08-05 20:33:51 [150] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2855	
+2020-08-05 20:33:51 [150] : DEBUG -  Intenta firmar FIREL	
+2020-08-05 20:33:52 [150] : ERROR -  No se pudo firmar con fiel, credenciales erroneas.	
+2020-08-05 20:33:52 [150] : FIN   -  	
+2020-08-05 20:34:36 [966] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 20:34:36 [966] : DEBUG -  Se consulta el flujo	
+2020-08-05 20:34:37 [966] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2855	
+2020-08-05 20:34:37 [966] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2855	
+2020-08-05 20:34:37 [966] : DEBUG -  Intenta firmar FIREL	
+2020-08-05 20:34:40 [966] : DEBUG -  Finaliza firmar FIREL	
+2020-08-05 22:46:56 [781] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 22:47:29 [634] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 22:49:25 [398] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 22:52:58 [353] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 22:53:29 [190] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 22:53:29 [190] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta. 2020-08-11 00:00:00	
+2020-08-05 22:55:55 [921] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 22:55:55 [921] : ERROR -  DIV EXPRES: ADMISIÓN: El acuerdo ha caducado, se tenía que firmar antes del 2020-08-05 00:00:00	
+2020-08-05 22:55:55 [921] : FIN   -  	
+2020-08-05 22:56:34 [372] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 22:56:34 [372] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta. 2020-08-05 00:00:00	
+2020-08-05 23:02:50 [114] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 23:02:50 [114] : ERROR -  DIV EXPRES: ADMISIÓN: El acuerdo ha caducado, se tenía que firmar antes del 2020-08-05 00:00:00	
+2020-08-05 23:02:50 [114] : FIN   -  	
+2020-08-05 23:04:17 [364] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 23:04:17 [364] : ERROR -  DIV EXPRES: ADMISIÓN: El acuerdo ha caducado, se tenía que firmar antes del 2020-08-05 16:00:00	
+2020-08-05 23:04:17 [364] : FIN   -  	
+2020-08-05 23:05:10 [988] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 23:05:10 [988] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-05 16:00:00	
+2020-08-05 23:05:35 [496] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 23:05:35 [496] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-05 16:00:00	
+2020-08-05 23:06:19 [335] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 23:06:19 [335] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-05 16:00:00	
+2020-08-05 23:06:31 [955] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 23:06:31 [955] : DEBUG -  DIV EXPRES: ADMISIÓN: Las fechas de firma es correcta y son antes de: 2020-08-05 16:00:00	
+2020-08-05 23:07:11 [293] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 2/2020-1 id_juicio: 1596674681 id_acuerdo: 1596675392	
+2020-08-05 23:07:11 [293] : ERROR -  DIV EXPRES: ADMISIÓN: El acuerdo ha caducado, se tenía que firmar antes del 2020-08-05 16:00:00	
+2020-08-05 23:07:11 [293] : FIN   -  	
+2020-08-05 23:09:25 [334] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 1/2020-10 id_juicio: 1596645910 id_acuerdo: 1596646144	
+2020-08-05 23:09:25 [334] : DEBUG -  Se consulta el flujo	
+2020-08-05 23:09:25 [334] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2853	
+2020-08-05 23:09:26 [334] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2853	
+2020-08-05 23:09:26 [334] : DEBUG -  Intenta firmar FIREL	
+2020-08-05 23:09:29 [334] : DEBUG -  Finaliza firmar FIREL	
+2020-08-05 23:09:29 [334] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-05 23:09:29 [334] : DEBUG -  Finalización de la firma.	
+2020-08-05 23:09:29 [334] : FIN   -  	
+2020-08-05 23:10:14 [322] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 1/2020-9 id_juicio: 1596645910 id_acuerdo: 1596646125	
+2020-08-05 23:10:14 [322] : DEBUG -  Se consulta el flujo	
+2020-08-05 23:10:14 [915] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 1/2020-8 id_juicio: 1596645910 id_acuerdo: 1596646102	
+2020-08-05 23:10:14 [915] : DEBUG -  Se consulta el flujo	
+2020-08-05 23:10:14 [867] : INIC  -  Juzgado: 100JFO Usuario: JFO100J Acuerdo: 1/2020-7 id_juicio: 1596645910 id_acuerdo: 1596646085	
+2020-08-05 23:10:14 [867] : DEBUG -  Se consulta el flujo	
+2020-08-05 23:10:14 [322] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2851	
+2020-08-05 23:10:14 [915] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2849	
+2020-08-05 23:10:14 [867] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2847	
+2020-08-05 23:10:14 [322] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2851	
+2020-08-05 23:10:14 [915] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2849	
+2020-08-05 23:10:14 [867] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2847	
+2020-08-05 23:10:15 [322] : DEBUG -  Intenta firmar FIREL	
+2020-08-05 23:10:15 [915] : DEBUG -  Intenta firmar FIREL	
+2020-08-05 23:10:15 [867] : DEBUG -  Intenta firmar FIREL	
+2020-08-05 23:10:17 [867] : DEBUG -  Finaliza firmar FIREL	
+2020-08-05 23:10:18 [867] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-05 23:10:18 [867] : DEBUG -  Finalización de la firma.	
+2020-08-05 23:10:18 [867] : FIN   -  	
+2020-08-05 23:10:18 [915] : DEBUG -  Finaliza firmar FIREL	
+2020-08-05 23:10:18 [915] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-05 23:10:18 [915] : DEBUG -  Finalización de la firma.	
+2020-08-05 23:10:18 [915] : FIN   -  	
+2020-08-05 23:10:19 [322] : DEBUG -  Finaliza firmar FIREL	
+2020-08-05 23:10:21 [322] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-05 23:10:21 [322] : DEBUG -  Finalización de la firma.	
+2020-08-05 23:10:21 [322] : FIN   -  	
+2020-08-05 23:12:33 [723] : INIC  -  Juzgado: 100JFO Usuario: JFO100SA Acuerdo: 1/2020-10 id_juicio: 1596645910 id_acuerdo: 1596646144	
+2020-08-05 23:12:33 [723] : DEBUG -  Se consulta el flujo	
+2020-08-05 23:12:33 [723] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2856	
+2020-08-05 23:12:33 [723] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2856	
+2020-08-05 23:12:34 [723] : DEBUG -  Intenta firmar FIREL	
+2020-08-05 23:12:36 [723] : DEBUG -  Finaliza firmar FIREL	
+2020-08-05 23:12:37 [723] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-05 23:12:37 [723] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Familiar de Proceso Oral | Clave: 100JFO | Documento: 1/2020-10 | Firma: JFO100SA | 2020-08-05 11:12:36 | Firma: JFO100J | 2020-08-05 11:09:29 | Fecha Publicación: 2020-08-07 00:00:00 | NAS: 5100-0109-1946-2978-816 -- SIGJ / TSJCDMX --	
+2020-08-05 23:12:37 [723] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:2860	
+2020-08-05 23:12:39 [723] : DEBUG -  Finaliza sello sigj	
+2020-08-05 23:12:39 [723] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-05 23:12:40 [723] : DEBUG -  DIV.EXPRES - finalizacion	
+2020-08-05 23:12:40 [723] : DEBUG -  Finalización de la firma.	
+2020-08-05 23:12:40 [723] : FIN   -  	
+2020-08-05 23:16:03 [543] : INIC  -  Juzgado: 100JFO Usuario: JFO100SA Acuerdo: 1/2020-9 id_juicio: 1596645910 id_acuerdo: 1596646125	
+2020-08-05 23:16:03 [543] : DEBUG -  Se consulta el flujo	
+2020-08-05 23:16:03 [543] : DEBUG -  Intenta descargar documento PDF acuerdo - ultima version: 2859	
+2020-08-05 23:16:04 [543] : DEBUG -  Intenta descargar documento HTML acuerdo - ultima version: 2859	
+2020-08-05 23:16:04 [543] : DEBUG -  Intenta firmar FIREL	
+2020-08-05 23:16:07 [543] : DEBUG -  Finaliza firmar FIREL	
+2020-08-05 23:16:09 [543] : DEBUG -  Se avanza y sube el documento firmado por la Firel. Se pregunta si se finalizó el flujo.	
+2020-08-05 23:16:09 [543] : DEBUG -  El flujo finalizó, el sello SIGJ es: Sello electrónico SIGJ / TSJCDMX -- Centésimo de lo Familiar de Proceso Oral | Clave: 100JFO | Documento: 1/2020-9 | Firma: JFO100SA | 2020-08-05 11:16:08 | Firma: JFO100J | 2020-08-05 11:10:19 | Fecha Publicación: 2020-08-07 00:00:00 | NAS: 5100-0109-1946-2848-875 -- SIGJ / TSJCDMX --	
+2020-08-05 23:16:10 [543] : DEBUG -  Se intenta descargar nuevamente el documento para agregar el sello sigj ultima_version:2862	
+2020-08-05 23:16:11 [543] : DEBUG -  Finaliza sello sigj	
+2020-08-05 23:16:12 [543] : DEBUG -  Se sube documento con sello sigj, termino proceso normal de firmado	
+2020-08-05 23:16:13 [543] : DEBUG -  Finalización de la firma.	
+2020-08-05 23:16:13 [543] : FIN   -  	

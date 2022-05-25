@@ -1,0 +1,236 @@
+2020-09-04 11:17:55 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 11:17:59 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-04 11:18:07 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-04 11:18:15 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/eliminarAcuerdo	
+Array
+(
+    [id_acuerdo] => 1599108018
+)
+2020-09-04 11:18:17 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/eliminarAcuerdo	
+Array
+(
+    [id_acuerdo] => 1599107779
+)
+2020-09-04 11:18:20 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/eliminarAcuerdo	
+Array
+(
+    [id_acuerdo] => 1599107779
+)
+2020-09-04 11:18:23 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/eliminarAcuerdo	
+Array
+(
+    [id_acuerdo] => 1599107779
+)
+2020-09-04 11:18:27 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-09-04 11:18:35 [0] : DEBUG -  http://216.144.236.27/bandejas/revision	
+Array
+(
+)
+2020-09-04 11:18:43 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/eliminarAcuerdo	
+Array
+(
+    [id_acuerdo] => 1599108210
+)
+2020-09-04 11:18:49 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-09-04 11:22:43 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 11:22:47 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-04 11:40:29 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 11:40:33 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-04 14:09:17 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-04 14:09:21 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-04 14:09:28 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1599246527	
+Array
+(
+)
+2020-09-04 14:09:51 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-04 14:12:48 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-04 14:13:19 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-04 14:13:22 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-04 14:13:33 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-04 14:15:24 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-04 14:15:34 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-04 14:15:39 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-04 14:15:43 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-04 14:15:45 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-04 14:16:12 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-04 14:16:20 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-04 14:17:08 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-04 14:17:18 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-04 14:25:28 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-09-04 14:25:55 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 4
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-09-04 14:26:04 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)

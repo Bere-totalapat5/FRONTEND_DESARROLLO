@@ -1,0 +1,74 @@
+2020-09-28 08:45:00 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-28 08:45:03 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-28 08:45:09 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-28 15:47:23 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-28 15:47:26 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-28 16:17:18 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-28 16:17:18 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-28 18:03:43 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-28 18:03:43 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-28 18:03:47 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-28 18:03:49 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

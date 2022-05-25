@@ -1,0 +1,57 @@
+2020-12-14 11:45:23 [387] : INIC  -  Juzgado: 100PIF Usuario: JF100J Expediente: 1/2020 Acuerdo: 19 id_juicio: 1598327308	
+2020-12-14 11:45:23 [387] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-14 11:45:23 [387] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-14 11:45:26 [387] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/CpVLSioV8DNM3vMbcur9j3oAdvTl5RUnt1xpcZRq.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/CpVLSioV8DNM3vMbcur9j3oAdvTl5RUnt1xpcZRq.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/CpVLSioV8DNM3vMbcur9j3oAdvTl5RUnt1xpcZRq.pdf","url":"\/temporales\/CpVLSioV8DNM3vMbcur9j3oAdvTl5RUnt1xpcZRq.pdf"}	
+2020-12-14 11:45:26 [387] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:2	
+2020-12-14 11:45:26 [387] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/porfirmar/CpVLSioV8DNM3vMbcur9j3oAdvTl5RUnt1xpcZRq.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_387_1598327308_%04d.pdf	
+2020-12-14 11:45:26 [387] : DEBUG -  shell_burst output	
+2020-12-14 11:45:26 [387] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_387_1598327308_0002.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1598327308.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_387_1598327308_0002.pdf	
+2020-12-14 11:45:26 [387] : DEBUG -  shell_multistamp output	
+2020-12-14 11:45:26 [387] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_387_1598327308_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/porfirmar/CpVLSioV8DNM3vMbcur9j3oAdvTl5RUnt1xpcZRq.pdf	
+2020-12-14 11:45:26 [387] : DEBUG -  shell_cat output	
+2020-12-14 11:45:26 [387] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-14 11:45:27 [387] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-14 11:45:27 [387] : DEBUG -  Bandera conciliador: 0	
+2020-12-14 11:45:28 [387] : DEBUG -  El flujo obtenido: {"status":"100","response":{"creador":[{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"nuevo","fecha_hora":"2020-12-14 11:45:27","estatus":"resuelto","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"revisores":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"revision","fecha_hora":"2020-12-14 11:45:27","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"revision","fecha_hora":"2020-12-14 11:45:28","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}],"firmas":[{"clave":"JF100SA","nombre":"JOSE MANUEL CARRE\u00d1O PEREZ","rol":"secretario acuerdos","accion":"firma","fecha_hora":"2020-12-14 11:45:27","estatus":"","id_usuario":1349210506045,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"},{"clave":"JF100J","nombre":"ADRIAN \u00c1LVAREZ MART\u00cdNEZ","rol":"juez magistrado","accion":"firma","fecha_hora":"2020-12-14 11:45:28","estatus":"","id_usuario":1349210506050,"codigo_organo_pertenece":"100PIF","estatus_actividad":"validado"}]}}	
+2020-12-14 11:45:28 [387] : DEBUG -  Se guarda el acuerdo: {"status":100,"response":"1607967928"}	
+2020-12-14 11:45:28 [387] : DEBUG -  Se guarda el flujo: {"status":100,"response":{"flujo_catalogo":19,"participantes_flujo":[91,92,93,94,95],"bandejas":[4889,4890,4891,4892]}}	
+2020-12-14 11:45:28 [387] : DEBUG -  Se sube el documento al nuevo acuerdo: {"status":100,"message":"success","response":{"id_version":4590}}	
+2020-12-14 11:45:28 [387] : FIN   -  	
+2020-12-14 19:35:18 [108] : INIC  -  Juzgado: 100PIC Usuario: JC100J Expediente: 1/2020 Acuerdo: 21 id_juicio: 1600382500	
+2020-12-14 19:35:18 [108] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-14 19:35:19 [108] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-14 19:35:21 [108] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/SahD7wHPwEOMcgkGUNx5rXoXodK8GCrdnPJxnNav.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/SahD7wHPwEOMcgkGUNx5rXoXodK8GCrdnPJxnNav.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/SahD7wHPwEOMcgkGUNx5rXoXodK8GCrdnPJxnNav.pdf","url":"\/temporales\/SahD7wHPwEOMcgkGUNx5rXoXodK8GCrdnPJxnNav.pdf"}	
+2020-12-14 19:35:21 [108] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-14 19:35:21 [108] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/porfirmar/SahD7wHPwEOMcgkGUNx5rXoXodK8GCrdnPJxnNav.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_108_1600382500_%04d.pdf	
+2020-12-14 19:35:21 [108] : DEBUG -  shell_burst output	
+2020-12-14 19:35:21 [108] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_108_1600382500_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1600382500.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_108_1600382500_0001.pdf	
+2020-12-14 19:35:21 [108] : DEBUG -  shell_multistamp output	
+2020-12-14 19:35:21 [108] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_108_1600382500_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/porfirmar/SahD7wHPwEOMcgkGUNx5rXoXodK8GCrdnPJxnNav.pdf	
+2020-12-14 19:35:21 [108] : DEBUG -  shell_cat output	
+2020-12-14 19:35:21 [108] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-14 19:35:22 [108] : DEBUG -  Se finaliza subir el documento al servicio de firmado	
+2020-12-14 19:46:59 [128] : INIC  -  Juzgado: 100PIC Usuario: JC100J Expediente: 1/2020 Acuerdo: 21 id_juicio: 1600382500	
+2020-12-14 19:46:59 [128] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-14 19:46:59 [128] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-14 19:47:01 [128] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/o9y87VLfYlOs9AtI3VKNyeWnshmNyW6pNOZG5NGB.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/o9y87VLfYlOs9AtI3VKNyeWnshmNyW6pNOZG5NGB.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/o9y87VLfYlOs9AtI3VKNyeWnshmNyW6pNOZG5NGB.pdf","url":"\/temporales\/o9y87VLfYlOs9AtI3VKNyeWnshmNyW6pNOZG5NGB.pdf"}	
+2020-12-14 19:47:01 [128] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-14 19:47:01 [128] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/porfirmar/o9y87VLfYlOs9AtI3VKNyeWnshmNyW6pNOZG5NGB.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_128_1600382500_%04d.pdf	
+2020-12-14 19:47:01 [128] : DEBUG -  shell_burst output	
+2020-12-14 19:47:01 [128] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_128_1600382500_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1600382500.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_128_1600382500_0001.pdf	
+2020-12-14 19:47:01 [128] : DEBUG -  shell_multistamp output	
+2020-12-14 19:47:01 [128] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_128_1600382500_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/porfirmar/o9y87VLfYlOs9AtI3VKNyeWnshmNyW6pNOZG5NGB.pdf	
+2020-12-14 19:47:01 [128] : DEBUG -  shell_cat output	
+2020-12-14 19:47:01 [128] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-14 20:03:39 [356] : INIC  -  Juzgado: 100PIC Usuario: JC100J Expediente: 1/2020 Acuerdo: 21 id_juicio: 1600382500	
+2020-12-14 20:03:39 [356] : DEBUG -  Se subio exitosamente el archivo	
+2020-12-14 20:03:39 [356] : DEBUG -  Se detectó archivo con extension docx	
+2020-12-14 20:03:41 [356] : DEBUG -  Se convierte el DOCX a PDF: {"exec":"sudo -u www-data HOME=\/var\/www \/usr\/bin\/python3 \"\/var\/www\/html\/sicor_extendido_80\/scripts\/firmas\/doc_para_coser.py3\" \"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/GWQgHVPKy4s2RtbIjhMadPVsoofyFRbfuY3dx8Wh.docx\" \"\"","return":"OK OK \/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/GWQgHVPKy4s2RtbIjhMadPVsoofyFRbfuY3dx8Wh.pdf","file":"\/san\/www\/html\/sicor_extendido_80\/storage\/app\/porfirmar\/GWQgHVPKy4s2RtbIjhMadPVsoofyFRbfuY3dx8Wh.pdf","url":"\/temporales\/GWQgHVPKy4s2RtbIjhMadPVsoofyFRbfuY3dx8Wh.pdf"}	
+2020-12-14 20:03:41 [356] : DEBUG -  Se empieza con el sello del boletin judicial, numero hojas:1	
+2020-12-14 20:03:41 [356] : DEBUG -  shell_burst pdftk /san/www/html/sicor_extendido_80/storage/app/porfirmar/GWQgHVPKy4s2RtbIjhMadPVsoofyFRbfuY3dx8Wh.pdf burst output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_356_1600382500_%04d.pdf	
+2020-12-14 20:03:41 [356] : DEBUG -  shell_burst output	
+2020-12-14 20:03:41 [356] : DEBUG -  shell_multistamp pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_sello_firmado_356_1600382500_0001.pdf multistamp /san/www/html/sicor_extendido_80/public/temporales/sello_boletin_footer_1600382500.pdf output /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_356_1600382500_0001.pdf	
+2020-12-14 20:03:41 [356] : DEBUG -  shell_multistamp output	
+2020-12-14 20:03:41 [356] : DEBUG -  shell_cat pdftk /san/www/html/sicor_extendido_80/public/temporales/doc_firmado_356_1600382500_*.pdf cat output /san/www/html/sicor_extendido_80/storage/app/porfirmar/GWQgHVPKy4s2RtbIjhMadPVsoofyFRbfuY3dx8Wh.pdf	
+2020-12-14 20:03:41 [356] : DEBUG -  shell_cat output	
+2020-12-14 20:03:41 [356] : DEBUG -  Se intenta subir el documento al servicio de firmado	
+2020-12-14 20:03:42 [356] : DEBUG -  Se finaliza subir el documento al servicio de firmado	

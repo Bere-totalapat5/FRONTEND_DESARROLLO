@@ -1,0 +1,5111 @@
+2020-09-25 01:42:05 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 01:42:15 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:42:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:42:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:42:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:42:23 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 01:42:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:42:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:42:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:42:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:42:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:42:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:42:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:42:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 01:48:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:48:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:48:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 01:48:58 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:58 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:48:58 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:48:58 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:49:00 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 01:49:03 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:49:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:49:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:49:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:49:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:50:30 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 01:50:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:50:44 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:50:44 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:50:44 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:50:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:50:47 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:52:53 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 01:52:57 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:52:57 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:52:57 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:52:57 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:52:59 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:53:01 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:53:02 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:53:03 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:53:03 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:53:03 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:53:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:53:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:53:26 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 01:53:31 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:53:31 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:53:31 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:53:31 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:53:32 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:53:33 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 01:53:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:53:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 37
+)
+2020-09-25 01:53:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 37
+)
+2020-09-25 01:53:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 37
+)
+2020-09-25 01:53:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:53:38 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:53:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:55:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 01:55:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 37
+)
+2020-09-25 01:55:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 37
+)
+2020-09-25 01:55:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:55:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 37
+)
+2020-09-25 01:55:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:55:38 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:55:49 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 01:55:56 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:55:56 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:55:56 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:55:56 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:55:57 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:55:59 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:59:02 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 01:59:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:59:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:59:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:59:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:59:11 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:59:12 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 01:59:13 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:59:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 01:59:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 01:59:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 01:59:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 01:59:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 01:59:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:02:02 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:02:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:02:08 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:02:08 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:02:08 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:02:08 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:02:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:02:10 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:02:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 37
+)
+2020-09-25 02:02:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:02:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 37
+)
+2020-09-25 02:02:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 37
+)
+2020-09-25 02:02:20 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:02:22 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:02:59 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:03:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:03:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:05 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:03:06 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:03:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:03:08 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:09 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:09 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:03:09 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:03:11 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:03:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:03:38 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:03:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:41 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:03:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:03:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:03:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:50 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:50 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:03:50 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:03:51 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:03:53 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:04:02 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:04:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:04:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:04:12 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:04:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:04:44 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:44 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:04:44 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:44 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:04:46 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:04:47 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:04:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:04:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:04:50 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:04:51 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:05:02 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873298
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2699
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/e03f0c8496013a440851e331cb4e9c49cf052a91866742e5b2ce64310b4453f7b3f3ae0fe326ab42030ca47f264cf20af708dc2055db8550e7faa871e680ca5f.pdf
+    [modal_correo_notificacion_id] => 36
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => 
+)
+2020-09-25 02:05:03 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:05:13 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:05:17 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:18 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:05:18 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:18 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:05:20 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:05:21 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:05:23 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1595873298
+    [ponencia] => 1PIC
+    [id_documento] => 2699
+    [tipo_documento] => pdf
+)
+2020-09-25 02:05:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:05:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:05:30 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:05:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:05:38 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:05:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:05:40 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:05:41 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:05:42 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:05:47 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:07:22 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:07:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:07:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:07:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:07:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:07:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:07:30 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:07:30 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:09:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:09:23 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:09:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:09:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:09:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:09:25 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:09:25 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:09:26 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:10:03 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:10:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:10:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:10:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:10:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:10:08 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:10:10 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:10:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:10:21 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:10:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:10:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:10:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:10:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:10:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:10:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:10:41 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:10:51 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:11:42 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:11:47 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:11:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:11:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:11:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:11:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:11:50 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:11:51 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:11:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:11:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:11:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:11:53 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:11:53 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:11:54 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:11:55 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:12:08 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:12:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873298
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2699
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/e03f0c8496013a440851e331cb4e9c49cf052a91866742e5b2ce64310b4453f7b3f3ae0fe326ab42030ca47f264cf20af708dc2055db8550e7faa871e680ca5f.pdf
+    [modal_correo_notificacion_id] => 36
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpd0QRca
+            [fileName:SplFileInfo:private] => phpd0QRca
+        )
+
+)
+2020-09-25 02:13:11 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:13:15 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:13:15 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:13:15 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:13:15 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:13:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:13:17 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:13:18 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:13:23 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873298
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2699
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/e03f0c8496013a440851e331cb4e9c49cf052a91866742e5b2ce64310b4453f7b3f3ae0fe326ab42030ca47f264cf20af708dc2055db8550e7faa871e680ca5f.pdf
+    [modal_correo_notificacion_id] => 36
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php9pGDye
+            [fileName:SplFileInfo:private] => php9pGDye
+        )
+
+)
+2020-09-25 02:13:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:13:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:13:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:13:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:13:38 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:13:40 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:17:18 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:17:23 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:17:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:17:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:17:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:17:25 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:17:26 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:17:26 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:17:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873298
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2699
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/e03f0c8496013a440851e331cb4e9c49cf052a91866742e5b2ce64310b4453f7b3f3ae0fe326ab42030ca47f264cf20af708dc2055db8550e7faa871e680ca5f.pdf
+    [modal_correo_notificacion_id] => 36
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpfUYrhG
+            [fileName:SplFileInfo:private] => phpfUYrhG
+        )
+
+)
+2020-09-25 02:17:48 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:17:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:17:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:17:49 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:17:50 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:17:51 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:17:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:17:53 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873298
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2699
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/e03f0c8496013a440851e331cb4e9c49cf052a91866742e5b2ce64310b4453f7b3f3ae0fe326ab42030ca47f264cf20af708dc2055db8550e7faa871e680ca5f.pdf
+    [modal_correo_notificacion_id] => 36
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpxl704w
+            [fileName:SplFileInfo:private] => phpxl704w
+        )
+
+)
+2020-09-25 02:21:02 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:21:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:21:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:07 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:08 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:21:09 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:21:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:21:11 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:12 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:21:12 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:12 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:13 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:21:13 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:21:14 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:21:22 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873298
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2699
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/e03f0c8496013a440851e331cb4e9c49cf052a91866742e5b2ce64310b4453f7b3f3ae0fe326ab42030ca47f264cf20af708dc2055db8550e7faa871e680ca5f.pdf
+    [modal_correo_notificacion_id] => 36
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpAe2Moy
+            [fileName:SplFileInfo:private] => phpAe2Moy
+        )
+
+)
+2020-09-25 02:21:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 36
+)
+2020-09-25 02:21:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:21:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:21:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/es.js.map	
+Array
+(
+)
+2020-09-25 02:21:37 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:21:39 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873298
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2699
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/e03f0c8496013a440851e331cb4e9c49cf052a91866742e5b2ce64310b4453f7b3f3ae0fe326ab42030ca47f264cf20af708dc2055db8550e7faa871e680ca5f.pdf
+    [modal_correo_notificacion_id] => 36
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phphoQaJs
+            [fileName:SplFileInfo:private] => phphoQaJs
+        )
+
+)
+2020-09-25 02:23:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 36
+    [parte_correo] => isra_@hotmail.com.mx
+    [id_parte] => 68
+)
+2020-09-25 02:23:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_111_ajax	
+Array
+(
+    [modal_id_acuerdo] => 1595873298
+    [modal_id_juicio] => 1582151035139
+    [id_parte] => 55075
+)
+2020-09-25 02:23:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 1
+    [noti_elect_estatus_correccion] => 0
+    [noti_elect_comentario_correccion] => 
+    [id_acuerdo_notificacion] => 36
+    [parte_correo] => salvador.rios@tsjcdmx.gob.mx
+    [id_parte] => 67
+)
+2020-09-25 02:23:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_notificado	
+Array
+(
+    [id_acuerdo_notificacion] => 36
+)
+2020-09-25 02:23:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_111_ajax	
+Array
+(
+    [modal_id_acuerdo] => 1595873298
+    [modal_id_juicio] => 1582151035139
+    [id_parte] => 67
+)
+2020-09-25 02:23:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 1
+    [noti_elect_estatus_correccion] => 0
+    [noti_elect_comentario_correccion] => 
+    [id_acuerdo_notificacion] => 36
+    [parte_correo] => iarellano@totalpat.com
+    [id_parte] => 55075
+)
+2020-09-25 02:23:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 37
+)
+2020-09-25 02:23:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 37
+)
+2020-09-25 02:23:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 37
+)
+2020-09-25 02:23:28 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:26:29 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:26:34 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 37
+)
+2020-09-25 02:26:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 37
+)
+2020-09-25 02:26:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:26:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:28:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:19 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:23 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:23 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:23 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:23 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:28:25 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:28:28 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1595873318
+    [ponencia] => 1PIC
+    [id_documento] => 2697
+    [tipo_documento] => pdf
+)
+2020-09-25 02:28:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 37
+)
+2020-09-25 02:28:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:28:46 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:29:02 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873318
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2697
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/dfa783595a5ad52145bf69d1a89c448b5680a77aeedc72c9e9f1837bdc419e7547d812ed83953cd3b136a4c38e8dc38f9e057765cc8a41f7194f7c7b8612472d.pdf
+    [modal_correo_notificacion_id] => 37
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpfHpkcR
+            [fileName:SplFileInfo:private] => phpfHpkcR
+        )
+
+)
+2020-09-25 02:29:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 37
+    [parte_correo] => isra_@hotmail.com.mx
+    [id_parte] => 68
+)
+2020-09-25 02:29:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_111_ajax	
+Array
+(
+    [modal_id_acuerdo] => 1595873318
+    [modal_id_juicio] => 1582151035139
+    [id_parte] => 67
+)
+2020-09-25 02:29:36 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 1
+    [noti_elect_estatus_correccion] => 0
+    [noti_elect_comentario_correccion] => 
+    [id_acuerdo_notificacion] => 37
+    [parte_correo] => salvador.rios@tsjcdmx.gob.mx
+    [id_parte] => 67
+)
+2020-09-25 02:29:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_111_ajax	
+Array
+(
+    [modal_id_acuerdo] => 1595873318
+    [modal_id_juicio] => 1582151035139
+    [id_parte] => 55075
+)
+2020-09-25 02:29:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 1
+    [noti_elect_estatus_correccion] => 0
+    [noti_elect_comentario_correccion] => 
+    [id_acuerdo_notificacion] => 37
+    [parte_correo] => iarellano@totalpat.com
+    [id_parte] => 55075
+)
+2020-09-25 02:29:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_notificado	
+Array
+(
+    [id_acuerdo_notificacion] => 37
+)
+2020-09-25 02:31:51 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 38
+)
+2020-09-25 02:31:51 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:31:51 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 38
+)
+2020-09-25 02:31:51 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 38
+)
+2020-09-25 02:31:55 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:31:57 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595873344
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 1
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2695
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/c54381c407bfe152a13daa72e16190d923f0493aa1ba36154e343ccd53095a7e6d2ae4ed762979f474e1be908a50966bc0061e7eba5b0dc1dea6f8ec6b2e068d.pdf
+    [modal_correo_notificacion_id] => 38
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php3pVnRs
+            [fileName:SplFileInfo:private] => php3pVnRs
+        )
+
+)
+2020-09-25 02:32:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 38
+    [parte_correo] => isra_@hotmail.com.mx
+    [id_parte] => 68
+)
+2020-09-25 02:32:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_111_ajax	
+Array
+(
+    [modal_id_acuerdo] => 1595873344
+    [modal_id_juicio] => 1582151035139
+    [id_parte] => 67
+)
+2020-09-25 02:32:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 1
+    [noti_elect_estatus_correccion] => 0
+    [noti_elect_comentario_correccion] => 
+    [id_acuerdo_notificacion] => 38
+    [parte_correo] => salvador.rios@tsjcdmx.gob.mx
+    [id_parte] => 67
+)
+2020-09-25 02:32:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 1
+    [noti_elect_estatus_correccion] => 0
+    [noti_elect_comentario_correccion] => 
+    [id_acuerdo_notificacion] => 38
+    [parte_correo] => iarellano@totalpat.com
+    [id_parte] => 55075
+)
+2020-09-25 02:32:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_111_ajax	
+Array
+(
+    [modal_id_acuerdo] => 1595873344
+    [modal_id_juicio] => 1582151035139
+    [id_parte] => 55075
+)
+2020-09-25 02:32:43 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_notificado	
+Array
+(
+    [id_acuerdo_notificacion] => 38
+)
+2020-09-25 02:32:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 39
+)
+2020-09-25 02:32:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:32:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 39
+)
+2020-09-25 02:32:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 39
+)
+2020-09-25 02:32:54 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:32:57 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595874716
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 2
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2712
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/d4b17bc6df1d17bf22ff4e651c847563a08b0f7713048b043cc5fe9d4a4f2dc61fdd437fdcdf9742664683ec28682490d447b108a98660f96b767a988d785181.pdf
+    [modal_correo_notificacion_id] => 39
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpT0aTcz
+            [fileName:SplFileInfo:private] => phpT0aTcz
+        )
+
+)
+2020-09-25 02:33:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 39
+)
+2020-09-25 02:33:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:33:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 39
+)
+2020-09-25 02:33:27 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 39
+)
+2020-09-25 02:33:29 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:33:31 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595874716
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 2
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2712
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/d4b17bc6df1d17bf22ff4e651c847563a08b0f7713048b043cc5fe9d4a4f2dc61fdd437fdcdf9742664683ec28682490d447b108a98660f96b767a988d785181.pdf
+    [modal_correo_notificacion_id] => 39
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpNxIDVI
+            [fileName:SplFileInfo:private] => phpNxIDVI
+        )
+
+)
+2020-09-25 02:34:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 39
+)
+2020-09-25 02:34:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:34:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 39
+)
+2020-09-25 02:34:06 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 39
+)
+2020-09-25 02:34:08 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:34:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595874716
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 2
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2712
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/d4b17bc6df1d17bf22ff4e651c847563a08b0f7713048b043cc5fe9d4a4f2dc61fdd437fdcdf9742664683ec28682490d447b108a98660f96b767a988d785181.pdf
+    [modal_correo_notificacion_id] => 39
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phppAsi0t
+            [fileName:SplFileInfo:private] => phppAsi0t
+        )
+
+)
+2020-09-25 02:34:33 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 40
+)
+2020-09-25 02:34:33 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:34:33 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 40
+)
+2020-09-25 02:34:33 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 40
+)
+2020-09-25 02:34:35 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:34:37 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1595874734
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 3
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 2714
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1582151035139
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/9c5c2efc559564450b1574a907bceaf14b8afb6d565467aac4fc04c3fd7270694770aa76bb8484858a51a71d2d1af50e7468ce99f8134ba785e00c85db923346.pdf
+    [modal_correo_notificacion_id] => 40
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Especial Hipotecario promovido por INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES en contra de CRISTINA ARACELY G&Aacute;MEZ HARO,., NUEVO PROMOVENTE APELLDIO MATERNO , NUEVO FISCIA APELLIDO , bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpTWNeMO
+            [fileName:SplFileInfo:private] => phpTWNeMO
+        )
+
+)
+2020-09-25 02:35:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1582151035139
+    [notificacion_id] => 40
+)
+2020-09-25 02:35:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 1
+    [notificacion_id] => 40
+)
+2020-09-25 02:35:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1582151035139
+)
+2020-09-25 02:35:24 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1582151035139
+    [texto] => 2
+    [notificacion_id] => 40
+)
+2020-09-25 02:35:28 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 67
+                            [nombres] => INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => salvador.rios@tsjcdmx.gob.mx
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 68
+                            [nombres] => CRISTINA ARACELY GÁMEZ HARO,.
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com.mx
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 55075
+                            [nombres] => NUEVO PROMOVENTE
+                            [apellido_paterno] => APELLDIO
+                            [apellido_materno] => MATERNO
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => iarellano@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1582151035139
+    [tipo_expediente] => expedientillo
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:36:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1578503871569
+    [notificacion_id] => 73
+)
+2020-09-25 02:36:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1578503871569
+)
+2020-09-25 02:36:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 1
+    [notificacion_id] => 73
+)
+2020-09-25 02:36:52 [0] : DEBUG -  http://172.16.159.181/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1578503871569
+    [texto] => 2
+    [notificacion_id] => 73
+)
+2020-09-25 02:36:54 [0] : DEBUG -  http://172.16.159.181/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_isra@hotmail.com
+                            [telefono] => 4
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-25 02:36:56 [0] : DEBUG -  http://172.16.159.181/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599793747
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 6
+    [modal_correo_codigo_organo] => 1PIC
+    [modal_correo_ultima_version] => 3821
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1578503871569
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/ac1d31847f84a26adf3a1036b12c67662592ec064c07e98037645d6e36c61b6ab075183e14978f0bd3f1346b54cfc9759fc32e8edf3a9bc1dd357a0841fe6027.pdf
+    [modal_correo_notificacion_id] => 73
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Jurisdicci&oacute;n voluntaria promovido por BAUTISTA GALICIA NIMBE JANET en contra de RAMON RUIZ BUELNA, bajo el expediente 1/2020, ante Primero de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p><br></p><p><br></p><p><br></p><p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpLobI1a
+            [fileName:SplFileInfo:private] => phpLobI1a
+        )
+
+)
+2020-09-25 02:38:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 73
+    [parte_correo] => isra_@hotmail.com
+    [id_parte] => 69
+)
+2020-09-25 02:38:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 73
+    [parte_correo] => isra_isra@hotmail.com
+    [id_parte] => 70
+)
+2020-09-25 02:38:35 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_notificado	
+Array
+(
+    [id_acuerdo_notificacion] => 73
+)
+2020-09-25 02:38:45 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-25 02:38:50 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificado	
+Array
+(
+)
+2020-09-25 02:38:56 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_resumen	
+Array
+(
+    [id] => 2
+)
+2020-09-25 02:39:01 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_resumen	
+Array
+(
+    [id] => 32
+)
+2020-09-25 02:39:04 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_resumen	
+Array
+(
+    [id] => 5
+)
+2020-09-25 02:39:16 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_resumen	
+Array
+(
+    [id] => 73
+)
+2020-09-25 02:39:21 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-09-25 02:40:57 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_fisica	
+Array
+(
+    [id_noti_elect] => 70
+    [fecha] => 2020/09/25
+)
+2020-09-25 02:41:12 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_fisica	
+Array
+(
+    [id_noti_elect] => 73
+    [fecha] => 2020/09/25
+)
+2020-09-25 02:41:15 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_fisica	
+Array
+(
+    [id_noti_elect] => 80
+    [fecha] => 2020/09/25
+)
+2020-09-25 02:41:20 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificar_acuerdo_bandera_fisica	
+Array
+(
+    [id_noti_elect] => 85
+    [fecha] => 2020/09/25
+)
+2020-09-25 02:42:21 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

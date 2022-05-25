@@ -1,0 +1,97 @@
+2020-09-03 00:06:50 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-03 00:06:54 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-03 00:06:58 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598803804	
+Array
+(
+)
+2020-09-03 00:07:22 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1598803804
+    [juzgado] => 200PIC
+)
+2020-09-03 00:11:36 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-03 00:53:17 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-03 00:53:40 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-03 00:53:55 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-09-03 00:54:32 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes/obtenerPromocionPDF	
+Array
+(
+    [id] => 168
+)
+2020-09-03 00:56:29 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes/cambiarEstatus	
+Array
+(
+    [estatus] => aprobado
+    [id] => 168
+)
+2020-09-03 01:17:12 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-09-03 01:17:21 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-09-03 01:17:37 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598849619534
+    [expediente] => 6/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-09-03 01:17:40 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598849609483
+    [expediente] => 5/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-09-03 01:17:44 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598849643652
+    [expediente] => 7/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-09-03 01:19:08 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes	
+Array
+(
+)

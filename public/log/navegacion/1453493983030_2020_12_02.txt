@@ -1,0 +1,2194 @@
+2020-12-02 09:29:54 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:30:00 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:37:49 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:37:55 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:38:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:38:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:38:40 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:38:48 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:39:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:39:21 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:44:57 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:45:04 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:45:50 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:46:01 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:48:07 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:48:14 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:51:22 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:51:28 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:52:25 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:52:33 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 09:53:04 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 09:53:13 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 10:07:23 [0] : DEBUG -  http://155.94.139.2:8082/juicio/nuevo	
+Array
+(
+)
+2020-12-02 10:08:16 [0] : DEBUG -  http://155.94.139.2:8082/promociones/nueva	
+Array
+(
+)
+2020-12-02 10:08:34 [0] : DEBUG -  http://155.94.139.2:8082/promociones/nueva	
+Array
+(
+)
+2020-12-02 10:16:41 [0] : DEBUG -  http://155.94.139.2:8082/juicio/nuevo	
+Array
+(
+)
+2020-12-02 10:17:12 [0] : DEBUG -  http://155.94.139.2:8082/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-12-02 10:17:16 [0] : DEBUG -  http://155.94.139.2:8082/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-12-02 10:17:28 [0] : DEBUG -  http://155.94.139.2:8082/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-12-02 10:27:26 [0] : DEBUG -  http://155.94.139.2:8082/menu_permisos	
+Array
+(
+)
+2020-12-02 10:41:29 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 10:41:31 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 10:41:43 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382500	
+Array
+(
+)
+2020-12-02 10:41:46 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1600382500
+)
+2020-12-02 10:42:01 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1600382500
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 2
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-12-02
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [bandera_notificacion] => 1
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpXv78D8
+            [fileName:SplFileInfo:private] => phpXv78D8
+        )
+
+)
+2020-12-02 10:42:06 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382500	
+Array
+(
+)
+2020-12-02 10:42:09 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1600382500
+)
+2020-12-02 10:42:35 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 10:42:40 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606927325
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-02 10:42:50 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606927325
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-02 10:42:51 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 10:57:43 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 10:58:25 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-12-02 10:58:25 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 10:58:27 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:06:27 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:06:40 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:06:56 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:07:07 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:09:06 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:10:02 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:10:25 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:10:38 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:11:47 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:12:16 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:12:23 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:12:31 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:12:47 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 11:12:59 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:14:39 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:15:35 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:17:36 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:18:13 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:18:29 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:23:48 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:26:14 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:27:30 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 11:27:49 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 11:43:02 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 11:58:13 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 12:13:28 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 12:28:31 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 12:43:36 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 12:58:41 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 13:01:17 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 13:01:31 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 13:13:51 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 13:30:31 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 13:41:52 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:45:38 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 13:50:32 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:50:50 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:52:18 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:52:44 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:53:37 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:55:07 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:55:54 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:56:12 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:56:31 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 13:56:40 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:00:04 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:10:53 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:11:09 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:13:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:13:40 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:17:06 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 14:17:16 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:17:19 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:17:39 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:18:17 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:18:19 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:18:22 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:18:26 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:18:35 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:18:39 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:18:40 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:19:00 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:19:09 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:19:54 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:19:56 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:20:06 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:20:44 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:21:21 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:23:47 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:24:09 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:28:13 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:28:47 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 14:30:09 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:30:12 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:32:10 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 14:32:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 14:32:56 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 14:33:00 [0] : DEBUG -  http://155.94.139.2/?next=firmar_tsjcdmx	
+Array
+(
+    [next] => firmar_tsjcdmx
+)
+2020-12-02 14:33:00 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 14:33:02 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 14:33:07 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:33:56 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:34:05 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:34:20 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:34:43 [0] : DEBUG -  http://155.94.139.2:8082/expedido	
+Array
+(
+)
+2020-12-02 14:34:51 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 14:36:13 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:36:51 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:37:36 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:38:02 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:50:32 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:52:51 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:53:15 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:56:29 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-12-02 14:56:33 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 14:57:50 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 14:58:34 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:02:16 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:02:41 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:03:01 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:04:22 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:05:02 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:06:13 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:11:37 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 15:17:58 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:18:18 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:18:30 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:18:39 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:19:01 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:19:13 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:19:22 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:19:47 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:20:00 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:20:53 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 15:23:19 [0] : DEBUG -  http://155.94.139.2:8082	
+Array
+(
+)
+2020-12-02 15:23:19 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+)
+2020-12-02 15:23:29 [0] : DEBUG -  http://155.94.139.2:8082/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 15:23:40 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 15:26:48 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 15:34:27 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:35:11 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:42:00 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 15:50:54 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:51:06 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:51:21 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:53:22 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:53:35 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:54:32 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:55:34 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:56:01 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:56:12 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:56:43 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:57:03 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 15:57:04 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:57:21 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:57:50 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:58:06 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 15:58:42 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:58:50 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:59:34 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 15:59:39 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 15:59:59 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:00:56 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 16:07:09 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606927325
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:07:09 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:08:29 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:08:33 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606927325
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:08:34 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:09:28 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:09:32 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606927325
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:09:33 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:09:57 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1606927325
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpN7lp3j
+            [fileName:SplFileInfo:private] => phpN7lp3j
+        )
+
+)
+2020-12-02 16:10:33 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:10:54 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:11:07 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:11:19 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 16:13:16 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:13:20 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606927325
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:13:20 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:13:25 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:13:28 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1606927325
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpGvYDMt
+            [fileName:SplFileInfo:private] => phpGvYDMt
+        )
+
+)
+2020-12-02 16:13:36 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:14:06 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:17:17 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:17:49 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 16:18:09 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:18:44 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 16:19:00 [0] : DEBUG -  http://155.94.139.2/firmar_tsjcdmx	
+Array
+(
+)
+2020-12-02 16:19:13 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:19:18 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606267684
+    [id_juicio] => 1599534567
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:19:21 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606267684
+    [id_juicio] => 1599534567
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:19:25 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606265134
+    [id_juicio] => 1599706830
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:19:36 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:19:43 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606267684
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-02 16:19:46 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606265134
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-02 16:19:49 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1602858250
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-02 16:19:57 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 16:19:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 16:20:01 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382500	
+Array
+(
+)
+2020-12-02 16:20:05 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1600382500
+)
+2020-12-02 16:20:19 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1600382500
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 3
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-12-02
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [bandera_notificacion] => 1
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpgJxaGc
+            [fileName:SplFileInfo:private] => phpgJxaGc
+        )
+
+)
+2020-12-02 16:20:23 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382500	
+Array
+(
+)
+2020-12-02 16:20:26 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1600382500
+)
+2020-12-02 16:20:32 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:20:36 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606947622
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-02 16:20:40 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606947622
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:20:40 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:20:50 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1606947622
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpUIE5gn
+            [fileName:SplFileInfo:private] => phpUIE5gn
+        )
+
+)
+2020-12-02 16:27:43 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:27:50 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-12-02 16:27:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 16:27:56 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 16:27:58 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382500	
+Array
+(
+)
+2020-12-02 16:28:01 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1600382500
+)
+2020-12-02 16:28:16 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1600382500
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 4
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-12-02
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [bandera_notificacion] => 1
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php0hL51D
+            [fileName:SplFileInfo:private] => php0hL51D
+        )
+
+)
+2020-12-02 16:28:20 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382500	
+Array
+(
+)
+2020-12-02 16:28:23 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1600382500
+)
+2020-12-02 16:28:27 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:28:33 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606948099
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:28:33 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:28:48 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1606948099
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpqOpYBC
+            [fileName:SplFileInfo:private] => phpqOpYBC
+        )
+
+)
+2020-12-02 16:30:33 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:30:49 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:31:04 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:33:38 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:34:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:34:40 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:35:46 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:36:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:36:49 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1601052286
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-02 16:36:54 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1602811607
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-02 16:36:58 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:36:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 16:37:01 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-12-02 16:37:03 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382500	
+Array
+(
+)
+2020-12-02 16:37:06 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1600382500
+)
+2020-12-02 16:37:10 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:37:21 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1600382500
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 5
+    [tipo_acuerdo] => acuerdo
+    [subtipo_acuerdo] => Admisión
+    [especial] => -
+    [fecha] => 2020-12-02
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => 
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [bandera_notificacion] => 1
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phppANn0f
+            [fileName:SplFileInfo:private] => phppANn0f
+        )
+
+)
+2020-12-02 16:37:25 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1600382500	
+Array
+(
+)
+2020-12-02 16:37:28 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalle/accionPaginatorAcuerdos_ajax	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 5
+    [id] => 1600382500
+)
+2020-12-02 16:37:34 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:37:39 [0] : DEBUG -  http://155.94.139.2/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1606948644
+    [id_juicio] => 1600382500
+    [codigo_organo] => 100PIC
+)
+2020-12-02 16:37:39 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:37:49 [0] : DEBUG -  http://155.94.139.2/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1606948644
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 100PIC
+    [modal_ultima_version] => 0
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1600382500
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel_tsj
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpSJ3XxL
+            [fileName:SplFileInfo:private] => phpSJ3XxL
+        )
+
+)
+2020-12-02 16:38:21 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:38:57 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:39:10 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:39:39 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:40:01 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:40:27 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-12-02 16:40:27 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 16:40:29 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-12-02 16:40:29 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-12-02 16:41:13 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:42:14 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:42:57 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:43:08 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:44:10 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:44:27 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:45:26 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:50:49 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:52:06 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:54:21 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:55:05 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:55:10 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 16:55:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:55:56 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:56:40 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:56:56 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:57:09 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:57:30 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:58:14 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:58:34 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:58:47 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 16:59:05 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:00:19 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:02:09 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:03:06 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:03:43 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:04:02 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:04:17 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:04:44 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:05:07 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:05:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:06:41 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:07:09 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:07:18 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:07:39 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:08:01 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:08:14 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:08:48 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:09:20 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:10:16 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 17:10:54 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:11:36 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:11:54 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:12:51 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:13:27 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:13:44 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:14:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:14:39 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:15:15 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:15:30 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:16:18 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:18:32 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:19:28 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:19:50 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:20:15 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:20:32 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:20:47 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:21:08 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:24:26 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:24:58 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:25:28 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 17:27:13 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:27:26 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:27:50 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:32:36 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:32:56 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:35:03 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:35:18 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:35:44 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:36:20 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:39:51 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:40:43 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 17:41:11 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:42:58 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:43:24 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:45:36 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:46:23 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:48:08 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:48:51 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:49:17 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:49:59 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:50:37 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:51:56 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:52:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:53:04 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:54:48 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:55:08 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:55:37 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:56:02 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 17:57:07 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:57:31 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:57:49 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:58:04 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:58:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:58:42 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:58:58 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:59:11 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:59:21 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:59:36 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 17:59:47 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:00:05 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:00:31 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:01:55 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:02:05 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:02:15 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:02:24 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:02:34 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:02:47 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:03:05 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 18:11:09 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 18:26:30 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 18:41:35 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 18:56:53 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 19:11:59 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 19:27:06 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 19:42:09 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 19:57:15 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 20:12:18 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 20:23:59 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1606267684
+    [ponencia] => 100PIC
+    [id_documento] => 0
+    [tipo_documento] => pdf
+)
+2020-12-02 20:24:04 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 20:39:07 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 20:54:13 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 21:09:26 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 21:24:29 [0] : DEBUG -  http://155.94.139.2/bandejas/firma	
+Array
+(
+)
+2020-12-02 21:25:50 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:26:02 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:26:14 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:26:23 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:26:33 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:26:46 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:27:05 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:27:17 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:28:23 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:28:42 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:29:05 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:31:55 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:32:11 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:32:22 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:32:31 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)
+2020-12-02 21:32:46 [0] : DEBUG -  http://155.94.139.2:8082/formato_deposito	
+Array
+(
+)

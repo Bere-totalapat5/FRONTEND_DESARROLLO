@@ -1,0 +1,222 @@
+2020-08-27 00:52:46 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => C100
+    [idMateria] => C
+    [noExpediente] => 605
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-27 01:02:35 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => C100
+    [idMateria] => C
+    [noExpediente] => 605
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-27 01:15:31 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => C100
+    [idMateria] => C
+    [noExpediente] => 606
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-27 01:31:13 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => C100
+    [idMateria] => C
+    [noExpediente] => 607
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-27 01:46:19 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => C100
+    [idMateria] => C
+    [noExpediente] => 609
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-27 10:04:20 Array
+(
+    [idDocumento] => 210265872
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 6090
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-17 01:25:44
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 59070342
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":25066325,"participacion":1,"tipoPersona":"F","apPaterno":"MEJIA","apMaterno":"ORTEGA","nombre":"ROCIO ALEJANDRA","razonSocial":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":25066327,"participacion":1,"tipoPersona":"F","apPaterno":"HERRERA","apMaterno":"VENTURA","nombre":"JUAN CARLOS","razonSocial":""}]}
+    [adjuntos] => 
+    [origen] => OPC
+    [opc_promocion_bandera_mensaje] => 21
+)
+	
+2020-08-27 11:08:49 Array
+(
+    [idDocumento] => 3257439
+    [juzgado] => F3
+    [idMateria] => F
+    [noExpediente] => 15
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-27 11:08:47
+    [tipoJuicio] => 399
+    [reg_date] => 
+    [idExpediente] => 4937760
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599526,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/64/2494/2495/25270/25271/1_3.pdf","idDocument":7329}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-27 15:06:01 Array
+(
+    [idDocumento] => 3257440
+    [juzgado] => C24
+    [idMateria] => C
+    [noExpediente] => 6029
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-27 03:05:17
+    [tipoJuicio] => 417
+    [reg_date] => 
+    [idExpediente] => 4632876
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599529,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CLAVOS NACIONALES MEXICO SA DE CV","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599530,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CORPORATIVO FEGUBA SA DE CV"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/248/249/25351/25352/Escrito.pdf","idDocument":7337},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/248/249/25351/25352/Anexo.pdf","idDocument":7338}]
+    [origen] => OPV
+    [nombreCapturista] => FHFHFH SKDIUEJ
+    [emailCapturista] => SJEUFJ@GMAIL.COM
+    [telefonoCapturista] => 5512345678
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-27 19:08:24 Array
+(
+    [idDocumento] => 3257441
+    [juzgado] => C32
+    [idMateria] => C
+    [noExpediente] => 13
+    [anioExpediente] => 2018
+    [fechaRecepcion] => 2020-08-27 07:07:47
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4937780
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599532,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"DFGSS","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/163/164/25388/25389/Anexo.pdf","idDocument":7352}]
+    [origen] => OPV
+    [nombreCapturista] => C C
+    [emailCapturista] => CARLOS.BAUTISTA@TSJCDMX.GOB.MX
+    [telefonoCapturista] => 5548403652
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-27 19:20:35 Array
+(
+    [idDocumento] => 3257443
+    [juzgado] => C6
+    [idMateria] => C
+    [noExpediente] => 12
+    [anioExpediente] => 2019
+    [fechaRecepcion] => 2020-08-27 07:20:02
+    [tipoJuicio] => 199
+    [reg_date] => 
+    [idExpediente] => 4937781
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599535,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC/1/5/33/898/25395/25396/Anexo.pdf","idDocument":7353}]
+    [origen] => OPV
+    [nombreCapturista] => C C
+    [emailCapturista] => carlos.bautista@tsjcdmx.gob.mx
+    [telefonoCapturista] => 5548403652
+    [tipoTramiteDivorcio] => 
+)
+	

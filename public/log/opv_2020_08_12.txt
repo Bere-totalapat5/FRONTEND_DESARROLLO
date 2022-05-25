@@ -1,0 +1,155 @@
+2020-08-12 10:02:02 Array
+(
+    [idDocumento] => 3257172
+    [juzgado] => C15
+    [idMateria] => C
+    [noExpediente] => 1199
+    [anioExpediente] => 2008
+    [fechaRecepcion] => 2020-08-12 10:01:32
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4937560
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599105,"participacion":1,"tipoPersona":"F","apPaterno":"GONZALEZ","apMaterno":"GARCIA","nombre":"GILBERTO","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":4589250,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CONDOMINIO ERAZO SA DE CV"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/445/446/24864/24865/PROMOCION DE EJEMPLO.pdf","idDocument":7194}]
+    [origen] => OPV
+    [nombreCapturista] => PONCE ALCANTARA SANDRA ELENA
+    [emailCapturista] => hrit@gmail.com
+    [telefonoCapturista] => 5512345678
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-12 11:12:05 Array
+(
+    [idDocumento] => 3257173
+    [juzgado] => F14
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-12 11:11:35
+    [tipoJuicio] => 306
+    [reg_date] => 
+    [idExpediente] => 4632678
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599108,"participacion":1,"tipoPersona":"F","apPaterno":"JIMENEZ","apMaterno":"ALTAR","nombre":"MONSERRAT","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599109,"participacion":1,"tipoPersona":"F","apPaterno":"MENDOZA","apMaterno":"","nombre":"ERNESTINA","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/127/128/24871/24872/1.pdf","idDocument":7195},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/127/128/24871/24872/2.pdf","idDocument":7196}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-12 11:54:50 Array
+(
+    [idDocumento] => 3257173
+    [juzgado] => F14
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-12 11:11:35
+    [tipoJuicio] => 306
+    [reg_date] => 
+    [idExpediente] => 4632678
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599108,"participacion":1,"tipoPersona":"F","apPaterno":"JIMENEZ","apMaterno":"ALTAR","nombre":"MONSERRAT","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599109,"participacion":1,"tipoPersona":"F","apPaterno":"MENDOZA","apMaterno":"","nombre":"ERNESTINA","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/127/128/24871/24872/1.pdf","idDocument":7195},{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/127/128/24871/24872/2.pdf","idDocument":7196}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => asd@asd.asd
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-12 16:27:52 Array
+(
+    [idDocumento] => 3257176
+    [juzgado] => C20
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-12 04:27:32
+    [tipoJuicio] => 113
+    [reg_date] => 
+    [idExpediente] => 4632681
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599114,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MARTIN"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599115,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COLIN"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-12 17:17:07 Array
+(
+    [id_sicor] => 1597267672345
+    [juzgado] => C20
+    [idMateria] => C
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-12 04:27:32
+    [tipoJuicio] => 113
+    [reg_date] => 
+    [idExpediente] => 4632681
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599118,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MARTINEZ"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599119,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"COLINAS ZAPATA"}]}
+    [origen] => 
+)
+	
+2020-08-12 17:40:02 Array
+(
+    [idDocumento] => 3257177
+    [juzgado] => C4
+    [idMateria] => C
+    [noExpediente] => 6023
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-12 05:39:42
+    [tipoJuicio] => 102
+    [reg_date] => 
+    [idExpediente] => 4632682
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599120,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MISCELANEA JOAQUIN"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20599121,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ZACATECAS"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-12 20:13:33 Array
+(
+    [idDocumento] => 3257178
+    [juzgado] => R7
+    [idMateria] => R
+    [noExpediente] => 937
+    [anioExpediente] => 2019
+    [fechaRecepcion] => 2020-08-12 08:13:05
+    [tipoJuicio] => 389
+    [reg_date] => 
+    [idExpediente] => 4937580
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20599123,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"SIN REGISTRO ENCONTRADO EN LA BASE","email":""}]}
+    [arr_demandados] => {}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/599/4953/4954/24878/24879/Machote acuerdo.pdf","idDocument":7197}]
+    [origen] => OPV
+    [nombreCapturista] => HERNANDEZ SAUL
+    [emailCapturista] => hdhf@gmail.com
+    [telefonoCapturista] => 5512345678
+    [tipoTramiteDivorcio] => 
+)
+	

@@ -1,0 +1,255 @@
+.acciones{
+  min-width: 70px;
+}
+
+.folio_registro {
+  min-width: 127px;
+}
+
+.carpeta_amparo {
+  min-width: 144px;
+}
+
+.fecha_registro {
+  min-width: 134px;
+}
+
+.carpeta_judicial {
+  min-width: 160px;
+}
+
+.carpeta_apelcaion {
+  min-width: 180px;
+}
+
+.nombre_apelante {
+  min-width: 195px;
+}
+
+.figura_juridica {
+  min-width: 115px;
+}
+
+.resolucion_inpugnada {
+  min-width: 165px;
+}
+
+.nombre_resolucion {
+  min-width: 179px;
+}
+
+.sala_asignada {
+  min-width: 155px;
+}
+
+.no_toca {
+  min-width: 130px;
+}
+
+.registrado_por {
+  min-width: 130px;
+}
+
+.situacion {
+  min-width: 200px;
+}
+
+#tableApelaciones{
+  display: block;
+}
+
+#accordion .card{
+  border:none !important;
+}
+
+#accordion .card .card-header{
+  border: 1px solid #dee2e6 !important;
+}
+
+#accordion .card .card-header a{
+  padding: 10px !important;
+}
+
+#collapseOne{
+  border: 1px solid #eee !important;
+  background: #f8f9fa;
+}
+
+#accordion a::before{
+  top: 10px !important;
+}
+
+#divButtonN button{
+  margin-bottom: 10px; 
+  width: 100%;
+}
+
+.datepicker{
+  z-index:9999 !important
+}
+
+.modal-open .ui-datepicker{
+  z-index: 2000!important
+}
+
+ul.uib-datepicker-popup.dropdown-menu.ng-scope { z-index: 1090 !important; }
+#ui-datepicker-div{
+  z-index: 1050 !important;
+}
+
+.select2-container.select2-container--default.select2-container--open{
+  z-index: 1050 !important;
+}
+
+#listaCarpetas li:hover{
+  background-color: #848F33 !important;
+  color: #FFF !important;
+}
+
+#modalNuevaApelacion .modal-dialog{
+  width: 96%;
+}
+
+#modalAgregarParte .modal-dialog{
+  width: 96%;
+}
+
+.custom-input-file {
+  cursor: pointer;
+  font-size: 1.2em;
+  margin: 0 auto 0;
+  min-height: 10em;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 500px;
+  color: #848F33;
+  border: 2px solid #EEE;
+  border-style: dotted;
+  height: 80px;
+  border-radius: 25px;
+  width: 100%;  
+  align-items: center;
+  display: flex;
+}
+
+.custom-input-file:hover{
+  background: #848F33;
+  color: #fff;
+}
+
+.custom-input-file .input-file{
+  border: 10000px solid transparent;
+  cursor: pointer;
+  font-size: 10000px;
+  margin: 0;
+  opacity: 0;
+  outline: 0 none;
+  padding: 0 ;
+  position: absolute;
+  right: -1000px;
+  top: -1000px;
+}
+
+#formNuevaApelacion table { 
+  display: table;
+}
+
+div.row > div {
+  padding-top: 10px;
+}
+
+.sk-circle {
+  margin: auto !important;
+}
+
+#document {
+  display: flex;
+}
+
+::-webkit-scrollbar {
+  height: 8px;  
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D7DCE1; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8acaf; 
+}
+
+::-webkit-scrollbar-track {
+  background: #fff 
+}
+
+@media only screen and (max-width: 768px) {
+  #modalNuevaApelacion .modal-lg {
+    width: 100%;
+    margin: 0 !important;
+  }
+
+  #modalAgregarParte .modal-lg {
+    width: 100%;
+    margin: 0 !important;
+  }
+
+  .custom-input-file {
+    min-height: 6em;
+  }
+
+  table#tableQuejoso, table#tableActos{
+    display: block;
+    overflow-y: auto;
+  }
+
+  #document {
+    display: none;
+  }
+
+}
+
+@media only screen and (min-width: 492px) {
+  .form-layout{
+    position: relative;
+  }
+  #divButtonN{
+    position: absolute; 
+    width: 100%;
+  }
+  #divButtonN button{
+    position: relative; 
+    z-index: 1; 
+    display: block; 
+    margin-left: auto;
+    margin-bottom: 0;
+    width: auto; 
+  }
+  #accordion .card .card-header{
+    width: 75px !important;    
+  }
+
+}
+
+@media only screen and (min-width: 992px){
+  #modalNuevaApelacion .modal-lg {
+    max-width: 1024px;
+  }
+  table{
+    display: table;
+  }
+  table::-webkit-scrollbar {
+    height: 10px;  
+  }
+  table::-webkit-scrollbar-thumb {
+    background: #D7DCE1; 
+  }
+  table::-webkit-scrollbar-thumb:hover {
+    background: #a8acaf; 
+  }
+  table::-webkit-scrollbar-track {
+    background: #fff 
+  }
+}
+

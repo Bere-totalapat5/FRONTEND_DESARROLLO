@@ -1,0 +1,581 @@
+2020-11-05 11:35:29 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 11:35:43 [0] : DEBUG -  http://155.94.139.2/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => 123456aA
+)
+2020-11-05 11:35:48 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 11:35:55 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 11:35:55 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-11-05 11:35:56 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+)
+2020-11-05 11:36:04 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+    [usuario_id] => 1604596689
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 5275322
+            [1] => 5275380
+            [2] => 5275323
+            [3] => 5275356
+            [4] => 5275401
+            [5] => 5275399
+            [6] => 5275324
+            [7] => 5275325
+            [8] => 5275326
+            [9] => 5275327
+            [10] => 5275355
+            [11] => 5275328
+            [12] => 5275351
+            [13] => 5275352
+            [14] => 5275353
+            [15] => 5275330
+            [16] => 5275366
+            [17] => 5275367
+            [18] => 5275368
+            [19] => 5275331
+            [20] => 5275357
+            [21] => 5275358
+            [22] => 5275343
+            [23] => 5275359
+            [24] => 5275360
+            [25] => 5275403
+            [26] => 5275361
+            [27] => 5275362
+            [28] => 5275363
+            [29] => 5275364
+            [30] => 5275365
+        )
+
+    [permisos_menu] => Array
+        (
+            [5275323] => 1
+            [5275356] => 1
+        )
+
+)
+2020-11-05 11:36:04 [0] : DEBUG -  http://155.94.139.2/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-11-05 11:36:13 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+    [usuario_id] => 1604596689
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 5275322
+            [1] => 5275380
+            [2] => 5275323
+            [3] => 5275356
+            [4] => 5275401
+            [5] => 5275399
+            [6] => 5275324
+            [7] => 5275325
+            [8] => 5275326
+            [9] => 5275327
+            [10] => 5275355
+            [11] => 5275328
+            [12] => 5275351
+            [13] => 5275352
+            [14] => 5275353
+            [15] => 5275330
+            [16] => 5275366
+            [17] => 5275367
+            [18] => 5275368
+            [19] => 5275331
+            [20] => 5275357
+            [21] => 5275358
+            [22] => 5275343
+            [23] => 5275359
+            [24] => 5275360
+            [25] => 5275403
+            [26] => 5275361
+            [27] => 5275362
+            [28] => 5275363
+            [29] => 5275364
+            [30] => 5275365
+        )
+
+    [permisos_menu] => Array
+        (
+            [5275322] => 1
+            [5275323] => 1
+            [5275356] => 1
+        )
+
+)
+2020-11-05 11:36:13 [0] : DEBUG -  http://155.94.139.2/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-11-05 11:36:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 11:38:55 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 11:38:59 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 11:40:05 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 11:40:09 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 11:40:32 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 11:41:05 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 11:41:14 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:41:16 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:42:24 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:43:17 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:43:19 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:43:27 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:43:39 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 11:43:46 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:43:59 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:44:21 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:44:27 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 11:44:32 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:45:45 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 11:45:49 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 11:45:54 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:51:00 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:51:29 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 11:58:41 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 11:58:46 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 12:03:22 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-05 12:03:26 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:03:52 [0] : DEBUG -  http://155.94.139.2/menu_permisos	
+Array
+(
+    [usuario_id] => 1604596689
+    [permisos_menu_hidden] => Array
+        (
+            [0] => 5275322
+            [1] => 5275380
+            [2] => 5275323
+            [3] => 5275356
+            [4] => 5275401
+            [5] => 5275399
+            [6] => 5275324
+            [7] => 5275325
+            [8] => 5275326
+            [9] => 5275327
+            [10] => 5275355
+            [11] => 5275328
+            [12] => 5275351
+            [13] => 5275352
+            [14] => 5275353
+            [15] => 5275330
+            [16] => 5275366
+            [17] => 5275367
+            [18] => 5275368
+            [19] => 5275331
+            [20] => 5275357
+            [21] => 5275358
+            [22] => 5275343
+            [23] => 5275359
+            [24] => 5275360
+            [25] => 5275403
+            [26] => 5275361
+            [27] => 5275362
+            [28] => 5275363
+            [29] => 5275364
+            [30] => 5275365
+        )
+
+    [permisos_menu] => Array
+        (
+            [5275322] => 1
+            [5275356] => 1
+        )
+
+)
+2020-11-05 12:03:53 [0] : DEBUG -  http://155.94.139.2/menu_permisos/Cambio%20Satisfactorio	
+Array
+(
+)
+2020-11-05 12:04:19 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:04:37 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:04:45 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:06:16 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:06:23 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 12:06:28 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589945219
+    [expediente] => 3/2020
+    [tipo_juicio_id] => 305
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 12:06:33 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:07:31 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:08:02 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:08:56 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:09:03 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 5/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 12:09:08 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589945219
+    [expediente] => 3/2020
+    [tipo_juicio_id] => 305
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 12:09:11 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604593781933
+    [expediente] => 1/2020
+    [tipo_juicio_id] => 303
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 12:09:23 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:09:29 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:10:49 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:10:54 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604589841267
+    [expediente] => 9696/2020
+    [tipo_juicio_id] => 102
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 12:11:26 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:16:32 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:19:39 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:20:49 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:21:22 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:25:18 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:25:26 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 12:25:46 [0] : DEBUG -  http://155.94.139.2	
+Array
+(
+)
+2020-11-05 12:25:46 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:34:43 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:35:14 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:35:33 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:35:53 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:36:10 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-05 12:36:16 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 13:33:56 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 13:34:20 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1604604693811
+    [expediente] => 511/2020
+    [tipo_juicio_id] => 307
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-11-05
+    [origen] => OPV
+)
+2020-11-05 13:34:54 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 13:34:58 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7694
+)
+2020-11-05 13:35:02 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7695
+)
+2020-11-05 13:36:26 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-05 13:40:57 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7694
+)
+2020-11-05 13:41:32 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7694
+)
+2020-11-05 13:47:44 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7694
+)
+2020-11-05 13:59:58 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

@@ -1,0 +1,101 @@
+2020-08-31 10:13:27 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-31 10:13:33 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1582151035139	
+Array
+(
+)
+2020-08-31 10:14:10 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-08-31 10:14:28 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-31 10:14:41 [0] : DEBUG -  http://216.144.236.27/procesosTrabajo/solicitudes	
+Array
+(
+)
+2020-08-31 11:36:33 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-31 11:36:38 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-31 11:37:04 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1582151035139	
+Array
+(
+)
+2020-08-31 11:39:57 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-31 11:41:04 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-31 11:41:14 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-31 11:42:45 [0] : DEBUG -  http://216.144.236.27/home/archivoDetalles/1582151035139	
+Array
+(
+    [id] => 1582151035139
+)
+2020-08-31 11:43:07 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1582151035139	
+Array
+(
+)
+2020-08-31 11:43:59 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-31 11:44:09 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-31 11:44:22 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-31 11:44:29 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 268
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-31 11:44:33 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-31 11:45:30 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-31 11:45:37 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 7
+    [registros_por_pagina] => 10
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)

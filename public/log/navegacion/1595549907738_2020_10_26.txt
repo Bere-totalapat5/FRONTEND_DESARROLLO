@@ -1,0 +1,255 @@
+2020-10-26 10:33:51 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-10-26 10:33:55 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-10-26 10:34:29 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/32	
+Array
+(
+)
+2020-10-26 10:35:05 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-26 10:39:30 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => tipo_amparo
+                    [value] => 123
+                )
+
+            [2] => Array
+                (
+                    [name] => quejoso_tipo_recibe
+                    [value] => Fisica
+                )
+
+            [3] => Array
+                (
+                    [name] => paterno_fisica_quejoso
+                    [value] => a
+                )
+
+            [4] => Array
+                (
+                    [name] => materno_fisica_quejoso
+                    [value] => b
+                )
+
+            [5] => Array
+                (
+                    [name] => nombre_fisica_quejoso
+                    [value] => c
+                )
+
+            [6] => Array
+                (
+                    [name] => organo_procedencia
+                    [value] => JDO de DTO
+                )
+
+            [7] => Array
+                (
+                    [name] => no_amparo
+                    [value] => 1202/2019
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_ingreso
+                    [value] => 2020-10-27
+                )
+
+            [9] => Array
+                (
+                    [name] => informe_solicitado
+                    [value] => 0
+                )
+
+            [10] => Array
+                (
+                    [name] => fecha_envio_informe
+                    [value] => 
+                )
+
+            [11] => Array
+                (
+                    [name] => sentido_resolucion_amparo
+                    [value] => fecha d eaudiencia
+                )
+
+            [12] => Array
+                (
+                    [name] => cumplimiento
+                    [value] => No
+                )
+
+            [13] => Array
+                (
+                    [name] => observaciones
+                    [value] => 
+                )
+
+        )
+
+    [tabla] => libros_registro_amparos_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-26 10:39:54 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/32/1	
+Array
+(
+    [expediente] => 
+    [anios] => 
+    [bis] => 
+    [fecha_desde] => 
+    [fecha_hasta] => 
+)
+2020-10-26 10:46:22 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/32	
+Array
+(
+)
+2020-10-26 10:46:38 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/buscar_expediente	
+Array
+(
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-10-26 10:47:38 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/guardar/juzgado	
+Array
+(
+    [datos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => anio_judicial
+                    [value] => 2020
+                )
+
+            [1] => Array
+                (
+                    [name] => tipo_amparo
+                    [value] => No lo se
+                )
+
+            [2] => Array
+                (
+                    [name] => quejoso_tipo_recibe
+                    [value] => Fisica
+                )
+
+            [3] => Array
+                (
+                    [name] => paterno_fisica_quejoso
+                    [value] => Ejemplo
+                )
+
+            [4] => Array
+                (
+                    [name] => materno_fisica_quejoso
+                    [value] => MAterno
+                )
+
+            [5] => Array
+                (
+                    [name] => nombre_fisica_quejoso
+                    [value] => Paterno
+                )
+
+            [6] => Array
+                (
+                    [name] => organo_procedencia
+                    [value] => JDO de DTO
+                )
+
+            [7] => Array
+                (
+                    [name] => no_amparo
+                    [value] => 504/45/854
+                )
+
+            [8] => Array
+                (
+                    [name] => fecha_ingreso
+                    [value] => 2020-10-26
+                )
+
+            [9] => Array
+                (
+                    [name] => informe_solicitado
+                    [value] => Ninguno
+                )
+
+            [10] => Array
+                (
+                    [name] => fecha_envio_informe
+                    [value] => 
+                )
+
+            [11] => Array
+                (
+                    [name] => sentido_resolucion_amparo
+                    [value] => 
+                )
+
+            [12] => Array
+                (
+                    [name] => cumplimiento
+                    [value] => No
+                )
+
+            [13] => Array
+                (
+                    [name] => observaciones
+                    [value] => Ojo solo pruebas
+                )
+
+        )
+
+    [tabla] => libros_registro_amparos_juzgado_
+    [materia] => PIC
+    [id_juicio] => 1578517299509
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+    [tipo_juicio] => Contraversias de arrendamiento
+)
+2020-10-26 10:47:40 [0] : DEBUG -  http://155.94.139.2/libros_gobierno/juzgado/32	
+Array
+(
+)
+2020-10-26 10:49:41 [0] : DEBUG -  http://155.94.139.2/logout	
+Array
+(
+)

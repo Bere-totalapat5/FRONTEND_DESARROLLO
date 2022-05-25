@@ -1,0 +1,11 @@
+-- juzgado
+-- juicio
+-- parte
+-- juicio_partes
+-- acuerdo
+
+SELECT codigo     FROM juzgado WHERE codigo     IS NOT NULL ORDER BY codigo       OUTFILE '/tmp/faltan2_juzgado.ltxt';
+SELECT id_juicio  FROM juicio  WHERE id_juicio  IS NOT NULL ORDER BY id_juicio    OUTFILE '/tmp/faltan2_juicio.ltxt';
+SELECT id_parte   FROM parte   WHERE id_parte   IS NOT NULL ORDER BY id_parte     OUTFILE '/tmp/faltan2_parte.ltxt';
+SELECT id_juicio  FROM juicio_partes  WHERE id_juicio  IS NOT NULL ORDER BY id_juicio    OUTFILE '/tmp/faltan2_juicio_partes.ltxt';
+SELECT id_acuerdo FROM acuerdo WHERE id_acuerdo IS NOT NULL ORDER BY id_acuerdo    OUTFILE '/tmp/faltan2_acuerdo.ltxt';

@@ -1,0 +1,256 @@
+2020-09-11 11:17:05 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-11 11:17:07 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-11 11:17:09 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 11:35:49 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 11:36:32 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-11 11:36:34 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-11 11:36:59 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 12:19:44 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 12:20:45 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599840689
+    [juzgado] => 4PIF
+)
+2020-09-11 13:17:06 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:20:31 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:22:29 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:25:12 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:25:19 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:25:41 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:26:00 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:31:56 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:32:50 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-11 13:32:52 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-11 13:32:54 [0] : DEBUG -  http://172.16.159.181/promociones/iniciales	
+Array
+(
+)
+2020-09-11 13:33:03 [0] : DEBUG -  http://172.16.159.181/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 11
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => INIC
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-09-11 13:34:04 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599842277	
+Array
+(
+)
+2020-09-11 13:34:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:34:49 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:35:06 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:35:14 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:35:21 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:35:57 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:38:39 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:38:53 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:40:04 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:42:12 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:42:39 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:43:03 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:43:35 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:43:51 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599840689	
+Array
+(
+)
+2020-09-11 13:43:59 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1599840689
+    [juzgado] => 4PIF
+)
+2020-09-11 13:46:00 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-09-11 13:46:05 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_notificados	
+Array
+(
+)
+2020-09-11 13:48:10 [0] : DEBUG -  http://172.16.159.181/notificaciones/fisicas_sin_notificar	
+Array
+(
+)
+2020-09-11 13:48:14 [0] : DEBUG -  http://172.16.159.181/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-11 13:48:18 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificado	
+Array
+(
+)
+2020-09-11 14:01:29 [0] : DEBUG -  http://172.16.159.181/notificaciones/notificado	
+Array
+(
+)
+2020-09-11 14:06:42 [0] : DEBUG -  http://172.16.159.181/juicio/nuevo	
+Array
+(
+)
+2020-09-11 14:07:25 [0] : DEBUG -  http://172.16.159.181/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-11 14:07:32 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-11 14:07:34 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-11 14:07:35 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1599842277	
+Array
+(
+)
+2020-09-11 14:07:51 [0] : DEBUG -  http://172.16.159.181/descargarGestor	
+Array
+(
+    [idGlobal] => 7446
+)
+2020-09-11 14:08:20 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

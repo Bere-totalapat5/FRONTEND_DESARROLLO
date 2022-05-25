@@ -1,0 +1,140 @@
+2020-09-17 16:36:58 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1600377827	
+Array
+(
+)
+2020-09-17 16:37:00 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-17 16:37:00 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-17 16:37:03 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-17 16:37:08 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-09-17 16:37:24 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1599861797,1PIC,3843-
+)
+2020-09-17 16:37:54 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento/batch	
+Array
+(
+    [arr_imprimir] => 1599862129,1PIC,3849-
+)
+2020-09-17 16:39:57 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1578503871569
+    [juzgado] => 1PIC
+)
+2020-09-17 16:40:01 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)
+2020-09-17 23:24:45 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-17 23:24:49 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-17 23:24:52 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-17 23:25:10 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-17 23:26:15 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-17 23:26:22 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-17 23:26:49 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-17 23:26:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-17 23:27:17 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-17 23:27:23 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-17 23:33:59 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-17 23:34:08 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-17 23:34:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => ORALIDAD MERCANTIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-09-17 23:39:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL MERCANTIL
+    [juicio] => 
+    [tipo_accion] => 
+)

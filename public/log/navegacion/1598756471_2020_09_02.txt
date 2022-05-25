@@ -1,0 +1,212 @@
+2020-09-02 16:20:47 [0] : DEBUG -  http://216.144.236.27/promociones/posteriores	
+Array
+(
+)
+2020-09-02 16:21:07 [0] : DEBUG -  http://216.144.236.27/cambiar_reseteo	
+Array
+(
+    [reset_pass_1] => Operacion2017
+)
+2020-09-02 16:21:18 [0] : DEBUG -  http://216.144.236.27/notificaciones/notificado	
+Array
+(
+)
+2020-09-02 16:21:26 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-02 16:32:56 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 16:33:00 [0] : DEBUG -  http://216.144.236.27/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-02 16:41:07 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-09-02 22:55:37 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-09-02 22:55:40 [0] : DEBUG -  http://216.144.236.27/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-02 22:55:54 [0] : DEBUG -  http://216.144.236.27/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-02 22:58:31 [0] : DEBUG -  http://216.144.236.27/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-02 23:04:36 [0] : DEBUG -  http://216.144.236.27/notificaciones/sin_notificar	
+Array
+(
+)
+2020-09-02 23:04:53 [0] : DEBUG -  http://216.144.236.27/notificaciones/cargarStep	
+Array
+(
+    [id_juicio] => 1599075008
+    [notificacion_id] => 62
+)
+2020-09-02 23:04:53 [0] : DEBUG -  http://216.144.236.27/notificaciones/mostrarPartes	
+Array
+(
+    [id] => 1599075008
+)
+2020-09-02 23:04:53 [0] : DEBUG -  http://216.144.236.27/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1599075008
+    [texto] => 1
+    [notificacion_id] => 62
+)
+2020-09-02 23:04:54 [0] : DEBUG -  http://216.144.236.27/notificaciones/mostrarEditorHTML	
+Array
+(
+    [id] => 1599075008
+    [texto] => 2
+    [notificacion_id] => 62
+)
+2020-09-02 23:05:07 [0] : DEBUG -  http://216.144.236.27/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 5
+                            [nombres] => ROCIO ALEJANDRA
+                            [apellido_paterno] => MEJIA
+                            [apellido_materno] => ORTEGA
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => stokkma@gmail.com
+                            [telefono] => -
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 6
+                            [nombres] => JUAN CARLOS
+                            [apellido_paterno] => HERRERA
+                            [apellido_materno] => VENTURA
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => srios@totalpat.com
+                            [telefono] => -
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 1
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1599075008
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 3
+    [anio] => 2020
+    [bis] => 
+)
+2020-09-02 23:05:19 [0] : DEBUG -  http://216.144.236.27/notificaciones/guardarNotificionCorreoActuario	
+Array
+(
+    [modal_correo_id_notificacion] => 
+    [modal_correo_id_acuerdo] => 1599105103
+    [modal_correo_bandeja] => bandejas_notificacion
+    [modal_correo_accion] => 
+    [modal_correo_index] => 0
+    [modal_correo_codigo_organo] => 200PIC
+    [modal_correo_ultima_version] => 3634
+    [modal_correo_tipo_firma] => 
+    [modal_correo_masivo] => 
+    [modal_correo_id_juicio] => 1599075008
+    [modal_correo_tipo_flujo_nombre] => 
+    [modal_correo_notificaicon_url] => http://104.223.47.11/archivos_internos/51b712bbdaf332fb212eed50810912c23558e1413e92eee392ad6852fde6e7b4b2045acd71109506a714d7fdba40e9b74995709a3443def990418bf0c47f9d97.pdf
+    [modal_correo_notificacion_id] => 62
+    [modal_correo_texto1] => <p><br></p><p><br></p><p style="text-align:center;"><strong>C&Eacute;DULA DE NOTIFICACI&Oacute;N ELECTR&Oacute;NICA</strong></p><p><br></p><p><br></p><p>C: [%PARTE_NOMBRE%]</p><p>En los autos del juicio Ordinario promovido por ROCIO ALEJANDRA MEJIA ORTEGA en contra de JUAN CARLOS HERRERA VENTURA , bajo el expediente 3/2020, ante Duocent&eacute;simo de lo Civil, se dict&oacute; la siguiente resoluci&oacute;n:</p><p><br></p><p><br></p>
+    [modal_correo_texto2] => <p>Lo que se hace de su conocimiento mediante la presente c&eacute;dula en el d&iacute;a y hora en que se env&iacute;a el presente correo a la direcci&oacute;n electr&oacute;nica autorizada en autos. Doy fe.</p><p><br></p><p><br></p><p style="text-align:center;">C. Notificador (a)</p>
+    [modal_correo_id_noti_elect] => 
+    [modal_correo_noti_elect_estatus_correccion] => 
+    [modal_correo_noti_elect_comentario_correccion] => 
+    [guardar] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpI9LC90
+            [fileName:SplFileInfo:private] => phpI9LC90
+        )
+
+)
+2020-09-02 23:06:45 [0] : DEBUG -  http://216.144.236.27/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 1
+    [noti_elect_estatus_correccion] => 0
+    [noti_elect_comentario_correccion] => 
+    [id_acuerdo_notificacion] => 62
+    [parte_correo] => stokkma@gmail.com
+    [id_parte] => 5
+)
+2020-09-02 23:06:45 [0] : DEBUG -  http://216.144.236.27/notificaciones/notificar_acuerdo_correo_ajax	
+Array
+(
+    [tipo_notificacion] => 2
+    [id_acuerdo_notificacion] => 62
+    [parte_correo] => srios@totalpat.com
+    [id_parte] => 6
+)
+2020-09-02 23:06:45 [0] : DEBUG -  http://216.144.236.27/notificaciones/notificar_acuerdo_111_ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599105103
+    [modal_id_juicio] => 1599075008
+    [id_parte] => 5
+)
+2020-09-02 23:06:45 [0] : DEBUG -  http://216.144.236.27/notificaciones/notificar_acuerdo_bandera_notificado	
+Array
+(
+    [id_acuerdo_notificacion] => 62
+)
+2020-09-02 23:06:47 [0] : DEBUG -  http://216.144.236.27/notificaciones/notificado	
+Array
+(
+)
+2020-09-02 23:06:56 [0] : DEBUG -  http://216.144.236.27/notificaciones/notificar_acuerdo_resumen	
+Array
+(
+    [id] => 62
+)
+2020-09-02 23:09:08 [0] : DEBUG -  http://216.144.236.27/notificaciones/notificar_acuerdo_resumen	
+Array
+(
+    [id] => 62
+)

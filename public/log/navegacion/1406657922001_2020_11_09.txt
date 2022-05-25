@@ -1,0 +1,1288 @@
+2020-11-09 10:04:09 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-09 10:04:12 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 10:20:04 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-09 10:50:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-09 10:50:22 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 10:50:32 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => %000%
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 10:56:37 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-09 10:56:40 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 10:56:46 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 10:58:48 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-09 10:59:01 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 15971011964693
+    [expediente] => 1000/2020
+    [tipo_juicio_id] => 360
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-10-30
+    [origen] => OPV
+)
+2020-11-09 10:59:03 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 15971011964693
+    [tipo_juicio_id] => 360
+)
+2020-11-09 10:59:03 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-09 10:59:05 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 10:59:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 10:59:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 10:59:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 11:11:57 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1000
+    [anio] => 2020
+    [bis] => 
+)
+2020-11-09 11:12:07 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [forma_creacion] => promocion
+            [expediente] => 1000
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-10-30
+            [id_catalogo_juicio] => 625
+            [cuaderno] => 
+            [alias] => 
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BRAVO CRUZ BRIAN
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => raul.laureano@outlook.es
+                    [telefono_celular] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 15971011964693
+)
+2020-11-09 11:12:21 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-09 11:12:31 [0] : DEBUG -  http://155.94.139.2/promociones/iniciales	
+Array
+(
+)
+2020-11-09 11:12:39 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 15971011964693
+    [expediente] => 1000/2020
+    [tipo_juicio_id] => 360
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-10-30
+    [origen] => OPV
+)
+2020-11-09 11:16:04 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 15971011964693
+    [expediente] => 1000/2020
+    [tipo_juicio_id] => 360
+    [promocion_tipo_tramite_divorcio] => 1
+    [fecha] => 2020-10-30
+    [origen] => OPV
+)
+2020-11-09 11:16:06 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 15971011964693
+    [tipo_juicio_id] => 360
+)
+2020-11-09 11:16:06 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-09 11:16:11 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 11:16:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 11:16:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 11:16:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 11:16:19 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1000
+    [anio] => 2020
+    [bis] => 
+)
+2020-11-09 11:16:55 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [forma_creacion] => promocion
+            [expediente] => 1000
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-10-30
+            [id_catalogo_juicio] => 625
+            [cuaderno] => 
+            [alias] => 
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BRAVO CRUZ BRIAN
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => raul.laureano@outlook.es
+                    [telefono_celular] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 15971011964693
+)
+2020-11-09 12:05:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:05:06 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:05:07 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:05:07 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:05:17 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1000
+    [anio] => 2020
+    [bis] => 
+)
+2020-11-09 12:06:12 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 1000
+    [anio] => 2020
+    [bis] => 
+)
+2020-11-09 12:06:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [forma_creacion] => promocion
+            [expediente] => 1000
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-10-30
+            [id_catalogo_juicio] => 625
+            [cuaderno] => 
+            [alias] => 
+            [tipo_juicio_int] => 1
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => BRAVO CRUZ BRIAN
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => raul.laureano@outlook.es
+                    [telefono_celular] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 15971011964693
+)
+2020-11-09 12:06:18 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-09 12:06:25 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-09 12:06:29 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:06:33 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1000
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:06:37 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:07:58 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:08:19 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:08:34 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:08:50 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:12:55 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:13:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:13:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:13:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:13:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:13:19 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:13:24 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:13:24 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:13:24 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:13:24 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:13:35 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:13:41 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:13:41 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:13:41 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:13:41 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:13:54 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:13:59 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:14:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:14:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:14:00 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:14:56 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:15:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:15:01 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:15:02 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:15:02 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:15:37 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1604945175
+            [expediente] => 1000
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-10-30
+            [id_catalogo_juicio] => 625
+            [cuaderno] => 
+            [alias] => 
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 36
+                    [nombres] => BRAVO CRUZ BRIAN
+                    [apellido_paterno] => -
+                    [apellido_materno] => -
+                    [tipo] => actor
+                    [correo] => raul.laureano@
+                    [telefono] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-11-09 12:17:08 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:17:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:17:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:17:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:17:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:17:32 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1604945175
+            [expediente] => 1000
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 
+            [fecha_ingreso] => 2020-10-30
+            [id_catalogo_juicio] => 625
+            [cuaderno] => 
+            [alias] => 
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 36
+                    [nombres] => BRAVO CRUZ BRIAN
+                    [apellido_paterno] => -
+                    [apellido_materno] => -
+                    [tipo] => actor
+                    [correo] => raul.laureano@outlook.es
+                    [telefono] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-11-09 12:23:03 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:23:07 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:23:07 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:23:07 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:23:07 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:23:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1604945175
+            [expediente] => 1000
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 
+            [fecha_ingreso] => 2020-10-30
+            [id_catalogo_juicio] => 625
+            [cuaderno] => 
+            [alias] => 
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 36
+                    [nombres] => BRAVO CRUZ BRIAN
+                    [apellido_paterno] => -
+                    [apellido_materno] => -
+                    [tipo] => actor
+                    [correo] => raul.laureano@outlook.es
+                    [telefono] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-11-09 12:23:14 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-09 12:23:18 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:23:21 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-09 12:23:29 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-09 12:23:33 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:24:26 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1000
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:24:31 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:24:35 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:24:35 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:24:35 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:24:35 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:30:32 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:31:22 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:31:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:31:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:31:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:31:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:31:31 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1604945175
+            [expediente] => 1000
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 
+            [fecha_ingreso] => 2020-10-30
+            [id_catalogo_juicio] => 625
+            [cuaderno] => 
+            [alias] => 
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 36
+                    [nombres] => BRAVO CRUZ BRIAN
+                    [apellido_paterno] => -
+                    [apellido_materno] => -
+                    [tipo] => actor
+                    [correo] => raul.laureano@outlook.es
+                    [telefono] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-11-09 12:31:32 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-09 12:31:36 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:31:43 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1000
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:31:46 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:31:49 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:31:49 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:31:50 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:31:50 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:33:20 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:33:24 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:33:24 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:33:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:33:25 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:34:26 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:35:37 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:35:47 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:35:51 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:35:51 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:35:51 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:35:51 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 12:35:54 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/actualizarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [id_juicio] => 1604945175
+            [expediente] => 1000
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => F50
+            [tipo_archivo] => expediente
+            [tipo_juicio_int] => 1
+            [fecha_ingreso] => 2020-10-30
+            [id_catalogo_juicio] => 625
+            [cuaderno] => 
+            [alias] => 
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 36
+                    [nombres] => BRAVO CRUZ BRIAN
+                    [apellido_paterno] => -
+                    [apellido_materno] => -
+                    [tipo] => actor
+                    [correo] => raul.laureano@outlook.es
+                    [telefono] => 5528007744
+                    [tipo_persona] => fisica
+                    [promovente] => 1
+                    [estatus] => 1
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 1
+                    [direccion] => 
+                )
+
+        )
+
+)
+2020-11-09 12:35:55 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-09 12:35:58 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:36:04 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => 1000
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-09 12:36:09 [0] : DEBUG -  http://155.94.139.2/juicio/editar/1604945175	
+Array
+(
+)
+2020-11-09 12:36:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:36:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 12:36:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 12:36:13 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-11-09 14:22:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 14:22:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-09 14:22:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-11-09 14:22:15 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => FAMILIAR
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)

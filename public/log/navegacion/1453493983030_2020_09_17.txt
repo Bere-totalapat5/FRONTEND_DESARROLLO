@@ -1,0 +1,200 @@
+2020-09-17 22:44:37 [0] : DEBUG -  http://155.94.139.2/bandejas/proximaPublicacion	
+Array
+(
+)
+2020-09-17 22:44:46 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-17 22:44:49 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-17 22:44:53 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-17 22:45:21 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-17 22:45:35 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-17 22:45:38 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-17 22:45:44 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-17 22:49:56 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-17 22:49:59 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-17 22:55:11 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-09-17 22:55:18 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-09-17 22:55:20 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-17 22:55:28 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-17 22:56:13 [0] : DEBUG -  http://155.94.139.2/descargarGestor	
+Array
+(
+    [idGlobal] => 7316
+)
+2020-09-17 22:57:01 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1595825526
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 10
+    [tipo_acuerdo] => sentencia definitiva
+    [especial] => -
+    [fecha] => 2020-09-01
+    [publicar_en_slct] => EXPEDIENTE
+    [concepto] => sn
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1594847723
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Análisis del sistema SIVEP.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpyuAnKL
+            [fileName:SplFileInfo:private] => phpyuAnKL
+        )
+
+)
+2020-09-17 22:57:07 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-17 22:58:03 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1595825526
+    [juzgado] => 100PIC
+)
+2020-09-17 22:58:10 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento/elminar_orden_expedinte_digital_ajax	
+Array
+(
+    [juicio] => 1595825526
+)
+2020-09-17 22:58:11 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1595825526
+    [juzgado] => 100PIC
+)
+2020-09-17 22:58:16 [0] : DEBUG -  http://155.94.139.2/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1597685587
+    [ponencia] => 100PIC
+    [id_documento] => 3027
+    [tipo_documento] => pdf
+)
+2020-09-17 22:58:54 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1595827366
+    [parte] => 3
+    [permiso] => 0
+)
+2020-09-17 22:58:55 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1595827366
+    [parte] => 3
+    [permiso] => 1
+)
+2020-09-17 22:59:31 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1595825526
+    [juzgado] => 100PIC
+)
+2020-09-17 22:59:35 [0] : DEBUG -  http://155.94.139.2/acuerdo_detalles/1595825526	
+Array
+(
+)
+2020-09-17 22:59:57 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1600401425
+    [parte] => 1
+    [permiso] => 1
+)
+2020-09-17 22:59:59 [0] : DEBUG -  http://155.94.139.2/bandejas/formularioAcuerdoInfoVisibleAjax	
+Array
+(
+    [acuerdo_id] => 1600401425
+    [parte] => 1
+    [permiso] => 0
+)

@@ -1,0 +1,392 @@
+2020-09-11 16:33:51 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-11 16:33:53 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-11 16:33:56 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:34:15 [0] : DEBUG -  http://172.16.159.181/bandejas/descargaDocumento	
+Array
+(
+    [id_acuerdo] => 1599852615
+    [ponencia] => 1PIC
+    [id_documento] => 3824
+    [tipo_documento] => pdf
+)
+2020-09-11 16:39:01 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:41:16 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:41:29 [0] : DEBUG -  http://172.16.159.181/bandejas/avanzar/ajax	
+Array
+(
+    [accion] => avance
+    [id_acuerdo] => 1599852615
+    [codigo_organo] => 1PIC
+    [ultima_version] => 3824
+    [bandeja] => firma
+    [tipo_firma] => sicor
+    [tipo_flujo_nombre] => 
+)
+2020-09-11 16:42:27 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:44:28 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:44:47 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:44:55 [0] : DEBUG -  http://172.16.159.181/bandejas/avanzar/ajax	
+Array
+(
+    [accion] => avance
+    [id_acuerdo] => 1599860607
+    [codigo_organo] => 1PIC
+    [ultima_version] => 3826
+    [bandeja] => firma
+    [tipo_firma] => sicor
+    [tipo_flujo_nombre] => 
+)
+2020-09-11 16:49:52 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:50:48 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:50:55 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599861039
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-11 16:51:06 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599861039
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3829
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpu2wbv7
+            [fileName:SplFileInfo:private] => phpu2wbv7
+        )
+
+)
+2020-09-11 16:55:53 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:57:17 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 16:57:23 [0] : DEBUG -  http://172.16.159.181/bandejas/avanzar/ajax	
+Array
+(
+    [accion] => avance
+    [id_acuerdo] => 1599861419
+    [codigo_organo] => 1PIC
+    [ultima_version] => 3834
+    [bandeja] => firma
+    [tipo_firma] => sicor
+    [tipo_flujo_nombre] => 
+)
+2020-09-11 17:02:21 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:02:30 [0] : DEBUG -  http://172.16.159.181/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1599861726
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-09-11 17:02:35 [0] : DEBUG -  http://172.16.159.181/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1599861726
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3837
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php25Rkhb
+            [fileName:SplFileInfo:private] => php25Rkhb
+        )
+
+)
+2020-09-11 17:03:31 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:03:38 [0] : DEBUG -  http://172.16.159.181/bandejas/avanzar/ajax	
+Array
+(
+    [accion] => avance
+    [id_acuerdo] => 1599861797
+    [codigo_organo] => 1PIC
+    [ultima_version] => 3842
+    [bandeja] => firma
+    [tipo_firma] => sicor
+    [tipo_flujo_nombre] => 
+)
+2020-09-11 17:06:01 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:06:12 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:06:19 [0] : DEBUG -  http://172.16.159.181/bandejas/avanzar/ajax	
+Array
+(
+    [accion] => avance
+    [id_acuerdo] => 1599861947
+    [codigo_organo] => 1PIC
+    [ultima_version] => 3845
+    [bandeja] => firma
+    [tipo_firma] => sicor
+    [tipo_flujo_nombre] => 
+)
+2020-09-11 17:08:57 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:09:03 [0] : DEBUG -  http://172.16.159.181/bandejas/avanzar/ajax	
+Array
+(
+    [accion] => avance
+    [id_acuerdo] => 1599862129
+    [codigo_organo] => 1PIC
+    [ultima_version] => 3848
+    [bandeja] => firma
+    [tipo_firma] => sicor
+    [tipo_flujo_nombre] => 
+)
+2020-09-11 17:14:02 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:19:06 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:24:11 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:29:15 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:34:20 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:39:25 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:44:29 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:49:34 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:54:39 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 17:59:44 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:04:49 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:09:54 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:15:00 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:20:05 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:25:10 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:30:15 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:35:20 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:40:25 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:45:30 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:50:35 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 18:55:40 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:00:45 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:05:50 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:10:55 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:15:59 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:21:04 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:26:09 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:31:14 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:36:19 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 19:41:24 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:06:43 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:11:48 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:16:53 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:21:58 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:27:03 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:32:08 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:37:13 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:42:18 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:47:24 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:52:29 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 20:57:34 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 21:02:39 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-11 21:07:44 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)

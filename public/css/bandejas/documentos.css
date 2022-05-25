@@ -1,0 +1,138 @@
+.card-header.fracciones a::before {
+  top: 10px !important;
+}
+
+.card.fracciones{
+  border: none;
+}
+
+.card-header.fracciones{
+  border: 1px solid #EEE;
+  width: 100%;
+  padding: 0;
+  text-align: center;
+}
+
+.card-body.fracciones{
+  border: 1px solid #EEE;
+  padding: 0;
+}
+
+.dataTables_length{
+  top: 15px;
+  position: relative;
+  z-index: 1050;
+}
+
+.dataTables_filter{
+  z-index: 1050;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.current:focus{
+  background-color: #848F33 !important;
+}
+
+.no-footer{
+  display:block;
+}
+
+#aAtendidas {
+  border: 1px solid #154f89;
+  padding: 4px;
+  border-radius: 8px;
+}
+
+#aAtendidas:hover {
+  background-color: #154f89;
+  color: #FFF;
+}
+
+div.icono {
+  margin-right: 2px;
+}
+/* .dataTables_wrapper.no-footer{
+  top: -100px;
+} */
+
+@media only screen and (min-width: 992px ) {
+  .card-header.fracciones{
+    width: 330px;
+    margin-left: calc(100% - 330px) !important;
+    border: 1px solid #EEE;
+    /* top: -35px; */
+    margin-top: 10px;
+  }
+
+  .card.fracciones{
+    display: contents;
+  }
+
+  .transition.fracciones{
+    display: block;
+    width: 100%;
+  }
+
+  .no-footer{
+    display:inline-grid;
+  }
+
+  .dataTables_length{
+    top: 60px;
+    position: relative;
+    width: 33%;
+  }
+
+  .dataTables_filter{
+    width: 33%;
+    margin-left: auto;
+  }
+
+  .btn-nombre-fracciones{
+    top: 99px; 
+    position: absolute; 
+    z-index: 1050; 
+    margin-right: auto; 
+    width: 100%;
+  }
+
+}
+.btn-warning {
+  background: #ffcc00 !important;
+  border: 1px solid #ffcc00 !important;
+}
+.custom-input-file {
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0 auto 0;
+  min-height: 15px;
+  overflow: hidden;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  width: 500px;
+  color: #848F33;
+  border: 2px solid #EEE;
+  border-style: dotted;
+  height: 80px;
+  border-radius: 25px;
+  width: 80%;
+}
+
+.custom-input-file:hover{
+  background: #848F33;
+  color: #fff;
+}
+
+.custom-input-file .input-file{
+  border: 10000px solid transparent;
+  cursor: pointer;
+  font-size: 10000px;
+  margin: 0;
+  opacity: 0;
+  outline: 0 none;
+  padding: 0 ;
+  position: absolute;
+  right: -1000px;
+  top: -1000px;
+}

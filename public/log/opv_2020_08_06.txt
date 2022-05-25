@@ -1,0 +1,236 @@
+2020-08-06 12:27:00 Array
+(
+    [idDocumento] => 3257002
+    [juzgado] => C10
+    [idMateria] => C
+    [noExpediente] => 6058
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 12:26:53
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4632490
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598797,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MINOSTORE","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598798,"participacion":1,"tipoPersona":"F","apPaterno":"LOPEZ","apMaterno":"LOPEZ","nombre":"ADRIAN","razonSocial":""},{"idPersona":20598799,"participacion":1,"tipoPersona":"F","apPaterno":"LOPEZ","apMaterno":"LOPEZ","nombre":"ERIC","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/378/379/24716/24717/ESTO ES UN TEXTO SIN SENTIDO.pdf","idDocument":7160}]
+    [origen] => OPV
+    [nombreCapturista] => L L L
+    [emailCapturista] => l@d.com
+    [telefonoCapturista] => 5559451975
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-06 13:39:48 Array
+(
+    [idDocumento] => 3257006
+    [juzgado] => C23
+    [idMateria] => C
+    [noExpediente] => 6030
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 01:39:35
+    [tipoJuicio] => 102
+    [reg_date] => 
+    [idExpediente] => 4632495
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598811,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MUJICA GALVA","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/732/733/24723/24724/1.pdf","idDocument":7161}]
+    [origen] => OPV
+    [nombreCapturista] => SDF SDF
+    [emailCapturista] => sdf@sdf.dsf
+    [telefonoCapturista] => 1111111111
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-06 13:49:59 Array
+(
+    [idDocumento] => 3257007
+    [juzgado] => C11
+    [idMateria] => C
+    [noExpediente] => 6038
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 01:49:47
+    [tipoJuicio] => 117
+    [reg_date] => 
+    [idExpediente] => 4632496
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598813,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MICELANEA SLOW","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/274/275/24730/24731/1.pdf","idDocument":7162}]
+    [origen] => OPV
+    [nombreCapturista] => GHJ GHJ
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-06 13:58:26 Array
+(
+    [idDocumento] => 3257008
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 01:58:14
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4937500
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598815,"participacion":1,"tipoPersona":"F","apPaterno":"ROBLES","apMaterno":"SALGADO","nombre":"ANTONIO","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20579877,"participacion":1,"tipoPersona":"F","apPaterno":"MORALES","apMaterno":"JIMENEZ","nombre":"HECTOR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/56/208/209/2.pdf","idDocument":7163}]
+    [origen] => OPV
+    [nombreCapturista] => DSF SDF
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-06 14:14:40 Array
+(
+    [idDocumento] => 3257009
+    [juzgado] => F1
+    [idMateria] => F
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 02:14:28
+    [tipoJuicio] => 302
+    [reg_date] => 
+    [idExpediente] => 4937501
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598817,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"ASD","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20581456,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"CALAZA"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/100/101/102/103/1.pdf","idDocument":7164}]
+    [origen] => OPV
+    [nombreCapturista] => FGH FGH
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-06 15:40:42 Array
+(
+    [idDocumento] => 3257010
+    [juzgado] => C33
+    [idMateria] => C
+    [noExpediente] => 6026
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 03:40:26
+    [tipoJuicio] => 109
+    [reg_date] => 
+    [idExpediente] => 4632516
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598818,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MONIGOTE"}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20598819,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"RANDOM PERSON SA"}]}
+    [adjuntos] => 
+    [origen] => OPC
+)
+	
+2020-08-06 16:51:44 Array
+(
+    [idDocumento] => 3257011
+    [juzgado] => F7
+    [idMateria] => F
+    [noExpediente] => 6027
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 04:51:26
+    [tipoJuicio] => 307
+    [reg_date] => 
+    [idExpediente] => 4632517
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598821,"participacion":1,"tipoPersona":"F","apPaterno":"ASD","apMaterno":"","nombre":"ASDDFSSFSD","razonSocial":"","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/2247/2248/24737/24738/1.pdf","idDocument":7165}]
+    [origen] => OPV
+    [nombreCapturista] => SDA ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-06 16:53:38 Array
+(
+    [idDocumento] => 3257012
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 1
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 04:53:29
+    [tipoJuicio] => 101
+    [reg_date] => 
+    [idExpediente] => 4937502
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598823,"participacion":1,"tipoPersona":"F","apPaterno":"ROBLES","apMaterno":"SALGADO","nombre":"ANTONIO","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20579877,"participacion":1,"tipoPersona":"F","apPaterno":"MORALES","apMaterno":"JIMENEZ","nombre":"HECTOR","razonSocial":""}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/56/208/209/1.pdf","idDocument":7166}]
+    [origen] => OPV
+    [nombreCapturista] => ASD ASD
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 
+)
+	
+2020-08-06 16:55:54 Array
+(
+    [idDocumento] => 3257013
+    [juzgado] => F16
+    [idMateria] => F
+    [noExpediente] => 6015
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 04:55:45
+    [tipoJuicio] => 310
+    [reg_date] => 
+    [idExpediente] => 4632518
+    [tipoDocumento] => INIC
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598825,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"MAKALAO","email":""}]}
+    [arr_demandados] => 
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/2049/2050/24744/24745/2.pdf","idDocument":7167}]
+    [origen] => OPV
+    [nombreCapturista] => GHJ GHJ
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 0
+)
+	
+2020-08-06 16:56:32 Array
+(
+    [idDocumento] => 3257014
+    [juzgado] => C1
+    [idMateria] => C
+    [noExpediente] => 2
+    [anioExpediente] => 2020
+    [fechaRecepcion] => 2020-08-06 04:56:23
+    [tipoJuicio] => 151
+    [reg_date] => 
+    [idExpediente] => 4937503
+    [tipoDocumento] => POS
+    [juzgado_sicor] => 
+    [idGestor] => 
+    [arr_actores] => {"actores":[{"idPersona":20598827,"participacion":1,"tipoPersona":"F","apPaterno":"JUAREZ","apMaterno":"CONSTANTINO","nombre":"MELESIO","razonSocial":"","email":""}]}
+    [arr_demandados] => {"demandados":[{"idPersona":20579957,"participacion":1,"tipoPersona":"M","apPaterno":"","apMaterno":"","nombre":"","razonSocial":"TRIBUNAL DEL ESTADO"}]}
+    [adjuntos] => [{"status":true,"observaciones":"","url":"http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/15/56/1067/1068/1.pdf","idDocument":7168}]
+    [origen] => OPV
+    [nombreCapturista] => SDF DSF
+    [emailCapturista] => dummylabscorp@gmail.com
+    [telefonoCapturista] => 5554645344
+    [tipoTramiteDivorcio] => 
+)
+	

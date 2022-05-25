@@ -1,0 +1,84 @@
+2020-08-14 14:22:17 Array
+(
+)
+	
+2020-08-14 14:23:09 Array
+(
+    [id_documento] => 3252809.0
+    [id_expediente_opc] => 47
+    [idGlobal] => 7091
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/33/34/24561/24562/PruebaTest.pdf
+)
+	
+2020-08-14 14:23:09 Array
+(
+    [id_documento] => 3257233.0
+    [id_expediente_opc] => 4632699
+    [idGlobal] => 7199
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/33/898/24892/24893/prueba.pdf
+)
+	
+2020-08-14 14:23:09 Array
+(
+    [id_documento] => 3257233.0
+    [id_expediente_opc] => 4632699
+    [idGlobal] => 7200
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/33/898/24892/24893/prueba.pdf
+)
+	
+2020-08-14 14:23:10 Array
+(
+    [id_documento] => 3257233.0
+    [id_expediente_opc] => 4632699
+    [idGlobal] => 7201
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/33/898/24892/24893/prueba.pdf
+)
+	
+2020-08-14 14:35:02 Array
+(
+    [id_documento] => 3257234.0
+    [id_expediente_opc] => 4632700
+    [idGlobal] => 7202
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/1536/1537/24899/24900/prueba.pdf
+)
+	
+2020-08-14 14:39:02 Array
+(
+    [id_documento] => 3257233.0
+    [id_expediente_opc] => 4632699
+    [idGlobal] => 7203
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/33/898/24892/24893/prueba2.pdf
+)
+	
+2020-08-14 14:40:02 Array
+(
+    [id_documento] => 3257233.0
+    [id_expediente_opc] => 4632699
+    [idGlobal] => 7204
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/33/898/24892/24893/prueba2.pdf
+)
+	
+2020-08-14 14:46:02 Array
+(
+    [id_documento] => 3257234.0
+    [id_expediente_opc] => 4632700
+    [idGlobal] => 7205
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/1536/1537/24899/24900/prueba.pdf
+)
+	
+2020-08-14 14:49:02 Array
+(
+    [id_documento] => 3257234.0
+    [id_expediente_opc] => 4632700
+    [idGlobal] => 7206
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/64/1536/1537/24899/24900/prueba.pdf
+)
+	
+2020-08-14 16:44:01 Array
+(
+    [id_documento] => 3257237.0
+    [id_expediente_opc] => 4632702
+    [idGlobal] => 7209
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/5/502/503/24913/24914/prueba3.pdf
+)
+	

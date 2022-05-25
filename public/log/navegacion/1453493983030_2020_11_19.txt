@@ -1,0 +1,171 @@
+2020-11-19 09:36:52 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-19 09:36:56 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-11-19 09:36:58 [0] : DEBUG -  http://155.94.139.2/promociones/posteriores	
+Array
+(
+)
+2020-11-19 09:40:17 [0] : DEBUG -  http://155.94.139.2/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [medio_recepcion] => -
+    [tipo_documento] => POS
+    [bandeja] => posteriores
+    [tipo] => t
+    [fecha] => -
+)
+2020-11-19 09:40:23 [0] : DEBUG -  http://155.94.139.2/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1605799856637
+    [expediente] => 599/2020
+    [tipo_juicio_id] => 1
+    [promocion_tipo_tramite_divorcio] => 
+    [fecha] => 2020-01-01
+    [origen] => OPC
+)
+2020-11-19 09:40:24 [0] : DEBUG -  http://155.94.139.2/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1605799856637
+    [tipo_juicio_id] => 1
+)
+2020-11-19 09:40:24 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-19 09:42:28 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 599
+    [anio] => 2020
+    [bis] => 
+)
+2020-11-19 09:42:33 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-19 09:42:35 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-11-19 09:42:38 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Procedimiento convencional mercantil
+    [tipo_accion] => 
+)
+2020-11-19 09:42:40 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Procedimiento convencional mercantil
+    [tipo_accion] => AP
+)
+2020-11-19 09:42:45 [0] : DEBUG -  http://155.94.139.2/juicio_ajax/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [forma_creacion] => promocion
+            [expediente] => 599
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => A
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-01-01
+            [id_catalogo_juicio] => 605
+            [cuaderno] => 
+            [alias] => 
+            [tipo_juicio_int] => 
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => uno
+                    [apellido_paterno] => uno
+                    [apellido_materno] => uno
+                    [tipo] => actor
+                    [correo] => nada@nada
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => dos
+                    [apellido_paterno] => 
+                    [apellido_materno] => 
+                    [tipo] => actor
+                    [correo] => nada@nada
+                    [telefono_celular] => 
+                    [tipo_persona] => moral
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1605799856637
+)
+2020-11-19 09:42:47 [0] : DEBUG -  http://155.94.139.2/juicio/nuevo	
+Array
+(
+)
+2020-11-19 09:42:52 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+)
+2020-11-19 09:42:54 [0] : DEBUG -  http://155.94.139.2/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 0
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)

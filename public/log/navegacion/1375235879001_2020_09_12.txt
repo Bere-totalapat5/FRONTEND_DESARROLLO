@@ -1,0 +1,118 @@
+2020-09-12 00:05:00 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-12 00:05:15 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-12 00:05:15 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-12 00:05:18 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-12 00:05:26 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-12 00:10:13 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-12 00:15:02 [0] : DEBUG -  http://172.16.159.181/bandejas/firma	
+Array
+(
+)
+2020-09-12 00:15:18 [0] : DEBUG -  http://172.16.159.181/juicio/nuevo	
+Array
+(
+)
+2020-09-12 00:15:33 [0] : DEBUG -  http://172.16.159.181/juicio_ajax/buscarToca	
+Array
+(
+    [expediente] => 1
+    [anio_expediente] => 2020
+    [tipo_archivo] => 
+)
+2020-09-12 00:15:41 [0] : DEBUG -  http://172.16.159.181/juicio/nuevo	
+Array
+(
+)
+2020-09-12 00:15:47 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-12 00:15:49 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-09-12 00:15:53 [0] : DEBUG -  http://172.16.159.181/home/archivoDetalles/1596853751	
+Array
+(
+    [id] => 1596853751
+)
+2020-09-12 00:15:58 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-12 00:16:09 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1596853751
+    [juzgado] => 1JFO
+)
+2020-09-12 00:16:16 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+)
+2020-09-12 00:16:19 [0] : DEBUG -  http://172.16.159.181	
+Array
+(
+)
+2020-09-12 00:16:19 [0] : DEBUG -  http://172.16.159.181/home	
+Array
+(
+)
+2020-09-12 00:16:22 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/1596853751	
+Array
+(
+)
+2020-09-12 00:16:28 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1596853751
+    [juzgado] => 1JFO
+)
+2020-09-12 00:17:14 [0] : DEBUG -  http://172.16.159.181/acuerdo_detalles/expediente_digital	
+Array
+(
+    [id_juicio] => 1596853751
+    [juzgado] => 1JFO
+)
+2020-09-12 00:17:25 [0] : DEBUG -  http://172.16.159.181/logout	
+Array
+(
+)

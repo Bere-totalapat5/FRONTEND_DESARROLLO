@@ -1,0 +1,23 @@
+--- md5-sicor-parser.py~	2013-04-12 02:25:04.000000000 -0500
++++ md5-sicor-parser.py	2013-04-14 15:12:11.888956464 -0500
+@@ -189,8 +189,19 @@
+     changes = 0
+
+     # sorted_files = [ (x,os.lstat( os.path.join(root,x) ).st_mtime) for x in  files ]
+-
++    allfiles = []
+     for name in files:
++        pathname =  os.path.join(root,name)
++        mStat = os.lstat( pathname )
++        if mStat:
++            t = (name, mStat.st_mtime)
++            allfiles.append(t)
++
++    #allitems.sort(key=lambda x: x[1])
++    allfiles.sort(key=lambda x: x[1])
++    print allfiles
++
++    for name in [ x[0] for x in allfiles ]:
+         pathname = os.path.join(root,name)
+         if skip_this:
+             if skip_this_files.has_key(pathname):

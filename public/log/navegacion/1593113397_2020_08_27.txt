@@ -1,0 +1,1672 @@
+2020-08-27 00:59:13 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+    [usuario] => JC1J
+    [password] => masterpass
+    [tipo] => web
+    [next] => 
+)
+2020-08-27 00:59:25 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+    [usuario] => JC1J
+    [password] => masterpass
+    [tipo] => web
+    [next] => 
+)
+2020-08-27 00:59:50 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:00:01 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:00:10 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:02:28 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:02:36 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:06:38 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7322
+)
+2020-08-27 01:09:12 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1578503871569	
+Array
+(
+)
+2020-08-27 01:09:18 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1578503871569	
+Array
+(
+)
+2020-08-27 01:12:43 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1578503871569	
+Array
+(
+)
+2020-08-27 01:12:47 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:12:50 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:12:53 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:12:55 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:23:31 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:23:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:45:56 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1578503871569	
+Array
+(
+)
+2020-08-27 01:46:01 [0] : DEBUG -  http://216.144.236.27/juicio/editar/1578503871569	
+Array
+(
+)
+2020-08-27 01:46:05 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:46:08 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 01:46:11 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => 
+)
+2020-08-27 01:46:14 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => P
+    [materia] => CIVIL
+    [juicio] => Jurisdicción voluntaria
+    [tipo_accion] => AP
+)
+2020-08-27 01:46:29 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-27 01:47:24 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 01:47:28 [0] : DEBUG -  http://216.144.236.27/agendas/citas	
+Array
+(
+)
+2020-08-27 02:20:44 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 02:20:52 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-27 02:21:09 [0] : DEBUG -  http://216.144.236.27/consultaPartesNotificacion	
+Array
+(
+    [id] => 1578503871569
+    [guardar] => 1
+)
+2020-08-27 02:21:25 [0] : DEBUG -  http://216.144.236.27/guardarPartesNotificacion	
+Array
+(
+    [arr_partes] => Array
+        (
+            [actor] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 69
+                            [nombres] => BAUTISTA GALICIA NIMBE  JANET
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => actor
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => isra_@hotmail.com
+                            [telefono] => 233
+                            [notificacion] => 2
+                            [direccion] => -
+                            [id_usuario_notificacion] => 0
+                        )
+
+                )
+
+            [demandado] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 70
+                            [nombres] => RAMON RUIZ BUELNA
+                            [apellido_paterno] => -
+                            [apellido_materno] => -
+                            [tipo] => demandado
+                            [tipo_persona] => fisica
+                            [promovente] => 0
+                            [estatus] => 1
+                            [correo] => 3
+                            [telefono] => 4
+                            [notificacion] => 1
+                            [direccion] => -
+                            [id_usuario_notificacion] => 0
+                        )
+
+                )
+
+        )
+
+    [juicio_id] => 1578503871569
+    [tipo_expediente] => expediente
+    [toca] => 
+    [anio_toca] => 
+    [asunto_toca] => 
+    [expediente] => 1
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 02:21:48 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => A
+    [id_juicio] => 1578503871569
+    [juicio] => 1/2020
+    [expediente] => 1
+    [id_catalogo_juicios] => 337
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 10
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-27
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [visibilidad] => personal
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 1
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 11. LIBRO DE MULTAS.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phploF941
+            [fileName:SplFileInfo:private] => phploF941
+        )
+
+)
+2020-08-27 02:21:53 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1578503871569	
+Array
+(
+)
+2020-08-27 02:22:02 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-27 02:22:17 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1598512911
+    [id_juicio] => 1578503871569
+    [codigo_organo] => 1PIC
+)
+2020-08-27 02:22:25 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1598512911
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3405
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1578503871569
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpaL0Xao
+            [fileName:SplFileInfo:private] => phpaL0Xao
+        )
+
+)
+2020-08-27 02:22:43 [0] : DEBUG -  http://216.144.236.27/logout	
+Array
+(
+)
+2020-08-27 10:04:27 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 10:04:32 [0] : DEBUG -  http://216.144.236.27/promociones/iniciales	
+Array
+(
+)
+2020-08-27 10:04:40 [0] : DEBUG -  http://216.144.236.27/promociones/buscarPromocionAjax	
+Array
+(
+    [pagina] => 7
+    [registros_por_pagina] => 10
+    [bandeja] => iniciales
+    [tipo] => t
+    [fecha] => -
+)
+2020-08-27 10:04:46 [0] : DEBUG -  http://216.144.236.27/promociones/buscarExpediente	
+Array
+(
+    [promocion_id] => 1598540661202
+    [expediente] => 6090/2020
+    [tipo_juicio_id] => 302
+    [promocion_tipo_tramite_divorcio] => 0
+    [fecha] => 2020-08-17
+    [origen] => OPC
+)
+2020-08-27 10:04:48 [0] : DEBUG -  http://216.144.236.27/promociones/guardarAsignacion	
+Array
+(
+    [juicio_id] => 0
+    [promocion_id] => 1598540661202
+    [tipo_juicio_id] => 302
+)
+2020-08-27 10:04:48 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 10:04:56 [0] : DEBUG -  http://216.144.236.27/juicio/verificaJuicio	
+Array
+(
+    [tipo_archivo] => expediente
+    [expediente] => 6090
+    [anio] => 2020
+    [bis] => 
+)
+2020-08-27 10:05:13 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => 
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 10:05:17 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => 
+    [tipo_accion] => 
+)
+2020-08-27 10:05:21 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => 
+)
+2020-08-27 10:05:25 [0] : DEBUG -  http://216.144.236.27/juicio/catalogoJuicios	
+Array
+(
+    [juicio_procedimiento] => J
+    [materia] => CIVIL
+    [juicio] => Ordinario
+    [tipo_accion] => AR
+)
+2020-08-27 10:05:31 [0] : DEBUG -  http://216.144.236.27/juicio/guardarArchivo	
+Array
+(
+    [datos] => Array
+        (
+            [expediente] => 6090
+            [anio] => 2020
+            [bis] => 
+            [secretaria] => B
+            [etapa_procesal] => C50
+            [tipo_archivo] => expediente
+            [fecha_ingreso] => 2020-08-17
+            [id_catalogo_juicio] => 1
+            [tipo_juicio_int] => 0
+        )
+
+    [partes] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => ROCIO ALEJANDRA
+                    [apellido_paterno] => MEJIA
+                    [apellido_materno] => ORTEGA
+                    [tipo] => actor
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre] => JUAN CARLOS
+                    [apellido_paterno] => HERRERA
+                    [apellido_materno] => VENTURA
+                    [tipo] => demandado
+                    [correo] => -
+                    [telefono_celular] => 
+                    [tipo_persona] => fisica
+                    [promovente] => 0
+                    [notificacion] => 0
+                    [id_usuario_notificacion] => 0
+                    [parte_direccion] => 
+                )
+
+        )
+
+    [id_promocion] => 1598540661202
+)
+2020-08-27 10:05:36 [0] : DEBUG -  http://216.144.236.27/juicio/nuevo	
+Array
+(
+)
+2020-08-27 10:05:43 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 10:05:51 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 33
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-27 10:05:57 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598540734	
+Array
+(
+)
+2020-08-27 10:06:55 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598540734	
+Array
+(
+)
+2020-08-27 10:07:17 [0] : DEBUG -  http://216.144.236.27/descargarGestor	
+Array
+(
+    [idGlobal] => 7328
+)
+2020-08-27 10:07:57 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles	
+Array
+(
+    [secretaria_expediente] => B
+    [id_juicio] => 1598540734
+    [juicio] => 6090/2020
+    [expediente] => 6090
+    [id_catalogo_juicios] => 1
+    [fecha_publicacion_temp] => -
+    [acuerdo] => 1
+    [tipo_acuerdo] => acuerdo
+    [especial] => -
+    [fecha] => 2020-08-27
+    [publicar_en_slct] => EXPEDIENTE
+    [publicar_en_txt] => 
+    [concepto] => 
+    [promocion_adjuntar] => Array
+        (
+            [0] => 1598540661202
+        )
+
+    [visibilidad] => -
+    [tipo_firma_publicacion] => firel
+    [bandera_noti_elect] => 0
+    [lista_actuario] => 1593186164
+    [uploadType] => localFile
+    [archivo_acuerdo] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => prueba.docx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/phpZOQahL
+            [fileName:SplFileInfo:private] => phpZOQahL
+        )
+
+)
+2020-08-27 10:08:01 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598540734	
+Array
+(
+)
+2020-08-27 10:08:44 [0] : DEBUG -  http://216.144.236.27/bandejas/firma	
+Array
+(
+)
+2020-08-27 10:08:55 [0] : DEBUG -  http://216.144.236.27/bandejas/descargarPDFPreview	
+Array
+(
+    [id_acuerdo] => 1598540879
+    [id_juicio] => 1598540734
+    [codigo_organo] => 1PIC
+)
+2020-08-27 10:09:03 [0] : DEBUG -  http://216.144.236.27/bandejas/firmarFirel/ajax	
+Array
+(
+    [modal_id_acuerdo] => 1598540879
+    [modal_bandeja] => firma
+    [modal_accion] => avance
+    [modal_index] => 0
+    [modal_codigo_organo] => 1PIC
+    [modal_ultima_version] => 3410
+    [modal_tipo_firma] => firel
+    [modal_masivo] => 
+    [modal_id_juicio] => 1598540734
+    [modal_tipo_flujo_nombre] => 
+    [tipo_firma_firel] => firel
+    [password] => Lbh_220609
+    [archivo_pfx] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => BIMR741211HMSRNM09.pfx
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => application/x-pkcs12
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => /tmp/php1WlcbM
+            [fileName:SplFileInfo:private] => php1WlcbM
+        )
+
+)
+2020-08-27 10:29:49 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 10:30:05 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 33
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2020
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-27 10:30:24 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598540734	
+Array
+(
+)
+2020-08-27 10:45:22 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 10:45:44 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 10:45:50 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 10:49:53 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 11:10:03 [0] : DEBUG -  http://216.144.236.27	
+Array
+(
+)
+2020-08-27 11:10:03 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 11:25:21 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598540734	
+Array
+(
+)
+2020-08-27 12:04:31 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598540734	
+Array
+(
+)
+2020-08-27 12:04:36 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598540734	
+Array
+(
+)
+2020-08-27 12:08:01 [0] : DEBUG -  http://216.144.236.27/acuerdo_detalles/1598540734	
+Array
+(
+)
+2020-08-27 12:17:58 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 12:18:05 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 12:18:13 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 12:18:16 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 12:18:21 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 12:18:21 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1578503871569
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 12:18
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 12:52:11 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 12:52:15 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 12:52:21 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 12:52:23 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 12:52:25 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 12:54:14 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 14:00:58 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:01:32 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 14:02:30 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 14:02:33 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 14:02:34 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 14:03:12 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 14:07:51 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 14:15:30 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 14:15:44 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 14:27:01 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 14:27:11 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 14:37:25 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598548702435|6|1|1.0|C|C1|2020|1|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 12:18:22|BAUTISTA GALICIA NIMBE  JANET  |RAMON RUIZ BUELNA  |337|1598548702435|sigj_promocion
+    [id_promocion] => 1598548702435
+)
+2020-08-27 18:11:07 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 18:11:17 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2019
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-27 18:11:37 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 18:11:49 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 18:11:50 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2018
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-27 18:11:56 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 2
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2018
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-27 18:11:59 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:12:06 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+    [pagina] => 1
+    [registros_por_pagina] => 10
+    [bandera_toca_turnado] => 
+    [expediente] => -
+    [anio_expediente] => 2018
+    [involucrados_nombre] => -
+    [involucrados_apellido_paterno] => -
+    [involucrados_apellido_materno] => -
+    [fecha_desde] => -
+    [fecha_hasta] => -
+)
+2020-08-27 18:12:26 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:12:31 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:12:33 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:12:36 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:12:36 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1515534056813
+    [juicio_promocion] => 2/2018
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:12:44 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 18:12:52 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 2
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:13:07 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:13:12 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:14:25 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:14:26 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:14:26 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1515534056813
+    [juicio_promocion] => 2/2018
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:14:51 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:14:59 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:15:19 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:15:24 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:15:24 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1515534056813
+    [juicio_promocion] => 2/2018
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:15:35 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:15:37 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:15:37 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1515534056813
+    [juicio_promocion] => 2/2018
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:15:46 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:15:48 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:15:48 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1515534056813
+    [juicio_promocion] => 2/2018
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:15:58 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:16:01 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:16:01 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1515534056813
+    [juicio_promocion] => 2/2018
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:16:10 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598569956634|6|1|1.0|C|C1|2018|2|Ordinario|Primero de lo Civil|2020-08-27 18:12:36|SANTIAGO JOSE     |FONDO DE LA VIVIENDA DEL INSTITUCIO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO FOVISSSTE  Y GRUPO MEXICANO DE SEGUROS S.A. DE C.V.     |18|1598569956634|sigj_promocion
+    [id_promocion] => 1598569956634
+)
+2020-08-27 18:16:39 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534056813
+)
+2020-08-27 18:16:39 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1515534056813
+    [juicio_promocion] => 2/2018
+    [toca] => 2
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:17:56 [0] : DEBUG -  http://216.144.236.27/home	
+Array
+(
+)
+2020-08-27 18:18:15 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:18:27 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1582151035139
+)
+2020-08-27 18:18:29 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1582151035139
+)
+2020-08-27 18:18:29 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1582151035139
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:18:40 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 18:18:46 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:18:48 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1582151035139
+)
+2020-08-27 18:18:51 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598570309704|6|1|1.0|C|C1|2020|1|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:18:29|INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES  |CRISTINA ARACELY GÁMEZ HARO,.  , NUEVO PROMOVENTE  APELLDIO  MATERNO , NUEVO FISCIA  APELLIDO  |55|1598570309704|sigj_promocion
+    [id_promocion] => 1598570309704
+)
+2020-08-27 18:21:09 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598570309704|6|1|1.0|C|C1|2020|1|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:18:29|INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES  |CRISTINA ARACELY GÁMEZ HARO,.  , NUEVO PROMOVENTE  APELLDIO  MATERNO , NUEVO FISCIA  APELLIDO  |55|1598570309704|sigj_promocion
+    [id_promocion] => 1598570309704
+)
+2020-08-27 18:23:11 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1582151035139
+)
+2020-08-27 18:23:11 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1582151035139
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:24:57 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598570309704|6|1|1.0|C|C1|2020|1|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:18:29|INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES  |CRISTINA ARACELY GÁMEZ HARO,.  , NUEVO PROMOVENTE  APELLDIO  MATERNO , NUEVO FISCIA  APELLIDO  |55|1598570309704|sigj_promocion
+    [id_promocion] => 1598570309704
+)
+2020-08-27 18:25:03 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598570309704|6|1|1.0|C|C1|2020|1|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:18:29|INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES  |CRISTINA ARACELY GÁMEZ HARO,.  , NUEVO PROMOVENTE  APELLDIO  MATERNO , NUEVO FISCIA  APELLIDO  |55|1598570309704|sigj_promocion
+    [id_promocion] => 1598570309704
+)
+2020-08-27 18:25:43 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:25:43 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:27:01 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1595825526
+)
+2020-08-27 18:27:01 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1595825526
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:27:03 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:27:13 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:27:15 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 18:27:34 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 18:27:43 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:27:46 [0] : DEBUG -  http://216.144.236.27/promociones/nueva	
+Array
+(
+)
+2020-08-27 18:27:47 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1582151035139
+)
+2020-08-27 18:27:50 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1582151035139
+)
+2020-08-27 18:27:50 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1582151035139
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:27
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:27:52 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:27:54 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 18:27:57 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 18:27:57 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1578503871569
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:29:19 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:29:21 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1582151035139
+)
+2020-08-27 18:29:23 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598570870824|6|1|1.0|C|C1|2020|1|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:27:51|||55|1598570870824|sigj_promocion
+    [id_promocion] => 1598570870824
+)
+2020-08-27 18:29:27 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598570870824|6|1|1.0|C|C1|2020|1|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:27:51|||55|1598570870824|sigj_promocion
+    [id_promocion] => 1598570870824
+)
+2020-08-27 18:29:40 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598570870824|6|1|1.0|C|C1|2020|1|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:27:51|||55|1598570870824|sigj_promocion
+    [id_promocion] => 1598570870824
+)
+2020-08-27 18:29:49 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1578503871569
+)
+2020-08-27 18:29:49 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1578503871569
+    [juicio_promocion] => 1/2020
+    [toca] => 1
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:31:01 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 6
+    [anio_toca] => 2020
+    [asunto_toca] => 
+)
+2020-08-27 18:31:05 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 1
+    [anio_toca] => 2017
+    [asunto_toca] => 
+)
+2020-08-27 18:31:07 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 6
+    [anio_toca] => 2017
+    [asunto_toca] => 
+)
+2020-08-27 18:31:10 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1484079771135
+)
+2020-08-27 18:31:11 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 6
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:31:15 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 6
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:31:19 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420573209373
+)
+2020-08-27 18:31:21 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420573209373
+)
+2020-08-27 18:31:21 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1420573209373
+    [juicio_promocion] => 6/2015
+    [toca] => 6
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:32:02 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 6
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:32:04 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420573209373
+)
+2020-08-27 18:32:07 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598571082398|6|1|1.0|C|C1|2015|6|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:31:22|||56|1598571082398|sigj_promocion
+    [id_promocion] => 1598571082398
+)
+2020-08-27 18:33:08 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598571082398|6|1|1.0|C|C1|2015|6|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:31:22|||56|1598571082398|sigj_promocion
+    [id_promocion] => 1598571082398
+)
+2020-08-27 18:33:21 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420573209373
+)
+2020-08-27 18:33:21 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1420573209373
+    [juicio_promocion] => 6/2015
+    [toca] => 6
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:35:25 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 100
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:35:29 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 120
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:35:32 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:35:34 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:35:36 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420826131503
+)
+2020-08-27 18:35:38 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420826131503
+)
+2020-08-27 18:35:39 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420826131503
+)
+2020-08-27 18:35:39 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1420826131503
+    [juicio_promocion] => 21/2015
+    [toca] => 21
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:35:46 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:35:47 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420826131503
+)
+2020-08-27 18:35:49 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598571340433|6|1|1.0|C|C1|2015|21|Jurisdicción voluntaria|Primero de lo Civil|2020-08-27 18:35:40|||334|1598571340433|sigj_promocion
+    [id_promocion] => 1598571340433
+)
+2020-08-27 18:37:22 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2019
+    [asunto_toca] => 
+)
+2020-08-27 18:37:22 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2019
+    [asunto_toca] => 
+)
+2020-08-27 18:37:28 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 213
+    [anio_toca] => 2019
+    [asunto_toca] => 
+)
+2020-08-27 18:37:28 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:37:36 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515694469765
+)
+2020-08-27 18:37:36 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:37:38 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515694469765
+)
+2020-08-27 18:37:40 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515694469765
+)
+2020-08-27 18:37:40 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1515694469765
+    [juicio_promocion] => 21/2018
+    [toca] => 21
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 17:51
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 18:37:44 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 21
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:37:46 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515694469765
+)
+2020-08-27 18:37:48 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598571461081|6|1|1.0|C|C1|2018|21|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:37:41|||56|1598571461081|sigj_promocion
+    [id_promocion] => 1598571461081
+)
+2020-08-27 18:39:46 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598571461081|6|1|1.0|C|C1|2018|21|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:37:41|||56|1598571461081|sigj_promocion
+    [id_promocion] => 1598571461081
+)
+2020-08-27 18:39:51 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598571461081|6|1|1.0|C|C1|2018|21|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:37:41|||56|1598571461081|sigj_promocion
+    [id_promocion] => 1598571461081
+)
+2020-08-27 18:40:24 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 8
+    [anio_toca] => 2018
+    [asunto_toca] => 
+)
+2020-08-27 18:40:25 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1515534208557
+)
+2020-08-27 18:40:35 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 6
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:40:37 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420573209373
+)
+2020-08-27 18:40:40 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pdf	
+Array
+(
+    [metadatos] => 1598571082398|6|1|1.0|C|C1|2015|6|Especial Hipotecario|Primero de lo Civil|2020-08-27 18:31:22|||56|1598571082398|sigj_promocion
+    [id_promocion] => 1598571082398
+)
+2020-08-27 18:40:42 [0] : DEBUG -  http://216.144.236.27/promociones/validarToca	
+Array
+(
+    [toca] => 6
+    [anio_toca] => 2015
+    [asunto_toca] => 
+)
+2020-08-27 18:40:45 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420573209373
+)
+2020-08-27 18:40:48 [0] : DEBUG -  http://216.144.236.27/promociones/cargar_caratulas_pendinetes	
+Array
+(
+    [id_juicio] => 1420573209373
+)
+2020-08-27 18:40:48 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+    [bandera_metodo_recepcion] => 2
+    [id_juicio_promocion] => 1420573209373
+    [juicio_promocion] => 6/2015
+    [toca] => 6
+    [asunto_toca] => 
+    [fechaRecepcion] => 2020-08-27
+    [tp3] => 18:11
+    [tipoDocumento] => POS
+    [fecha_pago_traslado] => 2020-08-27
+    [num_transaccion_traslado] => 
+    [uploadType] => localFile
+)
+2020-08-27 19:18:55 [0] : DEBUG -  http://216.144.236.27/promociones/guardarPromocion	
+Array
+(
+)

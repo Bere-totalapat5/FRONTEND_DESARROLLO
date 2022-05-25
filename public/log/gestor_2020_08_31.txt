@@ -1,0 +1,36 @@
+2020-08-31 09:26:04 Array
+(
+    [id_documento] => 1598883305898
+    [id_expediente_opc] => 1598883305898
+    [idGlobal] => 7369
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/599/1783/1784/1785/1786/OPC11-20200831-016.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-31 09:26:04 Array
+(
+    [id_documento] => 1598883335352
+    [id_expediente_opc] => 1598883335352
+    [idGlobal] => 7370
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/599/1783/1784/13525/13526/OPC11-20200831-017.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-31 09:26:05 Array
+(
+    [id_documento] => 1598883359803
+    [id_expediente_opc] => 1598883359803
+    [idGlobal] => 7371
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/599/1783/1784/25444/25445/OPC11-20200831-018.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	
+2020-08-31 09:26:05 Array
+(
+    [id_documento] => 1598883378432
+    [id_expediente_opc] => 1598883378432
+    [idGlobal] => 7372
+    [url] => http://172.19.40.132:8000//volumen2/Estructuras/TSJ/OPC//1/599/1783/1784/25451/25452/OPC11-20200831-019.pdf
+    [sigj_promocion] => sigj_promocion
+)
+	

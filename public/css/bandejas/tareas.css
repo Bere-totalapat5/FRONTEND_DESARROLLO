@@ -1,0 +1,440 @@
+.select2-container.select2-container--default.select2-container--open{
+  z-index: 1050 !important;
+}
+.usuario{
+  min-width: 100px !important;
+}
+.acciones{
+  min-width: 90px !important;
+}
+.folio{
+  min-width: 60px !important;
+}
+.remitente{
+  min-width: 150px !important;
+}
+.descripcion{
+  min-width: 130px !important;
+}
+.mensaje{
+  min-width: 200px !important;
+}
+.comentarios{
+  min-width: 200px !important;
+}
+.datos-documento{
+  min-width: 200px !important;
+}
+.carpeta{
+  min-width: 160px !important;
+}
+.partes{
+  min-width: 178px !important;  
+  overflow-y: auto;
+  max-height: 150px;
+  display: block;
+}
+.partes::-webkit-scrollbar {
+  width: 4px;  
+  height: 28px
+}
+.partes::-webkit-scrollbar-thumb {
+  background: #a8acaf; 
+  border-radius: 2px;
+}
+.partes::-webkit-scrollbar-track {
+  background: #fff 
+}
+.delitos{
+  min-width: 178px !important;
+}
+.step{
+  /* border: 1px solid #000; */
+  border-radius: 25px;
+  background: #EEEEEE;
+  display: flex;
+  width: max-content;
+  display: inline-block;
+}
+.step .num-step{
+  display: inline-block;
+  background: #FFF;
+  margin: 4px;
+  border-radius: 50%;
+  padding: 3px 8px 3px 8px;
+  width: 25px;
+  height: 25px;
+}
+.step .text-step{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6px 8px 6px 4px;
+}
+.step.resuelto{
+  background: #848F33;
+}
+.step.resuelto .text-step{
+  color: #FFF;
+}
+.step.activo{
+  background: #848F33;
+}
+.step.activo .text-step{
+  color: #FFF;
+  text-decoration: underline;
+}
+#tableTareas{
+  display: block;
+}
+
+#aAtendidas {
+  border: 1px solid #154f89;
+  padding: 4px;
+  border-radius: 8px;
+}
+
+#aAtendidas:hover {
+  background-color: #154f89;
+  color: #FFF;
+}
+
+table.tableDatosSujeto{
+  border: 1px solid #dee2e6;
+  display: table;
+}
+
+table.tableDatosSujeto  td, table.tableDatosSujeto th{
+  border-bottom: 1px solid #dee2e6;
+  vertical-align: text-top;
+  padding: 5px 12px;
+}
+
+table.tableDatosSujeto2  td, table.tableDatosSujeto2 th{
+  border: 1px solid #dee2e6;
+  vertical-align: text-top;
+  padding: 5px 12px;
+  width: 33%;
+}
+
+table.tableDatosSujeto tr:nth-child(3n) {
+  border-left: 1px solid #EEE;
+}
+
+.elimina-delito{
+  width: 40px !important;
+  text-align: center;
+  vertical-align: middle !important;
+}
+
+table.tableDatosSujeto tbody.table-datos-sujeto tr td:nth-child(2n-1){
+  background-color: #FDFFF4;
+}
+table.tableDatosSujeto tbody.table-datos-sujeto tr td{
+  width: 25%;
+}
+
+table.tableDatosSujeto2 thead tr:first-child{
+  background-color: #FDFFF4;
+}
+
+@media only screen and (max-width: 992px ) {
+  .tableDatosSujeto, .tableDatosSujeto2 {
+    display: block !important;
+    overflow-x: auto !important;
+  }
+}
+
+#modalError{
+  z-index: 1051;
+}
+
+#archivoDoc{
+  border-radius: 25px;
+  padding: 10px;
+  width: 100%;
+  margin-top: 25px;
+}
+
+.custom-input-file {
+  cursor: pointer;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin: 0 auto 0;
+  max-width: 800px;
+  min-height: 15px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  /* width: 500px; */
+  color: #848F33;
+  border: 2px solid #EEE;
+  border-style: dotted;
+  height: 80px;
+  border-radius: 25px;
+  width: 100%;
+  background: #FFF;
+}
+
+.custom-input-file:hover{
+  background: #848F33;
+  color: #fff;
+}
+
+.custom-input-file .input-file{
+  border: 10000px solid transparent;
+  cursor: pointer;
+  font-size: 10000px;
+  margin: 0;
+  opacity: 0;
+  outline: 0 none;
+  padding: 0 ;
+  position: absolute;
+  right: -1000px;
+  top: -1000px;
+}
+
+.custom-input-file.rem_ejec {
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0 auto 0;
+  min-height: 15px;
+  overflow: hidden;
+  padding: 0.5em; 
+  position: relative;
+  text-align: center;
+  width: 500px;
+  color: #848F33;
+  border: 2px solid #EEE;
+  border-style: dotted;
+  /* height: 80px; */
+  border-radius: 25px;
+  width: 100%;
+}
+
+.custom-input-file.rem_ejec:hover{
+  color: #FFF;
+}
+
+.doc_remi:active{
+  background: #d6d6d6;
+  border: 2px solid #868ba1 !important;
+  margin-bottom: 8px !important;
+}
+
+.doc_remi:hover{
+  background: #ebebeb;
+}
+
+.bgDocRem div{
+  background: #ebebeb;
+}
+
+#porHTML .fr-box.fr-basic .fr-element{
+  padding: 20px 70px !important;
+}
+
+#porHTML table:first-child td{
+  border: none;
+}
+
+#nombreDoc:focus{
+  outline: #868ba1 solid  1px !important;
+}
+
+.tipo_recurso_tra {
+  min-width: 173px;
+}
+.nombre_tipo_recurso_tra {
+  min-width: 221px;
+}
+.fecha_tra {
+  min-width: 186px;
+}
+.horario_tra {
+  min-width: 139px;
+}
+.comentarios_tra {
+  min-width: 195px;
+}
+
+
+/* 
+#porHTML img:first-child{
+  height: 100px;
+}
+
+#porHTML td:nth-child(2){
+  text-align: end;
+  vertical-align: baseline;
+  width: 50%;
+}
+
+#porHTML td:nth-child(2) p {
+  font-style: italic;
+  font-size: 18px;
+  margin-left: 80px;
+  margin-bottom: 0;
+}
+
+#porHTML td:nth-child(2) img{
+  display: block;
+  height: 70px;
+  margin-left: auto;
+  margin-right: 20px;
+}
+#porHTML tr:nth-child(2) td {
+  padding-top: 60px;
+} */
+
+#tableFracciones td{
+  border: 1px solid #EEE;
+}
+
+.card-header.fracciones a::before {
+  top: 10px !important;
+}
+
+.card.fracciones{
+  border: none;
+}
+
+.card-header.fracciones{
+  border: 1px solid #EEE;
+  width: 100%;
+  padding: 0;
+  text-align: center;
+}
+
+.card-body.fracciones{
+  border: 1px solid #EEE;
+  padding: 0;
+}
+
+.dataTables_length{
+  top: 15px;
+  position: relative;
+  z-index: 1050;
+}
+
+.dataTables_filter{
+  z-index: 1050;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.current:focus{
+  background-color: #848F33 !important;
+}
+
+.no-footer{
+  display:block;
+}
+
+/* .dataTables_wrapper.no-footer{
+  top: -100px;
+} */
+
+.dhx_month_body {
+  width: 0px !important;
+}
+::-webkit-scrollbar {
+  height: 8px;  
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #D7DCE1; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8acaf; 
+}
+::-webkit-scrollbar-track {
+  background: #fff 
+}
+
+#documentoPDF {
+  display: block !important;
+}
+
+#divDocumentos a {
+  text-align: center;
+}
+
+@media only screen and (min-width: 992px ) {
+  .card-header.fracciones{
+    width: 330px;
+    margin-left: calc(100% - 330px) !important;
+    border: 1px solid #EEE;
+    /* top: -35px; */
+  }
+
+  #procesFirel{
+    top: 9px;
+    position: relative;
+  }
+
+  .card.fracciones{
+    display: contents;
+  }
+
+  .transition.fracciones{
+    display: block;
+    width: 100%;
+  }
+
+  .no-footer{
+    display:inline-grid;
+  }
+
+  .dataTables_length{
+    top: 60px;
+    position: relative;
+    width: 33%;
+  }
+
+  .dataTables_filter{
+    width: 33%;
+    margin-left: auto;
+  }
+
+  .btn-nombre-fracciones{
+    top: 99px; 
+    position: absolute; 
+    z-index: 1050; 
+    margin-right: auto; 
+    width: 100%;
+  }
+
+}
+
+/* @media only screen and (min-width: 1545px) {
+  #tableTareas{
+    display: table;
+  }
+} */
+#modalDatosTarea {
+  overflow-y: auto;
+}
+
+@media only screen and (max-width: 992px ){
+  #modalDatosTarea .modal-dialog{
+    max-width: 95% !important;
+  }
+
+  #documentoPDF {
+    display: none !important;
+  }
+}
+
+@media only screen and (min-width: 992px ){
+  #modalDatosTarea .modal-dialog{
+    max-width: 1200px !important;
+    width: -webkit-fill-available;
+
+  }
+}
+
+
+.table_persona_delitos td {
+  width: 25% !important;
+  min-width: 185px;
+}
